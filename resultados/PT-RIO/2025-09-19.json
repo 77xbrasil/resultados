@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4453, 4553"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -111,14 +111,27 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "4453": [
+          "Dezena no segundo prêmio!<br>com o palpite 4453",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 4453",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 4453"
+        ],
+        "4553": [
+          "Dezena no segundo prêmio!<br>com o palpite 4553",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 4553",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 4553"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐈"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4453, 4553"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -178,7 +191,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4453, 4553"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -238,7 +251,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4453, 4553"
     },
     "PT-RIO, RJ, 18:20, PTN": {
       "cabecalhos": [
@@ -291,14 +304,101 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "4453": [
+          "Dezena no terceiro prêmio!<br>com o palpite 4453",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 4453"
+        ],
+        "4553": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 4553",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 4553",
+          "Dezena no terceiro prêmio!<br>com o palpite 4553",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 4553"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🐈"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 4453, 4553"
+    },
+    "PT-RIO, RJ, 21:20, CORUJA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7443",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4215",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5168",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4175",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7553",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "8554",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "372",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "4453": [
+          "Dezena no quinto prêmio!<br>com o palpite 4453",
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 4453",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 4453"
+        ],
+        "4553": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 4553",
+          "Dezena no quinto prêmio!<br>com o palpite 4553",
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 4553",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 4553"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🐈"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4453, 4553"
     }
   },
   "1-10": {
@@ -378,7 +478,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4453, 4553"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -449,14 +549,25 @@
           "Bicho": "Leão"
         }
       ],
-      "frases": {},
+      "frases": {
+        "4453": [
+          "Dezena no segundo prêmio!<br>com o palpite 4453",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 4453"
+        ],
+        "4553": [
+          "Dezena no segundo prêmio!<br>com o palpite 4553",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 4553"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐈"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4453, 4553"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -534,7 +645,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4453, 4553"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
@@ -612,7 +723,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4453, 4553"
     },
     "PT-RIO, RJ, 18:20, PTN do 1º ao 10º": {
       "cabecalhos": [
@@ -683,14 +794,128 @@
           "Bicho": "Gato"
         }
       ],
-      "frases": {},
+      "frases": {
+        "4453": [
+          "Dezena no terceiro prêmio!<br>com o palpite 4453",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 4453",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 4453",
+          "Dezena no oitavo prêmio!<br>com o palpite 4453",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 4453",
+          "Dezena no décimo prêmio!<br>com o palpite 4453",
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 4453"
+        ],
+        "4553": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 4553",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 4553",
+          "Dezena no terceiro prêmio!<br>com o palpite 4553",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 4553",
+          "Dezena no oitavo prêmio!<br>com o palpite 4553",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 4553",
+          "Dezena no décimo prêmio!<br>com o palpite 4553",
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 4553"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 6,
+        "Grupo": [
+          "🐈"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 4453, 4553"
+    },
+    "PT-RIO, RJ, 21:20, CORUJA do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7443",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4215",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5168",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4175",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7553",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7454",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4211",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "4167",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3585",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7971",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        }
+      ],
+      "frases": {
+        "4453": [
+          "Dezena no quinto prêmio!<br>com o palpite 4453",
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 4453",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 4453"
+        ],
+        "4553": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 4553",
+          "Dezena no quinto prêmio!<br>com o palpite 4553",
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 4553",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 4553"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🐈"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4453, 4553"
     }
   }
 }
