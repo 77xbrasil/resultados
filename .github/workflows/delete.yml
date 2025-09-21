@@ -1,6 +1,7 @@
 name: Delete Old Lottery Data
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 5 * * *' # Roda todos os dias às 5h UTC (2h da manhã no fuso horário de Brasília, considerando UTC-3)
 
@@ -60,5 +61,4 @@ jobs:
           git add .
           git commit -m "Delete old lottery data" || echo "No changes to commit"
           git push
-
 
