@@ -51,14 +51,21 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "4960": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4960",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 4960"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🐊"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4910, 4930, 4960"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -118,7 +125,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4910, 4930, 4960"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -178,7 +185,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4910, 4930, 4960"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -238,7 +245,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4910, 4930, 4960"
     },
     "PT-RIO, RJ, 18:20, PTN": {
       "cabecalhos": [
@@ -291,14 +298,26 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "4910": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 4910",
+          "Dezena no quinto prêmio!<br>com o palpite 4910",
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 4910"
+        ],
+        "4930": [
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 4930"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 1,
+        "Grupo": [
+          "🐪",
+          "🐴"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4910, 4930, 4960"
     }
   },
   "1-10": {
@@ -371,14 +390,21 @@
           "Bicho": "Gato"
         }
       ],
-      "frases": {},
+      "frases": {
+        "4960": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4960",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 4960"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🐊"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4910, 4930, 4960"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -456,7 +482,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4910, 4930, 4960"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -534,7 +560,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4910, 4930, 4960"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
@@ -612,7 +638,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4910, 4930, 4960"
     },
     "PT-RIO, RJ, 18:20, PTN do 1º ao 10º": {
       "cabecalhos": [
@@ -683,14 +709,32 @@
           "Bicho": "Peru"
         }
       ],
-      "frases": {},
+      "frases": {
+        "4910": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 4910",
+          "Dezena no quinto prêmio!<br>com o palpite 4910",
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 4910"
+        ],
+        "4930": [
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 4930",
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 4930"
+        ],
+        "4960": [
+          "Dezena no sexto prêmio!<br>com o palpite 4960",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 4960"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🐪",
+          "🐴",
+          "🐊"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4910, 4930, 4960"
     }
   }
 }
