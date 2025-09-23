@@ -76,7 +76,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4181, 4184, 4187, 4188, 4281, 4284, 4287, 4288, 4381, 4384, 4387, 4388, 4681, 4684, 4687, 4688"
     },
     "LOTEP - PB, 12:45": {
       "cabecalhos": [
@@ -154,7 +154,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4181, 4184, 4187, 4188, 4281, 4284, 4287, 4288, 4381, 4384, 4387, 4388, 4681, 4684, 4687, 4688"
     },
     "LOTEP - PB, 15:45h": {
       "cabecalhos": [
@@ -225,14 +225,46 @@
           "Bicho": "Porco"
         }
       ],
-      "frases": {},
+      "frases": {
+        "4187": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 4187",
+          "Dezena no segundo prêmio!<br>com o palpite 4187",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 4187"
+        ],
+        "4188": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 4188"
+        ],
+        "4287": [
+          "Dezena no segundo prêmio!<br>com o palpite 4287",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 4287"
+        ],
+        "4288": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 4288"
+        ],
+        "4387": [
+          "Dezena no segundo prêmio!<br>com o palpite 4387",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 4387"
+        ],
+        "4388": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 4388"
+        ],
+        "4687": [
+          "Dezena no segundo prêmio!<br>com o palpite 4687",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 4687"
+        ],
+        "4688": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 4688"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 4,
+        "Grupo": [
+          "🐅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 4181, 4184, 4187, 4188, 4281, 4284, 4287, 4288, 4381, 4384, 4387, 4388, 4681, 4684, 4687, 4688"
     },
     "LOTEP - PB, 18h": {
       "cabecalhos": [
@@ -303,14 +335,90 @@
           "Bicho": "Leão"
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "4181": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4181",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 4181"
+        ],
+        "4184": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 4184"
+        ],
+        "4187": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 4187",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 4187",
+          "Dezena no terceiro prêmio!<br>com o palpite 4187",
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 4187",
+          "Dezena no oitavo prêmio!<br>com o palpite 4187",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 4187"
+        ],
+        "4188": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 4188",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 4188"
+        ],
+        "4281": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 4281",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 4281",
+          "Dezena no primeiro prêmio!<br>com o palpite 4281",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 4281"
+        ],
+        "4284": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 4284"
+        ],
+        "4287": [
+          "Dezena no terceiro prêmio!<br>com o palpite 4287",
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 4287",
+          "Dezena no oitavo prêmio!<br>com o palpite 4287",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 4287"
+        ],
+        "4288": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 4288",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 4288"
+        ],
+        "4381": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4381",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 4381"
+        ],
+        "4384": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 4384"
+        ],
+        "4387": [
+          "Dezena no terceiro prêmio!<br>com o palpite 4387",
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 4387",
+          "Dezena no oitavo prêmio!<br>com o palpite 4387",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 4387"
+        ],
+        "4388": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 4388",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 4388"
+        ],
+        "4681": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4681",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 4681"
+        ],
+        "4684": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 4684"
+        ],
+        "4687": [
+          "Dezena no terceiro prêmio!<br>com o palpite 4687",
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 4687",
+          "Dezena no oitavo prêmio!<br>com o palpite 4687",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 4687"
+        ],
+        "4688": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 4688",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 4688"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: "
+      "acertos": {
+        "Milhar": 2,
+        "Centena": 2,
+        "Dezena": 12,
+        "Grupo": [
+          "🐂",
+          "🐅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 4181, 4184, 4187, 4188, 4281, 4284, 4287, 4288, 4381, 4384, 4387, 4388, 4681, 4684, 4687, 4688"
     }
   }
 }
