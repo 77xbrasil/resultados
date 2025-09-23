@@ -10,53 +10,87 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "7006",
-          "Grupo": "02",
-          "Bicho": "Águia"
+          "Milhar": "1853",
+          "Grupo": "14",
+          "Bicho": "Gato"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "1996",
-          "Grupo": "24",
-          "Bicho": "Veado"
+          "Milhar": "2773",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "9889",
+          "Milhar": "1955",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4190",
           "Grupo": "23",
           "Bicho": "Urso"
         },
         {
-          "Prêmio": "4º",
-          "Milhar": "6844",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
-        },
-        {
           "Prêmio": "5º",
-          "Milhar": "2168",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "7120",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "27903",
+          "Milhar": "17891",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "983",
+          "Milhar": "138",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3617": [
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 3617"
+        ],
+        "3637": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 3637"
+        ],
+        "4617": [
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 4617"
+        ],
+        "4637": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 4637"
+        ],
+        "5617": [
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 5617"
+        ],
+        "5637": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 5637"
+        ],
+        "8617": [
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 8617"
+        ],
+        "8637": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 8637"
+        ],
+        "9617": [
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 9617"
+        ],
+        "9637": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 9637"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐕",
+          "🐇"
+        ]
       },
       "resumo": "Palpites dados para esta extração: 3617, 3627, 3637, 3657, 3677, 4617, 4627, 4637, 4657, 4677, 5617, 5627, 5637, 5657, 5677, 8617, 8627, 8637, 8657, 8677, 9617, 9627, 9637, 9657, 9677"
     },
