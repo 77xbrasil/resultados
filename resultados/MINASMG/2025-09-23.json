@@ -51,14 +51,22 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1153": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1153",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 1153",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1153"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🐈"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1150, 4150"
+      "resumo": "Palpites dados para esta extração: 1150, 1153"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
