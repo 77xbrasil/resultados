@@ -76,7 +76,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 0991, 4991, 6991"
     },
     "12h - MALUCA - BA": {
       "cabecalhos": [
@@ -154,7 +154,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 0991, 4991, 6991"
     },
     "15h - MALUCA - BA": {
       "cabecalhos": [
@@ -232,7 +232,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 0991, 4991, 6991"
     },
     "19h - MALUCA - BA": {
       "cabecalhos": [
@@ -303,14 +303,26 @@
           "Bicho": "Pavão"
         }
       ],
-      "frases": {},
+      "frases": {
+        "4991": [
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 4991"
+        ],
+        "6991": [
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 6991"
+        ],
+        "0991": [
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 0991"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐻"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 0991, 4991, 6991"
     },
     "21h - MALUCA - BA": {
       "cabecalhos": [
@@ -381,14 +393,35 @@
           "Bicho": "Vaca"
         }
       ],
-      "frases": {},
+      "frases": {
+        "4991": [
+          "Dezena no sexto prêmio!<br>com o palpite 4991",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 4991",
+          "Dezena no oitavo prêmio!<br>com o palpite 4991",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 4991"
+        ],
+        "6991": [
+          "Dezena no sexto prêmio!<br>com o palpite 6991",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 6991",
+          "Dezena no oitavo prêmio!<br>com o palpite 6991",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 6991"
+        ],
+        "0991": [
+          "Dezena no sexto prêmio!<br>com o palpite 0991",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 0991",
+          "Dezena no oitavo prêmio!<br>com o palpite 0991",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 0991"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 6,
+        "Grupo": [
+          "🐻"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 0991, 4991, 6991"
     }
   }
 }
