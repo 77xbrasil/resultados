@@ -452,6 +452,117 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 4181, 4184, 4187, 4188, 4281, 4284, 4287, 4288, 4381, 4384, 4387, 4388, 4681, 4684, 4687, 4688"
+    },
+    "LOTEP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8059",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3623",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3729",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0425",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7522",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "8330",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0674",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5222",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9395",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6979",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        }
+      ],
+      "frases": {
+        "3329": [
+          "Dezena no terceiro prêmio!<br>com o palpite 3329",
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 3329",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 3329"
+        ],
+        "3629": [
+          "Dezena no terceiro prêmio!<br>com o palpite 3629",
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 3629",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 3629"
+        ],
+        "8329": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8329",
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 8329",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 8329"
+        ],
+        "8629": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8629",
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 8629",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 8629"
+        ],
+        "0329": [
+          "Dezena no terceiro prêmio!<br>com o palpite 0329",
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 0329",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 0329"
+        ],
+        "0629": [
+          "Dezena no terceiro prêmio!<br>com o palpite 0629",
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 0629",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 0629"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 6,
+        "Grupo": [
+          "🐪"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0329, 0629, 3329, 3629, 8329, 8629"
     }
   }
 }
