@@ -603,19 +603,33 @@
         }
       ],
       "frases": {
+        "0210": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 0210"
+        ],
+        "0211": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 0211",
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 0211"
+        ],
+        "0212": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 0212"
+        ],
+        "0277": [
+          "PERU 🦃 no décimo prêmio!<br>com o palpite 0277"
+        ],
         "0278": [
           "PERU 🦃 no décimo prêmio!<br>com o palpite 0278"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
+        "Centena": 1,
         "Dezena": 0,
         "Grupo": [
+          "🐴",
           "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0218, 0278, 0298"
+      "resumo": "Palpites dados para esta extração: 0210, 0211, 0212, 0217, 0218, 0270, 0271, 0272, 0277, 0278, 0290, 0291, 0292, 0297, 0298"
     },
     "12h": {
       "cabecalhos": [
@@ -687,6 +701,11 @@
         }
       ],
       "frases": {
+        "0297": [
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 0297",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 0297",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 0297"
+        ],
         "0298": [
           "Dezena no primeiro prêmio!<br>com o palpite 0298",
           "VACA 🐄 no primeiro prêmio!<br>com o palpite 0298",
@@ -694,8 +713,25 @@
           "VACA 🐄 no terceiro prêmio!<br>com o palpite 0298",
           "VACA 🐄 no décimo prêmio!<br>com o palpite 0298"
         ],
+        "0210": [
+          "BURRO 🐴 no segundo prêmio!<br>com o palpite 0210"
+        ],
+        "0211": [
+          "Dezena no segundo prêmio!<br>com o palpite 0211",
+          "BURRO 🐴 no segundo prêmio!<br>com o palpite 0211"
+        ],
+        "0212": [
+          "BURRO 🐴 no segundo prêmio!<br>com o palpite 0212"
+        ],
+        "0277": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 0277",
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 0277"
+        ],
         "0278": [
           "PERU 🦃 no quinto prêmio!<br>com o palpite 0278"
+        ],
+        "0217": [
+          "CACHORRO 🐕 no oitavo prêmio!<br>com o palpite 0217"
         ],
         "0218": [
           "Dezena no oitavo prêmio!<br>com o palpite 0218",
@@ -703,16 +739,17 @@
         ]
       },
       "acertos": {
-        "Milhar": 0,
+        "Milhar": 1,
         "Centena": 1,
-        "Dezena": 2,
+        "Dezena": 3,
         "Grupo": [
           "🐄",
+          "🐴",
           "🦃",
           "🐕"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0218, 0278, 0298"
+      "resumo": "Palpites dados para esta extração: 0210, 0211, 0212, 0217, 0218, 0270, 0271, 0272, 0277, 0278, 0290, 0291, 0292, 0297, 0298"
     },
     "15h": {
       "cabecalhos": [
@@ -784,8 +821,16 @@
         }
       ],
       "frases": {
+        "0277": [
+          "Dezena no terceiro prêmio!<br>com o palpite 0277",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 0277"
+        ],
         "0278": [
           "PERU 🦃 no terceiro prêmio!<br>com o palpite 0278"
+        ],
+        "0297": [
+          "Dezena no sexto prêmio!<br>com o palpite 0297",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 0297"
         ],
         "0298": [
           "VACA 🐄 no sexto prêmio!<br>com o palpite 0298"
@@ -794,13 +839,13 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 2,
         "Grupo": [
           "🦃",
           "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0218, 0278, 0298"
+      "resumo": "Palpites dados para esta extração: 0210, 0211, 0212, 0217, 0218, 0270, 0271, 0272, 0277, 0278, 0290, 0291, 0292, 0297, 0298"
     }
   }
 }
