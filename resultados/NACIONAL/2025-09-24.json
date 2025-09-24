@@ -364,5 +364,127 @@
     "frases": [],
     "versao": "1-5",
     "proximoHorario": "Nacional - LN 12:00"
+  },
+  "Nacional - LN 12:00": {
+    "loteria": "NACIONAL",
+    "banca": "77X Brasil",
+    "titulo": "Nacional - LN 12:00",
+    "horario": "",
+    "data": "2025-09-24",
+    "diaDaSemana": "Quarta-feira",
+    "dados": [
+      {
+        "Prêmio": "1º",
+        "Milhar": "1509",
+        "Grupo": "03",
+        "Bicho": "Burro"
+      },
+      {
+        "Prêmio": "2º",
+        "Milhar": "9613",
+        "Grupo": "04",
+        "Bicho": "Borboleta"
+      },
+      {
+        "Prêmio": "3º",
+        "Milhar": "8850",
+        "Grupo": "13",
+        "Bicho": "Galo"
+      },
+      {
+        "Prêmio": "4º",
+        "Milhar": "3924",
+        "Grupo": "06",
+        "Bicho": "Cabra"
+      },
+      {
+        "Prêmio": "5º",
+        "Milhar": "8725",
+        "Grupo": "07",
+        "Bicho": "Carneiro"
+      },
+      {
+        "Prêmio": "6º [soma]",
+        "Milhar": "2621",
+        "Grupo": "",
+        "Bicho": ""
+      }
+    ],
+    "frases": [],
+    "versao": "1-5",
+    "proximoHorario": "Nacional - LN 15:00"
+  },
+  "Nacional - LN 12:00 do 1º ao 10º": {
+    "loteria": "NACIONAL",
+    "banca": "77X Brasil",
+    "titulo": "Nacional - LN 12:00 do 1º ao 10º",
+    "horario": "",
+    "data": "2025-09-24",
+    "diaDaSemana": "Quarta-feira",
+    "dados": [
+      {
+        "Prêmio": "1º",
+        "Milhar": "1509",
+        "Grupo": "03",
+        "Bicho": "Burro"
+      },
+      {
+        "Prêmio": "2º",
+        "Milhar": "9613",
+        "Grupo": "04",
+        "Bicho": "Borboleta"
+      },
+      {
+        "Prêmio": "3º",
+        "Milhar": "8850",
+        "Grupo": "13",
+        "Bicho": "Galo"
+      },
+      {
+        "Prêmio": "4º",
+        "Milhar": "3924",
+        "Grupo": "06",
+        "Bicho": "Cabra"
+      },
+      {
+        "Prêmio": "5º",
+        "Milhar": "8725",
+        "Grupo": "07",
+        "Bicho": "Carneiro"
+      },
+      {
+        "Prêmio": "6º",
+        "Milhar": "1983",
+        "Grupo": "21",
+        "Bicho": "Touro"
+      },
+      {
+        "Prêmio": "7º",
+        "Milhar": "5689",
+        "Grupo": "23",
+        "Bicho": "Urso"
+      },
+      {
+        "Prêmio": "8º",
+        "Milhar": "0152",
+        "Grupo": "13",
+        "Bicho": "Galo"
+      },
+      {
+        "Prêmio": "9º",
+        "Milhar": "9304",
+        "Grupo": "01",
+        "Bicho": "Avestruz"
+      },
+      {
+        "Prêmio": "10º",
+        "Milhar": "9749",
+        "Grupo": "13",
+        "Bicho": "Galo"
+      }
+    ],
+    "frases": [],
+    "versao": "1-10",
+    "proximoHorario": "Nacional - LN 15:00 do 1º ao 10º"
   }
 }
