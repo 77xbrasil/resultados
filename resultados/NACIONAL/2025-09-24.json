@@ -315,5 +315,54 @@
     "frases": [],
     "versao": "1-10",
     "proximoHorario": "Nacional - LN 12:00 do 1º ao 10º"
+  },
+  "Nacional - LN 10:00": {
+    "loteria": "NACIONAL",
+    "banca": "77X Brasil",
+    "titulo": "Nacional - LN 10:00",
+    "horario": "",
+    "data": "2025-09-24",
+    "diaDaSemana": "Quarta-feira",
+    "dados": [
+      {
+        "Prêmio": "1º",
+        "Milhar": "0933",
+        "Grupo": "09",
+        "Bicho": "Cobra"
+      },
+      {
+        "Prêmio": "2º",
+        "Milhar": "7790",
+        "Grupo": "23",
+        "Bicho": "Urso"
+      },
+      {
+        "Prêmio": "3º",
+        "Milhar": "9415",
+        "Grupo": "04",
+        "Bicho": "Borboleta"
+      },
+      {
+        "Prêmio": "4º",
+        "Milhar": "2350",
+        "Grupo": "13",
+        "Bicho": "Galo"
+      },
+      {
+        "Prêmio": "5º",
+        "Milhar": "1942",
+        "Grupo": "11",
+        "Bicho": "Cavalo"
+      },
+      {
+        "Prêmio": "6º [soma]",
+        "Milhar": "2430",
+        "Grupo": "",
+        "Bicho": ""
+      }
+    ],
+    "frases": [],
+    "versao": "1-5",
+    "proximoHorario": "Nacional - LN 12:00"
   }
 }
