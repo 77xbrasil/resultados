@@ -51,14 +51,44 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3001": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3001"
+        ],
+        "3002": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3002"
+        ],
+        "3003": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3003"
+        ],
+        "3004": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 3004",
+          "Dezena no terceiro prêmio!<br>com o palpite 3004",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3004"
+        ],
+        "3101": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3101"
+        ],
+        "3102": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3102"
+        ],
+        "3103": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3103"
+        ],
+        "3104": [
+          "Dezena no terceiro prêmio!<br>com o palpite 3104",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3104"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🪶"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 3000, 3001, 3002, 3003, 3004, 3005, 3007, 3008, 3009, 3100, 3101, 3102, 3103, 3104, 3105, 3107, 3108, 3109"
     },
     "LOOK - GOIÁS, 09h": {
       "cabecalhos": [
@@ -111,14 +141,165 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3001": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3001"
+        ],
+        "3002": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3002"
+        ],
+        "3003": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 3003",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 3003",
+          "Dezena no terceiro prêmio!<br>com o palpite 3003",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3003"
+        ],
+        "3004": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3004"
+        ],
+        "3009": [
+          "Dezena no quarto prêmio!<br>com o palpite 3009",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 3009",
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 3009"
+        ],
+        "3101": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3101"
+        ],
+        "3102": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3102"
+        ],
+        "3103": [
+          "Dezena no terceiro prêmio!<br>com o palpite 3103",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3103"
+        ],
+        "3104": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3104"
+        ],
+        "3109": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 3109",
+          "Dezena no quarto prêmio!<br>com o palpite 3109",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 3109",
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 3109"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 4,
+        "Grupo": [
+          "🪶",
+          "🐴"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3000, 3001, 3002, 3003, 3004, 3005, 3007, 3008, 3009, 3100, 3101, 3102, 3103, 3104, 3105, 3107, 3108, 3109"
+    },
+    "LOOK - GOIÁS, 11h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0963",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4430",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6306",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8979",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5725",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "6403",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "266",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "3001": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3001"
+        ],
+        "3002": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3002"
+        ],
+        "3003": [
+          "Dezena no sexto prêmio!<br>com o palpite 3003",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3003"
+        ],
+        "3004": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3004"
+        ],
+        "3005": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 3005"
+        ],
+        "3007": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 3007"
+        ],
+        "3008": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 3008"
+        ],
+        "3101": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3101"
+        ],
+        "3102": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3102"
+        ],
+        "3103": [
+          "Dezena no sexto prêmio!<br>com o palpite 3103",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3103"
+        ],
+        "3104": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3104"
+        ],
+        "3105": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 3105"
+        ],
+        "3107": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 3107"
+        ],
+        "3108": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 3108"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🦅",
+          "🪶"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 3000, 3001, 3002, 3003, 3004, 3005, 3007, 3008, 3009, 3100, 3101, 3102, 3103, 3104, 3105, 3107, 3108, 3109"
     }
   },
   "1-10": {
@@ -191,14 +372,85 @@
           "Bicho": "Elefante"
         }
       ],
-      "frases": {},
+      "frases": {
+        "3001": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3001",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3001",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 3001"
+        ],
+        "3002": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3002",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3002",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 3002"
+        ],
+        "3003": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3003",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3003",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 3003"
+        ],
+        "3004": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 3004",
+          "Dezena no terceiro prêmio!<br>com o palpite 3004",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3004",
+          "Dezena no sexto prêmio!<br>com o palpite 3004",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3004",
+          "Dezena no sétimo prêmio!<br>com o palpite 3004",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 3004"
+        ],
+        "3005": [
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 3005"
+        ],
+        "3007": [
+          "Dezena no oitavo prêmio!<br>com o palpite 3007",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 3007"
+        ],
+        "3008": [
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 3008"
+        ],
+        "3101": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3101",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3101",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 3101"
+        ],
+        "3102": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3102",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3102",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 3102"
+        ],
+        "3103": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3103",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3103",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 3103"
+        ],
+        "3104": [
+          "Dezena no terceiro prêmio!<br>com o palpite 3104",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3104",
+          "Dezena no sexto prêmio!<br>com o palpite 3104",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3104",
+          "Dezena no sétimo prêmio!<br>com o palpite 3104",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 3104"
+        ],
+        "3105": [
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 3105"
+        ],
+        "3107": [
+          "Dezena no oitavo prêmio!<br>com o palpite 3107",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 3107"
+        ],
+        "3108": [
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 3108"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 8,
+        "Grupo": [
+          "🪶",
+          "🦅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 3000, 3001, 3002, 3003, 3004, 3005, 3007, 3008, 3009, 3100, 3101, 3102, 3103, 3104, 3105, 3107, 3108, 3109"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
       "cabecalhos": [
@@ -269,14 +521,193 @@
           "Bicho": "Avestruz"
         }
       ],
-      "frases": {},
+      "frases": {
+        "3000": [
+          "Dezena no oitavo prêmio!<br>com o palpite 3000",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 3000"
+        ],
+        "3001": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3001",
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 3001",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 3001",
+          "Dezena no sétimo prêmio!<br>com o palpite 3001",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 3001",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 3001"
+        ],
+        "3002": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3002",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 3002",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 3002"
+        ],
+        "3003": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 3003",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 3003",
+          "Dezena no terceiro prêmio!<br>com o palpite 3003",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3003",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 3003",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 3003"
+        ],
+        "3004": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3004",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 3004",
+          "Dezena no décimo prêmio!<br>com o palpite 3004",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 3004"
+        ],
+        "3009": [
+          "Dezena no quarto prêmio!<br>com o palpite 3009",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 3009"
+        ],
+        "3100": [
+          "Dezena no oitavo prêmio!<br>com o palpite 3100",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 3100"
+        ],
+        "3101": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3101",
+          "Dezena no sétimo prêmio!<br>com o palpite 3101",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 3101",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 3101"
+        ],
+        "3102": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3102",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 3102",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 3102"
+        ],
+        "3103": [
+          "Dezena no terceiro prêmio!<br>com o palpite 3103",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3103",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 3103",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 3103"
+        ],
+        "3104": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3104",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 3104",
+          "Dezena no décimo prêmio!<br>com o palpite 3104",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 3104"
+        ],
+        "3109": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 3109",
+          "Dezena no quarto prêmio!<br>com o palpite 3109",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 3109"
+        ]
+      },
+      "acertos": {
+        "Milhar": 2,
+        "Centena": 3,
+        "Dezena": 10,
+        "Grupo": [
+          "🪶",
+          "🐴",
+          "🐄"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3000, 3001, 3002, 3003, 3004, 3005, 3007, 3008, 3009, 3100, 3101, 3102, 3103, 3104, 3105, 3107, 3108, 3109"
+    },
+    "LOOK - GOIÁS, 11h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0963",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4430",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6306",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8979",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5725",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0468",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "9439",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6307",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3069",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "5686",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        }
+      ],
+      "frases": {
+        "3005": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 3005",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 3005"
+        ],
+        "3007": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 3007",
+          "Dezena no oitavo prêmio!<br>com o palpite 3007",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 3007"
+        ],
+        "3008": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 3008",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 3008"
+        ],
+        "3105": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 3105",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 3105"
+        ],
+        "3107": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 3107",
+          "Dezena no oitavo prêmio!<br>com o palpite 3107",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 3107"
+        ],
+        "3108": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 3108",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 3108"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🦅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 3000, 3001, 3002, 3003, 3004, 3005, 3007, 3008, 3009, 3100, 3101, 3102, 3103, 3104, 3105, 3107, 3108, 3109"
     }
   }
 }
