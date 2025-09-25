@@ -51,14 +51,805 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "1010": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1010",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 1010"
+        ],
+        "1011": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 1011"
+        ],
+        "1012": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 1012"
+        ],
+        "1021": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 1021",
+          "Dezena no quinto prêmio!<br>com o palpite 1021",
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 1021"
+        ],
+        "1022": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 1022"
+        ],
+        "1023": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 1023"
+        ],
+        "1024": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 1024"
+        ],
+        "1025": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 1025"
+        ],
+        "1026": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 1026"
+        ],
+        "1027": [
+          "Dezena no quarto prêmio!<br>com o palpite 1027",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 1027"
+        ],
+        "1028": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 1028"
+        ],
+        "1033": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 1033"
+        ],
+        "1034": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 1034"
+        ],
+        "1035": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 1035",
+          "Dezena no primeiro prêmio!<br>com o palpite 1035",
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 1035"
+        ],
+        "1036": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 1036"
+        ],
+        "1037": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 1037"
+        ],
+        "1038": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 1038"
+        ],
+        "1039": [
+          "Dezena no sexto prêmio!<br>com o palpite 1039",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 1039"
+        ],
+        "1040": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 1040"
+        ],
+        "1045": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 1045"
+        ],
+        "1046": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 1046",
+          "Dezena no segundo prêmio!<br>com o palpite 1046",
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 1046"
+        ],
+        "1047": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 1047"
+        ],
+        "1048": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 1048"
+        ],
+        "2010": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2010",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 2010"
+        ],
+        "2011": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 2011"
+        ],
+        "2012": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 2012"
+        ],
+        "2021": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 2021",
+          "Dezena no quinto prêmio!<br>com o palpite 2021",
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 2021"
+        ],
+        "2022": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 2022"
+        ],
+        "2023": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 2023"
+        ],
+        "2024": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 2024"
+        ],
+        "2025": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 2025"
+        ],
+        "2026": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 2026"
+        ],
+        "2027": [
+          "Dezena no quarto prêmio!<br>com o palpite 2027",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 2027"
+        ],
+        "2028": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 2028"
+        ],
+        "2033": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 2033"
+        ],
+        "2034": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 2034"
+        ],
+        "2035": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 2035",
+          "Dezena no primeiro prêmio!<br>com o palpite 2035",
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 2035"
+        ],
+        "2036": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 2036"
+        ],
+        "2037": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 2037"
+        ],
+        "2038": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 2038"
+        ],
+        "2039": [
+          "Dezena no sexto prêmio!<br>com o palpite 2039",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 2039"
+        ],
+        "2040": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 2040"
+        ],
+        "2045": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 2045"
+        ],
+        "2046": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 2046",
+          "Dezena no segundo prêmio!<br>com o palpite 2046",
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 2046"
+        ],
+        "2047": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 2047"
+        ],
+        "2048": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 2048"
+        ],
+        "3010": [
+          "Dezena no terceiro prêmio!<br>com o palpite 3010",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 3010"
+        ],
+        "3011": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 3011"
+        ],
+        "3012": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 3012"
+        ],
+        "3021": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 3021",
+          "Dezena no quinto prêmio!<br>com o palpite 3021",
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 3021"
+        ],
+        "3022": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 3022"
+        ],
+        "3023": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 3023"
+        ],
+        "3024": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 3024"
+        ],
+        "3025": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 3025"
+        ],
+        "3026": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 3026"
+        ],
+        "3027": [
+          "Dezena no quarto prêmio!<br>com o palpite 3027",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 3027"
+        ],
+        "3028": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 3028"
+        ],
+        "3033": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 3033"
+        ],
+        "3034": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 3034"
+        ],
+        "3035": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 3035",
+          "Dezena no primeiro prêmio!<br>com o palpite 3035",
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 3035"
+        ],
+        "3036": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 3036"
+        ],
+        "3037": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 3037"
+        ],
+        "3038": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 3038"
+        ],
+        "3039": [
+          "Dezena no sexto prêmio!<br>com o palpite 3039",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 3039"
+        ],
+        "3040": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 3040"
+        ],
+        "3045": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 3045"
+        ],
+        "3046": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 3046",
+          "Dezena no segundo prêmio!<br>com o palpite 3046",
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 3046"
+        ],
+        "3047": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 3047"
+        ],
+        "3048": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 3048"
+        ],
+        "4010": [
+          "Dezena no terceiro prêmio!<br>com o palpite 4010",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 4010"
+        ],
+        "4011": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 4011"
+        ],
+        "4012": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 4012"
+        ],
+        "4021": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 4021",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 4021",
+          "Dezena no quinto prêmio!<br>com o palpite 4021",
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 4021"
+        ],
+        "4022": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 4022"
+        ],
+        "4023": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 4023"
+        ],
+        "4024": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 4024"
+        ],
+        "4025": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 4025"
+        ],
+        "4026": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 4026"
+        ],
+        "4027": [
+          "Dezena no quarto prêmio!<br>com o palpite 4027",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 4027"
+        ],
+        "4028": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 4028"
+        ],
+        "4033": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 4033"
+        ],
+        "4034": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 4034"
+        ],
+        "4035": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 4035",
+          "Dezena no primeiro prêmio!<br>com o palpite 4035",
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 4035"
+        ],
+        "4036": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 4036"
+        ],
+        "4037": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 4037"
+        ],
+        "4038": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 4038"
+        ],
+        "4039": [
+          "Dezena no sexto prêmio!<br>com o palpite 4039",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 4039"
+        ],
+        "4040": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 4040"
+        ],
+        "4045": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 4045"
+        ],
+        "4046": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 4046",
+          "Dezena no segundo prêmio!<br>com o palpite 4046",
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 4046"
+        ],
+        "4047": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 4047"
+        ],
+        "4048": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 4048"
+        ],
+        "5010": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5010",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 5010"
+        ],
+        "5011": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 5011"
+        ],
+        "5012": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 5012"
+        ],
+        "5021": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 5021",
+          "Dezena no quinto prêmio!<br>com o palpite 5021",
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 5021"
+        ],
+        "5022": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 5022"
+        ],
+        "5023": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 5023"
+        ],
+        "5024": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 5024"
+        ],
+        "5025": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 5025"
+        ],
+        "5026": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 5026"
+        ],
+        "5027": [
+          "Dezena no quarto prêmio!<br>com o palpite 5027",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 5027"
+        ],
+        "5028": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 5028"
+        ],
+        "5033": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 5033"
+        ],
+        "5034": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 5034"
+        ],
+        "5035": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 5035",
+          "Dezena no primeiro prêmio!<br>com o palpite 5035",
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 5035"
+        ],
+        "5036": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 5036"
+        ],
+        "5037": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 5037"
+        ],
+        "5038": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 5038"
+        ],
+        "5039": [
+          "Dezena no sexto prêmio!<br>com o palpite 5039",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 5039"
+        ],
+        "5040": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 5040"
+        ],
+        "5045": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 5045"
+        ],
+        "5046": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 5046",
+          "Dezena no segundo prêmio!<br>com o palpite 5046",
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 5046"
+        ],
+        "5047": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 5047"
+        ],
+        "5048": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 5048"
+        ],
+        "6010": [
+          "Dezena no terceiro prêmio!<br>com o palpite 6010",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 6010"
+        ],
+        "6011": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 6011"
+        ],
+        "6012": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 6012"
+        ],
+        "6021": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 6021",
+          "Dezena no quinto prêmio!<br>com o palpite 6021",
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 6021"
+        ],
+        "6022": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 6022"
+        ],
+        "6023": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 6023"
+        ],
+        "6024": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 6024"
+        ],
+        "6025": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 6025"
+        ],
+        "6026": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 6026"
+        ],
+        "6027": [
+          "Dezena no quarto prêmio!<br>com o palpite 6027",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 6027"
+        ],
+        "6028": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 6028"
+        ],
+        "6033": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 6033"
+        ],
+        "6034": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 6034"
+        ],
+        "6035": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 6035",
+          "Dezena no primeiro prêmio!<br>com o palpite 6035",
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 6035"
+        ],
+        "6036": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 6036"
+        ],
+        "6037": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 6037"
+        ],
+        "6038": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 6038"
+        ],
+        "6039": [
+          "Dezena no sexto prêmio!<br>com o palpite 6039",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 6039"
+        ],
+        "6040": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 6040"
+        ],
+        "6045": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 6045"
+        ],
+        "6046": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 6046",
+          "Dezena no segundo prêmio!<br>com o palpite 6046",
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 6046"
+        ],
+        "6047": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 6047"
+        ],
+        "6048": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 6048"
+        ],
+        "7010": [
+          "Dezena no terceiro prêmio!<br>com o palpite 7010",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 7010"
+        ],
+        "7011": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 7011"
+        ],
+        "7012": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 7012"
+        ],
+        "7021": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 7021",
+          "Dezena no quinto prêmio!<br>com o palpite 7021",
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 7021"
+        ],
+        "7022": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 7022"
+        ],
+        "7023": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 7023"
+        ],
+        "7024": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 7024"
+        ],
+        "7025": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 7025"
+        ],
+        "7026": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 7026"
+        ],
+        "7027": [
+          "Dezena no quarto prêmio!<br>com o palpite 7027",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 7027"
+        ],
+        "7028": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 7028"
+        ],
+        "7033": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 7033"
+        ],
+        "7034": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 7034"
+        ],
+        "7035": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 7035",
+          "Dezena no primeiro prêmio!<br>com o palpite 7035",
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 7035"
+        ],
+        "7036": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 7036"
+        ],
+        "7037": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 7037"
+        ],
+        "7038": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 7038"
+        ],
+        "7039": [
+          "Dezena no sexto prêmio!<br>com o palpite 7039",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 7039"
+        ],
+        "7040": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 7040"
+        ],
+        "7045": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 7045"
+        ],
+        "7046": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 7046",
+          "Dezena no segundo prêmio!<br>com o palpite 7046",
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 7046"
+        ],
+        "7047": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 7047"
+        ],
+        "7048": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 7048"
+        ],
+        "8010": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8010",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 8010"
+        ],
+        "8011": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 8011"
+        ],
+        "8012": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 8012"
+        ],
+        "8021": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 8021",
+          "Dezena no quinto prêmio!<br>com o palpite 8021",
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 8021"
+        ],
+        "8022": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 8022"
+        ],
+        "8023": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 8023"
+        ],
+        "8024": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 8024"
+        ],
+        "8025": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 8025"
+        ],
+        "8026": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 8026"
+        ],
+        "8027": [
+          "Dezena no quarto prêmio!<br>com o palpite 8027",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 8027"
+        ],
+        "8028": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 8028"
+        ],
+        "8033": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 8033"
+        ],
+        "8034": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 8034"
+        ],
+        "8035": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 8035",
+          "Dezena no primeiro prêmio!<br>com o palpite 8035",
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 8035"
+        ],
+        "8036": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 8036"
+        ],
+        "8037": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 8037"
+        ],
+        "8038": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 8038"
+        ],
+        "8039": [
+          "Dezena no sexto prêmio!<br>com o palpite 8039",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 8039"
+        ],
+        "8040": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 8040"
+        ],
+        "8045": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 8045"
+        ],
+        "8046": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 8046",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 8046",
+          "Dezena no segundo prêmio!<br>com o palpite 8046",
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 8046"
+        ],
+        "8047": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 8047"
+        ],
+        "8048": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 8048"
+        ],
+        "9010": [
+          "Dezena no terceiro prêmio!<br>com o palpite 9010",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 9010"
+        ],
+        "9011": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 9011"
+        ],
+        "9012": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 9012"
+        ],
+        "9021": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 9021",
+          "Dezena no quinto prêmio!<br>com o palpite 9021",
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 9021"
+        ],
+        "9022": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 9022"
+        ],
+        "9023": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 9023"
+        ],
+        "9024": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 9024"
+        ],
+        "9025": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 9025"
+        ],
+        "9026": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 9026"
+        ],
+        "9027": [
+          "Dezena no quarto prêmio!<br>com o palpite 9027",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 9027"
+        ],
+        "9028": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 9028"
+        ],
+        "9033": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 9033"
+        ],
+        "9034": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 9034"
+        ],
+        "9035": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 9035",
+          "Dezena no primeiro prêmio!<br>com o palpite 9035",
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 9035"
+        ],
+        "9036": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 9036"
+        ],
+        "9037": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 9037"
+        ],
+        "9038": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 9038"
+        ],
+        "9039": [
+          "Dezena no sexto prêmio!<br>com o palpite 9039",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 9039"
+        ],
+        "9040": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 9040"
+        ],
+        "9045": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 9045"
+        ],
+        "9046": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 9046",
+          "Dezena no segundo prêmio!<br>com o palpite 9046",
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 9046"
+        ],
+        "9047": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 9047"
+        ],
+        "9048": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 9048"
+        ],
+        "0033": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 0033"
+        ],
+        "0034": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 0034"
+        ],
+        "0035": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 0035",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 0035",
+          "Dezena no primeiro prêmio!<br>com o palpite 0035",
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 0035"
+        ],
+        "0036": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 0036"
+        ],
+        "0045": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 0045"
+        ],
+        "0046": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 0046",
+          "Dezena no segundo prêmio!<br>com o palpite 0046",
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 0046"
+        ],
+        "0047": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 0047"
+        ],
+        "0048": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 0048"
+        ],
+        "0010": [
+          "Dezena no terceiro prêmio!<br>com o palpite 0010",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 0010"
+        ],
+        "0011": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 0011"
+        ],
+        "0012": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 0012"
+        ],
+        "0025": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 0025"
+        ],
+        "0026": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 0026"
+        ],
+        "0027": [
+          "Dezena no quarto prêmio!<br>com o palpite 0027",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 0027"
+        ],
+        "0028": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 0028"
+        ],
+        "0021": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 0021",
+          "Dezena no quinto prêmio!<br>com o palpite 0021",
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0021"
+        ],
+        "0022": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0022"
+        ],
+        "0023": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0023"
+        ],
+        "0024": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0024"
+        ],
+        "0037": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 0037"
+        ],
+        "0038": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 0038"
+        ],
+        "0039": [
+          "Dezena no sexto prêmio!<br>com o palpite 0039",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 0039"
+        ],
+        "0040": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 0040"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: "
+      "acertos": {
+        "Milhar": 3,
+        "Centena": 30,
+        "Dezena": 60,
+        "Grupo": [
+          "🐍",
+          "🐘",
+          "🐴",
+          "🐑",
+          "🐐",
+          "🐇"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0010, 0011, 0012, 0013, 0014, 0015, 0016, 0017, 0018, 0019, 0020, 0021, 0022, 0023, 0024, 0025, 0026, 0027, 0028, 0029, 0030, 0031, 0032, 0033, 0034, 0035, 0036, 0037, 0038, 0039, 0040, 0041, 0042, 0043, 0044, 0045, 0046, 0047, 0048, 0049, 1010, 1011, 1012, 1013, 1014, 1015, 1016, 1017, 1018, 1019, 1020, 1021, 1022, 1023, 1024, 1025, 1026, 1027, 1028, 1029, 1030, 1031, 1032, 1033, 1034, 1035, 1036, 1037, 1038, 1039, 1040, 1041, 1042, 1043, 1044, 1045, 1046, 1047, 1048, 1049, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030, 2031, 2032, 2033, 2034, 2035, 2036, 2037, 2038, 2039, 2040, 2041, 2042, 2043, 2044, 2045, 2046, 2047, 2048, 2049, 3010, 3011, 3012, 3013, 3014, 3015, 3016, 3017, 3018, 3019, 3020, 3021, 3022, 3023, 3024, 3025, 3026, 3027, 3028, 3029, 3030, 3031, 3032, 3033, 3034, 3035, 3036, 3037, 3038, 3039, 3040, 3041, 3042, 3043, 3044, 3045, 3046, 3047, 3048, 3049, 4010, 4011, 4012, 4013, 4014, 4015, 4016, 4017, 4018, 4019, 4020, 4021, 4022, 4023, 4024, 4025, 4026, 4027, 4028, 4029, 4030, 4031, 4032, 4033, 4034, 4035, 4036, 4037, 4038, 4039, 4040, 4041, 4042, 4043, 4044, 4045, 4046, 4047, 4048, 4049, 5010, 5011, 5012, 5013, 5014, 5015, 5016, 5017, 5018, 5019, 5020, 5021, 5022, 5023, 5024, 5025, 5026, 5027, 5028, 5029, 5030, 5031, 5032, 5033, 5034, 5035, 5036, 5037, 5038, 5039, 5040, 5041, 5042, 5043, 5044, 5045, 5046, 5047, 5048, 5049, 6010, 6011, 6012, 6013, 6014, 6015, 6016, 6017, 6018, 6019, 6020, 6021, 6022, 6023, 6024, 6025, 6026, 6027, 6028, 6029, 6030, 6031, 6032, 6033, 6034, 6035, 6036, 6037, 6038, 6039, 6040, 6041, 6042, 6043, 6044, 6045, 6046, 6047, 6048, 6049, 7010, 7011, 7012, 7013, 7014, 7015, 7016, 7017, 7018, 7019, 7020, 7021, 7022, 7023, 7024, 7025, 7026, 7027, 7028, 7029, 7030, 7031, 7032, 7033, 7034, 7035, 7036, 7037, 7038, 7039, 7040, 7041, 7042, 7043, 7044, 7045, 7046, 7047, 7048, 7049, 8010, 8011, 8012, 8013, 8014, 8015, 8016, 8017, 8018, 8019, 8020, 8021, 8022, 8023, 8024, 8025, 8026, 8027, 8028, 8029, 8030, 8031, 8032, 8033, 8034, 8035, 8036, 8037, 8038, 8039, 8040, 8041, 8042, 8043, 8044, 8045, 8046, 8047, 8048, 8049, 9010, 9011, 9012, 9013, 9014, 9015, 9016, 9017, 9018, 9019, 9020, 9021, 9022, 9023, 9024, 9025, 9026, 9027, 9028, 9029, 9030, 9031, 9032, 9033, 9034, 9035, 9036, 9037, 9038, 9039, 9040, 9041, 9042, 9043, 9044, 9045, 9046, 9047, 9048, 9049"
     }
   }
 }
