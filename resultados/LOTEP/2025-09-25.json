@@ -69,14 +69,32 @@
           "Bicho": "Águia"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2080": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 2080"
+        ],
+        "5080": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 5080"
+        ],
+        "6080": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 6080"
+        ],
+        "8080": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 8080"
+        ],
+        "0080": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 0080"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦃"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5096, 8096"
+      "resumo": "Palpites dados para esta extração: 0000, 0040, 0080, 0090, 2000, 2040, 2080, 2090, 5000, 5040, 5080, 5090, 6000, 6040, 6080, 6090, 8000, 8040, 8080, 8090"
     },
     "LOTEP - PB, 12:45": {
       "cabecalhos": [
@@ -154,7 +172,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5096, 8096"
+      "resumo": "Palpites dados para esta extração: 0000, 0040, 0080, 0090, 2000, 2040, 2080, 2090, 5000, 5040, 5080, 5090, 6000, 6040, 6080, 6090, 8000, 8040, 8080, 8090"
     },
     "LOTEP - PB, 15:45h": {
       "cabecalhos": [
@@ -226,26 +244,31 @@
         }
       ],
       "frases": {
-        "5096": [
-          "Dezena no terceiro prêmio!<br>com o palpite 5096",
-          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 5096",
-          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 5096"
+        "2090": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 2090"
         ],
-        "8096": [
-          "Dezena no terceiro prêmio!<br>com o palpite 8096",
-          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 8096",
-          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 8096"
+        "5090": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 5090"
+        ],
+        "6090": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 6090"
+        ],
+        "8090": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 8090"
+        ],
+        "0090": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 0090"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 0,
         "Grupo": [
-          "🦌"
+          "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5096, 8096"
+      "resumo": "Palpites dados para esta extração: 0000, 0040, 0080, 0090, 2000, 2040, 2080, 2090, 5000, 5040, 5080, 5090, 6000, 6040, 6080, 6090, 8000, 8040, 8080, 8090"
     },
     "LOTEP - PB, 18h": {
       "cabecalhos": [
@@ -316,14 +339,99 @@
           "Bicho": "Coelho"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2000": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2000",
+          "Dezena no sexto prêmio!<br>com o palpite 2000",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 2000"
+        ],
+        "2040": [
+          "Dezena no décimo prêmio!<br>com o palpite 2040",
+          "COELHO 🐇 no décimo prêmio!<br>com o palpite 2040"
+        ],
+        "2080": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 2080",
+          "Dezena no terceiro prêmio!<br>com o palpite 2080",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 2080",
+          "Dezena no oitavo prêmio!<br>com o palpite 2080",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 2080"
+        ],
+        "5000": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 5000",
+          "Dezena no sexto prêmio!<br>com o palpite 5000",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 5000"
+        ],
+        "5040": [
+          "Dezena no décimo prêmio!<br>com o palpite 5040",
+          "COELHO 🐇 no décimo prêmio!<br>com o palpite 5040"
+        ],
+        "5080": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 5080",
+          "Dezena no terceiro prêmio!<br>com o palpite 5080",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 5080",
+          "Dezena no oitavo prêmio!<br>com o palpite 5080",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 5080"
+        ],
+        "6000": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 6000",
+          "Dezena no sexto prêmio!<br>com o palpite 6000",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 6000"
+        ],
+        "6040": [
+          "Dezena no décimo prêmio!<br>com o palpite 6040",
+          "COELHO 🐇 no décimo prêmio!<br>com o palpite 6040"
+        ],
+        "6080": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 6080",
+          "Dezena no terceiro prêmio!<br>com o palpite 6080",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 6080",
+          "Dezena no oitavo prêmio!<br>com o palpite 6080",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 6080"
+        ],
+        "8000": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 8000",
+          "Dezena no sexto prêmio!<br>com o palpite 8000",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 8000"
+        ],
+        "8040": [
+          "Dezena no décimo prêmio!<br>com o palpite 8040",
+          "COELHO 🐇 no décimo prêmio!<br>com o palpite 8040"
+        ],
+        "8080": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 8080",
+          "Dezena no terceiro prêmio!<br>com o palpite 8080",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 8080",
+          "Dezena no oitavo prêmio!<br>com o palpite 8080",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 8080"
+        ],
+        "0080": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 0080",
+          "Dezena no terceiro prêmio!<br>com o palpite 0080",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 0080",
+          "Dezena no oitavo prêmio!<br>com o palpite 0080",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 0080"
+        ],
+        "0000": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 0000",
+          "Dezena no sexto prêmio!<br>com o palpite 0000",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 0000"
+        ],
+        "0040": [
+          "Dezena no décimo prêmio!<br>com o palpite 0040",
+          "COELHO 🐇 no décimo prêmio!<br>com o palpite 0040"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 20,
+        "Grupo": [
+          "🦃",
+          "🐄",
+          "🐇"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5096, 8096"
+      "resumo": "Palpites dados para esta extração: 0000, 0040, 0080, 0090, 2000, 2040, 2080, 2090, 5000, 5040, 5080, 5090, 6000, 6040, 6080, 6090, 8000, 8040, 8080, 8090"
     }
   }
 }
