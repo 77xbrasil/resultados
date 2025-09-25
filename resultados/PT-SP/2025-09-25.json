@@ -261,6 +261,79 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 2556, 2557, 2566, 2567, 2586, 2587"
+    },
+    "SP, 17hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5181",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5653",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8796",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7692",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5792",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "3114",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "288",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2556": [
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 2556"
+        ],
+        "2586": [
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 2586"
+        ],
+        "2587": [
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 2587"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐈",
+          "🐅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2556, 2557, 2566, 2567, 2586, 2587"
     }
   },
   "1-10": {
@@ -636,6 +709,99 @@
           "🐒",
           "🐈",
           "🐊"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2556, 2557, 2566, 2567, 2586, 2587"
+    },
+    "SP, 17hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5181",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5653",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8796",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7692",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5792",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5587",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "1676",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8599",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1362",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0338",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        }
+      ],
+      "frases": {
+        "2556": [
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 2556"
+        ],
+        "2586": [
+          "TIGRE 🐅 no sexto prêmio!<br>com o palpite 2586"
+        ],
+        "2587": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 2587",
+          "Dezena no sexto prêmio!<br>com o palpite 2587",
+          "TIGRE 🐅 no sexto prêmio!<br>com o palpite 2587"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 1,
+        "Grupo": [
+          "🐈",
+          "🐅"
         ]
       },
       "resumo": "Palpites dados para esta extração: 2556, 2557, 2566, 2567, 2586, 2587"
