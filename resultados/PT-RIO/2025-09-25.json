@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 9779"
+      "resumo": "Palpites dados para esta extração: 9773, 9779, 9793, 9799"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -124,7 +124,7 @@
           "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9779"
+      "resumo": "Palpites dados para esta extração: 9773, 9779, 9793, 9799"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -178,9 +178,15 @@
         }
       ],
       "frases": {
+        "9773": [
+          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 9773"
+        ],
         "9779": [
           "Dezena no primeiro prêmio!<br>com o palpite 9779",
           "PERU 🦃 no primeiro prêmio!<br>com o palpite 9779"
+        ],
+        "9799": [
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 9799"
         ]
       },
       "acertos": {
@@ -188,10 +194,12 @@
         "Centena": 0,
         "Dezena": 1,
         "Grupo": [
-          "🦃"
+          "🦃",
+          "🦚",
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9779"
+      "resumo": "Palpites dados para esta extração: 9773, 9779, 9793, 9799"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -244,14 +252,23 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "9793": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9793",
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 9793",
+          "Dezena no quarto prêmio!<br>com o palpite 9793",
+          "VEADO 🦌 no quarto prêmio!<br>com o palpite 9793"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🦌"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 9779"
+      "resumo": "Palpites dados para esta extração: 9773, 9779, 9793, 9799"
     }
   },
   "1-10": {
@@ -327,6 +344,9 @@
       "frases": {
         "9779": [
           "PERU 🦃 no sétimo prêmio!<br>com o palpite 9779"
+        ],
+        "9793": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 9793"
         ]
       },
       "acertos": {
@@ -334,10 +354,11 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
+          "🦌",
           "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9779"
+      "resumo": "Palpites dados para esta extração: 9773, 9779, 9793, 9799"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -423,7 +444,7 @@
           "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9779"
+      "resumo": "Palpites dados para esta extração: 9773, 9779, 9793, 9799"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -495,6 +516,9 @@
         }
       ],
       "frases": {
+        "9773": [
+          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 9773"
+        ],
         "9779": [
           "Dezena no primeiro prêmio!<br>com o palpite 9779",
           "PERU 🦃 no primeiro prêmio!<br>com o palpite 9779",
@@ -502,6 +526,9 @@
           "Centena e Dezena no sétimo prêmio!<br>com o palpite 9779",
           "Dezena no sétimo prêmio!<br>com o palpite 9779",
           "PERU 🦃 no sétimo prêmio!<br>com o palpite 9779"
+        ],
+        "9793": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 9793"
         ]
       },
       "acertos": {
@@ -509,10 +536,12 @@
         "Centena": 1,
         "Dezena": 2,
         "Grupo": [
-          "🦃"
+          "🦃",
+          "🦚",
+          "🦌"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9779"
+      "resumo": "Palpites dados para esta extração: 9773, 9779, 9793, 9799"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
@@ -583,14 +612,27 @@
           "Bicho": "Vaca"
         }
       ],
-      "frases": {},
+      "frases": {
+        "9793": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9793",
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 9793",
+          "Dezena no quarto prêmio!<br>com o palpite 9793",
+          "VEADO 🦌 no quarto prêmio!<br>com o palpite 9793"
+        ],
+        "9799": [
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 9799"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🦌",
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 9779"
+      "resumo": "Palpites dados para esta extração: 9773, 9779, 9793, 9799"
     }
   }
 }
