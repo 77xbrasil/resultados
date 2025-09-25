@@ -51,14 +51,32 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "8730": [
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 8730"
+        ],
+        "8731": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 8731",
+          "Dezena no quarto prêmio!<br>com o palpite 8731",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 8731"
+        ],
+        "8732": [
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 8732"
+        ],
+        "8737": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 8737"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 1,
+        "Grupo": [
+          "🐇",
+          "🐪"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 8710, 8711, 8712, 8717, 8720, 8721, 8722, 8727, 8730, 8731, 8732, 8737, 8750, 8751, 8752, 8757"
     }
   },
   "1-10": {
@@ -131,14 +149,47 @@
           "Bicho": "Galo"
         }
       ],
-      "frases": {},
+      "frases": {
+        "8730": [
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 8730"
+        ],
+        "8731": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 8731",
+          "Dezena no quarto prêmio!<br>com o palpite 8731",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 8731"
+        ],
+        "8732": [
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 8732"
+        ],
+        "8737": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 8737"
+        ],
+        "8750": [
+          "GALO 🐓 no nono prêmio!<br>com o palpite 8750",
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 8750"
+        ],
+        "8751": [
+          "Dezena no nono prêmio!<br>com o palpite 8751",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 8751",
+          "Dezena no décimo prêmio!<br>com o palpite 8751",
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 8751"
+        ],
+        "8752": [
+          "GALO 🐓 no nono prêmio!<br>com o palpite 8752",
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 8752"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 3,
+        "Grupo": [
+          "🐇",
+          "🐪",
+          "🐓"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: "
+      "resumo": "Palpites dados para esta extração: 8710, 8711, 8712, 8717, 8720, 8721, 8722, 8727, 8730, 8731, 8732, 8737, 8750, 8751, 8752, 8757"
     }
   }
 }
