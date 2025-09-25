@@ -252,6 +252,66 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 0020, 0021, 0025, 0026, 0027, 2020, 2021, 2025, 2026, 2027, 4020, 4021, 4025, 4026, 4027, 5020, 5021, 5025, 5026, 5027, 8020, 8021, 8025, 8026, 8027"
+    },
+    "MINAS NOITE - MG, 19h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4350",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6829",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6030",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7680",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0200",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "25089",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "706",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0020, 0021, 0025, 0026, 0027, 2020, 2021, 2025, 2026, 2027, 4020, 4021, 4025, 4026, 4027, 5020, 5021, 5025, 5026, 5027, 8020, 8021, 8025, 8026, 8027"
     }
   }
 }
