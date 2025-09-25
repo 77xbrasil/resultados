@@ -70,6 +70,14 @@
         }
       ],
       "frases": {
+        "8500": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 8500"
+        ],
+        "8506": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 8506",
+          "Dezena no décimo prêmio!<br>com o palpite 8506",
+          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 8506"
+        ],
         "8507": [
           "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 8507",
           "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 8507"
@@ -79,26 +87,18 @@
           "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 8508",
           "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 8508"
         ],
+        "8516": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 8516",
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 8516"
+        ],
         "8577": [
           "PERU 🦃 no oitavo prêmio!<br>com o palpite 8577"
         ],
         "8578": [
           "PERU 🦃 no oitavo prêmio!<br>com o palpite 8578"
         ],
-        "8607": [
-          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 8607",
-          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 8607"
-        ],
-        "8608": [
-          "Dezena no sétimo prêmio!<br>com o palpite 8608",
-          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 8608",
-          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 8608"
-        ],
-        "8677": [
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 8677"
-        ],
-        "8678": [
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 8678"
+        "8580": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 8580"
         ]
       },
       "acertos": {
@@ -106,11 +106,13 @@
         "Centena": 0,
         "Dezena": 2,
         "Grupo": [
+          "🦋",
+          "🐄",
           "🦅",
           "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8507, 8508, 8517, 8518, 8577, 8578, 8587, 8588, 8607, 8608, 8617, 8618, 8677, 8678, 8687, 8688"
+      "resumo": "Palpites dados para esta extração: 8500, 8506, 8507, 8508, 8510, 8516, 8517, 8518, 8570, 8576, 8577, 8578, 8580, 8586, 8587, 8588"
     },
     "12h - MALUCA - BA": {
       "cabecalhos": [
@@ -182,12 +184,21 @@
         }
       ],
       "frases": {
+        "8506": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 8506"
+        ],
         "8507": [
           "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 8507"
         ],
         "8508": [
           "Dezena no quarto prêmio!<br>com o palpite 8508",
           "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 8508"
+        ],
+        "8510": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 8510"
+        ],
+        "8516": [
+          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 8516"
         ],
         "8517": [
           "Dezena no sexto prêmio!<br>com o palpite 8517",
@@ -206,6 +217,15 @@
           "PERU 🦃 no segundo prêmio!<br>com o palpite 8578",
           "PERU 🦃 no terceiro prêmio!<br>com o palpite 8578"
         ],
+        "8580": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 8580",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 8580"
+        ],
+        "8586": [
+          "Dezena no quinto prêmio!<br>com o palpite 8586",
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 8586",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 8586"
+        ],
         "8587": [
           "TIGRE 🐅 no quinto prêmio!<br>com o palpite 8587",
           "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 8587"
@@ -216,54 +236,22 @@
           "Centena e Dezena no oitavo prêmio!<br>com o palpite 8588",
           "Dezena no oitavo prêmio!<br>com o palpite 8588",
           "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 8588"
-        ],
-        "8607": [
-          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 8607"
-        ],
-        "8608": [
-          "Dezena no quarto prêmio!<br>com o palpite 8608",
-          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 8608"
-        ],
-        "8617": [
-          "Centena e Dezena no sexto prêmio!<br>com o palpite 8617",
-          "Dezena no sexto prêmio!<br>com o palpite 8617",
-          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 8617"
-        ],
-        "8618": [
-          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 8618"
-        ],
-        "8677": [
-          "PERU 🦃 no segundo prêmio!<br>com o palpite 8677",
-          "Dezena no terceiro prêmio!<br>com o palpite 8677",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 8677"
-        ],
-        "8678": [
-          "Dezena no segundo prêmio!<br>com o palpite 8678",
-          "PERU 🦃 no segundo prêmio!<br>com o palpite 8678",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 8678"
-        ],
-        "8687": [
-          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 8687",
-          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 8687"
-        ],
-        "8688": [
-          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 8688",
-          "Dezena no oitavo prêmio!<br>com o palpite 8688",
-          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 8688"
         ]
       },
       "acertos": {
         "Milhar": 1,
-        "Centena": 2,
-        "Dezena": 10,
+        "Centena": 1,
+        "Dezena": 6,
         "Grupo": [
+          "🐴",
           "🦃",
           "🦅",
           "🐅",
-          "🐕"
+          "🐕",
+          "🦋"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8507, 8508, 8517, 8518, 8577, 8578, 8587, 8588, 8607, 8608, 8617, 8618, 8677, 8678, 8687, 8688"
+      "resumo": "Palpites dados para esta extração: 8500, 8506, 8507, 8508, 8510, 8516, 8517, 8518, 8570, 8576, 8577, 8578, 8580, 8586, 8587, 8588"
     },
     "15h - MALUCA - BA": {
       "cabecalhos": [
@@ -335,11 +323,22 @@
         }
       ],
       "frases": {
+        "8500": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 8500",
+          "Dezena no sétimo prêmio!<br>com o palpite 8500",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 8500"
+        ],
+        "8506": [
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 8506"
+        ],
         "8507": [
           "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 8507"
         ],
         "8508": [
           "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 8508"
+        ],
+        "8510": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 8510"
         ],
         "8577": [
           "PERU 🦃 no segundo prêmio!<br>com o palpite 8577",
@@ -351,32 +350,24 @@
           "Dezena no terceiro prêmio!<br>com o palpite 8578",
           "PERU 🦃 no terceiro prêmio!<br>com o palpite 8578"
         ],
-        "8607": [
-          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 8607"
-        ],
-        "8608": [
-          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 8608"
-        ],
-        "8677": [
-          "PERU 🦃 no segundo prêmio!<br>com o palpite 8677",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 8677"
-        ],
-        "8678": [
-          "PERU 🦃 no segundo prêmio!<br>com o palpite 8678",
-          "Dezena no terceiro prêmio!<br>com o palpite 8678",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 8678"
+        "8580": [
+          "Dezena no segundo prêmio!<br>com o palpite 8580",
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 8580",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 8580"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 2,
+        "Centena": 2,
+        "Dezena": 3,
         "Grupo": [
+          "🐴",
           "🦃",
+          "🐄",
           "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8507, 8508, 8517, 8518, 8577, 8578, 8587, 8588, 8607, 8608, 8617, 8618, 8677, 8678, 8687, 8688"
+      "resumo": "Palpites dados para esta extração: 8500, 8506, 8507, 8508, 8510, 8516, 8517, 8518, 8570, 8576, 8577, 8578, 8580, 8586, 8587, 8588"
     }
   }
 }
