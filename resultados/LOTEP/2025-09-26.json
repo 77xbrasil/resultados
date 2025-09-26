@@ -238,73 +238,95 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5088",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "6359",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "4091",
-          "Grupo": "23",
-          "Bicho": "Urso"
+          "Milhar": "2573",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "5496",
+          "Milhar": "4995",
           "Grupo": "24",
           "Bicho": "Veado"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "6149",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "6345",
+          "Grupo": "12",
+          "Bicho": "Elefante"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "8526",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
+          "Milhar": "9184",
+          "Grupo": "21",
+          "Bicho": "Touro"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "5456",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "6246",
+          "Grupo": "12",
+          "Bicho": "Elefante"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "0041",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
+          "Milhar": "3593",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "8994",
+          "Milhar": "5794",
           "Grupo": "24",
           "Bicho": "Veado"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "8169",
-          "Grupo": "18",
-          "Bicho": "Porco"
+          "Milhar": "9355",
+          "Grupo": "14",
+          "Bicho": "Gato"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "2010",
-          "Grupo": "03",
-          "Bicho": "Burro"
+          "Milhar": "4444",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "2144": [
+          "Dezena no décimo prêmio!<br>com o palpite 2144",
+          "CAVALO 🐎 no décimo prêmio!<br>com o palpite 2144"
+        ],
+        "2444": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 2444",
+          "Dezena no décimo prêmio!<br>com o palpite 2444",
+          "CAVALO 🐎 no décimo prêmio!<br>com o palpite 2444"
+        ],
+        "4144": [
+          "Dezena no décimo prêmio!<br>com o palpite 4144",
+          "CAVALO 🐎 no décimo prêmio!<br>com o palpite 4144"
+        ],
+        "4444": [
+          "Milhar e Centena no décimo prêmio!<br>com o palpite 4444",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 4444",
+          "Dezena no décimo prêmio!<br>com o palpite 4444",
+          "CAVALO 🐎 no décimo prêmio!<br>com o palpite 4444"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0000, 2000, 6000, 7000"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 4,
+        "Grupo": [
+          "🐎"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2124, 2144, 2164, 2424, 2444, 2464, 4124, 4144, 4164, 4424, 4444, 4464"
     },
     "LOTEP - PB, 18h": {
       "cabecalhos": [
