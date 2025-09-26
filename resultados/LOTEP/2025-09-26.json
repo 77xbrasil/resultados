@@ -69,14 +69,22 @@
           "Bicho": "Carneiro"
         }
       ],
-      "frases": {},
+      "frases": {
+        "0149": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 0149",
+          "Dezena no terceiro prêmio!<br>com o palpite 0149",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0149"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 1,
+        "Grupo": [
+          "🐓"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0040, 0140, 0540, 0840, 0940, 2040, 2140, 2540, 2840, 2940"
+      "resumo": "Palpites dados para esta extração: 0149"
     },
     "LOTEP - PB, 12:45": {
       "cabecalhos": [
