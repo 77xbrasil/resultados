@@ -52,7 +52,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1611, 1811, 6611, 6811"
+      "resumo": "Palpites dados para esta extração: 1311, 1611, 1711, 1811"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -106,7 +106,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1611, 1811, 6611, 6811"
+      "resumo": "Palpites dados para esta extração: 1311, 1611, 1711, 1811"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -154,17 +154,17 @@
         }
       ],
       "frases": {
+        "1311": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 1311"
+        ],
         "1611": [
           "BURRO 🐴 no terceiro prêmio!<br>com o palpite 1611"
         ],
+        "1711": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 1711"
+        ],
         "1811": [
           "BURRO 🐴 no terceiro prêmio!<br>com o palpite 1811"
-        ],
-        "6611": [
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 6611"
-        ],
-        "6811": [
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 6811"
         ]
       },
       "acertos": {
@@ -175,7 +175,7 @@
           "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1611, 1811, 6611, 6811"
+      "resumo": "Palpites dados para esta extração: 1311, 1611, 1711, 1811"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -229,7 +229,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1611, 1811, 6611, 6811"
+      "resumo": "Palpites dados para esta extração: 1311, 1611, 1711, 1811"
     },
     "Nacional - LN 15:00": {
       "cabecalhos": [
@@ -332,7 +332,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1611, 1811, 6611, 6811"
+      "resumo": "Palpites dados para esta extração: 1311, 1611, 1711, 1811"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -410,7 +410,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1611, 1811, 6611, 6811"
+      "resumo": "Palpites dados para esta extração: 1311, 1611, 1711, 1811"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -482,12 +482,26 @@
         }
       ],
       "frases": {
+        "1311": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 1311",
+          "Dezena no sétimo prêmio!<br>com o palpite 1311",
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 1311",
+          "Dezena no oitavo prêmio!<br>com o palpite 1311",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1311"
+        ],
         "1611": [
           "BURRO 🐴 no terceiro prêmio!<br>com o palpite 1611",
           "Dezena no sétimo prêmio!<br>com o palpite 1611",
           "BURRO 🐴 no sétimo prêmio!<br>com o palpite 1611",
           "Dezena no oitavo prêmio!<br>com o palpite 1611",
           "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1611"
+        ],
+        "1711": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 1711",
+          "Dezena no sétimo prêmio!<br>com o palpite 1711",
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 1711",
+          "Dezena no oitavo prêmio!<br>com o palpite 1711",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1711"
         ],
         "1811": [
           "BURRO 🐴 no terceiro prêmio!<br>com o palpite 1811",
@@ -496,32 +510,17 @@
           "BURRO 🐴 no sétimo prêmio!<br>com o palpite 1811",
           "Dezena no oitavo prêmio!<br>com o palpite 1811",
           "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1811"
-        ],
-        "6611": [
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 6611",
-          "Dezena no sétimo prêmio!<br>com o palpite 6611",
-          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 6611",
-          "Dezena no oitavo prêmio!<br>com o palpite 6611",
-          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 6611"
-        ],
-        "6811": [
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 6811",
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 6811",
-          "Dezena no sétimo prêmio!<br>com o palpite 6811",
-          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 6811",
-          "Dezena no oitavo prêmio!<br>com o palpite 6811",
-          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 6811"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 2,
+        "Centena": 1,
         "Dezena": 8,
         "Grupo": [
           "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1611, 1811, 6611, 6811"
+      "resumo": "Palpites dados para esta extração: 1311, 1611, 1711, 1811"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -593,36 +592,37 @@
         }
       ],
       "frases": {
+        "1311": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 1311",
+          "Dezena no sexto prêmio!<br>com o palpite 1311",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 1311",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1311"
+        ],
         "1611": [
           "Dezena no sexto prêmio!<br>com o palpite 1611",
           "BURRO 🐴 no sexto prêmio!<br>com o palpite 1611",
           "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1611"
         ],
+        "1711": [
+          "Dezena no sexto prêmio!<br>com o palpite 1711",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 1711",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1711"
+        ],
         "1811": [
           "Dezena no sexto prêmio!<br>com o palpite 1811",
           "BURRO 🐴 no sexto prêmio!<br>com o palpite 1811",
           "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1811"
-        ],
-        "6611": [
-          "Dezena no sexto prêmio!<br>com o palpite 6611",
-          "BURRO 🐴 no sexto prêmio!<br>com o palpite 6611",
-          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 6611"
-        ],
-        "6811": [
-          "Dezena no sexto prêmio!<br>com o palpite 6811",
-          "BURRO 🐴 no sexto prêmio!<br>com o palpite 6811",
-          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 6811"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
+        "Centena": 1,
         "Dezena": 4,
         "Grupo": [
           "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1611, 1811, 6611, 6811"
+      "resumo": "Palpites dados para esta extração: 1311, 1611, 1711, 1811"
     },
     "Nacional - LN 15:00 do 1º ao 10º": {
       "cabecalhos": [
