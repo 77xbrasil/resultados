@@ -10,53 +10,113 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "7363",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "2758",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "7590",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "0004",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "4479",
+          "Milhar": "3077",
           "Grupo": "20",
           "Bicho": "Peru"
         },
         {
+          "Prêmio": "3º",
+          "Milhar": "5954",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6503",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
           "Prêmio": "5º",
-          "Milhar": "3246",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "0776",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "2682",
+          "Milhar": "9068",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "885",
+          "Milhar": "486",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2660": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 2660"
+        ],
+        "2668": [
+          "Dezena no sexto prêmio!<br>com o palpite 2668",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 2668"
+        ],
+        "2860": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 2860"
+        ],
+        "2868": [
+          "Dezena no sexto prêmio!<br>com o palpite 2868",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 2868"
+        ],
+        "6660": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 6660"
+        ],
+        "6668": [
+          "Dezena no sexto prêmio!<br>com o palpite 6668",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 6668"
+        ],
+        "6860": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 6860"
+        ],
+        "6868": [
+          "Dezena no sexto prêmio!<br>com o palpite 6868",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 6868"
+        ],
+        "7660": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 7660"
+        ],
+        "7668": [
+          "Dezena no sexto prêmio!<br>com o palpite 7668",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 7668"
+        ],
+        "7860": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 7860"
+        ],
+        "7868": [
+          "Dezena no sexto prêmio!<br>com o palpite 7868",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 7868"
+        ],
+        "8660": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 8660"
+        ],
+        "8668": [
+          "Dezena no sexto prêmio!<br>com o palpite 8668",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 8668"
+        ],
+        "8860": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 8860"
+        ],
+        "8868": [
+          "Dezena no sexto prêmio!<br>com o palpite 8868",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 8868"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 8,
+        "Grupo": [
+          "🐊",
+          "🐒"
+        ]
       },
       "resumo": "Palpites dados para esta extração: 2660, 2668, 2860, 2868, 6660, 6668, 6860, 6868, 7660, 7668, 7860, 7868, 8660, 8668, 8860, 8868"
     },
@@ -717,71 +777,98 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "7363",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "2758",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "7590",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "0004",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "4479",
+          "Milhar": "3077",
           "Grupo": "20",
           "Bicho": "Peru"
         },
         {
+          "Prêmio": "3º",
+          "Milhar": "5954",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6503",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
           "Prêmio": "5º",
-          "Milhar": "3246",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "0776",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "7704",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "2356",
+          "Grupo": "14",
+          "Bicho": "Gato"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "3504",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "7095",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "6907",
-          "Grupo": "02",
-          "Bicho": "Águia"
-        },
-        {
-          "Prêmio": "9º",
-          "Milhar": "3049",
+          "Milhar": "5750",
           "Grupo": "13",
           "Bicho": "Galo"
         },
         {
+          "Prêmio": "9º",
+          "Milhar": "8743",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
           "Prêmio": "10º",
-          "Milhar": "3846",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "3012",
+          "Grupo": "03",
+          "Bicho": "Burro"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2660": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 2660"
+        ],
+        "2860": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 2860"
+        ],
+        "6660": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 6660"
+        ],
+        "6860": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 6860"
+        ],
+        "7660": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 7660"
+        ],
+        "7860": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 7860"
+        ],
+        "8660": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 8660"
+        ],
+        "8860": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 8860"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐊"
+        ]
       },
       "resumo": "Palpites dados para esta extração: 2660, 2668, 2860, 2868, 6660, 6668, 6860, 6868, 7660, 7668, 7860, 7868, 8660, 8668, 8860, 8868"
     },
