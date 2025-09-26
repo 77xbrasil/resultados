@@ -314,6 +314,84 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 6000, 6020, 6030, 6050, 6080, 6200, 6220, 6230, 6250, 6280, 6300, 6320, 6330, 6350, 6380, 6600, 6620, 6630, 6650, 6680, 6800, 6820, 6830, 6850, 6880"
+    },
+    "PREFERIDA - MG, 21h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6566",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2151",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5790",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2355",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4412",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "21274",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "123",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "6050": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6050"
+        ],
+        "6250": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6250"
+        ],
+        "6350": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6350"
+        ],
+        "6650": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6650"
+        ],
+        "6850": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6850"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐓"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 6000, 6020, 6030, 6050, 6080, 6200, 6220, 6230, 6250, 6280, 6300, 6320, 6330, 6350, 6380, 6600, 6620, 6630, 6650, 6680, 6800, 6820, 6830, 6850, 6880"
     }
   }
 }
