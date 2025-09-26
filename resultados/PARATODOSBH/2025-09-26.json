@@ -70,19 +70,32 @@
         }
       ],
       "frases": {
+        "0808": [
+          "Dezena no terceiro prêmio!<br>com o palpite 0808",
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 0808"
+        ],
+        "0803": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0803"
+        ],
         "0833": [
           "COBRA 🐍 no nono prêmio!<br>com o palpite 0833"
+        ],
+        "0883": [
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 0883"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 1,
         "Grupo": [
-          "🐍"
+          "🦅",
+          "🪶",
+          "🐍",
+          "🐂"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0833"
+      "resumo": "Palpites dados para esta extração: 0803, 0808, 0833, 0838, 0883, 0888"
     },
     "12h - BA": {
       "cabecalhos": [
@@ -153,14 +166,25 @@
           "Bicho": "Borboleta"
         }
       ],
-      "frases": {},
+      "frases": {
+        "0838": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 0838",
+          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 0838"
+        ],
+        "0883": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 0883"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐇",
+          "🐂"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0833"
+      "resumo": "Palpites dados para esta extração: 0803, 0808, 0833, 0838, 0883, 0888"
     },
     "15h - BA": {
       "cabecalhos": [
@@ -235,6 +259,15 @@
         "0833": [
           "Dezena no quarto prêmio!<br>com o palpite 0833",
           "COBRA 🐍 no quarto prêmio!<br>com o palpite 0833"
+        ],
+        "0808": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 0808"
+        ],
+        "0838": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 0838"
+        ],
+        "0888": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 0888"
         ]
       },
       "acertos": {
@@ -242,10 +275,13 @@
         "Centena": 0,
         "Dezena": 1,
         "Grupo": [
-          "🐍"
+          "🐍",
+          "🦅",
+          "🐇",
+          "🐅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0833"
+      "resumo": "Palpites dados para esta extração: 0803, 0808, 0833, 0838, 0883, 0888"
     },
     "19h - BA": {
       "cabecalhos": [
@@ -317,6 +353,20 @@
         }
       ],
       "frases": {
+        "0883": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 0883"
+        ],
+        "0888": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 0888"
+        ],
+        "0808": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 0808"
+        ],
+        "0803": [
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 0803",
+          "Dezena no oitavo prêmio!<br>com o palpite 0803",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 0803"
+        ],
         "0833": [
           "Dezena no décimo prêmio!<br>com o palpite 0833",
           "COBRA 🐍 no décimo prêmio!<br>com o palpite 0833"
@@ -324,13 +374,17 @@
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 1,
+        "Centena": 1,
+        "Dezena": 2,
         "Grupo": [
+          "🐂",
+          "🐅",
+          "🦅",
+          "🪶",
           "🐍"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0833"
+      "resumo": "Palpites dados para esta extração: 0803, 0808, 0833, 0838, 0883, 0888"
     },
     "21h - BA": {
       "cabecalhos": [
