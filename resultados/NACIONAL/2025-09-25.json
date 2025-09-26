@@ -416,6 +416,78 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 5022, 5042, 5222, 5242, 5622, 5642"
+    },
+    "Nacional - LN 23:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8788",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7942",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2573",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1888",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1150",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2341",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "5042": [
+          "Dezena no segundo prêmio!<br>com o palpite 5042",
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 5042",
+          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 5042"
+        ],
+        "5242": [
+          "Dezena no segundo prêmio!<br>com o palpite 5242",
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 5242",
+          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 5242"
+        ],
+        "5642": [
+          "Dezena no segundo prêmio!<br>com o palpite 5642",
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 5642",
+          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 5642"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 3,
+        "Grupo": [
+          "🐎"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5022, 5042, 5222, 5242, 5622, 5642"
     }
   },
   "1-10": {
@@ -1055,6 +1127,109 @@
         "Grupo": [
           "🐐",
           "🐎"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5022, 5042, 5222, 5242, 5622, 5642"
+    },
+    "Nacional - LN 23:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8788",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7942",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2573",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1888",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1150",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "8721",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "7958",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8478",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8238",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "5736",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        }
+      ],
+      "frases": {
+        "5022": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 5022"
+        ],
+        "5042": [
+          "Dezena no segundo prêmio!<br>com o palpite 5042",
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 5042"
+        ],
+        "5222": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 5222"
+        ],
+        "5242": [
+          "Dezena no segundo prêmio!<br>com o palpite 5242",
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 5242"
+        ],
+        "5622": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 5622"
+        ],
+        "5642": [
+          "Dezena no segundo prêmio!<br>com o palpite 5642",
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 5642"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 3,
+        "Grupo": [
+          "🐎",
+          "🐐"
         ]
       },
       "resumo": "Palpites dados para esta extração: 5022, 5042, 5222, 5242, 5622, 5642"
