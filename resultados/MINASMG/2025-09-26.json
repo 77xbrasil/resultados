@@ -128,7 +128,7 @@
           "🐕"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1211, 1219, 1221, 1229, 1231, 1239, 4211, 4219, 4221, 4229, 4231, 4239, 5211, 5219, 5221, 5229, 5231, 5239, 7211, 7219, 7221, 7229, 7231, 7239, 8211, 8219, 8221, 8229, 8231, 8239"
+      "resumo": "Palpites dados para esta extração: 1211, 1219, 1221, 1229, 1231, 1239, 1241, 1249, 1261, 1269, 4211, 4219, 4221, 4229, 4231, 4239, 4241, 4249, 4261, 4269, 5211, 5219, 5221, 5229, 5231, 5239, 5241, 5249, 5261, 5269, 7211, 7219, 7221, 7229, 7231, 7239, 7241, 7249, 7261, 7269, 8211, 8219, 8221, 8229, 8231, 8239, 8241, 8249, 8261, 8269"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
@@ -279,7 +279,7 @@
           "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1211, 1219, 1221, 1229, 1231, 1239, 4211, 4219, 4221, 4229, 4231, 4239, 5211, 5219, 5221, 5229, 5231, 5239, 7211, 7219, 7221, 7229, 7231, 7239, 8211, 8219, 8221, 8229, 8231, 8239"
+      "resumo": "Palpites dados para esta extração: 1211, 1219, 1221, 1229, 1231, 1239, 1241, 1249, 1261, 1269, 4211, 4219, 4221, 4229, 4231, 4239, 4241, 4249, 4261, 4269, 5211, 5219, 5221, 5229, 5231, 5239, 5241, 5249, 5261, 5269, 7211, 7219, 7221, 7229, 7231, 7239, 7241, 7249, 7261, 7269, 8211, 8219, 8221, 8229, 8231, 8239, 8241, 8249, 8261, 8269"
     },
     "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
@@ -351,6 +351,15 @@
         "1239": [
           "COELHO 🐇 no quinto prêmio!<br>com o palpite 1239"
         ],
+        "1249": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 1249",
+          "Dezena no terceiro prêmio!<br>com o palpite 1249",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1249"
+        ],
+        "1261": [
+          "Dezena no segundo prêmio!<br>com o palpite 1261",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 1261"
+        ],
         "4211": [
           "Dezena no primeiro prêmio!<br>com o palpite 4211",
           "BURRO 🐴 no primeiro prêmio!<br>com o palpite 4211"
@@ -370,6 +379,15 @@
         "4239": [
           "COELHO 🐇 no quinto prêmio!<br>com o palpite 4239"
         ],
+        "4249": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 4249",
+          "Dezena no terceiro prêmio!<br>com o palpite 4249",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 4249"
+        ],
+        "4261": [
+          "Dezena no segundo prêmio!<br>com o palpite 4261",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 4261"
+        ],
         "5211": [
           "Dezena no primeiro prêmio!<br>com o palpite 5211",
           "BURRO 🐴 no primeiro prêmio!<br>com o palpite 5211"
@@ -387,6 +405,16 @@
         ],
         "5239": [
           "COELHO 🐇 no quinto prêmio!<br>com o palpite 5239"
+        ],
+        "5249": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 5249",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 5249",
+          "Dezena no terceiro prêmio!<br>com o palpite 5249",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 5249"
+        ],
+        "5261": [
+          "Dezena no segundo prêmio!<br>com o palpite 5261",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 5261"
         ],
         "7211": [
           "Dezena no primeiro prêmio!<br>com o palpite 7211",
@@ -406,6 +434,15 @@
         "7239": [
           "COELHO 🐇 no quinto prêmio!<br>com o palpite 7239"
         ],
+        "7249": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 7249",
+          "Dezena no terceiro prêmio!<br>com o palpite 7249",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 7249"
+        ],
+        "7261": [
+          "Dezena no segundo prêmio!<br>com o palpite 7261",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 7261"
+        ],
         "8211": [
           "Dezena no primeiro prêmio!<br>com o palpite 8211",
           "BURRO 🐴 no primeiro prêmio!<br>com o palpite 8211"
@@ -423,20 +460,31 @@
         ],
         "8239": [
           "COELHO 🐇 no quinto prêmio!<br>com o palpite 8239"
+        ],
+        "8249": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 8249",
+          "Dezena no terceiro prêmio!<br>com o palpite 8249",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 8249"
+        ],
+        "8261": [
+          "Dezena no segundo prêmio!<br>com o palpite 8261",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 8261"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 5,
-        "Dezena": 10,
+        "Milhar": 2,
+        "Centena": 10,
+        "Dezena": 20,
         "Grupo": [
           "🐴",
+          "🦁",
+          "🐓",
           "🐪",
           "🐇",
           "🐕"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1211, 1219, 1221, 1229, 1231, 1239, 4211, 4219, 4221, 4229, 4231, 4239, 5211, 5219, 5221, 5229, 5231, 5239, 7211, 7219, 7221, 7229, 7231, 7239, 8211, 8219, 8221, 8229, 8231, 8239"
+      "resumo": "Palpites dados para esta extração: 1211, 1219, 1221, 1229, 1231, 1239, 1241, 1249, 1261, 1269, 4211, 4219, 4221, 4229, 4231, 4239, 4241, 4249, 4261, 4269, 5211, 5219, 5221, 5229, 5231, 5239, 5241, 5249, 5261, 5269, 7211, 7219, 7221, 7229, 7231, 7239, 7241, 7249, 7261, 7269, 8211, 8219, 8221, 8229, 8231, 8239, 8241, 8249, 8261, 8269"
     },
     "PREFERIDA - MG, 21h": {
       "cabecalhos": [
