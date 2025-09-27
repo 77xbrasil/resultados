@@ -69,14 +69,38 @@
           "Bicho": "Jacaré"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2196": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 2196"
+        ],
+        "2197": [
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 2197"
+        ],
+        "2198": [
+          "Dezena no oitavo prêmio!<br>com o palpite 2198",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 2198"
+        ],
+        "2996": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 2996"
+        ],
+        "2997": [
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 2997"
+        ],
+        "2998": [
+          "Dezena no oitavo prêmio!<br>com o palpite 2998",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 2998"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🦌",
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 8102, 8106, 8107, 8108, 8502, 8506, 8507, 8508, 8702, 8706, 8707, 8708, 8902, 8906, 8907, 8908"
+      "resumo": "Palpites dados para esta extração: 2106, 2107, 2108, 2196, 2197, 2198, 2906, 2907, 2908, 2996, 2997, 2998"
     },
     "12h - MALUCA - BA": {
       "cabecalhos": [
@@ -147,14 +171,31 @@
           "Bicho": "Elefante"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2197": [
+          "Dezena no segundo prêmio!<br>com o palpite 2197",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2197"
+        ],
+        "2198": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2198"
+        ],
+        "2997": [
+          "Dezena no segundo prêmio!<br>com o palpite 2997",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2997"
+        ],
+        "2998": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2998"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 8102, 8106, 8107, 8108, 8502, 8506, 8507, 8508, 8702, 8706, 8707, 8708, 8902, 8906, 8907, 8908"
+      "resumo": "Palpites dados para esta extração: 2106, 2107, 2108, 2196, 2197, 2198, 2906, 2907, 2908, 2996, 2997, 2998"
     },
     "15h - MALUCA - BA": {
       "cabecalhos": [
@@ -232,7 +273,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8102, 8106, 8107, 8108, 8502, 8506, 8507, 8508, 8702, 8706, 8707, 8708, 8902, 8906, 8907, 8908"
+      "resumo": "Palpites dados para esta extração: 2106, 2107, 2108, 2196, 2197, 2198, 2906, 2907, 2908, 2996, 2997, 2998"
     },
     "19h - MALUCA - BA": {
       "cabecalhos": [
@@ -304,78 +345,36 @@
         }
       ],
       "frases": {
-        "8102": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 8102",
-          "Dezena no quarto prêmio!<br>com o palpite 8102",
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 8102",
-          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 8102"
+        "2106": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2106",
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 2106"
         ],
-        "8106": [
-          "Dezena no terceiro prêmio!<br>com o palpite 8106",
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 8106"
+        "2107": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 2107"
         ],
-        "8107": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 8107"
+        "2108": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 2108"
         ],
-        "8108": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 8108"
+        "2906": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2906",
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 2906"
         ],
-        "8502": [
-          "Dezena no quarto prêmio!<br>com o palpite 8502",
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 8502",
-          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 8502"
+        "2907": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 2907"
         ],
-        "8506": [
-          "Dezena no terceiro prêmio!<br>com o palpite 8506",
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 8506"
-        ],
-        "8507": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 8507"
-        ],
-        "8508": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 8508"
-        ],
-        "8702": [
-          "Dezena no quarto prêmio!<br>com o palpite 8702",
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 8702",
-          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 8702"
-        ],
-        "8706": [
-          "Dezena no terceiro prêmio!<br>com o palpite 8706",
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 8706"
-        ],
-        "8707": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 8707"
-        ],
-        "8708": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 8708"
-        ],
-        "8902": [
-          "Dezena no quarto prêmio!<br>com o palpite 8902",
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 8902",
-          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 8902"
-        ],
-        "8906": [
-          "Dezena no terceiro prêmio!<br>com o palpite 8906",
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 8906"
-        ],
-        "8907": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 8907"
-        ],
-        "8908": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 8908"
+        "2908": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 2908"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 8,
+        "Centena": 0,
+        "Dezena": 2,
         "Grupo": [
-          "🦅",
-          "🪶"
+          "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8102, 8106, 8107, 8108, 8502, 8506, 8507, 8508, 8702, 8706, 8707, 8708, 8902, 8906, 8907, 8908"
+      "resumo": "Palpites dados para esta extração: 2106, 2107, 2108, 2196, 2197, 2198, 2906, 2907, 2908, 2996, 2997, 2998"
     },
     "21h - MALUCA - BA": {
       "cabecalhos": [
@@ -447,76 +446,63 @@
         }
       ],
       "frases": {
-        "8102": [
-          "Dezena no oitavo prêmio!<br>com o palpite 8102",
-          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 8102"
+        "2106": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 2106",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 2106",
+          "Dezena no quinto prêmio!<br>com o palpite 2106",
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2106"
         ],
-        "8106": [
-          "Centena e Dezena no quinto prêmio!<br>com o palpite 8106",
-          "Dezena no quinto prêmio!<br>com o palpite 8106",
-          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 8106"
+        "2107": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2107"
         ],
-        "8107": [
-          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 8107"
+        "2108": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2108"
         ],
-        "8108": [
-          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 8108"
+        "2196": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 2196",
+          "Dezena no sétimo prêmio!<br>com o palpite 2196",
+          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 2196"
         ],
-        "8502": [
-          "Dezena no oitavo prêmio!<br>com o palpite 8502",
-          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 8502"
+        "2197": [
+          "Dezena no décimo prêmio!<br>com o palpite 2197",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 2197"
         ],
-        "8506": [
-          "Dezena no quinto prêmio!<br>com o palpite 8506",
-          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 8506"
+        "2198": [
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 2198"
         ],
-        "8507": [
-          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 8507"
+        "2906": [
+          "Dezena no quinto prêmio!<br>com o palpite 2906",
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2906"
         ],
-        "8508": [
-          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 8508"
+        "2907": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2907"
         ],
-        "8702": [
-          "Dezena no oitavo prêmio!<br>com o palpite 8702",
-          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 8702"
+        "2908": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2908"
         ],
-        "8706": [
-          "Dezena no quinto prêmio!<br>com o palpite 8706",
-          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 8706"
+        "2996": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2996",
+          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 2996"
         ],
-        "8707": [
-          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 8707"
+        "2997": [
+          "Dezena no décimo prêmio!<br>com o palpite 2997",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 2997"
         ],
-        "8708": [
-          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 8708"
-        ],
-        "8902": [
-          "Milhar e Centena no oitavo prêmio!<br>com o palpite 8902",
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 8902",
-          "Dezena no oitavo prêmio!<br>com o palpite 8902",
-          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 8902"
-        ],
-        "8906": [
-          "Dezena no quinto prêmio!<br>com o palpite 8906",
-          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 8906"
-        ],
-        "8907": [
-          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 8907"
-        ],
-        "8908": [
-          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 8908"
+        "2998": [
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 2998"
         ]
       },
       "acertos": {
         "Milhar": 1,
         "Centena": 2,
-        "Dezena": 8,
+        "Dezena": 6,
         "Grupo": [
           "🦅",
-          "🪶"
+          "🦌",
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8102, 8106, 8107, 8108, 8502, 8506, 8507, 8508, 8702, 8706, 8707, 8708, 8902, 8906, 8907, 8908"
+      "resumo": "Palpites dados para esta extração: 2106, 2107, 2108, 2196, 2197, 2198, 2906, 2907, 2908, 2996, 2997, 2998"
     }
   }
 }
