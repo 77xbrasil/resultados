@@ -530,87 +530,156 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "9395",
-          "Grupo": "24",
-          "Bicho": "Veado"
+          "Milhar": "1965",
+          "Grupo": "17",
+          "Bicho": "Macaco"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "9334",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "5388",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "3046",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "6952",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "5537",
+          "Milhar": "4971",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5338",
           "Grupo": "10",
           "Bicho": "Coelho"
         },
         {
-          "Prêmio": "5º",
-          "Milhar": "9164",
-          "Grupo": "16",
-          "Bicho": "Leão"
-        },
-        {
           "Prêmio": "6º",
-          "Milhar": "4248",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "0588",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "8999",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "0272",
+          "Grupo": "18",
+          "Bicho": "Porco"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "0227",
+          "Milhar": "1124",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "2626",
           "Grupo": "07",
           "Bicho": "Carneiro"
         },
         {
-          "Prêmio": "9º",
-          "Milhar": "8353",
-          "Grupo": "14",
-          "Bicho": "Gato"
-        },
-        {
           "Prêmio": "10º",
-          "Milhar": "0932",
-          "Grupo": "08",
-          "Bicho": "Camelo"
+          "Milhar": "8995",
+          "Grupo": "24",
+          "Bicho": "Veado"
         }
       ],
       "frases": {
-        "9334": [
-          "Milhar e Centena no segundo prêmio!<br>com o palpite 9334",
-          "Centena e Dezena no segundo prêmio!<br>com o palpite 9334",
-          "Dezena no segundo prêmio!<br>com o palpite 9334",
-          "COBRA 🐍 no segundo prêmio!<br>com o palpite 9334"
+        "1071": [
+          "Dezena no quarto prêmio!<br>com o palpite 1071",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 1071",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 1071"
         ],
-        "9337": [
-          "Dezena no quarto prêmio!<br>com o palpite 9337",
-          "COELHO 🐇 no quarto prêmio!<br>com o palpite 9337"
+        "1271": [
+          "Dezena no quarto prêmio!<br>com o palpite 1271",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 1271",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 1271"
+        ],
+        "1371": [
+          "Dezena no quarto prêmio!<br>com o palpite 1371",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 1371",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 1371"
+        ],
+        "1671": [
+          "Dezena no quarto prêmio!<br>com o palpite 1671",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 1671",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 1671"
+        ],
+        "3071": [
+          "Dezena no quarto prêmio!<br>com o palpite 3071",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 3071",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 3071"
+        ],
+        "3271": [
+          "Dezena no quarto prêmio!<br>com o palpite 3271",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 3271",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 3271"
+        ],
+        "3371": [
+          "Dezena no quarto prêmio!<br>com o palpite 3371",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 3371",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 3371"
+        ],
+        "3671": [
+          "Dezena no quarto prêmio!<br>com o palpite 3671",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 3671",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 3671"
+        ],
+        "4071": [
+          "Dezena no quarto prêmio!<br>com o palpite 4071",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 4071",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 4071"
+        ],
+        "4271": [
+          "Dezena no quarto prêmio!<br>com o palpite 4271",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 4271",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 4271"
+        ],
+        "4371": [
+          "Dezena no quarto prêmio!<br>com o palpite 4371",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 4371",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 4371"
+        ],
+        "4671": [
+          "Dezena no quarto prêmio!<br>com o palpite 4671",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 4671",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 4671"
+        ],
+        "0071": [
+          "Dezena no quarto prêmio!<br>com o palpite 0071",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 0071",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 0071"
+        ],
+        "0271": [
+          "Dezena no quarto prêmio!<br>com o palpite 0271",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 0271",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 0271"
+        ],
+        "0371": [
+          "Dezena no quarto prêmio!<br>com o palpite 0371",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 0371",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 0371"
+        ],
+        "0671": [
+          "Dezena no quarto prêmio!<br>com o palpite 0671",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 0671",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 0671"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 1,
-        "Dezena": 2,
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 16,
         "Grupo": [
-          "🐍",
-          "🐇"
+          "🐖"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9334, 9337"
+      "resumo": "Palpites dados para esta extração: 0001, 0009, 0071, 0079, 0201, 0209, 0271, 0279, 0301, 0309, 0371, 0379, 0601, 0609, 0671, 0679, 1001, 1009, 1071, 1079, 1201, 1209, 1271, 1279, 1301, 1309, 1371, 1379, 1601, 1609, 1671, 1679, 3001, 3009, 3071, 3079, 3201, 3209, 3271, 3279, 3301, 3309, 3371, 3379, 3601, 3609, 3671, 3679, 4001, 4009, 4071, 4079, 4201, 4209, 4271, 4279, 4301, 4309, 4371, 4379, 4601, 4609, 4671, 4679"
     },
     "LOTECE - CE, 12:00 (manhã)": {
       "cabecalhos": [
