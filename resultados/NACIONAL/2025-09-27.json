@@ -52,7 +52,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3950, 3953, 8950, 8953"
+      "resumo": "Palpites dados para esta extração: 1952, 1953, 3952, 3953, 8952, 8953"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -100,6 +100,10 @@
         }
       ],
       "frases": {
+        "1953": [
+          "Dezena no quinto prêmio!<br>com o palpite 1953",
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1953"
+        ],
         "3953": [
           "Dezena no quinto prêmio!<br>com o palpite 3953",
           "GATO 🐈 no quinto prêmio!<br>com o palpite 3953"
@@ -112,12 +116,12 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 3,
         "Grupo": [
           "🐈"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3950, 3953, 8950, 8953"
+      "resumo": "Palpites dados para esta extração: 1952, 1953, 3952, 3953, 8952, 8953"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -165,6 +169,9 @@
         }
       ],
       "frases": {
+        "1953": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1953"
+        ],
         "3953": [
           "GATO 🐈 no terceiro prêmio!<br>com o palpite 3953"
         ],
@@ -180,7 +187,7 @@
           "🐈"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3950, 3953, 8950, 8953"
+      "resumo": "Palpites dados para esta extração: 1952, 1953, 3952, 3953, 8952, 8953"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -547,24 +554,25 @@
         }
       ],
       "frases": {
-        "3950": [
-          "Dezena no sétimo prêmio!<br>com o palpite 3950",
-          "GALO 🐓 no sétimo prêmio!<br>com o palpite 3950"
+        "1952": [
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 1952"
         ],
-        "8950": [
-          "Dezena no sétimo prêmio!<br>com o palpite 8950",
-          "GALO 🐓 no sétimo prêmio!<br>com o palpite 8950"
+        "3952": [
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 3952"
+        ],
+        "8952": [
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 8952"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 0,
         "Grupo": [
           "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3950, 3953, 8950, 8953"
+      "resumo": "Palpites dados para esta extração: 1952, 1953, 3952, 3953, 8952, 8953"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -636,6 +644,10 @@
         }
       ],
       "frases": {
+        "1953": [
+          "Dezena no quinto prêmio!<br>com o palpite 1953",
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1953"
+        ],
         "3953": [
           "Dezena no quinto prêmio!<br>com o palpite 3953",
           "GATO 🐈 no quinto prêmio!<br>com o palpite 3953"
@@ -648,12 +660,12 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 3,
         "Grupo": [
           "🐈"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3950, 3953, 8950, 8953"
+      "resumo": "Palpites dados para esta extração: 1952, 1953, 3952, 3953, 8952, 8953"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -725,10 +737,22 @@
         }
       ],
       "frases": {
-        "3950": [
-          "GALO 🐓 no sexto prêmio!<br>com o palpite 3950",
-          "Dezena no nono prêmio!<br>com o palpite 3950",
-          "GALO 🐓 no nono prêmio!<br>com o palpite 3950"
+        "1952": [
+          "Dezena no sexto prêmio!<br>com o palpite 1952",
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 1952",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 1952"
+        ],
+        "1953": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1953",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 1953",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 1953",
+          "Dezena no décimo prêmio!<br>com o palpite 1953",
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 1953"
+        ],
+        "3952": [
+          "Dezena no sexto prêmio!<br>com o palpite 3952",
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 3952",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 3952"
         ],
         "3953": [
           "GATO 🐈 no terceiro prêmio!<br>com o palpite 3953",
@@ -737,10 +761,10 @@
           "Dezena no décimo prêmio!<br>com o palpite 3953",
           "GATO 🐈 no décimo prêmio!<br>com o palpite 3953"
         ],
-        "8950": [
-          "GALO 🐓 no sexto prêmio!<br>com o palpite 8950",
-          "Dezena no nono prêmio!<br>com o palpite 8950",
-          "GALO 🐓 no nono prêmio!<br>com o palpite 8950"
+        "8952": [
+          "Dezena no sexto prêmio!<br>com o palpite 8952",
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 8952",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 8952"
         ],
         "8953": [
           "GATO 🐈 no terceiro prêmio!<br>com o palpite 8953",
@@ -752,14 +776,14 @@
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 2,
-        "Dezena": 4,
+        "Centena": 3,
+        "Dezena": 6,
         "Grupo": [
           "🐈",
           "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3950, 3953, 8950, 8953"
+      "resumo": "Palpites dados para esta extração: 1952, 1953, 3952, 3953, 8952, 8953"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
