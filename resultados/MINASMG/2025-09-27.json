@@ -51,14 +51,26 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3317": [
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 3317"
+        ],
+        "3387": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 3387",
+          "Dezena no sétimo prêmio!<br>com o palpite 3387",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 3387"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 1,
+        "Grupo": [
+          "🐕",
+          "🐅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3357"
+      "resumo": "Palpites dados para esta extração: 3307, 3317, 3347, 3357, 3387"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
@@ -111,14 +123,38 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3307": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3307",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3307",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 3307"
+        ],
+        "3317": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 3317",
+          "Dezena no segundo prêmio!<br>com o palpite 3317",
+          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 3317"
+        ],
+        "3347": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 3347",
+          "Dezena no quinto prêmio!<br>com o palpite 3347",
+          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 3347"
+        ],
+        "3387": [
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 3387"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 2,
+        "Dezena": 3,
+        "Grupo": [
+          "🦅",
+          "🐕",
+          "🐅",
+          "🐘"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3357"
+      "resumo": "Palpites dados para esta extração: 3307, 3317, 3347, 3357, 3387"
     },
     "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
@@ -318,6 +354,10 @@
         }
       ],
       "frases": {
+        "3347": [
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 3347",
+          "ELEFANTE 🐘 no sétimo prêmio!<br>com o palpite 3347"
+        ],
         "3357": [
           "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 3357"
         ]
@@ -327,10 +367,11 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
+          "🐘",
           "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3357"
+      "resumo": "Palpites dados para esta extração: 3307, 3317, 3347, 3357, 3387"
     }
   }
 }
