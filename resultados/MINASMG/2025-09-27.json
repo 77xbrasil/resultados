@@ -10,58 +10,67 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "2847",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "4302",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "5029",
-          "Grupo": "08",
-          "Bicho": "Camelo"
+          "Milhar": "9853",
+          "Grupo": "14",
+          "Bicho": "Gato"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "8422",
-          "Grupo": "06",
-          "Bicho": "Cabra"
+          "Milhar": "6151",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "9065",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "3154",
+          "Grupo": "14",
+          "Bicho": "Gato"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "1691",
-          "Grupo": "23",
-          "Bicho": "Urso"
+          "Milhar": "4319",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "27054",
+          "Milhar": "27779",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "317",
+          "Milhar": "387",
           "Grupo": "",
           "Bicho": ""
         }
       ],
       "frases": {
+        "3250": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 3250"
+        ],
+        "3252": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 3252"
+        ],
         "3253": [
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 3253"
+          "Dezena no segundo prêmio!<br>com o palpite 3253",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 3253",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 3253"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 1,
         "Grupo": [
-          "🐈"
+          "🐈",
+          "🐓"
         ]
       },
       "resumo": "Palpites dados para esta extração: 3250, 3252, 3253, 3257, 3258"
