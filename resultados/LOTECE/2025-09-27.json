@@ -154,6 +154,10 @@
         }
       ],
       "frases": {
+        "5331": [
+          "Dezena no segundo prêmio!<br>com o palpite 5331",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 5331"
+        ],
         "5338": [
           "COELHO 🐇 no primeiro prêmio!<br>com o palpite 5338",
           "Dezena no quarto prêmio!<br>com o palpite 5338",
@@ -162,17 +166,27 @@
           "Centena e Dezena no sexto prêmio!<br>com o palpite 5338",
           "Dezena no sexto prêmio!<br>com o palpite 5338",
           "COELHO 🐇 no sexto prêmio!<br>com o palpite 5338"
+        ],
+        "5339": [
+          "COELHO 🐇 no primeiro prêmio!<br>com o palpite 5339",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 5339",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 5339"
+        ],
+        "5361": [
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 5361"
         ]
       },
       "acertos": {
         "Milhar": 1,
         "Centena": 1,
-        "Dezena": 2,
+        "Dezena": 3,
         "Grupo": [
-          "🐇"
+          "🐇",
+          "🐪",
+          "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5338"
+      "resumo": "Palpites dados para esta extração: 5301, 5308, 5309, 5331, 5338, 5339, 5361, 5368, 5369, 5371, 5378, 5379"
     },
     "LOTECE - CE, 15:45 (tarde II)": {
       "cabecalhos": [
@@ -243,14 +257,50 @@
           "Bicho": "Vaca"
         }
       ],
-      "frases": {},
+      "frases": {
+        "5301": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5301",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 5301",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 5301"
+        ],
+        "5368": [
+          "Dezena no quinto prêmio!<br>com o palpite 5368",
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 5368"
+        ],
+        "5369": [
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 5369",
+          "Dezena no terceiro prêmio!<br>com o palpite 5369",
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 5369",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 5369"
+        ],
+        "5371": [
+          "Dezena no segundo prêmio!<br>com o palpite 5371",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 5371",
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 5371",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 5371",
+          "Dezena no oitavo prêmio!<br>com o palpite 5371",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 5371"
+        ],
+        "5378": [
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 5378"
+        ],
+        "5379": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5379",
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 5379"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 6,
+        "Grupo": [
+          "🪶",
+          "🐖",
+          "🐒",
+          "🦃"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5338"
+      "resumo": "Palpites dados para esta extração: 5301, 5308, 5309, 5331, 5338, 5339, 5361, 5368, 5369, 5371, 5378, 5379"
     },
     "LOTECE - CE, 19:00 (noite)": {
       "cabecalhos": [
@@ -413,14 +463,31 @@
           "Bicho": "Camelo"
         }
       ],
-      "frases": {},
+      "frases": {
+        "5309": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5309",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 5309"
+        ],
+        "5331": [
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 5331",
+          "Dezena no décimo prêmio!<br>com o palpite 5331",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 5331"
+        ],
+        "5368": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 5368"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐴",
+          "🐪",
+          "🐒"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5338"
+      "resumo": "Palpites dados para esta extração: 5301, 5308, 5309, 5331, 5338, 5339, 5361, 5368, 5369, 5371, 5378, 5379"
     }
   }
 }
