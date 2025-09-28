@@ -69,14 +69,53 @@
           "Bicho": "Cobra"
         }
       ],
-      "frases": {},
+      "frases": {
+        "7004": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 7004"
+        ],
+        "7034": [
+          "Dezena no décimo prêmio!<br>com o palpite 7034",
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 7034"
+        ],
+        "7054": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 7054",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 7054"
+        ],
+        "7104": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 7104"
+        ],
+        "7134": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 7134",
+          "Dezena no décimo prêmio!<br>com o palpite 7134",
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 7134"
+        ],
+        "7154": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 7154",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 7154"
+        ],
+        "7904": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 7904"
+        ],
+        "7934": [
+          "Dezena no décimo prêmio!<br>com o palpite 7934",
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 7934"
+        ],
+        "7954": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 7954",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 7954"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 3,
+        "Grupo": [
+          "🪶",
+          "🐈",
+          "🐍"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7124, 7924"
+      "resumo": "Palpites dados para esta extração: 7004, 7024, 7034, 7054, 7064, 7074, 7084, 7094, 7104, 7124, 7134, 7154, 7164, 7174, 7184, 7194, 7904, 7924, 7934, 7954, 7964, 7974, 7984, 7994"
     },
     "12h - BA": {
       "cabecalhos": [
@@ -148,26 +187,78 @@
         }
       ],
       "frases": {
+        "7004": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 7004"
+        ],
+        "7024": [
+          "Dezena no segundo prêmio!<br>com o palpite 7024",
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 7024"
+        ],
+        "7054": [
+          "Dezena no quinto prêmio!<br>com o palpite 7054",
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7054"
+        ],
+        "7074": [
+          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 7074"
+        ],
+        "7084": [
+          "Dezena no quarto prêmio!<br>com o palpite 7084",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 7084"
+        ],
+        "7104": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 7104"
+        ],
         "7124": [
           "Dezena no segundo prêmio!<br>com o palpite 7124",
           "CABRA 🐐 no segundo prêmio!<br>com o palpite 7124"
+        ],
+        "7154": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 7154",
+          "Dezena no quinto prêmio!<br>com o palpite 7154",
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7154"
+        ],
+        "7174": [
+          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 7174"
+        ],
+        "7184": [
+          "Dezena no quarto prêmio!<br>com o palpite 7184",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 7184"
+        ],
+        "7904": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 7904"
         ],
         "7924": [
           "Milhar e Centena no segundo prêmio!<br>com o palpite 7924",
           "Centena e Dezena no segundo prêmio!<br>com o palpite 7924",
           "Dezena no segundo prêmio!<br>com o palpite 7924",
           "CABRA 🐐 no segundo prêmio!<br>com o palpite 7924"
+        ],
+        "7954": [
+          "Dezena no quinto prêmio!<br>com o palpite 7954",
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7954"
+        ],
+        "7974": [
+          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 7974"
+        ],
+        "7984": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 7984",
+          "Dezena no quarto prêmio!<br>com o palpite 7984",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 7984"
         ]
       },
       "acertos": {
         "Milhar": 1,
-        "Centena": 1,
-        "Dezena": 2,
+        "Centena": 3,
+        "Dezena": 9,
         "Grupo": [
-          "🐐"
+          "🐐",
+          "🦚",
+          "🐂",
+          "🐈",
+          "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7124, 7924"
+      "resumo": "Palpites dados para esta extração: 7004, 7024, 7034, 7054, 7064, 7074, 7084, 7094, 7104, 7124, 7134, 7154, 7164, 7174, 7184, 7194, 7904, 7924, 7934, 7954, 7964, 7974, 7984, 7994"
     },
     "15h - BA": {
       "cabecalhos": [
@@ -238,14 +329,63 @@
           "Bicho": "Vaca"
         }
       ],
-      "frases": {},
+      "frases": {
+        "7034": [
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 7034"
+        ],
+        "7054": [
+          "Dezena no segundo prêmio!<br>com o palpite 7054",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 7054"
+        ],
+        "7064": [
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 7064"
+        ],
+        "7094": [
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 7094",
+          "Dezena no oitavo prêmio!<br>com o palpite 7094",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 7094"
+        ],
+        "7134": [
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 7134"
+        ],
+        "7154": [
+          "Dezena no segundo prêmio!<br>com o palpite 7154",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 7154"
+        ],
+        "7164": [
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 7164"
+        ],
+        "7194": [
+          "Dezena no oitavo prêmio!<br>com o palpite 7194",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 7194"
+        ],
+        "7934": [
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 7934"
+        ],
+        "7954": [
+          "Dezena no segundo prêmio!<br>com o palpite 7954",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 7954"
+        ],
+        "7964": [
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 7964"
+        ],
+        "7994": [
+          "Dezena no oitavo prêmio!<br>com o palpite 7994",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 7994"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 6,
+        "Grupo": [
+          "🐈",
+          "🐍",
+          "🦁",
+          "🦌"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7124, 7924"
+      "resumo": "Palpites dados para esta extração: 7004, 7024, 7034, 7054, 7064, 7074, 7084, 7094, 7104, 7124, 7134, 7154, 7164, 7174, 7184, 7194, 7904, 7924, 7934, 7954, 7964, 7974, 7984, 7994"
     }
   }
 }
