@@ -707,6 +707,88 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 0015, 0055, 0065, 0085, 6015, 6055, 6065, 6085, 9015, 9055, 9065, 9085"
+    },
+    "SP, 19hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6882",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2922",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9691",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5788",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4933",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "0216",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "109",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "6015": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 6015"
+        ],
+        "6085": [
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 6085"
+        ],
+        "9015": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 9015"
+        ],
+        "9085": [
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 9085"
+        ],
+        "0085": [
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 0085"
+        ],
+        "0015": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 0015"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐅",
+          "🦋"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0015, 0055, 0065, 0085, 6015, 6055, 6065, 6085, 9015, 9055, 9065, 9085"
     }
   },
   "1-10": {
@@ -1553,6 +1635,106 @@
           "🐅",
           "🐒",
           "🐈"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0015, 0055, 0065, 0085, 6015, 6055, 6065, 6085, 9015, 9055, 9065, 9085"
+    },
+    "SP, 19hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6882",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2922",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9691",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5788",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4933",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "6295",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8967",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8298",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "2218",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "5994",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        }
+      ],
+      "frases": {
+        "6065": [
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 6065"
+        ],
+        "6085": [
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 6085"
+        ],
+        "9065": [
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 9065"
+        ],
+        "9085": [
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 9085"
+        ],
+        "0085": [
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 0085"
+        ],
+        "0065": [
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 0065"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐅",
+          "🐒"
         ]
       },
       "resumo": "Palpites dados para esta extração: 0015, 0055, 0065, 0085, 6015, 6055, 6065, 6085, 9015, 9055, 9065, 9085"
