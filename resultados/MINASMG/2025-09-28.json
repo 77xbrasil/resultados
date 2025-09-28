@@ -278,14 +278,47 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1777": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 1777",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 1777"
+        ],
+        "1778": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 1778",
+          "Dezena no primeiro prêmio!<br>com o palpite 1778",
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 1778",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 1778"
+        ],
+        "1779": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 1779",
+          "Dezena no terceiro prêmio!<br>com o palpite 1779",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 1779"
+        ],
+        "1782": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1782",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 1782"
+        ],
+        "1783": [
+          "Dezena no segundo prêmio!<br>com o palpite 1783",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1783",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 1783"
+        ],
+        "1784": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1784",
+          "Dezena no quarto prêmio!<br>com o palpite 1784",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 1784"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 4,
+        "Grupo": [
+          "🦃",
+          "🐂"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1387, 1687, 1787, 3387, 3687, 3787, 5387, 5687, 5787, 6387, 6687, 6787"
+      "resumo": "Palpites dados para esta extração: 1772, 1773, 1774, 1777, 1778, 1779, 1782, 1783, 1784, 1787, 1788, 1789"
     }
   }
 }
