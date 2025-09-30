@@ -69,14 +69,20 @@
           "Bicho": "Galo"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2851": [
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 2851"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐓"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2813"
+      "resumo": "Palpites dados para esta extração: 2811, 2851"
     },
     "12h - BA": {
       "cabecalhos": [
@@ -147,14 +153,20 @@
           "Bicho": "Porco"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2851": [
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2851"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐓"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2813"
+      "resumo": "Palpites dados para esta extração: 2811, 2851"
     },
     "15h - BA": {
       "cabecalhos": [
@@ -225,22 +237,14 @@
           "Bicho": "Gato"
         }
       ],
-      "frases": {
-        "2813": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 2813",
-          "Dezena no nono prêmio!<br>com o palpite 2813",
-          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 2813"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
-        "Grupo": [
-          "🦋"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2813"
+      "resumo": "Palpites dados para esta extração: 2811, 2851"
     },
     "19h - BA": {
       "cabecalhos": [
@@ -311,14 +315,29 @@
           "Bicho": "Cabra"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2811": [
+          "Dezena no quarto prêmio!<br>com o palpite 2811",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 2811",
+          "Dezena no sétimo prêmio!<br>com o palpite 2811",
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 2811"
+        ],
+        "2851": [
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 2851",
+          "Dezena no nono prêmio!<br>com o palpite 2851",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 2851"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 3,
+        "Grupo": [
+          "🐴",
+          "🐓"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2813"
+      "resumo": "Palpites dados para esta extração: 2811, 2851"
     }
   }
 }
