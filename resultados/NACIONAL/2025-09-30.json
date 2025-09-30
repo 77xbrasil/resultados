@@ -107,6 +107,76 @@
         "Grupo": []
       },
       "resumo": "Nenhum palpite processado."
+    },
+    "Nacional - LN 10:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0407",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1896",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3367",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5045",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2935",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "3650",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "3846": [
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 3846"
+        ],
+        "4667": [
+          "Dezena no terceiro prêmio!<br>com o palpite 4667",
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 4667"
+        ],
+        "6107": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6107",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 6107"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🦅",
+          "🐒",
+          "🐘"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3337, 8926, 4667, 6107, 2423, 3846, 3961, 3260, 7677, 4204"
     }
   },
   "1-10": {
@@ -360,6 +430,173 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 3337, 8926, 4667, 6107, 2423, 3846, 3961, 3260, 7677, 4204"
+    },
+    "Nacional - LN 10:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0407",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1896",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3367",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5045",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2935",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0135",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4830",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "0964",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "7675",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7254",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        }
+      ],
+      "frases": {
+        "1896": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 1896",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 1896",
+          "Dezena no segundo prêmio!<br>com o palpite 1896",
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 1896"
+        ],
+        "2935": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 2935",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 2935",
+          "Dezena no quinto prêmio!<br>com o palpite 2935",
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 2935",
+          "Dezena no sexto prêmio!<br>com o palpite 2935",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 2935"
+        ],
+        "3367": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 3367",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 3367",
+          "Dezena no terceiro prêmio!<br>com o palpite 3367",
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 3367"
+        ],
+        "3846": [
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 3846"
+        ],
+        "3961": [
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 3961"
+        ],
+        "4667": [
+          "Dezena no terceiro prêmio!<br>com o palpite 4667",
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 4667"
+        ],
+        "4830": [
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 4830",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 4830",
+          "Dezena no sétimo prêmio!<br>com o palpite 4830",
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 4830"
+        ],
+        "5045": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 5045",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 5045",
+          "Dezena no quarto prêmio!<br>com o palpite 5045",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 5045"
+        ],
+        "6107": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6107",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 6107"
+        ],
+        "7254": [
+          "Milhar e Centena no décimo prêmio!<br>com o palpite 7254",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 7254",
+          "Dezena no décimo prêmio!<br>com o palpite 7254",
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 7254"
+        ],
+        "7675": [
+          "Milhar e Centena no nono prêmio!<br>com o palpite 7675",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 7675",
+          "Dezena no nono prêmio!<br>com o palpite 7675",
+          "PAVÃO 🦚 no nono prêmio!<br>com o palpite 7675"
+        ],
+        "0407": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 0407",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 0407",
+          "Dezena no primeiro prêmio!<br>com o palpite 0407",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 0407"
+        ],
+        "0135": [
+          "Dezena no quinto prêmio!<br>com o palpite 0135",
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 0135",
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 0135",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 0135",
+          "Dezena no sexto prêmio!<br>com o palpite 0135",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 0135"
+        ],
+        "0964": [
+          "Milhar e Centena no oitavo prêmio!<br>com o palpite 0964",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 0964",
+          "Dezena no oitavo prêmio!<br>com o palpite 0964",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 0964"
+        ]
+      },
+      "acertos": {
+        "Milhar": 10,
+        "Centena": 20,
+        "Dezena": 24,
+        "Grupo": [
+          "🦅",
+          "🦌",
+          "🐒",
+          "🐘",
+          "🐍",
+          "🐪",
+          "🦁",
+          "🦚",
+          "🐈"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0407, 1896, 3367, 5045, 2935, 0135, 4830, 0964, 7675, 7254, 3337, 8926, 4667, 6107, 2423, 3846, 3961, 3260, 7677, 4204"
     }
   }
 }
