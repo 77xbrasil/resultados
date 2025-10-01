@@ -46,11 +46,29 @@
         }
       ],
       "frases": {
-        "0282": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 0282"
+        "0182": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 0182"
+        ],
+        "0184": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 0184"
         ],
         "0682": [
           "TOURO 🐂 no terceiro prêmio!<br>com o palpite 0682"
+        ],
+        "0684": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 0684"
+        ],
+        "0132": [
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 0132"
+        ],
+        "0632": [
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 0632"
+        ],
+        "0126": [
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 0126"
+        ],
+        "0626": [
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 0626"
         ]
       },
       "acertos": {
@@ -58,10 +76,12 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐂"
+          "🐂",
+          "🐪",
+          "🐑"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0282, 0682"
+      "resumo": "Palpites dados para esta extração: 0122, 0124, 0126, 0132, 0134, 0136, 0182, 0184, 0186, 0622, 0624, 0626, 0632, 0634, 0636, 0682, 0684, 0686"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -108,14 +128,30 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "0126": [
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 0126"
+        ],
+        "0626": [
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 0626"
+        ],
+        "0132": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 0132"
+        ],
+        "0632": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 0632"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐑",
+          "🐪"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0282, 0682"
+      "resumo": "Palpites dados para esta extração: 0122, 0124, 0126, 0132, 0134, 0136, 0182, 0184, 0186, 0622, 0624, 0626, 0632, 0634, 0636, 0682, 0684, 0686"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -127,49 +163,58 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "0407",
-          "Grupo": "02",
-          "Bicho": "Águia"
+          "Milhar": "3991",
+          "Grupo": "23",
+          "Bicho": "Urso"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "1896",
-          "Grupo": "24",
-          "Bicho": "Veado"
+          "Milhar": "3599",
+          "Grupo": "25",
+          "Bicho": "Vaca"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "3367",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "2288",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "5045",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "9503",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "2935",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "3717",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "3650",
+          "Milhar": "3098",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "0186": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 0186"
+        ],
+        "0686": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 0686"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 9909, 9969"
+      "resumo": "Palpites dados para esta extração: 0122, 0124, 0126, 0132, 0134, 0136, 0182, 0184, 0186, 0622, 0624, 0626, 0632, 0634, 0636, 0682, 0684, 0686"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -530,27 +575,62 @@
         }
       ],
       "frases": {
-        "0282": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 0282",
-          "Dezena no sétimo prêmio!<br>com o palpite 0282",
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 0282"
+        "0182": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 0182",
+          "Dezena no sétimo prêmio!<br>com o palpite 0182",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 0182"
+        ],
+        "0184": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 0184",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 0184"
         ],
         "0682": [
           "TOURO 🐂 no terceiro prêmio!<br>com o palpite 0682",
           "Centena e Dezena no sétimo prêmio!<br>com o palpite 0682",
           "Dezena no sétimo prêmio!<br>com o palpite 0682",
           "TOURO 🐂 no sétimo prêmio!<br>com o palpite 0682"
+        ],
+        "0684": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 0684",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 0684"
+        ],
+        "0132": [
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 0132",
+          "Dezena no nono prêmio!<br>com o palpite 0132",
+          "CAMELO 🐪 no nono prêmio!<br>com o palpite 0132"
+        ],
+        "0632": [
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 0632",
+          "Dezena no nono prêmio!<br>com o palpite 0632",
+          "CAMELO 🐪 no nono prêmio!<br>com o palpite 0632"
+        ],
+        "0186": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0186",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 0186"
+        ],
+        "0686": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0686",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 0686"
+        ],
+        "0126": [
+          "CARNEIRO 🐑 no décimo prêmio!<br>com o palpite 0126"
+        ],
+        "0626": [
+          "CARNEIRO 🐑 no décimo prêmio!<br>com o palpite 0626"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 1,
-        "Dezena": 2,
+        "Dezena": 6,
         "Grupo": [
-          "🐂"
+          "🐂",
+          "🐪",
+          "🐅",
+          "🐑"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0282, 0682"
+      "resumo": "Palpites dados para esta extração: 0122, 0124, 0126, 0132, 0134, 0136, 0182, 0184, 0186, 0622, 0624, 0626, 0632, 0634, 0636, 0682, 0684, 0686"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -622,22 +702,46 @@
         }
       ],
       "frases": {
-        "0282": [
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 0282"
+        "0126": [
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 0126"
+        ],
+        "0626": [
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 0626"
+        ],
+        "0182": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 0182"
+        ],
+        "0184": [
+          "Dezena no sexto prêmio!<br>com o palpite 0184",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 0184"
         ],
         "0682": [
           "TOURO 🐂 no sexto prêmio!<br>com o palpite 0682"
+        ],
+        "0684": [
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 0684",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 0684",
+          "Dezena no sexto prêmio!<br>com o palpite 0684",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 0684"
+        ],
+        "0132": [
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 0132"
+        ],
+        "0632": [
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 0632"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Milhar": 1,
+        "Centena": 1,
+        "Dezena": 2,
         "Grupo": [
-          "🐂"
+          "🐑",
+          "🐂",
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0282, 0682"
+      "resumo": "Palpites dados para esta extração: 0122, 0124, 0126, 0132, 0134, 0136, 0182, 0184, 0186, 0622, 0624, 0626, 0632, 0634, 0636, 0682, 0684, 0686"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -649,73 +753,109 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "0407",
-          "Grupo": "02",
-          "Bicho": "Águia"
+          "Milhar": "3991",
+          "Grupo": "23",
+          "Bicho": "Urso"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "1896",
-          "Grupo": "24",
-          "Bicho": "Veado"
+          "Milhar": "3599",
+          "Grupo": "25",
+          "Bicho": "Vaca"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "3367",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "2288",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "5045",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "9503",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "2935",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "3717",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "0135",
-          "Grupo": "09",
-          "Bicho": "Cobra"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "4830",
+          "Milhar": "3329",
           "Grupo": "08",
           "Bicho": "Camelo"
         },
         {
+          "Prêmio": "7º",
+          "Milhar": "9525",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
           "Prêmio": "8º",
-          "Milhar": "0964",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "9980",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "7675",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Milhar": "1983",
+          "Grupo": "21",
+          "Bicho": "Touro"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "7254",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "7915",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
         }
       ],
-      "frases": {},
+      "frases": {
+        "0186": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 0186"
+        ],
+        "0686": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 0686"
+        ],
+        "0132": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 0132"
+        ],
+        "0632": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 0632"
+        ],
+        "0126": [
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 0126"
+        ],
+        "0626": [
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 0626"
+        ],
+        "0182": [
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 0182"
+        ],
+        "0184": [
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 0184"
+        ],
+        "0682": [
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 0682"
+        ],
+        "0684": [
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 0684"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐅",
+          "🐪",
+          "🐑",
+          "🐂"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 9909, 9969"
+      "resumo": "Palpites dados para esta extração: 0122, 0124, 0126, 0132, 0134, 0136, 0182, 0184, 0186, 0622, 0624, 0626, 0632, 0634, 0636, 0682, 0684, 0686"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
