@@ -52,34 +52,38 @@
         }
       ],
       "frases": {
-        "1550": [
-          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1550"
+        "1911": [
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 1911"
         ],
-        "1750": [
-          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1750"
+        "1951": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1951",
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1951"
         ],
-        "5550": [
-          "GALO 🐓 no primeiro prêmio!<br>com o palpite 5550"
+        "1991": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 1991"
         ],
-        "5750": [
-          "GALO 🐓 no primeiro prêmio!<br>com o palpite 5750"
+        "4911": [
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 4911"
         ],
-        "8550": [
-          "GALO 🐓 no primeiro prêmio!<br>com o palpite 8550"
+        "4951": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4951",
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 4951"
         ],
-        "8750": [
-          "GALO 🐓 no primeiro prêmio!<br>com o palpite 8750"
+        "4991": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 4991"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 2,
         "Grupo": [
-          "🐓"
+          "🐓",
+          "🐴",
+          "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1550, 1750, 5550, 5750, 8550, 8750"
+      "resumo": "Palpites dados para esta extração: 1911, 1931, 1951, 1981, 1991, 4911, 4931, 4951, 4981, 4991"
     },
     "SP, 10hs - PTSP": {
       "cabecalhos": [
@@ -132,14 +136,112 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1911": [
+          "Dezena no quarto prêmio!<br>com o palpite 1911",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 1911"
+        ],
+        "1981": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1981",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1981"
+        ],
+        "1991": [
+          "URSO 🐻 no sétimo prêmio!<br>com o palpite 1991"
+        ],
+        "4911": [
+          "Dezena no quarto prêmio!<br>com o palpite 4911",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 4911"
+        ],
+        "4981": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4981",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 4981"
+        ],
+        "4991": [
+          "URSO 🐻 no sétimo prêmio!<br>com o palpite 4991"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 4,
+        "Grupo": [
+          "🐂",
+          "🐴",
+          "🐻"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1550, 1750, 5550, 5750, 8550, 8750"
+      "resumo": "Palpites dados para esta extração: 1911, 1931, 1951, 1981, 1991, 4911, 4931, 4951, 4981, 4991"
+    },
+    "SP, 12:00 - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8596",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2651",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3521",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0166",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6808",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "1742",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "787",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1951": [
+          "Dezena no segundo prêmio!<br>com o palpite 1951",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 1951"
+        ],
+        "4951": [
+          "Dezena no segundo prêmio!<br>com o palpite 4951",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 4951"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐓"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1911, 1931, 1951, 1981, 1991, 4911, 4931, 4951, 4981, 4991"
     }
   },
   "1-10": {
@@ -213,40 +315,49 @@
         }
       ],
       "frases": {
-        "1550": [
-          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1550",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1550"
+        "1911": [
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 1911"
         ],
-        "1750": [
-          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1750",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1750"
+        "1931": [
+          "CAMELO 🐪 no nono prêmio!<br>com o palpite 1931"
         ],
-        "5550": [
-          "GALO 🐓 no primeiro prêmio!<br>com o palpite 5550",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 5550"
+        "1951": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1951",
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1951",
+          "Dezena no oitavo prêmio!<br>com o palpite 1951",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1951"
         ],
-        "5750": [
-          "GALO 🐓 no primeiro prêmio!<br>com o palpite 5750",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 5750"
+        "1991": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 1991"
         ],
-        "8550": [
-          "GALO 🐓 no primeiro prêmio!<br>com o palpite 8550",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 8550"
+        "4911": [
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 4911"
         ],
-        "8750": [
-          "GALO 🐓 no primeiro prêmio!<br>com o palpite 8750",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 8750"
+        "4931": [
+          "CAMELO 🐪 no nono prêmio!<br>com o palpite 4931"
+        ],
+        "4951": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4951",
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 4951",
+          "Dezena no oitavo prêmio!<br>com o palpite 4951",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 4951"
+        ],
+        "4991": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 4991"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 4,
         "Grupo": [
-          "🐓"
+          "🐓",
+          "🐴",
+          "🐻",
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1550, 1750, 5550, 5750, 8550, 8750"
+      "resumo": "Palpites dados para esta extração: 1911, 1931, 1951, 1981, 1991, 4911, 4931, 4951, 4981, 4991"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -317,14 +428,150 @@
           "Bicho": "Tigre"
         }
       ],
-      "frases": {},
+      "frases": {
+        "1911": [
+          "Dezena no quarto prêmio!<br>com o palpite 1911",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 1911"
+        ],
+        "1981": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1981",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1981",
+          "Milhar e Centena no nono prêmio!<br>com o palpite 1981",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 1981",
+          "Dezena no nono prêmio!<br>com o palpite 1981",
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 1981"
+        ],
+        "1991": [
+          "Dezena no oitavo prêmio!<br>com o palpite 1991",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 1991"
+        ],
+        "4911": [
+          "Dezena no quarto prêmio!<br>com o palpite 4911",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 4911"
+        ],
+        "4981": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4981",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 4981",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 4981",
+          "Dezena no nono prêmio!<br>com o palpite 4981",
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 4981"
+        ],
+        "4991": [
+          "Dezena no oitavo prêmio!<br>com o palpite 4991",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 4991"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 8,
+        "Grupo": [
+          "🐂",
+          "🐴",
+          "🐻"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1911, 1931, 1951, 1981, 1991, 4911, 4931, 4951, 4981, 4991"
+    },
+    "SP, 12:00 - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8596",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2651",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3521",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0166",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6808",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "8230",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "5651",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "9526",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6116",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1265",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        }
+      ],
+      "frases": {
+        "1931": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 1931"
+        ],
+        "1951": [
+          "Dezena no segundo prêmio!<br>com o palpite 1951",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 1951",
+          "Dezena no sétimo prêmio!<br>com o palpite 1951",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 1951"
+        ],
+        "4931": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 4931"
+        ],
+        "4951": [
+          "Dezena no segundo prêmio!<br>com o palpite 4951",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 4951",
+          "Dezena no sétimo prêmio!<br>com o palpite 4951",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 4951"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 4,
+        "Grupo": [
+          "🐓",
+          "🐪"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1550, 1750, 5550, 5750, 8550, 8750"
+      "resumo": "Palpites dados para esta extração: 1911, 1931, 1951, 1981, 1991, 4911, 4931, 4951, 4981, 4991"
     }
   }
 }
