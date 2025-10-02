@@ -45,32 +45,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "3211": [
-          "BURRO 🐴 no segundo prêmio!<br>com o palpite 3211"
-        ],
-        "3213": [
-          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3213",
-          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3213",
-          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 3213"
-        ],
-        "3216": [
-          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3216",
-          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3216",
-          "Dezena no quinto prêmio!<br>com o palpite 3216",
-          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 3216"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
-        "Grupo": [
-          "🦋",
-          "🐴"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3211, 3213, 3216, 3241, 3243, 3246"
+      "resumo": "Palpites dados para esta extração: 4341, 4343, 4348, 4349, 4741, 4743, 4748, 4749"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -124,7 +106,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3211, 3213, 3216, 3241, 3243, 3246"
+      "resumo": "Palpites dados para esta extração: 4341, 4343, 4348, 4349, 4741, 4743, 4748, 4749"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -172,30 +154,28 @@
         }
       ],
       "frases": {
-        "3213": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3213",
-          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3213"
+        "4341": [
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 4341"
         ],
-        "3216": [
-          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3216"
+        "4343": [
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 4343"
         ],
-        "3241": [
-          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 3241"
+        "4741": [
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 4741"
         ],
-        "3243": [
-          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 3243"
+        "4743": [
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 4743"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 0,
         "Grupo": [
-          "🦋",
           "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3211, 3213, 3216, 3241, 3243, 3246"
+      "resumo": "Palpites dados para esta extração: 4341, 4343, 4348, 4349, 4741, 4743, 4748, 4749"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -243,19 +223,89 @@
         }
       ],
       "frases": {
-        "3246": [
-          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 3246"
+        "4348": [
+          "Dezena no terceiro prêmio!<br>com o palpite 4348",
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 4348"
+        ],
+        "4349": [
+          "Dezena no quinto prêmio!<br>com o palpite 4349",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 4349"
+        ],
+        "4748": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 4748",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 4748",
+          "Dezena no terceiro prêmio!<br>com o palpite 4748",
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 4748"
+        ],
+        "4749": [
+          "Dezena no quinto prêmio!<br>com o palpite 4749",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 4749"
         ]
       },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 1,
+        "Dezena": 4,
+        "Grupo": [
+          "🐘",
+          "🐓"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 4341, 4343, 4348, 4349, 4741, 4743, 4748, 4749"
+    },
+    "Nacional - LN 15:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8281",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3415",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5529",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1621",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2607",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "1453",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐘"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3211, 3213, 3216, 3241, 3243, 3246"
+      "resumo": "Palpites dados para esta extração: 4341, 4343, 4348, 4349, 4741, 4743, 4748, 4749"
     }
   },
   "1-10": {
@@ -328,33 +378,14 @@
           "Bicho": "Avestruz"
         }
       ],
-      "frases": {
-        "3211": [
-          "BURRO 🐴 no segundo prêmio!<br>com o palpite 3211",
-          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 3211"
-        ],
-        "3213": [
-          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3213",
-          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3213",
-          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 3213"
-        ],
-        "3216": [
-          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3216",
-          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3216",
-          "Dezena no quinto prêmio!<br>com o palpite 3216",
-          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 3216"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
-        "Grupo": [
-          "🦋",
-          "🐴"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3211, 3213, 3216, 3241, 3243, 3246"
+      "resumo": "Palpites dados para esta extração: 4341, 4343, 4348, 4349, 4741, 4743, 4748, 4749"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -426,8 +457,11 @@
         }
       ],
       "frases": {
-        "3246": [
-          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 3246"
+        "4348": [
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 4348"
+        ],
+        "4748": [
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 4748"
         ]
       },
       "acertos": {
@@ -438,7 +472,7 @@
           "🐘"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3211, 3213, 3216, 3241, 3243, 3246"
+      "resumo": "Palpites dados para esta extração: 4341, 4343, 4348, 4349, 4741, 4743, 4748, 4749"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -510,30 +544,28 @@
         }
       ],
       "frases": {
-        "3213": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3213",
-          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3213"
+        "4341": [
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 4341"
         ],
-        "3216": [
-          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3216"
+        "4343": [
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 4343"
         ],
-        "3241": [
-          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 3241"
+        "4741": [
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 4741"
         ],
-        "3243": [
-          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 3243"
+        "4743": [
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 4743"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 0,
         "Grupo": [
-          "🦋",
           "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3211, 3213, 3216, 3241, 3243, 3246"
+      "resumo": "Palpites dados para esta extração: 4341, 4343, 4348, 4349, 4741, 4743, 4748, 4749"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -605,32 +637,137 @@
         }
       ],
       "frases": {
-        "3211": [
-          "BURRO 🐴 no décimo prêmio!<br>com o palpite 3211"
+        "4341": [
+          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 4341"
         ],
-        "3241": [
-          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 3241"
+        "4343": [
+          "Dezena no sexto prêmio!<br>com o palpite 4343",
+          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 4343"
         ],
-        "3243": [
-          "Centena e Dezena no sexto prêmio!<br>com o palpite 3243",
-          "Dezena no sexto prêmio!<br>com o palpite 3243",
-          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 3243"
+        "4348": [
+          "Dezena no terceiro prêmio!<br>com o palpite 4348",
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 4348"
         ],
-        "3246": [
-          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 3246"
+        "4349": [
+          "Dezena no quinto prêmio!<br>com o palpite 4349",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 4349"
+        ],
+        "4741": [
+          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 4741"
+        ],
+        "4743": [
+          "Dezena no sexto prêmio!<br>com o palpite 4743",
+          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 4743"
+        ],
+        "4748": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 4748",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 4748",
+          "Dezena no terceiro prêmio!<br>com o palpite 4748",
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 4748"
+        ],
+        "4749": [
+          "Dezena no quinto prêmio!<br>com o palpite 4749",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 4749"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 1,
+        "Dezena": 6,
+        "Grupo": [
+          "🐘",
+          "🐓",
+          "🐎"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 4341, 4343, 4348, 4349, 4741, 4743, 4748, 4749"
+    },
+    "Nacional - LN 15:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8281",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3415",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5529",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1621",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2607",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "8351",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2456",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8122",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1591",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1973",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        }
+      ],
+      "frases": {
+        "4349": [
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 4349"
+        ],
+        "4749": [
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 4749"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 1,
+        "Centena": 0,
+        "Dezena": 0,
         "Grupo": [
-          "🐘",
-          "🐎",
-          "🐴"
+          "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3211, 3213, 3216, 3241, 3243, 3246"
+      "resumo": "Palpites dados para esta extração: 4341, 4343, 4348, 4349, 4741, 4743, 4748, 4749"
     }
   }
 }
