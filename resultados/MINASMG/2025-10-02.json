@@ -52,35 +52,19 @@
         }
       ],
       "frases": {
-        "2475": [
-          "Dezena no primeiro prêmio!<br>com o palpite 2475",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 2475"
-        ],
-        "2675": [
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 2675",
-          "Dezena no primeiro prêmio!<br>com o palpite 2675",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 2675"
-        ],
-        "0475": [
-          "Dezena no primeiro prêmio!<br>com o palpite 0475",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 0475"
-        ],
-        "0675": [
-          "Milhar e Centena no primeiro prêmio!<br>com o palpite 0675",
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 0675",
-          "Dezena no primeiro prêmio!<br>com o palpite 0675",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 0675"
+        "0681": [
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 0681"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 2,
-        "Dezena": 4,
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
         "Grupo": [
-          "🦚"
+          "🐂"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0475, 0675, 2475, 2675"
+      "resumo": "Palpites dados para esta extração: 0681"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
@@ -133,6 +117,73 @@
           "Bicho": ""
         }
       ],
+      "frases": {
+        "0681": [
+          "Dezena no quinto prêmio!<br>com o palpite 0681",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 0681"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 1,
+        "Grupo": [
+          "🐂"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0681"
+    },
+    "MINAS NOITE - MG, 19h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4129",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8094",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1749",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8167",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2612",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "24751",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "420",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
       "frases": {},
       "acertos": {
         "Milhar": 0,
@@ -140,7 +191,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0475, 0675, 2475, 2675"
+      "resumo": "Palpites dados para esta extração: 0681"
     }
   }
 }
