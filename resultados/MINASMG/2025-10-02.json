@@ -52,76 +52,96 @@
         }
       ],
       "frases": {
-        "2419": [
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 2419"
-        ],
-        "2431": [
-          "Centena e Dezena no segundo prêmio!<br>com o palpite 2431",
-          "Dezena no segundo prêmio!<br>com o palpite 2431",
-          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 2431"
-        ],
         "2475": [
           "Dezena no primeiro prêmio!<br>com o palpite 2475",
           "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 2475"
-        ],
-        "2476": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 2476"
-        ],
-        "2819": [
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 2819"
-        ],
-        "2831": [
-          "Dezena no segundo prêmio!<br>com o palpite 2831",
-          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 2831"
-        ],
-        "2875": [
-          "Dezena no primeiro prêmio!<br>com o palpite 2875",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 2875"
-        ],
-        "2876": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 2876"
-        ],
-        "3419": [
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 3419"
-        ],
-        "3431": [
-          "Centena e Dezena no segundo prêmio!<br>com o palpite 3431",
-          "Dezena no segundo prêmio!<br>com o palpite 3431",
-          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 3431"
         ],
         "3475": [
           "Dezena no primeiro prêmio!<br>com o palpite 3475",
           "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 3475"
         ],
-        "3476": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 3476"
+        "5475": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5475",
+          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 5475"
         ],
-        "3819": [
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 3819"
+        "8475": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8475",
+          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 8475"
         ],
-        "3831": [
-          "Dezena no segundo prêmio!<br>com o palpite 3831",
-          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 3831"
-        ],
-        "3875": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3875",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 3875"
-        ],
-        "3876": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 3876"
+        "0475": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0475",
+          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 0475"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 2,
-        "Dezena": 8,
+        "Centena": 0,
+        "Dezena": 5,
         "Grupo": [
-          "🦚",
-          "🐪",
-          "🐕"
+          "🦚"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2411, 2415, 2416, 2419, 2431, 2435, 2436, 2439, 2471, 2475, 2476, 2479, 2811, 2815, 2816, 2819, 2831, 2835, 2836, 2839, 2871, 2875, 2876, 2879, 3411, 3415, 3416, 3419, 3431, 3435, 3436, 3439, 3471, 3475, 3476, 3479, 3811, 3815, 3816, 3819, 3831, 3835, 3836, 3839, 3871, 3875, 3876, 3879"
+      "resumo": "Palpites dados para esta extração: 0415, 0435, 0475, 2415, 2435, 2475, 3415, 3435, 3475, 5415, 5435, 5475, 8415, 8435, 8475"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7602",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0829",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2249",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4061",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0281",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "15022",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "302",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0415, 0435, 0475, 2415, 2435, 2475, 3415, 3435, 3475, 5415, 5435, 5475, 8415, 8435, 8475"
     }
   }
 }
