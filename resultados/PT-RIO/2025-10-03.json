@@ -140,6 +140,90 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 8502, 8506, 8507, 8509, 8802, 8806, 8807, 8809"
+    },
+    "PT-RIO, RJ, 14:20, PT": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5722",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2063",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2861",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4396",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7064",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2106",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "804",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "8502": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 8502"
+        ],
+        "8506": [
+          "Dezena no sexto prêmio!<br>com o palpite 8506",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 8506"
+        ],
+        "8507": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 8507"
+        ],
+        "8802": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 8802"
+        ],
+        "8806": [
+          "Dezena no sexto prêmio!<br>com o palpite 8806",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 8806"
+        ],
+        "8807": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 8807"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🦅",
+          "🪶"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 8502, 8506, 8507, 8509, 8802, 8806, 8807, 8809"
     }
   },
   "1-10": {
@@ -348,6 +432,84 @@
           "🪶",
           "🦅"
         ]
+      },
+      "resumo": "Palpites dados para esta extração: 8502, 8506, 8507, 8509, 8802, 8806, 8807, 8809"
+    },
+    "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5722",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2063",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2861",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4396",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7064",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5224",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "7083",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2669",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "2316",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "9398",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
       "resumo": "Palpites dados para esta extração: 8502, 8506, 8507, 8509, 8802, 8806, 8807, 8809"
     }
