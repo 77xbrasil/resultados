@@ -64,7 +64,7 @@
           "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3860"
+      "resumo": "Palpites dados para esta extração: 3800, 3810, 3820, 3840, 3860, 3890"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
@@ -124,7 +124,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3860"
+      "resumo": "Palpites dados para esta extração: 3800, 3810, 3820, 3840, 3860, 3890"
     },
     "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
@@ -177,14 +177,25 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3810": [
+          "Dezena no quarto prêmio!<br>com o palpite 3810",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 3810"
+        ],
+        "3890": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 3890"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🐻",
+          "🐴"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3860"
+      "resumo": "Palpites dados para esta extração: 3800, 3810, 3820, 3840, 3860, 3890"
     }
   }
 }
