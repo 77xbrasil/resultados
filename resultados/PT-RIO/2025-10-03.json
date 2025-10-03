@@ -52,18 +52,9 @@
         }
       ],
       "frases": {
-        "0550": [
-          "Dezena no terceiro prêmio!<br>com o palpite 0550",
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0550"
-        ],
-        "0551": [
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0551"
-        ],
-        "0553": [
-          "GATO 🐈 no quarto prêmio!<br>com o palpite 0553"
-        ],
-        "0555": [
-          "GATO 🐈 no quarto prêmio!<br>com o palpite 0555"
+        "0150": [
+          "Dezena no terceiro prêmio!<br>com o palpite 0150",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0150"
         ]
       },
       "acertos": {
@@ -71,11 +62,77 @@
         "Centena": 0,
         "Dezena": 1,
         "Grupo": [
-          "🐓",
-          "🐈"
+          "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0550, 0551, 0553, 0555"
+      "resumo": "Palpites dados para esta extração: 0100, 0150"
+    },
+    "PT-RIO, RJ, 11:00, PTM": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8369",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5850",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3809",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7726",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8532",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "4286",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "958",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "0150": [
+          "Dezena no segundo prêmio!<br>com o palpite 0150",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 0150"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 1,
+        "Grupo": [
+          "🐓"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0100, 0150"
     }
   },
   "1-10": {
@@ -149,33 +206,113 @@
         }
       ],
       "frases": {
-        "0550": [
-          "Dezena no terceiro prêmio!<br>com o palpite 0550",
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0550"
+        "0150": [
+          "Dezena no terceiro prêmio!<br>com o palpite 0150",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0150"
         ],
-        "0551": [
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0551"
-        ],
-        "0553": [
-          "GATO 🐈 no quarto prêmio!<br>com o palpite 0553",
-          "GATO 🐈 no oitavo prêmio!<br>com o palpite 0553"
-        ],
-        "0555": [
-          "GATO 🐈 no quarto prêmio!<br>com o palpite 0555",
-          "Dezena no oitavo prêmio!<br>com o palpite 0555",
-          "GATO 🐈 no oitavo prêmio!<br>com o palpite 0555"
+        "0100": [
+          "Dezena no sexto prêmio!<br>com o palpite 0100",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 0100",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 0100",
+          "Dezena no sétimo prêmio!<br>com o palpite 0100",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 0100"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 3,
+        "Grupo": [
+          "🐓",
+          "🐄"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0100, 0150"
+    },
+    "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8369",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5850",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3809",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7726",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8532",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "8537",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3887",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6502",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9096",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2308",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        }
+      ],
+      "frases": {
+        "0150": [
+          "Dezena no segundo prêmio!<br>com o palpite 0150",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 0150"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 1,
         "Grupo": [
-          "🐓",
-          "🐈"
+          "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0550, 0551, 0553, 0555"
+      "resumo": "Palpites dados para esta extração: 0100, 0150"
     }
   }
 }
