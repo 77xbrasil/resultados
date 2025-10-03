@@ -51,14 +51,31 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "0550": [
+          "Dezena no terceiro prêmio!<br>com o palpite 0550",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0550"
+        ],
+        "0551": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0551"
+        ],
+        "0553": [
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 0553"
+        ],
+        "0555": [
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 0555"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🐓",
+          "🐈"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1581, 2581, 5581"
+      "resumo": "Palpites dados para esta extração: 0550, 0551, 0553, 0555"
     }
   },
   "1-10": {
@@ -131,14 +148,34 @@
           "Bicho": "Tigre"
         }
       ],
-      "frases": {},
+      "frases": {
+        "0550": [
+          "Dezena no terceiro prêmio!<br>com o palpite 0550",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0550"
+        ],
+        "0551": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0551"
+        ],
+        "0553": [
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 0553",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 0553"
+        ],
+        "0555": [
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 0555",
+          "Dezena no oitavo prêmio!<br>com o palpite 0555",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 0555"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐓",
+          "🐈"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1581, 2581, 5581"
+      "resumo": "Palpites dados para esta extração: 0550, 0551, 0553, 0555"
     }
   }
 }
