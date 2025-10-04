@@ -52,14 +52,92 @@
         }
       ],
       "frases": {
-        "3800": [
-          "VACA 🐄 no quinto prêmio!<br>com o palpite 3800"
-        ],
         "3810": [
           "BURRO 🐴 no segundo prêmio!<br>com o palpite 3810"
         ],
-        "3820": [
-          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 3820"
+        "3811": [
+          "Dezena no segundo prêmio!<br>com o palpite 3811",
+          "BURRO 🐴 no segundo prêmio!<br>com o palpite 3811"
+        ],
+        "3812": [
+          "BURRO 🐴 no segundo prêmio!<br>com o palpite 3812"
+        ],
+        "3819": [
+          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 3819"
+        ],
+        "3841": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3841"
+        ],
+        "3842": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3842"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 1,
+        "Grupo": [
+          "🐴",
+          "🐕",
+          "🐎"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3810, 3811, 3812, 3819, 3840, 3841, 3842, 3849"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2295",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3666",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7629",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4783",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7347",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "25720",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "413",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "3819": [
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 3819"
         ]
       },
       "acertos": {
@@ -67,12 +145,10 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐴",
-          "🐕",
-          "🐄"
+          "🐕"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3800, 3810, 3820, 3840, 3890"
+      "resumo": "Palpites dados para esta extração: 3810, 3811, 3812, 3819, 3840, 3841, 3842, 3849"
     }
   }
 }
