@@ -421,6 +421,108 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 3500, 3503, 3506, 3550, 3553, 3556, 7500, 7503, 7506, 7550, 7553, 7556"
+    },
+    "21h - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5558",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9755",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4526",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3036",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9366",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "7006",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8657",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3668",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2548",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        }
+      ],
+      "frases": {
+        "3506": [
+          "Dezena no sétimo prêmio!<br>com o palpite 3506",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 3506"
+        ],
+        "3553": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 3553"
+        ],
+        "3556": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 3556"
+        ],
+        "7506": [
+          "Dezena no sétimo prêmio!<br>com o palpite 7506",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 7506"
+        ],
+        "7553": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7553"
+        ],
+        "7556": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7556"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐈",
+          "🦅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3500, 3503, 3506, 3550, 3553, 3556, 7500, 7503, 7506, 7550, 7553, 7556"
     }
   }
 }
