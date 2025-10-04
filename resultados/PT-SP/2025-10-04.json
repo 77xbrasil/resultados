@@ -52,13 +52,13 @@
         }
       ],
       "frases": {
-        "6477": [
-          "Dezena no quarto prêmio!<br>com o palpite 6477",
-          "PERU 🦃 no quarto prêmio!<br>com o palpite 6477"
+        "1277": [
+          "Dezena no quarto prêmio!<br>com o palpite 1277",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 1277"
         ],
-        "6577": [
-          "Dezena no quarto prêmio!<br>com o palpite 6577",
-          "PERU 🦃 no quarto prêmio!<br>com o palpite 6577"
+        "7277": [
+          "Dezena no quarto prêmio!<br>com o palpite 7277",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 7277"
         ]
       },
       "acertos": {
@@ -69,7 +69,7 @@
           "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6477, 6577"
+      "resumo": "Palpites dados para esta extração: 1271, 1277, 7271, 7277"
     },
     "SP, 10hs - PTSP": {
       "cabecalhos": [
@@ -122,14 +122,96 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1271": [
+          "Dezena no quarto prêmio!<br>com o palpite 1271",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 1271"
+        ],
+        "7271": [
+          "Dezena no quarto prêmio!<br>com o palpite 7271",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 7271"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐖"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 6477, 6577"
+      "resumo": "Palpites dados para esta extração: 1271, 1277, 7271, 7277"
+    },
+    "SP, 12:00 - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3371",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9898",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5298",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2611",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2539",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "3717",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "366",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1271": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1271",
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 1271"
+        ],
+        "7271": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7271",
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 7271"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐖"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1271, 1277, 7271, 7277"
     }
   },
   "1-10": {
@@ -203,29 +285,28 @@
         }
       ],
       "frases": {
-        "6477": [
-          "Dezena no quarto prêmio!<br>com o palpite 6477",
-          "PERU 🦃 no quarto prêmio!<br>com o palpite 6477",
-          "Dezena no oitavo prêmio!<br>com o palpite 6477",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 6477"
+        "1277": [
+          "Dezena no quarto prêmio!<br>com o palpite 1277",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 1277",
+          "Dezena no oitavo prêmio!<br>com o palpite 1277",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 1277"
         ],
-        "6577": [
-          "Dezena no quarto prêmio!<br>com o palpite 6577",
-          "PERU 🦃 no quarto prêmio!<br>com o palpite 6577",
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 6577",
-          "Dezena no oitavo prêmio!<br>com o palpite 6577",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 6577"
+        "7277": [
+          "Dezena no quarto prêmio!<br>com o palpite 7277",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 7277",
+          "Dezena no oitavo prêmio!<br>com o palpite 7277",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 7277"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
+        "Centena": 0,
         "Dezena": 4,
         "Grupo": [
           "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6477, 6577"
+      "resumo": "Palpites dados para esta extração: 1271, 1277, 7271, 7277"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -296,14 +377,122 @@
           "Bicho": "Porco"
         }
       ],
-      "frases": {},
+      "frases": {
+        "1271": [
+          "Dezena no quarto prêmio!<br>com o palpite 1271",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 1271",
+          "Dezena no sexto prêmio!<br>com o palpite 1271",
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 1271",
+          "Dezena no décimo prêmio!<br>com o palpite 1271",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 1271"
+        ],
+        "7271": [
+          "Dezena no quarto prêmio!<br>com o palpite 7271",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 7271",
+          "Dezena no sexto prêmio!<br>com o palpite 7271",
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 7271",
+          "Dezena no décimo prêmio!<br>com o palpite 7271",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 7271"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 6,
+        "Grupo": [
+          "🐖"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 6477, 6577"
+      "resumo": "Palpites dados para esta extração: 1271, 1277, 7271, 7277"
+    },
+    "SP, 12:00 - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3371",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9898",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5298",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2611",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2539",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3952",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3826",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7991",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1881",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1367",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        }
+      ],
+      "frases": {
+        "1271": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1271",
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 1271"
+        ],
+        "7271": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7271",
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 7271"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐖"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1271, 1277, 7271, 7277"
     }
   }
 }
