@@ -52,7 +52,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3006, 3306, 3606, 4006, 4306, 4606, 6006, 6306, 6606"
+      "resumo": "Palpites dados para esta extração: 2304, 2306, 2344, 2346, 2374, 2376"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -99,14 +99,33 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2304": [
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 2304"
+        ],
+        "2344": [
+          "Dezena no sexto prêmio!<br>com o palpite 2344",
+          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 2344"
+        ],
+        "2374": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2374",
+          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 2374"
+        ],
+        "2376": [
+          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 2376"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🦚",
+          "🪶",
+          "🐎"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3006, 3306, 3606, 4006, 4306, 4606, 6006, 6306, 6606"
+      "resumo": "Palpites dados para esta extração: 2304, 2306, 2344, 2346, 2374, 2376"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -153,14 +172,30 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2346": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 2346",
+          "Dezena no quarto prêmio!<br>com o palpite 2346",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 2346"
+        ],
+        "2374": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2374",
+          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 2374"
+        ],
+        "2376": [
+          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 2376"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🦚",
+          "🐘"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3006, 3306, 3606, 4006, 4306, 4606, 6006, 6306, 6606"
+      "resumo": "Palpites dados para esta extração: 2304, 2306, 2344, 2346, 2374, 2376"
     }
   },
   "1-10": {
