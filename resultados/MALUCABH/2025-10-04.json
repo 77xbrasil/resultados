@@ -76,7 +76,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 4201, 4202, 4205, 4271, 4272, 4275, 4301, 4302, 4305, 4371, 4372, 4375, 4501, 4502, 4505, 4571, 4572, 4575, 7201, 7202, 7205, 7271, 7272, 7275, 7301, 7302, 7305, 7371, 7372, 7375, 7501, 7502, 7505, 7571, 7572, 7575"
+      "resumo": "Palpites dados para esta extração: 4271, 4272, 4371, 4372, 7271, 7272, 7371, 7372, 8271, 8272, 8371, 8372"
     },
     "12h - MALUCA - BA": {
       "cabecalhos": [
@@ -154,7 +154,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 4201, 4202, 4205, 4271, 4272, 4275, 4301, 4302, 4305, 4371, 4372, 4375, 4501, 4502, 4505, 4571, 4572, 4575, 7201, 7202, 7205, 7271, 7272, 7275, 7301, 7302, 7305, 7371, 7372, 7375, 7501, 7502, 7505, 7571, 7572, 7575"
+      "resumo": "Palpites dados para esta extração: 4271, 4272, 4371, 4372, 7271, 7272, 7371, 7372, 8271, 8272, 8371, 8372"
     },
     "15h - MALUCA - BA": {
       "cabecalhos": [
@@ -226,40 +226,12 @@
         }
       ],
       "frases": {
-        "4201": [
-          "Milhar e Centena no segundo prêmio!<br>com o palpite 4201",
-          "Centena e Dezena no segundo prêmio!<br>com o palpite 4201",
-          "Dezena no segundo prêmio!<br>com o palpite 4201",
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 4201"
-        ],
-        "4202": [
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 4202"
-        ],
-        "4205": [
-          "Dezena no sétimo prêmio!<br>com o palpite 4205",
-          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 4205"
-        ],
         "4271": [
           "PORCO 🐖 no oitavo prêmio!<br>com o palpite 4271"
         ],
         "4272": [
           "Dezena no oitavo prêmio!<br>com o palpite 4272",
           "PORCO 🐖 no oitavo prêmio!<br>com o palpite 4272"
-        ],
-        "4275": [
-          "PAVÃO 🦚 no nono prêmio!<br>com o palpite 4275"
-        ],
-        "4301": [
-          "Dezena no segundo prêmio!<br>com o palpite 4301",
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 4301"
-        ],
-        "4302": [
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 4302"
-        ],
-        "4305": [
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 4305",
-          "Dezena no sétimo prêmio!<br>com o palpite 4305",
-          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 4305"
         ],
         "4371": [
           "PORCO 🐖 no oitavo prêmio!<br>com o palpite 4371"
@@ -270,63 +242,12 @@
           "Dezena no oitavo prêmio!<br>com o palpite 4372",
           "PORCO 🐖 no oitavo prêmio!<br>com o palpite 4372"
         ],
-        "4375": [
-          "PAVÃO 🦚 no nono prêmio!<br>com o palpite 4375"
-        ],
-        "4501": [
-          "Dezena no segundo prêmio!<br>com o palpite 4501",
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 4501"
-        ],
-        "4502": [
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 4502"
-        ],
-        "4505": [
-          "Dezena no sétimo prêmio!<br>com o palpite 4505",
-          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 4505"
-        ],
-        "4571": [
-          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 4571"
-        ],
-        "4572": [
-          "Dezena no oitavo prêmio!<br>com o palpite 4572",
-          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 4572"
-        ],
-        "4575": [
-          "PAVÃO 🦚 no nono prêmio!<br>com o palpite 4575"
-        ],
-        "7201": [
-          "Centena e Dezena no segundo prêmio!<br>com o palpite 7201",
-          "Dezena no segundo prêmio!<br>com o palpite 7201",
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 7201"
-        ],
-        "7202": [
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 7202"
-        ],
-        "7205": [
-          "Dezena no sétimo prêmio!<br>com o palpite 7205",
-          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 7205"
-        ],
         "7271": [
           "PORCO 🐖 no oitavo prêmio!<br>com o palpite 7271"
         ],
         "7272": [
           "Dezena no oitavo prêmio!<br>com o palpite 7272",
           "PORCO 🐖 no oitavo prêmio!<br>com o palpite 7272"
-        ],
-        "7275": [
-          "PAVÃO 🦚 no nono prêmio!<br>com o palpite 7275"
-        ],
-        "7301": [
-          "Dezena no segundo prêmio!<br>com o palpite 7301",
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 7301"
-        ],
-        "7302": [
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 7302"
-        ],
-        "7305": [
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 7305",
-          "Dezena no sétimo prêmio!<br>com o palpite 7305",
-          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 7305"
         ],
         "7371": [
           "PORCO 🐖 no oitavo prêmio!<br>com o palpite 7371"
@@ -336,43 +257,31 @@
           "Dezena no oitavo prêmio!<br>com o palpite 7372",
           "PORCO 🐖 no oitavo prêmio!<br>com o palpite 7372"
         ],
-        "7375": [
-          "PAVÃO 🦚 no nono prêmio!<br>com o palpite 7375"
+        "8271": [
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 8271"
         ],
-        "7501": [
-          "Dezena no segundo prêmio!<br>com o palpite 7501",
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 7501"
+        "8272": [
+          "Dezena no oitavo prêmio!<br>com o palpite 8272",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 8272"
         ],
-        "7502": [
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 7502"
+        "8371": [
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 8371"
         ],
-        "7505": [
-          "Dezena no sétimo prêmio!<br>com o palpite 7505",
-          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 7505"
-        ],
-        "7571": [
-          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 7571"
-        ],
-        "7572": [
-          "Dezena no oitavo prêmio!<br>com o palpite 7572",
-          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 7572"
-        ],
-        "7575": [
-          "PAVÃO 🦚 no nono prêmio!<br>com o palpite 7575"
+        "8372": [
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 8372",
+          "Dezena no oitavo prêmio!<br>com o palpite 8372",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 8372"
         ]
       },
       "acertos": {
-        "Milhar": 2,
-        "Centena": 6,
-        "Dezena": 18,
+        "Milhar": 1,
+        "Centena": 3,
+        "Dezena": 6,
         "Grupo": [
-          "🪶",
-          "🦅",
-          "🐖",
-          "🦚"
+          "🐖"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4201, 4202, 4205, 4271, 4272, 4275, 4301, 4302, 4305, 4371, 4372, 4375, 4501, 4502, 4505, 4571, 4572, 4575, 7201, 7202, 7205, 7271, 7272, 7275, 7301, 7302, 7305, 7371, 7372, 7375, 7501, 7502, 7505, 7571, 7572, 7575"
+      "resumo": "Palpites dados para esta extração: 4271, 4272, 4371, 4372, 7271, 7272, 7371, 7372, 8271, 8272, 8371, 8372"
     },
     "19h FEDERAL - MALUCA - BA": {
       "cabecalhos": [
@@ -444,16 +353,6 @@
         }
       ],
       "frases": {
-        "4201": [
-          "Dezena no quinto prêmio!<br>com o palpite 4201",
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 4201",
-          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 4201"
-        ],
-        "4202": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 4202",
-          "Dezena no sexto prêmio!<br>com o palpite 4202",
-          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 4202"
-        ],
         "4271": [
           "PORCO 🐖 no terceiro prêmio!<br>com o palpite 4271",
           "Dezena no sétimo prêmio!<br>com o palpite 4271",
@@ -468,17 +367,6 @@
           "Dezena no nono prêmio!<br>com o palpite 4272",
           "PORCO 🐖 no nono prêmio!<br>com o palpite 4272"
         ],
-        "4301": [
-          "Dezena no quinto prêmio!<br>com o palpite 4301",
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 4301",
-          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 4301"
-        ],
-        "4302": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 4302",
-          "Centena e Dezena no sexto prêmio!<br>com o palpite 4302",
-          "Dezena no sexto prêmio!<br>com o palpite 4302",
-          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 4302"
-        ],
         "4371": [
           "PORCO 🐖 no terceiro prêmio!<br>com o palpite 4371",
           "Dezena no sétimo prêmio!<br>com o palpite 4371",
@@ -491,40 +379,6 @@
           "PORCO 🐖 no sétimo prêmio!<br>com o palpite 4372",
           "Dezena no nono prêmio!<br>com o palpite 4372",
           "PORCO 🐖 no nono prêmio!<br>com o palpite 4372"
-        ],
-        "4501": [
-          "Dezena no quinto prêmio!<br>com o palpite 4501",
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 4501",
-          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 4501"
-        ],
-        "4502": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 4502",
-          "Dezena no sexto prêmio!<br>com o palpite 4502",
-          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 4502"
-        ],
-        "4571": [
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 4571",
-          "Dezena no sétimo prêmio!<br>com o palpite 4571",
-          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 4571",
-          "PORCO 🐖 no nono prêmio!<br>com o palpite 4571"
-        ],
-        "4572": [
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 4572",
-          "Dezena no terceiro prêmio!<br>com o palpite 4572",
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 4572",
-          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 4572",
-          "Dezena no nono prêmio!<br>com o palpite 4572",
-          "PORCO 🐖 no nono prêmio!<br>com o palpite 4572"
-        ],
-        "7201": [
-          "Dezena no quinto prêmio!<br>com o palpite 7201",
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 7201",
-          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 7201"
-        ],
-        "7202": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 7202",
-          "Dezena no sexto prêmio!<br>com o palpite 7202",
-          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 7202"
         ],
         "7271": [
           "PORCO 🐖 no terceiro prêmio!<br>com o palpite 7271",
@@ -540,17 +394,6 @@
           "Dezena no nono prêmio!<br>com o palpite 7272",
           "PORCO 🐖 no nono prêmio!<br>com o palpite 7272"
         ],
-        "7301": [
-          "Dezena no quinto prêmio!<br>com o palpite 7301",
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 7301",
-          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 7301"
-        ],
-        "7302": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 7302",
-          "Centena e Dezena no sexto prêmio!<br>com o palpite 7302",
-          "Dezena no sexto prêmio!<br>com o palpite 7302",
-          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 7302"
-        ],
         "7371": [
           "PORCO 🐖 no terceiro prêmio!<br>com o palpite 7371",
           "Dezena no sétimo prêmio!<br>com o palpite 7371",
@@ -564,41 +407,43 @@
           "Dezena no nono prêmio!<br>com o palpite 7372",
           "PORCO 🐖 no nono prêmio!<br>com o palpite 7372"
         ],
-        "7501": [
-          "Dezena no quinto prêmio!<br>com o palpite 7501",
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 7501",
-          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 7501"
+        "8271": [
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 8271",
+          "Dezena no sétimo prêmio!<br>com o palpite 8271",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 8271",
+          "PORCO 🐖 no nono prêmio!<br>com o palpite 8271"
         ],
-        "7502": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 7502",
-          "Dezena no sexto prêmio!<br>com o palpite 7502",
-          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 7502"
+        "8272": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8272",
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 8272",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 8272",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 8272",
+          "Dezena no nono prêmio!<br>com o palpite 8272",
+          "PORCO 🐖 no nono prêmio!<br>com o palpite 8272"
         ],
-        "7571": [
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 7571",
-          "Dezena no sétimo prêmio!<br>com o palpite 7571",
-          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 7571",
-          "PORCO 🐖 no nono prêmio!<br>com o palpite 7571"
+        "8371": [
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 8371",
+          "Dezena no sétimo prêmio!<br>com o palpite 8371",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 8371",
+          "PORCO 🐖 no nono prêmio!<br>com o palpite 8371"
         ],
-        "7572": [
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 7572",
-          "Dezena no terceiro prêmio!<br>com o palpite 7572",
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 7572",
-          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 7572",
-          "Dezena no nono prêmio!<br>com o palpite 7572",
-          "PORCO 🐖 no nono prêmio!<br>com o palpite 7572"
+        "8372": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8372",
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 8372",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 8372",
+          "Dezena no nono prêmio!<br>com o palpite 8372",
+          "PORCO 🐖 no nono prêmio!<br>com o palpite 8372"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 6,
-        "Dezena": 30,
+        "Centena": 3,
+        "Dezena": 18,
         "Grupo": [
-          "🐖",
-          "🪶"
+          "🐖"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4201, 4202, 4205, 4271, 4272, 4275, 4301, 4302, 4305, 4371, 4372, 4375, 4501, 4502, 4505, 4571, 4572, 4575, 7201, 7202, 7205, 7271, 7272, 7275, 7301, 7302, 7305, 7371, 7372, 7375, 7501, 7502, 7505, 7571, 7572, 7575"
+      "resumo": "Palpites dados para esta extração: 4271, 4272, 4371, 4372, 7271, 7272, 7371, 7372, 8271, 8272, 8371, 8372"
     }
   }
 }
