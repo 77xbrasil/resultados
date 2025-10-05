@@ -89,6 +89,87 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 2348, 2388, 2848, 2888, 3348, 3388, 3848, 3888, 4348, 4388, 4848, 4888"
+    },
+    "LOOK - GOIÁS, 09h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1428",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1727",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6887",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9621",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1578",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "1241",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "466",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2388": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 2388"
+        ],
+        "2888": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 2888"
+        ],
+        "3388": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 3388"
+        ],
+        "3888": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 3888"
+        ],
+        "4388": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 4388"
+        ],
+        "4888": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 4888"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2348, 2388, 2848, 2888, 3348, 3388, 3848, 3888, 4348, 4388, 4848, 4888"
     }
   },
   "1-10": {
@@ -237,6 +318,111 @@
         "Grupo": [
           "🐅",
           "🐘"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2348, 2388, 2848, 2888, 3348, 3388, 3848, 3888, 4348, 4388, 4848, 4888"
+    },
+    "LOOK - GOIÁS, 09h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1428",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1727",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6887",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9621",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1578",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1169",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4786",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2282",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8771",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8249",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        }
+      ],
+      "frases": {
+        "2388": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 2388",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 2388"
+        ],
+        "2888": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 2888",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 2888"
+        ],
+        "3388": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 3388",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 3388"
+        ],
+        "3888": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 3888",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 3888"
+        ],
+        "4388": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 4388",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 4388"
+        ],
+        "4888": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 4888",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 4888"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐅"
         ]
       },
       "resumo": "Palpites dados para esta extração: 2348, 2388, 2848, 2888, 3348, 3388, 3848, 3888, 4348, 4388, 4848, 4888"
