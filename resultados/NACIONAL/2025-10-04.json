@@ -503,6 +503,71 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 1571, 1574, 1577, 1771, 1774, 1777"
+    },
+    "Nacional - LN 23:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1363",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3997",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1371",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3384",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6495",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "6610",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1571": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1571",
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 1571"
+        ],
+        "1771": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1771",
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 1771"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐖"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1571, 1574, 1577, 1771, 1774, 1777"
     }
   },
   "1-10": {
@@ -1229,6 +1294,102 @@
         "Grupo": [
           "🐖",
           "🦚"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1571, 1574, 1577, 1771, 1774, 1777"
+    },
+    "Nacional - LN 23:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1363",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3997",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1371",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3384",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6495",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1313",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3933",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6978",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3714",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2548",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        }
+      ],
+      "frases": {
+        "1571": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1571",
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 1571"
+        ],
+        "1577": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 1577"
+        ],
+        "1771": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1771",
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 1771"
+        ],
+        "1777": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 1777"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐖",
+          "🦃"
         ]
       },
       "resumo": "Palpites dados para esta extração: 1571, 1574, 1577, 1771, 1774, 1777"
