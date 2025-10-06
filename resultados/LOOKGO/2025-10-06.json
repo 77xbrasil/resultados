@@ -51,25 +51,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "0463": [
-          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 0463"
-        ],
-        "0489": [
-          "Dezena no sétimo prêmio!<br>com o palpite 0489",
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 0489"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
-        "Grupo": [
-          "🦁",
-          "🐻"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0460, 0463, 0466, 0469, 0480, 0483, 0486, 0489"
+      "resumo": "Palpites dados para esta extração: 0186"
     },
     "LOOK - GOIÁS, 09h": {
       "cabecalhos": [
@@ -123,25 +112,21 @@
         }
       ],
       "frases": {
-        "0486": [
-          "Dezena no quinto prêmio!<br>com o palpite 0486",
-          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 0486"
-        ],
-        "0469": [
-          "Dezena no sexto prêmio!<br>com o palpite 0469",
-          "PORCO 🐖 no sexto prêmio!<br>com o palpite 0469"
+        "0186": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 0186",
+          "Dezena no quinto prêmio!<br>com o palpite 0186",
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 0186"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 2,
+        "Centena": 1,
+        "Dezena": 1,
         "Grupo": [
-          "🐅",
-          "🐖"
+          "🐅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0460, 0463, 0466, 0469, 0480, 0483, 0486, 0489"
+      "resumo": "Palpites dados para esta extração: 0186"
     },
     "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
@@ -194,24 +179,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "0469": [
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 0469"
-        ],
-        "0463": [
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 0463"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐖",
-          "🦁"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0460, 0463, 0466, 0469, 0480, 0483, 0486, 0489"
+      "resumo": "Palpites dados para esta extração: 0186"
     },
     "LOOK - GOIÁS, 14h": {
       "cabecalhos": [
@@ -265,24 +240,79 @@
         }
       ],
       "frases": {
-        "0466": [
-          "Dezena no primeiro prêmio!<br>com o palpite 0466",
-          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 0466"
-        ],
-        "0486": [
-          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 0486"
+        "0186": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 0186"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 0,
         "Grupo": [
-          "🐒",
           "🐅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0460, 0463, 0466, 0469, 0480, 0483, 0486, 0489"
+      "resumo": "Palpites dados para esta extração: 0186"
+    },
+    "LOOK - GOIÁS, 16h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9654",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7733",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6073",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4392",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7327",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "5179",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "654",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0186"
     }
   },
   "1-10": {
@@ -356,12 +386,9 @@
         }
       ],
       "frases": {
-        "0463": [
-          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 0463"
-        ],
-        "0486": [
-          "Dezena no décimo prêmio!<br>com o palpite 0486",
-          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 0486"
+        "0186": [
+          "Dezena no décimo prêmio!<br>com o palpite 0186",
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 0186"
         ]
       },
       "acertos": {
@@ -369,11 +396,10 @@
         "Centena": 0,
         "Dezena": 1,
         "Grupo": [
-          "🦁",
           "🐅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0460, 0463, 0466, 0469, 0480, 0483, 0486, 0489"
+      "resumo": "Palpites dados para esta extração: 0186"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
       "cabecalhos": [
@@ -445,20 +471,21 @@
         }
       ],
       "frases": {
-        "0486": [
-          "Dezena no quinto prêmio!<br>com o palpite 0486",
-          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 0486"
+        "0186": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 0186",
+          "Dezena no quinto prêmio!<br>com o palpite 0186",
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 0186"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
+        "Centena": 1,
         "Dezena": 1,
         "Grupo": [
           "🐅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0460, 0463, 0466, 0469, 0480, 0483, 0486, 0489"
+      "resumo": "Palpites dados para esta extração: 0186"
     },
     "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
@@ -529,29 +556,14 @@
           "Bicho": "Porco"
         }
       ],
-      "frases": {
-        "0469": [
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 0469",
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 0469",
-          "Dezena no oitavo prêmio!<br>com o palpite 0469",
-          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 0469",
-          "Dezena no décimo prêmio!<br>com o palpite 0469",
-          "PORCO 🐖 no décimo prêmio!<br>com o palpite 0469"
-        ],
-        "0463": [
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 0463"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 2,
-        "Grupo": [
-          "🐖",
-          "🦁"
-        ]
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0460, 0463, 0466, 0469, 0480, 0483, 0486, 0489"
+      "resumo": "Palpites dados para esta extração: 0186"
     },
     "LOOK - GOIÁS, 14h do 1º ao 10º": {
       "cabecalhos": [
@@ -623,34 +635,99 @@
         }
       ],
       "frases": {
-        "0466": [
-          "Dezena no primeiro prêmio!<br>com o palpite 0466",
-          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 0466"
-        ],
-        "0486": [
-          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 0486",
-          "Dezena no nono prêmio!<br>com o palpite 0486",
-          "TIGRE 🐅 no nono prêmio!<br>com o palpite 0486"
-        ],
-        "0483": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 0483",
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 0483",
-          "Dezena no oitavo prêmio!<br>com o palpite 0483",
-          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 0483",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 0483"
+        "0186": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 0186",
+          "Dezena no nono prêmio!<br>com o palpite 0186",
+          "TIGRE 🐅 no nono prêmio!<br>com o palpite 0186"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 3,
+        "Centena": 0,
+        "Dezena": 1,
         "Grupo": [
-          "🐒",
-          "🐅",
-          "🐂"
+          "🐅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0460, 0463, 0466, 0469, 0480, 0483, 0486, 0489"
+      "resumo": "Palpites dados para esta extração: 0186"
+    },
+    "LOOK - GOIÁS, 16h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9654",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7733",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6073",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4392",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7327",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9764",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6703",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5379",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4332",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1357",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0186"
     }
   }
 }
