@@ -52,31 +52,93 @@
         }
       ],
       "frases": {
-        "7010": [
-          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 7010"
-        ],
-        "7025": [
-          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 7025"
+        "1055": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 1055",
+          "Dezena no quarto prêmio!<br>com o palpite 1055",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 1055"
         ],
         "7055": [
           "Centena e Dezena no quarto prêmio!<br>com o palpite 7055",
           "Dezena no quarto prêmio!<br>com o palpite 7055",
           "GATO 🐈 no quarto prêmio!<br>com o palpite 7055"
+        ],
+        "9055": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 9055",
+          "Dezena no quarto prêmio!<br>com o palpite 9055",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 9055"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 1,
+        "Centena": 3,
+        "Dezena": 3,
         "Grupo": [
-          "🐑",
-          "🐈",
-          "🐴"
+          "🐈"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7000, 7005, 7010, 7015, 7020, 7025, 7030, 7035, 7050, 7055, 7070, 7075, 7080, 7085"
+      "resumo": "Palpites dados para esta extração: 1035, 1055, 7035, 7055, 9035, 9055"
     },
     "PT-RIO, RJ, 11:00, PTM": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9520",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7546",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8410",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5850",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3478",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "4804",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "837",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1035, 1055, 7035, 7055, 9035, 9055"
+    },
+    "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -171,16 +233,14 @@
         }
       ],
       "frases": {
-        "7000": [
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 7000",
-          "Dezena no sétimo prêmio!<br>com o palpite 7000",
-          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7000"
+        "1035": [
+          "Dezena no oitavo prêmio!<br>com o palpite 1035",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 1035"
         ],
-        "7020": [
-          "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 7020"
-        ],
-        "7025": [
-          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 7025"
+        "1055": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 1055",
+          "Dezena no quarto prêmio!<br>com o palpite 1055",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 1055"
         ],
         "7035": [
           "Dezena no oitavo prêmio!<br>com o palpite 7035",
@@ -191,32 +251,106 @@
           "Dezena no quarto prêmio!<br>com o palpite 7055",
           "GATO 🐈 no quarto prêmio!<br>com o palpite 7055"
         ],
-        "7075": [
-          "Dezena no nono prêmio!<br>com o palpite 7075",
-          "PAVÃO 🦚 no nono prêmio!<br>com o palpite 7075"
+        "9035": [
+          "Dezena no oitavo prêmio!<br>com o palpite 9035",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 9035"
         ],
-        "7085": [
-          "Dezena no sexto prêmio!<br>com o palpite 7085",
-          "TIGRE 🐅 no sexto prêmio!<br>com o palpite 7085"
+        "9055": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 9055",
+          "Dezena no quarto prêmio!<br>com o palpite 9055",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 9055"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 2,
-        "Dezena": 5,
+        "Centena": 3,
+        "Dezena": 6,
         "Grupo": [
-          "🐑",
           "🐈",
-          "🐅",
-          "🐄",
-          "🐍",
-          "🦚",
-          "🐕"
+          "🐍"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7000, 7005, 7010, 7015, 7020, 7025, 7030, 7035, 7050, 7055, 7070, 7075, 7080, 7085"
+      "resumo": "Palpites dados para esta extração: 1035, 1055, 7035, 7055, 9035, 9055"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9520",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7546",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8410",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5850",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3478",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9785",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "5548",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2415",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0600",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "3152",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1035, 1055, 7035, 7055, 9035, 9055"
+    },
+    "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
