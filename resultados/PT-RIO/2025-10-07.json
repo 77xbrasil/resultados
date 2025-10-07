@@ -51,14 +51,30 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "7010": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 7010"
+        ],
+        "7025": [
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 7025"
+        ],
+        "7055": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 7055",
+          "Dezena no quarto prêmio!<br>com o palpite 7055",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 7055"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 1,
+        "Grupo": [
+          "🐑",
+          "🐈",
+          "🐴"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7000, 7020, 7070"
+      "resumo": "Palpites dados para esta extração: 7000, 7005, 7010, 7015, 7020, 7025, 7030, 7035, 7050, 7055, 7070, 7075, 7080, 7085"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -162,18 +178,43 @@
         ],
         "7020": [
           "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 7020"
+        ],
+        "7025": [
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 7025"
+        ],
+        "7035": [
+          "Dezena no oitavo prêmio!<br>com o palpite 7035",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 7035"
+        ],
+        "7055": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 7055",
+          "Dezena no quarto prêmio!<br>com o palpite 7055",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 7055"
+        ],
+        "7075": [
+          "Dezena no nono prêmio!<br>com o palpite 7075",
+          "PAVÃO 🦚 no nono prêmio!<br>com o palpite 7075"
+        ],
+        "7085": [
+          "Dezena no sexto prêmio!<br>com o palpite 7085",
+          "TIGRE 🐅 no sexto prêmio!<br>com o palpite 7085"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 1,
+        "Centena": 2,
+        "Dezena": 5,
         "Grupo": [
+          "🐑",
+          "🐈",
+          "🐅",
           "🐄",
+          "🐍",
+          "🦚",
           "🐕"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7000, 7020, 7070"
+      "resumo": "Palpites dados para esta extração: 7000, 7005, 7010, 7015, 7020, 7025, 7030, 7035, 7050, 7055, 7070, 7075, 7080, 7085"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
