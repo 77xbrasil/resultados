@@ -51,14 +51,34 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2306": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 2306",
+          "Dezena no quarto prêmio!<br>com o palpite 2306",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 2306"
+        ],
+        "2366": [
+          "MACACO 🐒 no segundo prêmio!<br>com o palpite 2366"
+        ],
+        "2506": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 2506",
+          "Dezena no quarto prêmio!<br>com o palpite 2506",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 2506"
+        ],
+        "2566": [
+          "MACACO 🐒 no segundo prêmio!<br>com o palpite 2566"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐒",
+          "🦅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5386, 6386, 8386"
+      "resumo": "Palpites dados para esta extração: 2306, 2336, 2366, 2386, 2506, 2536, 2566, 2586"
     },
     "SP, 10hs - PTSP": {
       "cabecalhos": [
@@ -155,28 +175,53 @@
         }
       ],
       "frases": {
-        "5386": [
-          "Dezena no nono prêmio!<br>com o palpite 5386",
-          "TIGRE 🐅 no nono prêmio!<br>com o palpite 5386"
+        "2306": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 2306",
+          "Dezena no quarto prêmio!<br>com o palpite 2306",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 2306"
         ],
-        "6386": [
-          "Dezena no nono prêmio!<br>com o palpite 6386",
-          "TIGRE 🐅 no nono prêmio!<br>com o palpite 6386"
+        "2336": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2336",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 2336"
         ],
-        "8386": [
-          "Dezena no nono prêmio!<br>com o palpite 8386",
-          "TIGRE 🐅 no nono prêmio!<br>com o palpite 8386"
+        "2366": [
+          "MACACO 🐒 no segundo prêmio!<br>com o palpite 2366"
+        ],
+        "2386": [
+          "Dezena no nono prêmio!<br>com o palpite 2386",
+          "TIGRE 🐅 no nono prêmio!<br>com o palpite 2386"
+        ],
+        "2506": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 2506",
+          "Dezena no quarto prêmio!<br>com o palpite 2506",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 2506"
+        ],
+        "2536": [
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 2536",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 2536",
+          "Dezena no sétimo prêmio!<br>com o palpite 2536",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 2536"
+        ],
+        "2566": [
+          "MACACO 🐒 no segundo prêmio!<br>com o palpite 2566"
+        ],
+        "2586": [
+          "Dezena no nono prêmio!<br>com o palpite 2586",
+          "TIGRE 🐅 no nono prêmio!<br>com o palpite 2586"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 3,
+        "Milhar": 1,
+        "Centena": 1,
+        "Dezena": 6,
         "Grupo": [
+          "🐒",
+          "🦅",
+          "🐍",
           "🐅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5386, 6386, 8386"
+      "resumo": "Palpites dados para esta extração: 2306, 2336, 2366, 2386, 2506, 2536, 2566, 2586"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
