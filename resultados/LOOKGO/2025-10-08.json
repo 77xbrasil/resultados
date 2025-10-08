@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1711, 1713, 1714, 3711, 3713, 3714, 7711, 7713, 7714"
+      "resumo": "Palpites dados para esta extração: 0314, 0714, 4314, 4714, 7314, 7714"
     },
     "LOOK - GOIÁS, 09h": {
       "cabecalhos": [
@@ -118,7 +118,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1711, 1713, 1714, 3711, 3713, 3714, 7711, 7713, 7714"
+      "resumo": "Palpites dados para esta extração: 0314, 0714, 4314, 4714, 7314, 7714"
     },
     "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
@@ -172,39 +172,102 @@
         }
       ],
       "frases": {
-        "1713": [
-          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 1713"
+        "4314": [
+          "Dezena no quinto prêmio!<br>com o palpite 4314",
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 4314"
         ],
-        "1714": [
-          "Dezena no quinto prêmio!<br>com o palpite 1714",
-          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 1714"
+        "4714": [
+          "Dezena no quinto prêmio!<br>com o palpite 4714",
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 4714"
         ],
-        "3713": [
-          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 3713"
-        ],
-        "3714": [
-          "Dezena no quinto prêmio!<br>com o palpite 3714",
-          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 3714"
-        ],
-        "7713": [
-          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 7713"
+        "7314": [
+          "Dezena no quinto prêmio!<br>com o palpite 7314",
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 7314"
         ],
         "7714": [
           "Dezena no quinto prêmio!<br>com o palpite 7714",
           "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 7714"
+        ],
+        "0314": [
+          "Dezena no quinto prêmio!<br>com o palpite 0314",
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 0314"
+        ],
+        "0714": [
+          "Dezena no quinto prêmio!<br>com o palpite 0714",
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 0714"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
+        "Dezena": 6,
         "Grupo": [
           "🦋"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1711, 1713, 1714, 3711, 3713, 3714, 7711, 7713, 7714"
+      "resumo": "Palpites dados para esta extração: 0314, 0714, 4314, 4714, 7314, 7714"
     },
     "LOOK - GOIÁS, 14h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2881",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9248",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3079",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8095",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9689",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2992",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "643",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0314, 0714, 4314, 4714, 7314, 7714"
+    },
+    "LOOK - GOIÁS, 16h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -305,7 +368,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1711, 1713, 1714, 3711, 3713, 3714, 7711, 7713, 7714"
+      "resumo": "Palpites dados para esta extração: 0314, 0714, 4314, 4714, 7314, 7714"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
       "cabecalhos": [
@@ -377,40 +440,34 @@
         }
       ],
       "frases": {
-        "1713": [
-          "Centena e Dezena no sexto prêmio!<br>com o palpite 1713",
-          "Dezena no sexto prêmio!<br>com o palpite 1713",
-          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 1713"
+        "4314": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 4314"
         ],
-        "1714": [
-          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 1714"
+        "4714": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 4714"
         ],
-        "3713": [
-          "Centena e Dezena no sexto prêmio!<br>com o palpite 3713",
-          "Dezena no sexto prêmio!<br>com o palpite 3713",
-          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 3713"
-        ],
-        "3714": [
-          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 3714"
-        ],
-        "7713": [
-          "Centena e Dezena no sexto prêmio!<br>com o palpite 7713",
-          "Dezena no sexto prêmio!<br>com o palpite 7713",
-          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 7713"
+        "7314": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 7314"
         ],
         "7714": [
           "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 7714"
+        ],
+        "0314": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 0314"
+        ],
+        "0714": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 0714"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 3,
-        "Dezena": 3,
+        "Centena": 0,
+        "Dezena": 0,
         "Grupo": [
           "🦋"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1711, 1713, 1714, 3711, 3713, 3714, 7711, 7713, 7714"
+      "resumo": "Palpites dados para esta extração: 0314, 0714, 4314, 4714, 7314, 7714"
     },
     "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
@@ -482,50 +539,28 @@
         }
       ],
       "frases": {
-        "1711": [
-          "Centena e Dezena no décimo prêmio!<br>com o palpite 1711",
-          "Dezena no décimo prêmio!<br>com o palpite 1711",
-          "BURRO 🐴 no décimo prêmio!<br>com o palpite 1711"
+        "4314": [
+          "Dezena no quinto prêmio!<br>com o palpite 4314",
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 4314",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 4314",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 4314",
+          "Dezena no nono prêmio!<br>com o palpite 4314",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 4314"
         ],
-        "1713": [
-          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 1713",
-          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 1713",
-          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 1713"
+        "4714": [
+          "Dezena no quinto prêmio!<br>com o palpite 4714",
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 4714",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 4714",
+          "Dezena no nono prêmio!<br>com o palpite 4714",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 4714"
         ],
-        "1714": [
-          "Dezena no quinto prêmio!<br>com o palpite 1714",
-          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 1714",
-          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 1714",
-          "Dezena no nono prêmio!<br>com o palpite 1714",
-          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 1714"
-        ],
-        "3711": [
-          "Centena e Dezena no décimo prêmio!<br>com o palpite 3711",
-          "Dezena no décimo prêmio!<br>com o palpite 3711",
-          "BURRO 🐴 no décimo prêmio!<br>com o palpite 3711"
-        ],
-        "3713": [
-          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 3713",
-          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 3713",
-          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 3713"
-        ],
-        "3714": [
-          "Dezena no quinto prêmio!<br>com o palpite 3714",
-          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 3714",
-          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 3714",
-          "Dezena no nono prêmio!<br>com o palpite 3714",
-          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 3714"
-        ],
-        "7711": [
-          "Milhar e Centena no décimo prêmio!<br>com o palpite 7711",
-          "Centena e Dezena no décimo prêmio!<br>com o palpite 7711",
-          "Dezena no décimo prêmio!<br>com o palpite 7711",
-          "BURRO 🐴 no décimo prêmio!<br>com o palpite 7711"
-        ],
-        "7713": [
-          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 7713",
-          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 7713",
-          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 7713"
+        "7314": [
+          "Dezena no quinto prêmio!<br>com o palpite 7314",
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 7314",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 7314",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 7314",
+          "Dezena no nono prêmio!<br>com o palpite 7314",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 7314"
         ],
         "7714": [
           "Dezena no quinto prêmio!<br>com o palpite 7714",
@@ -533,20 +568,112 @@
           "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 7714",
           "Dezena no nono prêmio!<br>com o palpite 7714",
           "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 7714"
+        ],
+        "0314": [
+          "Dezena no quinto prêmio!<br>com o palpite 0314",
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 0314",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 0314",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 0314",
+          "Dezena no nono prêmio!<br>com o palpite 0314",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 0314"
+        ],
+        "0714": [
+          "Dezena no quinto prêmio!<br>com o palpite 0714",
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 0714",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 0714",
+          "Dezena no nono prêmio!<br>com o palpite 0714",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 0714"
         ]
       },
       "acertos": {
-        "Milhar": 1,
+        "Milhar": 0,
         "Centena": 3,
-        "Dezena": 9,
+        "Dezena": 12,
         "Grupo": [
-          "🦋",
-          "🐴"
+          "🦋"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1711, 1713, 1714, 3711, 3713, 3714, 7711, 7713, 7714"
+      "resumo": "Palpites dados para esta extração: 0314, 0714, 4314, 4714, 7314, 7714"
     },
     "LOOK - GOIÁS, 14h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2881",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9248",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3079",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8095",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9689",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2938",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8200",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8479",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1895",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "4504",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0314, 0714, 4314, 4714, 7314, 7714"
+    },
+    "LOOK - GOIÁS, 16h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
