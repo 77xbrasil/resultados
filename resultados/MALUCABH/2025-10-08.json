@@ -69,36 +69,94 @@
           "Bicho": "Jacaré"
         }
       ],
-      "frases": {
-        "4051": [
-          "Dezena no primeiro prêmio!<br>com o palpite 4051",
-          "GALO 🐓 no primeiro prêmio!<br>com o palpite 4051"
-        ],
-        "4071": [
-          "Dezena no sexto prêmio!<br>com o palpite 4071",
-          "PORCO 🐖 no sexto prêmio!<br>com o palpite 4071"
-        ],
-        "4551": [
-          "Dezena no primeiro prêmio!<br>com o palpite 4551",
-          "GALO 🐓 no primeiro prêmio!<br>com o palpite 4551"
-        ],
-        "4571": [
-          "Dezena no sexto prêmio!<br>com o palpite 4571",
-          "PORCO 🐖 no sexto prêmio!<br>com o palpite 4571"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 4,
-        "Grupo": [
-          "🐓",
-          "🐖"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 4051, 4061, 4071, 4081, 4551, 4561, 4571, 4581"
+      "resumo": "Palpites dados para esta extração: 4161, 4261, 4561"
     },
     "12h - MALUCA - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9829",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2111",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7846",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5022",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9982",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0771",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "1554",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7243",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0680",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0542",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 4161, 4261, 4561"
+    },
+    "15h - MALUCA - BA": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
