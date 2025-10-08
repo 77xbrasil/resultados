@@ -290,20 +290,132 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "6121",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9172",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0427",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5151",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2228",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "3099",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "951",
+          "Grupo": "",
+          "Bicho": ""
+        }
       ],
-      "frases": {},
+      "frases": {
+        "8000": [
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 8000"
+        ],
+        "8021": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8021",
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 8021"
+        ],
+        "8023": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 8023"
+        ],
+        "8025": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 8025",
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 8025"
+        ],
+        "8200": [
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 8200"
+        ],
+        "8221": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8221",
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 8221"
+        ],
+        "8223": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 8223"
+        ],
+        "8225": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 8225",
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 8225"
+        ],
+        "8400": [
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 8400"
+        ],
+        "8421": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8421",
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 8421"
+        ],
+        "8423": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 8423"
+        ],
+        "8425": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 8425",
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 8425"
+        ],
+        "8700": [
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 8700"
+        ],
+        "8721": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8721",
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 8721"
+        ],
+        "8723": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 8723"
+        ],
+        "8725": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 8725",
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 8725"
+        ],
+        "8900": [
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 8900"
+        ],
+        "8921": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8921",
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 8921"
+        ],
+        "8923": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 8923"
+        ],
+        "8925": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 8925",
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 8925"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 5,
+        "Grupo": [
+          "🐐",
+          "🐑",
+          "🐄"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 8000, 8001, 8003, 8005, 8009, 8020, 8021, 8023, 8025, 8029, 8200, 8201, 8203, 8205, 8209, 8220, 8221, 8223, 8225, 8229, 8400, 8401, 8403, 8405, 8409, 8420, 8421, 8423, 8425, 8429, 8700, 8701, 8703, 8705, 8709, 8720, 8721, 8723, 8725, 8729, 8900, 8901, 8903, 8905, 8909, 8920, 8921, 8923, 8925, 8929"
     }
   }
 }
