@@ -51,25 +51,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "4858": [
-          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 4858"
-        ],
-        "4878": [
-          "Dezena no primeiro prêmio!<br>com o palpite 4878",
-          "PERU 🦃 no primeiro prêmio!<br>com o palpite 4878"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
-        "Grupo": [
-          "🦃",
-          "🐊"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 4808, 4838, 4858, 4878"
+      "resumo": "Palpites dados para esta extração: 1631, 1638, 1831, 1838, 2631, 2638, 2831, 2838, 4631, 4638, 4831, 4838, 5631, 5638, 5831, 5838"
     },
     "SP, 10hs - PTSP": {
       "cabecalhos": [
@@ -122,31 +111,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "4808": [
-          "Dezena no quinto prêmio!<br>com o palpite 4808",
-          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 4808"
-        ],
-        "4858": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 4858",
-          "Dezena no quarto prêmio!<br>com o palpite 4858",
-          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 4858"
-        ],
-        "4878": [
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 4878"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 2,
-        "Grupo": [
-          "🦃",
-          "🐊",
-          "🦅"
-        ]
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 4808, 4838, 4858, 4878"
+      "resumo": "Palpites dados para esta extração: 1631, 1638, 1831, 1838, 2631, 2638, 2831, 2838, 4631, 4638, 4831, 4838, 5631, 5638, 5831, 5838"
     },
     "SP, 12:00 - PTSP": {
       "cabecalhos": [
@@ -200,11 +172,29 @@
         }
       ],
       "frases": {
+        "1638": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 1638"
+        ],
+        "1838": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 1838"
+        ],
+        "2638": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 2638"
+        ],
+        "2838": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 2838"
+        ],
+        "4638": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 4638"
+        ],
         "4838": [
           "COELHO 🐇 no sétimo prêmio!<br>com o palpite 4838"
         ],
-        "4858": [
-          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 4858"
+        "5638": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 5638"
+        ],
+        "5838": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 5838"
         ]
       },
       "acertos": {
@@ -212,13 +202,72 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐊",
           "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4808, 4838, 4858, 4878"
+      "resumo": "Palpites dados para esta extração: 1631, 1638, 1831, 1838, 2631, 2638, 2831, 2838, 4631, 4638, 4831, 4838, 5631, 5638, 5831, 5838"
     },
     "SP, 13hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2877",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4701",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3852",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1986",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1051",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "4467",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "524",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1631, 1638, 1831, 1838, 2631, 2638, 2831, 2838, 4631, 4638, 4831, 4838, 5631, 5638, 5831, 5838"
+    },
+    "SP, 17hs - PTSP": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -312,21 +361,14 @@
           "Bicho": "Urso"
         }
       ],
-      "frases": {
-        "4878": [
-          "Dezena no primeiro prêmio!<br>com o palpite 4878",
-          "PERU 🦃 no primeiro prêmio!<br>com o palpite 4878"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
-        "Grupo": [
-          "🦃"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 4808, 4838, 4858, 4878"
+      "resumo": "Palpites dados para esta extração: 1631, 1638, 1831, 1838, 2631, 2638, 2831, 2838, 4631, 4638, 4831, 4838, 5631, 5638, 5831, 5838"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -398,35 +440,48 @@
         }
       ],
       "frases": {
-        "4808": [
-          "Dezena no quinto prêmio!<br>com o palpite 4808",
-          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 4808",
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 4808",
-          "Dezena no sétimo prêmio!<br>com o palpite 4808",
-          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 4808"
+        "1631": [
+          "Dezena no décimo prêmio!<br>com o palpite 1631",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 1631"
         ],
-        "4858": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 4858",
-          "Dezena no quarto prêmio!<br>com o palpite 4858",
-          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 4858",
-          "Dezena no sexto prêmio!<br>com o palpite 4858",
-          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 4858"
+        "1831": [
+          "Dezena no décimo prêmio!<br>com o palpite 1831",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 1831"
         ],
-        "4878": [
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 4878"
+        "2631": [
+          "Dezena no décimo prêmio!<br>com o palpite 2631",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 2631"
+        ],
+        "2831": [
+          "Dezena no décimo prêmio!<br>com o palpite 2831",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 2831"
+        ],
+        "4631": [
+          "Dezena no décimo prêmio!<br>com o palpite 4631",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 4631"
+        ],
+        "4831": [
+          "Dezena no décimo prêmio!<br>com o palpite 4831",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 4831"
+        ],
+        "5631": [
+          "Dezena no décimo prêmio!<br>com o palpite 5631",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 5631"
+        ],
+        "5831": [
+          "Dezena no décimo prêmio!<br>com o palpite 5831",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 5831"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 2,
-        "Dezena": 4,
+        "Centena": 0,
+        "Dezena": 8,
         "Grupo": [
-          "🦃",
-          "🐊",
-          "🦅"
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4808, 4838, 4858, 4878"
+      "resumo": "Palpites dados para esta extração: 1631, 1638, 1831, 1838, 2631, 2638, 2831, 2838, 4631, 4638, 4831, 4838, 5631, 5638, 5831, 5838"
     },
     "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -498,25 +553,192 @@
         }
       ],
       "frases": {
+        "1631": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 1631",
+          "Dezena no décimo prêmio!<br>com o palpite 1631",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 1631"
+        ],
+        "1638": [
+          "COELHO 🐇 no nono prêmio!<br>com o palpite 1638"
+        ],
+        "1831": [
+          "Dezena no décimo prêmio!<br>com o palpite 1831",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 1831"
+        ],
+        "1838": [
+          "COELHO 🐇 no nono prêmio!<br>com o palpite 1838"
+        ],
+        "2631": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 2631",
+          "Dezena no décimo prêmio!<br>com o palpite 2631",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 2631"
+        ],
+        "2638": [
+          "COELHO 🐇 no nono prêmio!<br>com o palpite 2638"
+        ],
+        "2831": [
+          "Dezena no décimo prêmio!<br>com o palpite 2831",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 2831"
+        ],
+        "2838": [
+          "COELHO 🐇 no nono prêmio!<br>com o palpite 2838"
+        ],
+        "4631": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 4631",
+          "Dezena no décimo prêmio!<br>com o palpite 4631",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 4631"
+        ],
+        "4638": [
+          "COELHO 🐇 no nono prêmio!<br>com o palpite 4638"
+        ],
+        "4831": [
+          "Dezena no décimo prêmio!<br>com o palpite 4831",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 4831"
+        ],
         "4838": [
           "COELHO 🐇 no nono prêmio!<br>com o palpite 4838"
         ],
-        "4858": [
-          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 4858"
+        "5631": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 5631",
+          "Dezena no décimo prêmio!<br>com o palpite 5631",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 5631"
+        ],
+        "5638": [
+          "COELHO 🐇 no nono prêmio!<br>com o palpite 5638"
+        ],
+        "5831": [
+          "Dezena no décimo prêmio!<br>com o palpite 5831",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 5831"
+        ],
+        "5838": [
+          "COELHO 🐇 no nono prêmio!<br>com o palpite 5838"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 4,
+        "Dezena": 8,
+        "Grupo": [
+          "🐇",
+          "🐪"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1631, 1638, 1831, 1838, 2631, 2638, 2831, 2838, 4631, 4638, 4831, 4838, 5631, 5638, 5831, 5838"
+    },
+    "SP, 13hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2877",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4701",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3852",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1986",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1051",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2431",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8789",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7058",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "7126",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "9871",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        }
+      ],
+      "frases": {
+        "1631": [
+          "Dezena no sexto prêmio!<br>com o palpite 1631",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 1631"
+        ],
+        "1831": [
+          "Dezena no sexto prêmio!<br>com o palpite 1831",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 1831"
+        ],
+        "2631": [
+          "Dezena no sexto prêmio!<br>com o palpite 2631",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 2631"
+        ],
+        "2831": [
+          "Dezena no sexto prêmio!<br>com o palpite 2831",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 2831"
+        ],
+        "4631": [
+          "Dezena no sexto prêmio!<br>com o palpite 4631",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 4631"
+        ],
+        "4831": [
+          "Dezena no sexto prêmio!<br>com o palpite 4831",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 4831"
+        ],
+        "5631": [
+          "Dezena no sexto prêmio!<br>com o palpite 5631",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 5631"
+        ],
+        "5831": [
+          "Dezena no sexto prêmio!<br>com o palpite 5831",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 5831"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 8,
         "Grupo": [
-          "🐊",
-          "🐇"
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4808, 4838, 4858, 4878"
+      "resumo": "Palpites dados para esta extração: 1631, 1638, 1831, 1838, 2631, 2638, 2831, 2838, 4631, 4638, 4831, 4838, 5631, 5638, 5831, 5838"
     },
-    "SP, 13hs - PTSP do 1º ao 10º": {
+    "SP, 17hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
