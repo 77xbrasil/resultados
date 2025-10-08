@@ -190,6 +190,106 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0338",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1149",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7672",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3247",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7025",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "19431",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "388",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "8025": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 8025",
+          "Dezena no quinto prêmio!<br>com o palpite 8025",
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 8025"
+        ],
+        "8029": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 8029"
+        ],
+        "8225": [
+          "Dezena no quinto prêmio!<br>com o palpite 8225",
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 8225"
+        ],
+        "8229": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 8229"
+        ],
+        "8425": [
+          "Dezena no quinto prêmio!<br>com o palpite 8425",
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 8425"
+        ],
+        "8429": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 8429"
+        ],
+        "8725": [
+          "Dezena no quinto prêmio!<br>com o palpite 8725",
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 8725"
+        ],
+        "8729": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 8729"
+        ],
+        "8925": [
+          "Dezena no quinto prêmio!<br>com o palpite 8925",
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 8925"
+        ],
+        "8929": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 8929"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 5,
+        "Grupo": [
+          "🐑",
+          "🐪"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 8000, 8001, 8003, 8005, 8009, 8020, 8021, 8023, 8025, 8029, 8200, 8201, 8203, 8205, 8209, 8220, 8221, 8223, 8225, 8229, 8400, 8401, 8403, 8405, 8409, 8420, 8421, 8423, 8425, 8429, 8700, 8701, 8703, 8705, 8709, 8720, 8721, 8723, 8725, 8729, 8900, 8901, 8903, 8905, 8909, 8920, 8921, 8923, 8925, 8929"
+    },
+    "MINAS FEDERAL - MG": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
