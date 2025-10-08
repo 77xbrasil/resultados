@@ -247,6 +247,66 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5123",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5258",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7135",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7682",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6963",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2161",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "936",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 9139, 9339, 9539, 9739"
+    },
+    "A FEDERAL DO BRASIL - RJ": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
@@ -552,6 +612,99 @@
       "resumo": "Palpites dados para esta extração: 9139, 9339, 9539, 9739"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5123",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5258",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7135",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7682",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6963",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5577",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "1216",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2538",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3852",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "5344",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        }
+      ],
+      "frases": {
+        "9139": [
+          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 9139"
+        ],
+        "9339": [
+          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 9339"
+        ],
+        "9539": [
+          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 9539"
+        ],
+        "9739": [
+          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 9739"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐇"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 9139, 9339, 9539, 9739"
+    },
+    "A FEDERAL DO BRASIL - RJ do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
