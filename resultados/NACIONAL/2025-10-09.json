@@ -45,40 +45,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "0378": [
-          "PERU 🦃 no primeiro prêmio!<br>com o palpite 0378"
-        ],
-        "0478": [
-          "PERU 🦃 no primeiro prêmio!<br>com o palpite 0478"
-        ],
-        "0778": [
-          "PERU 🦃 no primeiro prêmio!<br>com o palpite 0778"
-        ],
-        "0384": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 0384",
-          "Dezena no quarto prêmio!<br>com o palpite 0384",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 0384"
-        ],
-        "0484": [
-          "Dezena no quarto prêmio!<br>com o palpite 0484",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 0484"
-        ],
-        "0784": [
-          "Dezena no quarto prêmio!<br>com o palpite 0784",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 0784"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 3,
-        "Grupo": [
-          "🦃",
-          "🐂"
-        ]
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0334, 0338, 0374, 0378, 0384, 0388, 0434, 0438, 0474, 0478, 0484, 0488, 0734, 0738, 0774, 0778, 0784, 0788"
+      "resumo": "Palpites dados para esta extração: 1338, 1368, 1738, 1768, 3338, 3368, 3738, 3768, 6338, 6368, 6738, 6768, 8338, 8368, 8738, 8768"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -125,26 +99,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "0384": [
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 0384"
-        ],
-        "0484": [
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 0484"
-        ],
-        "0784": [
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 0784"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐂"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0334, 0338, 0374, 0378, 0384, 0388, 0434, 0438, 0474, 0478, 0484, 0488, 0734, 0738, 0774, 0778, 0784, 0788"
+      "resumo": "Palpites dados para esta extração: 1338, 1368, 1738, 1768, 3338, 3368, 3738, 3768, 6338, 6368, 6738, 6768, 8338, 8368, 8738, 8768"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -192,29 +154,53 @@
         }
       ],
       "frases": {
-        "0338": [
-          "Centena e Dezena no quinto prêmio!<br>com o palpite 0338",
-          "Dezena no quinto prêmio!<br>com o palpite 0338",
-          "COELHO 🐇 no quinto prêmio!<br>com o palpite 0338"
+        "1338": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 1338",
+          "Dezena no quinto prêmio!<br>com o palpite 1338",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 1338"
         ],
-        "0438": [
-          "Dezena no quinto prêmio!<br>com o palpite 0438",
-          "COELHO 🐇 no quinto prêmio!<br>com o palpite 0438"
+        "1738": [
+          "Dezena no quinto prêmio!<br>com o palpite 1738",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 1738"
         ],
-        "0738": [
-          "Dezena no quinto prêmio!<br>com o palpite 0738",
-          "COELHO 🐇 no quinto prêmio!<br>com o palpite 0738"
+        "3338": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 3338",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 3338",
+          "Dezena no quinto prêmio!<br>com o palpite 3338",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 3338"
+        ],
+        "3738": [
+          "Dezena no quinto prêmio!<br>com o palpite 3738",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 3738"
+        ],
+        "6338": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 6338",
+          "Dezena no quinto prêmio!<br>com o palpite 6338",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 6338"
+        ],
+        "6738": [
+          "Dezena no quinto prêmio!<br>com o palpite 6738",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 6738"
+        ],
+        "8338": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 8338",
+          "Dezena no quinto prêmio!<br>com o palpite 8338",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 8338"
+        ],
+        "8738": [
+          "Dezena no quinto prêmio!<br>com o palpite 8738",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 8738"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 3,
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 8,
         "Grupo": [
           "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0334, 0338, 0374, 0378, 0384, 0388, 0434, 0438, 0474, 0478, 0484, 0488, 0734, 0738, 0774, 0778, 0784, 0788"
+      "resumo": "Palpites dados para esta extração: 1338, 1368, 1738, 1768, 3338, 3368, 3738, 3768, 6338, 6368, 6738, 6768, 8338, 8368, 8738, 8768"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -262,38 +248,48 @@
         }
       ],
       "frases": {
-        "0384": [
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 0384"
+        "1338": [
+          "Dezena no sexto prêmio!<br>com o palpite 1338",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 1338"
         ],
-        "0484": [
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 0484"
+        "1738": [
+          "Dezena no sexto prêmio!<br>com o palpite 1738",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 1738"
         ],
-        "0784": [
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 0784"
+        "3338": [
+          "Dezena no sexto prêmio!<br>com o palpite 3338",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 3338"
         ],
-        "0338": [
-          "Dezena no sexto prêmio!<br>com o palpite 0338",
-          "COELHO 🐇 no sexto prêmio!<br>com o palpite 0338"
+        "3738": [
+          "Dezena no sexto prêmio!<br>com o palpite 3738",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 3738"
         ],
-        "0438": [
-          "Dezena no sexto prêmio!<br>com o palpite 0438",
-          "COELHO 🐇 no sexto prêmio!<br>com o palpite 0438"
+        "6338": [
+          "Dezena no sexto prêmio!<br>com o palpite 6338",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 6338"
         ],
-        "0738": [
-          "Dezena no sexto prêmio!<br>com o palpite 0738",
-          "COELHO 🐇 no sexto prêmio!<br>com o palpite 0738"
+        "6738": [
+          "Dezena no sexto prêmio!<br>com o palpite 6738",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 6738"
+        ],
+        "8338": [
+          "Dezena no sexto prêmio!<br>com o palpite 8338",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 8338"
+        ],
+        "8738": [
+          "Dezena no sexto prêmio!<br>com o palpite 8738",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 8738"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
+        "Dezena": 8,
         "Grupo": [
-          "🐂",
           "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0334, 0338, 0374, 0378, 0384, 0388, 0434, 0438, 0474, 0478, 0484, 0488, 0734, 0738, 0774, 0778, 0784, 0788"
+      "resumo": "Palpites dados para esta extração: 1338, 1368, 1738, 1768, 3338, 3368, 3738, 3768, 6338, 6368, 6738, 6768, 8338, 8368, 8738, 8768"
     },
     "Nacional - LN 15:00": {
       "cabecalhos": [
@@ -340,40 +336,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "0388": [
-          "Dezena no quarto prêmio!<br>com o palpite 0388",
-          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 0388"
-        ],
-        "0488": [
-          "Dezena no quarto prêmio!<br>com o palpite 0488",
-          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 0488"
-        ],
-        "0788": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 0788",
-          "Dezena no quarto prêmio!<br>com o palpite 0788",
-          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 0788"
-        ],
-        "0334": [
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 0334"
-        ],
-        "0434": [
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 0434"
-        ],
-        "0734": [
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 0734"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 3,
-        "Grupo": [
-          "🐅",
-          "🐍"
-        ]
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0334, 0338, 0374, 0378, 0384, 0388, 0434, 0438, 0474, 0478, 0484, 0488, 0734, 0738, 0774, 0778, 0784, 0788"
+      "resumo": "Palpites dados para esta extração: 1338, 1368, 1738, 1768, 3338, 3368, 3738, 3768, 6338, 6368, 6738, 6768, 8338, 8368, 8738, 8768"
     },
     "Nacional - LN 17:00": {
       "cabecalhos": [
@@ -421,23 +391,29 @@
         }
       ],
       "frases": {
-        "0338": [
-          "COELHO 🐇 no quarto prêmio!<br>com o palpite 0338"
+        "1338": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 1338"
         ],
-        "0438": [
-          "COELHO 🐇 no quarto prêmio!<br>com o palpite 0438"
+        "1738": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 1738"
         ],
-        "0738": [
-          "COELHO 🐇 no quarto prêmio!<br>com o palpite 0738"
+        "3338": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 3338"
         ],
-        "0374": [
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 0374"
+        "3738": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 3738"
         ],
-        "0474": [
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 0474"
+        "6338": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 6338"
         ],
-        "0774": [
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 0774"
+        "6738": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 6738"
+        ],
+        "8338": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 8338"
+        ],
+        "8738": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 8738"
         ]
       },
       "acertos": {
@@ -445,13 +421,66 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐇",
-          "🦚"
+          "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0334, 0338, 0374, 0378, 0384, 0388, 0434, 0438, 0474, 0478, 0484, 0488, 0734, 0738, 0774, 0778, 0784, 0788"
+      "resumo": "Palpites dados para esta extração: 1338, 1368, 1738, 1768, 3338, 3368, 3738, 3768, 6338, 6368, 6738, 6768, 8338, 8368, 8738, 8768"
     },
     "Nacional - LN 20:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3721",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5475",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6912",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8274",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8553",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2935",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1338, 1368, 1738, 1768, 3338, 3368, 3738, 3768, 6338, 6368, 6738, 6768, 8338, 8368, 8738, 8768"
+    },
+    "Nacional - LN 23:00": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -545,50 +574,14 @@
           "Bicho": "Cavalo"
         }
       ],
-      "frases": {
-        "0378": [
-          "PERU 🦃 no primeiro prêmio!<br>com o palpite 0378"
-        ],
-        "0478": [
-          "PERU 🦃 no primeiro prêmio!<br>com o palpite 0478"
-        ],
-        "0778": [
-          "PERU 🦃 no primeiro prêmio!<br>com o palpite 0778"
-        ],
-        "0384": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 0384",
-          "Dezena no quarto prêmio!<br>com o palpite 0384",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 0384"
-        ],
-        "0484": [
-          "Dezena no quarto prêmio!<br>com o palpite 0484",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 0484"
-        ],
-        "0784": [
-          "Dezena no quarto prêmio!<br>com o palpite 0784",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 0784"
-        ],
-        "0388": [
-          "TIGRE 🐅 no sexto prêmio!<br>com o palpite 0388"
-        ],
-        "0488": [
-          "TIGRE 🐅 no sexto prêmio!<br>com o palpite 0488"
-        ],
-        "0788": [
-          "TIGRE 🐅 no sexto prêmio!<br>com o palpite 0788"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 3,
-        "Grupo": [
-          "🦃",
-          "🐂",
-          "🐅"
-        ]
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0334, 0338, 0374, 0378, 0384, 0388, 0434, 0438, 0474, 0478, 0484, 0488, 0734, 0738, 0774, 0778, 0784, 0788"
+      "resumo": "Palpites dados para esta extração: 1338, 1368, 1738, 1768, 3338, 3368, 3738, 3768, 6338, 6368, 6738, 6768, 8338, 8368, 8738, 8768"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -659,26 +652,14 @@
           "Bicho": "Pavão"
         }
       ],
-      "frases": {
-        "0374": [
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 0374"
-        ],
-        "0474": [
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 0474"
-        ],
-        "0774": [
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 0774"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🦚"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0334, 0338, 0374, 0378, 0384, 0388, 0434, 0438, 0474, 0478, 0484, 0488, 0734, 0738, 0774, 0778, 0784, 0788"
+      "resumo": "Palpites dados para esta extração: 1338, 1368, 1738, 1768, 3338, 3368, 3738, 3768, 6338, 6368, 6738, 6768, 8338, 8368, 8738, 8768"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -750,39 +731,53 @@
         }
       ],
       "frases": {
-        "0338": [
-          "Centena e Dezena no quinto prêmio!<br>com o palpite 0338",
-          "Dezena no quinto prêmio!<br>com o palpite 0338",
-          "COELHO 🐇 no quinto prêmio!<br>com o palpite 0338"
+        "1338": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 1338",
+          "Dezena no quinto prêmio!<br>com o palpite 1338",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 1338"
         ],
-        "0438": [
-          "Dezena no quinto prêmio!<br>com o palpite 0438",
-          "COELHO 🐇 no quinto prêmio!<br>com o palpite 0438"
+        "1738": [
+          "Dezena no quinto prêmio!<br>com o palpite 1738",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 1738"
         ],
-        "0738": [
-          "Dezena no quinto prêmio!<br>com o palpite 0738",
-          "COELHO 🐇 no quinto prêmio!<br>com o palpite 0738"
+        "3338": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 3338",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 3338",
+          "Dezena no quinto prêmio!<br>com o palpite 3338",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 3338"
         ],
-        "0378": [
-          "PERU 🦃 no sexto prêmio!<br>com o palpite 0378"
+        "3738": [
+          "Dezena no quinto prêmio!<br>com o palpite 3738",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 3738"
         ],
-        "0478": [
-          "PERU 🦃 no sexto prêmio!<br>com o palpite 0478"
+        "6338": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 6338",
+          "Dezena no quinto prêmio!<br>com o palpite 6338",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 6338"
         ],
-        "0778": [
-          "PERU 🦃 no sexto prêmio!<br>com o palpite 0778"
+        "6738": [
+          "Dezena no quinto prêmio!<br>com o palpite 6738",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 6738"
+        ],
+        "8338": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 8338",
+          "Dezena no quinto prêmio!<br>com o palpite 8338",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 8338"
+        ],
+        "8738": [
+          "Dezena no quinto prêmio!<br>com o palpite 8738",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 8738"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 3,
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 8,
         "Grupo": [
-          "🐇",
-          "🦃"
+          "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0334, 0338, 0374, 0378, 0384, 0388, 0434, 0438, 0474, 0478, 0484, 0488, 0734, 0738, 0774, 0778, 0784, 0788"
+      "resumo": "Palpites dados para esta extração: 1338, 1368, 1738, 1768, 3338, 3368, 3738, 3768, 6338, 6368, 6738, 6768, 8338, 8368, 8738, 8768"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -853,36 +848,14 @@
           "Bicho": "Peru"
         }
       ],
-      "frases": {
-        "0384": [
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 0384"
-        ],
-        "0484": [
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 0484"
-        ],
-        "0784": [
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 0784"
-        ],
-        "0378": [
-          "PERU 🦃 no décimo prêmio!<br>com o palpite 0378"
-        ],
-        "0478": [
-          "PERU 🦃 no décimo prêmio!<br>com o palpite 0478"
-        ],
-        "0778": [
-          "PERU 🦃 no décimo prêmio!<br>com o palpite 0778"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐂",
-          "🦃"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0334, 0338, 0374, 0378, 0384, 0388, 0434, 0438, 0474, 0478, 0484, 0488, 0734, 0738, 0774, 0778, 0784, 0788"
+      "resumo": "Palpites dados para esta extração: 1338, 1368, 1738, 1768, 3338, 3368, 3738, 3768, 6338, 6368, 6738, 6768, 8338, 8368, 8738, 8768"
     },
     "Nacional - LN 15:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -954,62 +927,89 @@
         }
       ],
       "frases": {
-        "0388": [
-          "Dezena no quarto prêmio!<br>com o palpite 0388",
-          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 0388",
-          "Centena e Dezena no décimo prêmio!<br>com o palpite 0388",
-          "Dezena no décimo prêmio!<br>com o palpite 0388",
-          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 0388"
+        "1338": [
+          "Dezena no sexto prêmio!<br>com o palpite 1338",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 1338",
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 1338"
         ],
-        "0488": [
-          "Dezena no quarto prêmio!<br>com o palpite 0488",
-          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 0488",
-          "Dezena no décimo prêmio!<br>com o palpite 0488",
-          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 0488"
+        "1368": [
+          "Dezena no oitavo prêmio!<br>com o palpite 1368",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 1368"
         ],
-        "0788": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 0788",
-          "Dezena no quarto prêmio!<br>com o palpite 0788",
-          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 0788",
-          "Dezena no décimo prêmio!<br>com o palpite 0788",
-          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 0788"
+        "1738": [
+          "Dezena no sexto prêmio!<br>com o palpite 1738",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 1738",
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 1738"
         ],
-        "0334": [
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 0334"
+        "1768": [
+          "Dezena no oitavo prêmio!<br>com o palpite 1768",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 1768"
         ],
-        "0434": [
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 0434"
+        "3338": [
+          "Dezena no sexto prêmio!<br>com o palpite 3338",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 3338",
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 3338"
         ],
-        "0734": [
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 0734"
+        "3368": [
+          "Dezena no oitavo prêmio!<br>com o palpite 3368",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 3368"
         ],
-        "0338": [
-          "Dezena no sexto prêmio!<br>com o palpite 0338",
-          "COELHO 🐇 no sexto prêmio!<br>com o palpite 0338",
-          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 0338"
+        "3738": [
+          "Dezena no sexto prêmio!<br>com o palpite 3738",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 3738",
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 3738"
         ],
-        "0438": [
-          "Dezena no sexto prêmio!<br>com o palpite 0438",
-          "COELHO 🐇 no sexto prêmio!<br>com o palpite 0438",
-          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 0438"
+        "3768": [
+          "Dezena no oitavo prêmio!<br>com o palpite 3768",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 3768"
         ],
-        "0738": [
-          "Dezena no sexto prêmio!<br>com o palpite 0738",
-          "COELHO 🐇 no sexto prêmio!<br>com o palpite 0738",
-          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 0738"
+        "6338": [
+          "Dezena no sexto prêmio!<br>com o palpite 6338",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 6338",
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 6338"
+        ],
+        "6368": [
+          "Dezena no oitavo prêmio!<br>com o palpite 6368",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 6368"
+        ],
+        "6738": [
+          "Dezena no sexto prêmio!<br>com o palpite 6738",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 6738",
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 6738"
+        ],
+        "6768": [
+          "Dezena no oitavo prêmio!<br>com o palpite 6768",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 6768"
+        ],
+        "8338": [
+          "Dezena no sexto prêmio!<br>com o palpite 8338",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 8338",
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 8338"
+        ],
+        "8368": [
+          "Dezena no oitavo prêmio!<br>com o palpite 8368",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 8368"
+        ],
+        "8738": [
+          "Dezena no sexto prêmio!<br>com o palpite 8738",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 8738",
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 8738"
+        ],
+        "8768": [
+          "Dezena no oitavo prêmio!<br>com o palpite 8768",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 8768"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 2,
-        "Dezena": 9,
+        "Centena": 0,
+        "Dezena": 16,
         "Grupo": [
-          "🐅",
-          "🐍",
-          "🐇"
+          "🐇",
+          "🐒"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0334, 0338, 0374, 0378, 0384, 0388, 0434, 0438, 0474, 0478, 0484, 0488, 0734, 0738, 0774, 0778, 0784, 0788"
+      "resumo": "Palpites dados para esta extração: 1338, 1368, 1738, 1768, 3338, 3368, 3738, 3768, 6338, 6368, 6738, 6768, 8338, 8368, 8738, 8768"
     },
     "Nacional - LN 17:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1081,14 +1081,29 @@
         }
       ],
       "frases": {
-        "0338": [
-          "COELHO 🐇 no quarto prêmio!<br>com o palpite 0338"
+        "1338": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 1338"
         ],
-        "0438": [
-          "COELHO 🐇 no quarto prêmio!<br>com o palpite 0438"
+        "1738": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 1738"
         ],
-        "0738": [
-          "COELHO 🐇 no quarto prêmio!<br>com o palpite 0738"
+        "3338": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 3338"
+        ],
+        "3738": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 3738"
+        ],
+        "6338": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 6338"
+        ],
+        "6738": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 6738"
+        ],
+        "8338": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 8338"
+        ],
+        "8738": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 8738"
         ]
       },
       "acertos": {
@@ -1099,9 +1114,122 @@
           "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0334, 0338, 0374, 0378, 0384, 0388, 0434, 0438, 0474, 0478, 0484, 0488, 0734, 0738, 0774, 0778, 0784, 0788"
+      "resumo": "Palpites dados para esta extração: 1338, 1368, 1738, 1768, 3338, 3368, 3738, 3768, 6338, 6368, 6738, 6768, 8338, 8368, 8738, 8768"
     },
     "Nacional - LN 20:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3721",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5475",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6912",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8274",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8553",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3568",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "7492",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2717",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1524",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8236",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        }
+      ],
+      "frases": {
+        "1368": [
+          "Dezena no sexto prêmio!<br>com o palpite 1368",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 1368"
+        ],
+        "1768": [
+          "Dezena no sexto prêmio!<br>com o palpite 1768",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 1768"
+        ],
+        "3368": [
+          "Dezena no sexto prêmio!<br>com o palpite 3368",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 3368"
+        ],
+        "3768": [
+          "Dezena no sexto prêmio!<br>com o palpite 3768",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 3768"
+        ],
+        "6368": [
+          "Dezena no sexto prêmio!<br>com o palpite 6368",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 6368"
+        ],
+        "6768": [
+          "Dezena no sexto prêmio!<br>com o palpite 6768",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 6768"
+        ],
+        "8368": [
+          "Dezena no sexto prêmio!<br>com o palpite 8368",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 8368"
+        ],
+        "8768": [
+          "Dezena no sexto prêmio!<br>com o palpite 8768",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 8768"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 8,
+        "Grupo": [
+          "🐒"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1338, 1368, 1738, 1768, 3338, 3368, 3738, 3768, 6338, 6368, 6738, 6768, 8338, 8368, 8738, 8768"
+    },
+    "Nacional - LN 23:00 do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
