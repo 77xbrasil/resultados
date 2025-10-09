@@ -438,20 +438,69 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "3149",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9082",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4465",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0489",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2039",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "9224",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "599",
+          "Grupo": "",
+          "Bicho": ""
+        }
       ],
-      "frases": {},
+      "frases": {
+        "7749": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7749",
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 7749"
+        ],
+        "7799": [
+          "Dezena no sétimo prêmio!<br>com o palpite 7799",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7799"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐓",
+          "🐄"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 7744, 7745, 7749, 7794, 7795, 7799"
     },
     "FEDERAL": {
       "cabecalhos": [
@@ -524,6 +573,29 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 7744, 7745, 7749, 7794, 7795, 7799"
+    },
+    "LOOK - GOIÁS, 23h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   },
   "1-10": {
@@ -1077,25 +1149,87 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "3149",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9082",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4465",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0489",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2039",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3940",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "1044",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "4868",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9259",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8335",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "7744": [
+          "Dezena no sétimo prêmio!<br>com o palpite 7744",
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 7744"
+        ],
+        "7749": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7749",
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 7749"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐓",
+          "🐎"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 7744, 7745, 7749, 7794, 7795, 7799"
     },
     "FEDERAL do 1º ao 10º": {
       "cabecalhos": [
@@ -1185,6 +1319,34 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 7744, 7745, 7749, 7794, 7795, 7799"
+    },
+    "LOOK - GOIÁS, 23h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
