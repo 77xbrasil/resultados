@@ -1,0 +1,263 @@
+{
+  "1-5": {
+    "SP, 08hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3524",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7578",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4048",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8947",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4825",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "8922",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "704",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "5026": [
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 5026"
+        ],
+        "5046": [
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 5046",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 5046"
+        ],
+        "5126": [
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 5126"
+        ],
+        "5146": [
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 5146",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 5146"
+        ],
+        "0046": [
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 0046",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 0046"
+        ],
+        "0146": [
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 0146",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 0146"
+        ],
+        "0026": [
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 0026"
+        ],
+        "0126": [
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 0126"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐘",
+          "🐑"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0020, 0026, 0030, 0036, 0040, 0046, 0050, 0056, 0120, 0126, 0130, 0136, 0140, 0146, 0150, 0156, 5020, 5026, 5030, 5036, 5040, 5046, 5050, 5056, 5120, 5126, 5130, 5136, 5140, 5146, 5150, 5156"
+    },
+    "SP, 10hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    }
+  },
+  "1-10": {
+    "SP, 08hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3524",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7578",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4048",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8947",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4825",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3748",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "5509",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2744",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4887",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "5810",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        }
+      ],
+      "frases": {
+        "5026": [
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 5026"
+        ],
+        "5046": [
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 5046",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 5046",
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 5046"
+        ],
+        "5126": [
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 5126"
+        ],
+        "5146": [
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 5146",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 5146",
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 5146"
+        ],
+        "0046": [
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 0046",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 0046",
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 0046"
+        ],
+        "0146": [
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 0146",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 0146",
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 0146"
+        ],
+        "0026": [
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 0026"
+        ],
+        "0126": [
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 0126"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐘",
+          "🐑"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0020, 0026, 0030, 0036, 0040, 0046, 0050, 0056, 0120, 0126, 0130, 0136, 0140, 0146, 0150, 0156, 5020, 5026, 5030, 5036, 5040, 5046, 5050, 5056, 5120, 5126, 5130, 5136, 5140, 5146, 5150, 5156"
+    },
+    "SP, 10hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    }
+  }
+}
