@@ -51,26 +51,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "1979": [
-          "PERU 🦃 no segundo prêmio!<br>com o palpite 1979"
-        ],
-        "6979": [
-          "PERU 🦃 no segundo prêmio!<br>com o palpite 6979"
-        ],
-        "7979": [
-          "PERU 🦃 no segundo prêmio!<br>com o palpite 7979"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🦃"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1919, 1939, 1969, 1979, 6919, 6939, 6969, 6979, 7919, 7939, 7969, 7979"
+      "resumo": "Palpites dados para esta extração: 6169, 6969"
     },
     "SP, 10hs - PTSP": {
       "cabecalhos": [
@@ -123,42 +111,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "1939": [
-          "COELHO 🐇 no sexto prêmio!<br>com o palpite 1939"
-        ],
-        "1979": [
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 1979",
-          "Dezena no quarto prêmio!<br>com o palpite 1979",
-          "PERU 🦃 no quarto prêmio!<br>com o palpite 1979"
-        ],
-        "6939": [
-          "COELHO 🐇 no sexto prêmio!<br>com o palpite 6939"
-        ],
-        "6979": [
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 6979",
-          "Dezena no quarto prêmio!<br>com o palpite 6979",
-          "PERU 🦃 no quarto prêmio!<br>com o palpite 6979"
-        ],
-        "7939": [
-          "COELHO 🐇 no sexto prêmio!<br>com o palpite 7939"
-        ],
-        "7979": [
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 7979",
-          "Dezena no quarto prêmio!<br>com o palpite 7979",
-          "PERU 🦃 no quarto prêmio!<br>com o palpite 7979"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
-        "Grupo": [
-          "🦃",
-          "🐇"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1919, 1939, 1969, 1979, 6919, 6939, 6969, 6979, 7919, 7939, 7969, 7979"
+      "resumo": "Palpites dados para esta extração: 6169, 6969"
     },
     "SP, 12:00 - PTSP": {
       "cabecalhos": [
@@ -212,46 +172,99 @@
         }
       ],
       "frases": {
-        "1919": [
-          "Dezena no segundo prêmio!<br>com o palpite 1919",
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 1919"
-        ],
-        "1969": [
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 1969",
-          "Dezena no primeiro prêmio!<br>com o palpite 1969",
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 1969"
-        ],
-        "6919": [
-          "Dezena no segundo prêmio!<br>com o palpite 6919",
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 6919"
+        "6169": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6169",
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 6169"
         ],
         "6969": [
           "Centena e Dezena no primeiro prêmio!<br>com o palpite 6969",
           "Dezena no primeiro prêmio!<br>com o palpite 6969",
           "PORCO 🐖 no primeiro prêmio!<br>com o palpite 6969"
-        ],
-        "7919": [
-          "Dezena no segundo prêmio!<br>com o palpite 7919",
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 7919"
-        ],
-        "7969": [
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 7969",
-          "Dezena no primeiro prêmio!<br>com o palpite 7969",
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 7969"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 3,
-        "Dezena": 6,
+        "Centena": 1,
+        "Dezena": 2,
         "Grupo": [
-          "🐖",
-          "🐕"
+          "🐖"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1919, 1939, 1969, 1979, 6919, 6939, 6969, 6979, 7919, 7939, 7969, 7979"
+      "resumo": "Palpites dados para esta extração: 6169, 6969"
     },
     "SP, 13hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2298",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8690",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3540",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5038",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4439",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "4005",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "969",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "6169": [
+          "Dezena no sétimo prêmio!<br>com o palpite 6169",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 6169"
+        ],
+        "6969": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 6969",
+          "Dezena no sétimo prêmio!<br>com o palpite 6969",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 6969"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🐖"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 6169, 6969"
+    },
+    "SP, 17hs - PTSP": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -345,26 +358,14 @@
           "Bicho": "Burro"
         }
       ],
-      "frases": {
-        "1979": [
-          "PERU 🦃 no segundo prêmio!<br>com o palpite 1979"
-        ],
-        "6979": [
-          "PERU 🦃 no segundo prêmio!<br>com o palpite 6979"
-        ],
-        "7979": [
-          "PERU 🦃 no segundo prêmio!<br>com o palpite 7979"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🦃"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1919, 1939, 1969, 1979, 6919, 6939, 6969, 6979, 7919, 7939, 7969, 7979"
+      "resumo": "Palpites dados para esta extração: 6169, 6969"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -435,45 +436,14 @@
           "Bicho": "Gato"
         }
       ],
-      "frases": {
-        "1939": [
-          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 1939"
-        ],
-        "1979": [
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 1979",
-          "Dezena no quarto prêmio!<br>com o palpite 1979",
-          "PERU 🦃 no quarto prêmio!<br>com o palpite 1979",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 1979"
-        ],
-        "6939": [
-          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 6939"
-        ],
-        "6979": [
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 6979",
-          "Dezena no quarto prêmio!<br>com o palpite 6979",
-          "PERU 🦃 no quarto prêmio!<br>com o palpite 6979",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 6979"
-        ],
-        "7939": [
-          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 7939"
-        ],
-        "7979": [
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 7979",
-          "Dezena no quarto prêmio!<br>com o palpite 7979",
-          "PERU 🦃 no quarto prêmio!<br>com o palpite 7979",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 7979"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
-        "Grupo": [
-          "🦃",
-          "🐇"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1919, 1939, 1969, 1979, 6919, 6939, 6969, 6979, 7919, 7939, 7969, 7979"
+      "resumo": "Palpites dados para esta extração: 6169, 6969"
     },
     "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -545,46 +515,105 @@
         }
       ],
       "frases": {
-        "1919": [
-          "Dezena no segundo prêmio!<br>com o palpite 1919",
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 1919"
-        ],
-        "1969": [
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 1969",
-          "Dezena no primeiro prêmio!<br>com o palpite 1969",
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 1969"
-        ],
-        "6919": [
-          "Dezena no segundo prêmio!<br>com o palpite 6919",
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 6919"
+        "6169": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6169",
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 6169"
         ],
         "6969": [
           "Centena e Dezena no primeiro prêmio!<br>com o palpite 6969",
           "Dezena no primeiro prêmio!<br>com o palpite 6969",
           "PORCO 🐖 no primeiro prêmio!<br>com o palpite 6969"
-        ],
-        "7919": [
-          "Dezena no segundo prêmio!<br>com o palpite 7919",
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 7919"
-        ],
-        "7969": [
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 7969",
-          "Dezena no primeiro prêmio!<br>com o palpite 7969",
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 7969"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 3,
-        "Dezena": 6,
+        "Centena": 1,
+        "Dezena": 2,
         "Grupo": [
-          "🐖",
-          "🐕"
+          "🐖"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1919, 1939, 1969, 1979, 6919, 6939, 6969, 6979, 7919, 7939, 7969, 7979"
+      "resumo": "Palpites dados para esta extração: 6169, 6969"
     },
     "SP, 13hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2298",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8690",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3540",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5038",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4439",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2835",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2650",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "9943",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8008",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7441",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 6169, 6969"
+    },
+    "SP, 17hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
