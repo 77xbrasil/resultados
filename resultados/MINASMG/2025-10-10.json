@@ -52,11 +52,46 @@
         }
       ],
       "frases": {
+        "2113": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 2113",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 2113",
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 2113"
+        ],
         "2114": [
           "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 2114",
           "Dezena no terceiro prêmio!<br>com o palpite 2114",
           "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 2114",
           "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 2114"
+        ],
+        "2116": [
+          "Dezena no segundo prêmio!<br>com o palpite 2116",
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 2116",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 2116",
+          "Dezena no quarto prêmio!<br>com o palpite 2116",
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 2116"
+        ],
+        "3113": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 3113",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3113",
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 3113"
+        ],
+        "3114": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 3114",
+          "Dezena no terceiro prêmio!<br>com o palpite 3114",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3114",
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 3114"
+        ],
+        "3116": [
+          "Dezena no segundo prêmio!<br>com o palpite 3116",
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 3116",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3116",
+          "Dezena no quarto prêmio!<br>com o palpite 3116",
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 3116"
+        ],
+        "4113": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 4113",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4113",
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 4113"
         ],
         "4114": [
           "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 4114",
@@ -64,30 +99,103 @@
           "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4114",
           "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 4114"
         ],
+        "4116": [
+          "Dezena no segundo prêmio!<br>com o palpite 4116",
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 4116",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4116",
+          "Dezena no quarto prêmio!<br>com o palpite 4116",
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 4116"
+        ],
+        "6113": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 6113",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 6113",
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 6113"
+        ],
         "6114": [
           "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 6114",
           "Dezena no terceiro prêmio!<br>com o palpite 6114",
           "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 6114",
           "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 6114"
         ],
-        "0114": [
-          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 0114",
-          "Dezena no terceiro prêmio!<br>com o palpite 0114",
-          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0114",
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 0114"
+        "6116": [
+          "Dezena no segundo prêmio!<br>com o palpite 6116",
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 6116",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 6116",
+          "Dezena no quarto prêmio!<br>com o palpite 6116",
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 6116"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 4,
+        "Dezena": 12,
         "Grupo": [
           "🦋"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0114, 0124, 2114, 2124, 4114, 4124, 6114, 6124"
+      "resumo": "Palpites dados para esta extração: 2113, 2114, 2116, 3113, 3114, 3116, 4113, 4114, 4116, 6113, 6114, 6116"
     },
     "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8530",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9470",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9482",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7782",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9177",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "44441",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "779",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 2113, 2114, 2116, 3113, 3114, 3116, 4113, 4114, 4116, 6113, 6114, 6116"
+    },
+    "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
