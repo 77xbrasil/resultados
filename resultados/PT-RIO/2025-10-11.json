@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3120, 3170, 3220, 3270, 3420, 3470, 3620, 3670, 3820, 3870"
+      "resumo": "Palpites dados para esta extração: 0420, 0422, 0820, 0822, 2420, 2422, 2820, 2822, 5420, 5422, 5820, 5822"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -111,44 +111,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "3170": [
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 3170",
-          "Dezena no quarto prêmio!<br>com o palpite 3170",
-          "PORCO 🐖 no quarto prêmio!<br>com o palpite 3170"
-        ],
-        "3270": [
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 3270",
-          "Dezena no quarto prêmio!<br>com o palpite 3270",
-          "PORCO 🐖 no quarto prêmio!<br>com o palpite 3270"
-        ],
-        "3470": [
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 3470",
-          "Milhar e Centena no quarto prêmio!<br>com o palpite 3470",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 3470",
-          "Dezena no quarto prêmio!<br>com o palpite 3470",
-          "PORCO 🐖 no quarto prêmio!<br>com o palpite 3470"
-        ],
-        "3670": [
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 3670",
-          "Dezena no quarto prêmio!<br>com o palpite 3670",
-          "PORCO 🐖 no quarto prêmio!<br>com o palpite 3670"
-        ],
-        "3870": [
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 3870",
-          "Dezena no quarto prêmio!<br>com o palpite 3870",
-          "PORCO 🐖 no quarto prêmio!<br>com o palpite 3870"
-        ]
-      },
+      "frases": {},
       "acertos": {
-        "Milhar": 1,
-        "Centena": 1,
-        "Dezena": 5,
-        "Grupo": [
-          "🐖"
-        ]
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3120, 3170, 3220, 3270, 3420, 3470, 3620, 3670, 3820, 3870"
+      "resumo": "Palpites dados para esta extração: 0420, 0422, 0820, 0822, 2420, 2422, 2820, 2822, 5420, 5422, 5820, 5822"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -208,9 +178,109 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3120, 3170, 3220, 3270, 3420, 3470, 3620, 3670, 3820, 3870"
+      "resumo": "Palpites dados para esta extração: 0420, 0422, 0820, 0822, 2420, 2422, 2820, 2822, 5420, 5422, 5820, 5822"
     },
     "PT-RIO, RJ, 16:00, PTV": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0459",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0444",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0384",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9307",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6424",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "7018",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "203",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2420": [
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 2420"
+        ],
+        "2422": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 2422"
+        ],
+        "2820": [
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 2820"
+        ],
+        "2822": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 2822"
+        ],
+        "5420": [
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 5420"
+        ],
+        "5422": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 5422"
+        ],
+        "5820": [
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 5820"
+        ],
+        "5822": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 5822"
+        ],
+        "0422": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0422"
+        ],
+        "0822": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0822"
+        ],
+        "0420": [
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 0420"
+        ],
+        "0820": [
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 0820"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐐",
+          "🐕"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0420, 0422, 0820, 0822, 2420, 2422, 2820, 2822, 5420, 5422, 5820, 5822"
+    },
+    "A FEDERAL DO BRASIL - RJ": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -304,14 +374,35 @@
           "Bicho": "Cobra"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2422": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 2422"
+        ],
+        "2822": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 2822"
+        ],
+        "5422": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 5422"
+        ],
+        "5822": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 5822"
+        ],
+        "0422": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 0422"
+        ],
+        "0822": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 0822"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐐"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3120, 3170, 3220, 3270, 3420, 3470, 3620, 3670, 3820, 3870"
+      "resumo": "Palpites dados para esta extração: 0420, 0422, 0820, 0822, 2420, 2422, 2820, 2822, 5420, 5422, 5820, 5822"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -383,65 +474,44 @@
         }
       ],
       "frases": {
-        "3120": [
-          "Dezena no nono prêmio!<br>com o palpite 3120",
-          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 3120"
+        "2420": [
+          "Dezena no nono prêmio!<br>com o palpite 2420",
+          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 2420"
         ],
-        "3170": [
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 3170",
-          "Dezena no quarto prêmio!<br>com o palpite 3170",
-          "PORCO 🐖 no quarto prêmio!<br>com o palpite 3170"
+        "2820": [
+          "Centena e Dezena no nono prêmio!<br>com o palpite 2820",
+          "Dezena no nono prêmio!<br>com o palpite 2820",
+          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 2820"
         ],
-        "3220": [
-          "Dezena no nono prêmio!<br>com o palpite 3220",
-          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 3220"
+        "5420": [
+          "Dezena no nono prêmio!<br>com o palpite 5420",
+          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 5420"
         ],
-        "3270": [
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 3270",
-          "Dezena no quarto prêmio!<br>com o palpite 3270",
-          "PORCO 🐖 no quarto prêmio!<br>com o palpite 3270"
+        "5820": [
+          "Milhar e Centena no nono prêmio!<br>com o palpite 5820",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 5820",
+          "Dezena no nono prêmio!<br>com o palpite 5820",
+          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 5820"
         ],
-        "3420": [
-          "Dezena no nono prêmio!<br>com o palpite 3420",
-          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 3420"
+        "0420": [
+          "Dezena no nono prêmio!<br>com o palpite 0420",
+          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 0420"
         ],
-        "3470": [
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 3470",
-          "Milhar e Centena no quarto prêmio!<br>com o palpite 3470",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 3470",
-          "Dezena no quarto prêmio!<br>com o palpite 3470",
-          "PORCO 🐖 no quarto prêmio!<br>com o palpite 3470"
-        ],
-        "3620": [
-          "Dezena no nono prêmio!<br>com o palpite 3620",
-          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 3620"
-        ],
-        "3670": [
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 3670",
-          "Dezena no quarto prêmio!<br>com o palpite 3670",
-          "PORCO 🐖 no quarto prêmio!<br>com o palpite 3670"
-        ],
-        "3820": [
-          "Centena e Dezena no nono prêmio!<br>com o palpite 3820",
-          "Dezena no nono prêmio!<br>com o palpite 3820",
-          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 3820"
-        ],
-        "3870": [
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 3870",
-          "Dezena no quarto prêmio!<br>com o palpite 3870",
-          "PORCO 🐖 no quarto prêmio!<br>com o palpite 3870"
+        "0820": [
+          "Centena e Dezena no nono prêmio!<br>com o palpite 0820",
+          "Dezena no nono prêmio!<br>com o palpite 0820",
+          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 0820"
         ]
       },
       "acertos": {
         "Milhar": 1,
-        "Centena": 2,
-        "Dezena": 10,
+        "Centena": 3,
+        "Dezena": 6,
         "Grupo": [
-          "🐖",
           "🐕"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3120, 3170, 3220, 3270, 3420, 3470, 3620, 3670, 3820, 3870"
+      "resumo": "Palpites dados para esta extração: 0420, 0422, 0820, 0822, 2420, 2422, 2820, 2822, 5420, 5422, 5820, 5822"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -513,38 +583,141 @@
         }
       ],
       "frases": {
-        "3120": [
-          "Dezena no sexto prêmio!<br>com o palpite 3120",
-          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 3120"
+        "2420": [
+          "Dezena no sexto prêmio!<br>com o palpite 2420",
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 2420"
         ],
-        "3220": [
-          "Dezena no sexto prêmio!<br>com o palpite 3220",
-          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 3220"
+        "2820": [
+          "Dezena no sexto prêmio!<br>com o palpite 2820",
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 2820"
         ],
-        "3420": [
-          "Dezena no sexto prêmio!<br>com o palpite 3420",
-          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 3420"
+        "5420": [
+          "Dezena no sexto prêmio!<br>com o palpite 5420",
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 5420"
         ],
-        "3620": [
-          "Dezena no sexto prêmio!<br>com o palpite 3620",
-          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 3620"
+        "5820": [
+          "Dezena no sexto prêmio!<br>com o palpite 5820",
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 5820"
         ],
-        "3820": [
-          "Dezena no sexto prêmio!<br>com o palpite 3820",
-          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 3820"
+        "0420": [
+          "Dezena no sexto prêmio!<br>com o palpite 0420",
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 0420"
+        ],
+        "0820": [
+          "Dezena no sexto prêmio!<br>com o palpite 0820",
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 0820"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 5,
+        "Dezena": 6,
         "Grupo": [
           "🐕"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3120, 3170, 3220, 3270, 3420, 3470, 3620, 3670, 3820, 3870"
+      "resumo": "Palpites dados para esta extração: 0420, 0422, 0820, 0822, 2420, 2422, 2820, 2822, 5420, 5422, 5820, 5822"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0459",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0444",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0384",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9307",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6424",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0009",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4433",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5480",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9447",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6387",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        }
+      ],
+      "frases": {
+        "2422": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 2422"
+        ],
+        "2822": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 2822"
+        ],
+        "5422": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 5422"
+        ],
+        "5822": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 5822"
+        ],
+        "0422": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0422"
+        ],
+        "0822": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0822"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐐"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0420, 0422, 0820, 0822, 2420, 2422, 2820, 2822, 5420, 5422, 5820, 5822"
+    },
+    "A FEDERAL DO BRASIL - RJ do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
