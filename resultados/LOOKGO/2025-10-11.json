@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0024, 0124, 4024, 4124, 5024, 5124, 8024, 8124"
+      "resumo": "Palpites dados para esta extração: 1124, 1924, 4124, 4924"
     },
     "LOOK - GOIÁS, 09h": {
       "cabecalhos": [
@@ -118,7 +118,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0024, 0124, 4024, 4124, 5024, 5124, 8024, 8124"
+      "resumo": "Palpites dados para esta extração: 1124, 1924, 4124, 4924"
     },
     "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
@@ -172,37 +172,21 @@
         }
       ],
       "frases": {
-        "4024": [
-          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 4024",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 4024"
+        "1124": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1124",
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 1124"
+        ],
+        "1924": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1924",
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 1924"
         ],
         "4124": [
           "CABRA 🐐 no terceiro prêmio!<br>com o palpite 4124",
           "CABRA 🐐 no quinto prêmio!<br>com o palpite 4124"
         ],
-        "5024": [
-          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 5024",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 5024"
-        ],
-        "5124": [
-          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 5124",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 5124"
-        ],
-        "8024": [
-          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 8024",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 8024"
-        ],
-        "8124": [
-          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 8124",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 8124"
-        ],
-        "0024": [
-          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0024",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0024"
-        ],
-        "0124": [
-          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0124",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0124"
+        "4924": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 4924",
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 4924"
         ]
       },
       "acertos": {
@@ -213,7 +197,7 @@
           "🐐"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0024, 0124, 4024, 4124, 5024, 5124, 8024, 8124"
+      "resumo": "Palpites dados para esta extração: 1124, 1924, 4124, 4924"
     },
     "LOOK - GOIÁS, 14h": {
       "cabecalhos": [
@@ -273,9 +257,84 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0024, 0124, 4024, 4124, 5024, 5124, 8024, 8124"
+      "resumo": "Palpites dados para esta extração: 1124, 1924, 4124, 4924"
     },
     "LOOK - GOIÁS, 16h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0372",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9448",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8621",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0571",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8685",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "7697",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "514",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1124": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1124"
+        ],
+        "1924": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1924"
+        ],
+        "4124": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 4124"
+        ],
+        "4924": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 4924"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐐"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1124, 1924, 4124, 4924"
+    },
+    "LOOK - GOIÁS, 18h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -376,7 +435,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0024, 0124, 4024, 4124, 5024, 5124, 8024, 8124"
+      "resumo": "Palpites dados para esta extração: 1124, 1924, 4124, 4924"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
       "cabecalhos": [
@@ -454,7 +513,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0024, 0124, 4024, 4124, 5024, 5124, 8024, 8124"
+      "resumo": "Palpites dados para esta extração: 1124, 1924, 4124, 4924"
     },
     "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
@@ -526,15 +585,26 @@
         }
       ],
       "frases": {
-        "4024": [
-          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 4024",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 4024",
-          "Dezena no sexto prêmio!<br>com o palpite 4024",
-          "CABRA 🐐 no sexto prêmio!<br>com o palpite 4024",
-          "Dezena no oitavo prêmio!<br>com o palpite 4024",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 4024",
-          "Dezena no nono prêmio!<br>com o palpite 4024",
-          "CABRA 🐐 no nono prêmio!<br>com o palpite 4024"
+        "1124": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1124",
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 1124",
+          "Dezena no sexto prêmio!<br>com o palpite 1124",
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 1124",
+          "Dezena no oitavo prêmio!<br>com o palpite 1124",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 1124",
+          "Dezena no nono prêmio!<br>com o palpite 1124",
+          "CABRA 🐐 no nono prêmio!<br>com o palpite 1124"
+        ],
+        "1924": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1924",
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 1924",
+          "Dezena no sexto prêmio!<br>com o palpite 1924",
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 1924",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 1924",
+          "Dezena no oitavo prêmio!<br>com o palpite 1924",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 1924",
+          "Dezena no nono prêmio!<br>com o palpite 1924",
+          "CABRA 🐐 no nono prêmio!<br>com o palpite 1924"
         ],
         "4124": [
           "CABRA 🐐 no terceiro prêmio!<br>com o palpite 4124",
@@ -546,76 +616,27 @@
           "Dezena no nono prêmio!<br>com o palpite 4124",
           "CABRA 🐐 no nono prêmio!<br>com o palpite 4124"
         ],
-        "5024": [
-          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 5024",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 5024",
-          "Dezena no sexto prêmio!<br>com o palpite 5024",
-          "CABRA 🐐 no sexto prêmio!<br>com o palpite 5024",
-          "Dezena no oitavo prêmio!<br>com o palpite 5024",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 5024",
-          "Dezena no nono prêmio!<br>com o palpite 5024",
-          "CABRA 🐐 no nono prêmio!<br>com o palpite 5024"
-        ],
-        "5124": [
-          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 5124",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 5124",
-          "Dezena no sexto prêmio!<br>com o palpite 5124",
-          "CABRA 🐐 no sexto prêmio!<br>com o palpite 5124",
-          "Dezena no oitavo prêmio!<br>com o palpite 5124",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 5124",
-          "Dezena no nono prêmio!<br>com o palpite 5124",
-          "CABRA 🐐 no nono prêmio!<br>com o palpite 5124"
-        ],
-        "8024": [
-          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 8024",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 8024",
-          "Dezena no sexto prêmio!<br>com o palpite 8024",
-          "CABRA 🐐 no sexto prêmio!<br>com o palpite 8024",
-          "Dezena no oitavo prêmio!<br>com o palpite 8024",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 8024",
-          "Dezena no nono prêmio!<br>com o palpite 8024",
-          "CABRA 🐐 no nono prêmio!<br>com o palpite 8024"
-        ],
-        "8124": [
-          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 8124",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 8124",
-          "Dezena no sexto prêmio!<br>com o palpite 8124",
-          "CABRA 🐐 no sexto prêmio!<br>com o palpite 8124",
-          "Dezena no oitavo prêmio!<br>com o palpite 8124",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 8124",
-          "Dezena no nono prêmio!<br>com o palpite 8124",
-          "CABRA 🐐 no nono prêmio!<br>com o palpite 8124"
-        ],
-        "0024": [
-          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0024",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0024",
-          "Dezena no sexto prêmio!<br>com o palpite 0024",
-          "CABRA 🐐 no sexto prêmio!<br>com o palpite 0024",
-          "Dezena no oitavo prêmio!<br>com o palpite 0024",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 0024",
-          "Dezena no nono prêmio!<br>com o palpite 0024",
-          "CABRA 🐐 no nono prêmio!<br>com o palpite 0024"
-        ],
-        "0124": [
-          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0124",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0124",
-          "Dezena no sexto prêmio!<br>com o palpite 0124",
-          "CABRA 🐐 no sexto prêmio!<br>com o palpite 0124",
-          "Dezena no oitavo prêmio!<br>com o palpite 0124",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 0124",
-          "Dezena no nono prêmio!<br>com o palpite 0124",
-          "CABRA 🐐 no nono prêmio!<br>com o palpite 0124"
+        "4924": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 4924",
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 4924",
+          "Dezena no sexto prêmio!<br>com o palpite 4924",
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 4924",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 4924",
+          "Dezena no oitavo prêmio!<br>com o palpite 4924",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 4924",
+          "Dezena no nono prêmio!<br>com o palpite 4924",
+          "CABRA 🐐 no nono prêmio!<br>com o palpite 4924"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 24,
+        "Centena": 2,
+        "Dezena": 12,
         "Grupo": [
           "🐐"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0024, 0124, 4024, 4124, 5024, 5124, 8024, 8124"
+      "resumo": "Palpites dados para esta extração: 1124, 1924, 4124, 4924"
     },
     "LOOK - GOIÁS, 14h do 1º ao 10º": {
       "cabecalhos": [
@@ -693,9 +714,102 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0024, 0124, 4024, 4124, 5024, 5124, 8024, 8124"
+      "resumo": "Palpites dados para esta extração: 1124, 1924, 4124, 4924"
     },
     "LOOK - GOIÁS, 16h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0372",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9448",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8621",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0571",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8685",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0980",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3465",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7427",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "2811",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2380",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        }
+      ],
+      "frases": {
+        "1124": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1124"
+        ],
+        "1924": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1924"
+        ],
+        "4124": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 4124"
+        ],
+        "4924": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 4924"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐐"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1124, 1924, 4124, 4924"
+    },
+    "LOOK - GOIÁS, 18h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
