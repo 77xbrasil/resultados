@@ -1040,36 +1040,34 @@
         }
       ],
       "frases": {
-        "6101": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 6101"
-        ],
-        "6171": [
-          "PORCO 🐖 no nono prêmio!<br>com o palpite 6171"
-        ],
-        "6191": [
-          "URSO 🐻 no décimo prêmio!<br>com o palpite 6191"
-        ],
-        "6501": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 6501"
-        ],
-        "6571": [
-          "PORCO 🐖 no nono prêmio!<br>com o palpite 6571"
-        ],
         "6591": [
           "URSO 🐻 no décimo prêmio!<br>com o palpite 6591"
+        ],
+        "6592": [
+          "Dezena no décimo prêmio!<br>com o palpite 6592",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 6592"
+        ],
+        "6593": [
+          "Dezena no segundo prêmio!<br>com o palpite 6593",
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 6593",
+          "VEADO 🦌 no quarto prêmio!<br>com o palpite 6593"
+        ],
+        "6596": [
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 6596",
+          "Dezena no quarto prêmio!<br>com o palpite 6596",
+          "VEADO 🦌 no quarto prêmio!<br>com o palpite 6596"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 3,
         "Grupo": [
-          "🪶",
-          "🐖",
+          "🦌",
           "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6101, 6171, 6191, 6501, 6571, 6591"
+      "resumo": "Palpites dados para esta extração: 6591, 6592, 6593, 6596"
     }
   }
 }
