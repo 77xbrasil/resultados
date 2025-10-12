@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2151"
+      "resumo": "Palpites dados para esta extração: 7111, 7311, 7411, 7611, 8111, 8311, 8411, 8611"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -111,21 +111,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "2151": [
-          "Dezena no terceiro prêmio!<br>com o palpite 2151",
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2151"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
-        "Grupo": [
-          "🐓"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2151"
+      "resumo": "Palpites dados para esta extração: 7111, 7311, 7411, 7611, 8111, 8311, 8411, 8611"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -178,14 +171,41 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "7111": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 7111"
+        ],
+        "7311": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 7311"
+        ],
+        "7411": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 7411"
+        ],
+        "7611": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 7611"
+        ],
+        "8111": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 8111"
+        ],
+        "8311": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 8311"
+        ],
+        "8411": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 8411"
+        ],
+        "8611": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 8611"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐴"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2151"
+      "resumo": "Palpites dados para esta extração: 7111, 7311, 7411, 7611, 8111, 8311, 8411, 8611"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -288,7 +308,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2151"
+      "resumo": "Palpites dados para esta extração: 7111, 7311, 7411, 7611, 8111, 8311, 8411, 8611"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -360,21 +380,58 @@
         }
       ],
       "frases": {
-        "2151": [
-          "Dezena no terceiro prêmio!<br>com o palpite 2151",
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2151",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 2151"
+        "7111": [
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 7111",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 7111",
+          "Dezena no nono prêmio!<br>com o palpite 7111",
+          "BURRO 🐴 no nono prêmio!<br>com o palpite 7111"
+        ],
+        "7311": [
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 7311",
+          "Dezena no nono prêmio!<br>com o palpite 7311",
+          "BURRO 🐴 no nono prêmio!<br>com o palpite 7311"
+        ],
+        "7411": [
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 7411",
+          "Dezena no nono prêmio!<br>com o palpite 7411",
+          "BURRO 🐴 no nono prêmio!<br>com o palpite 7411"
+        ],
+        "7611": [
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 7611",
+          "Dezena no nono prêmio!<br>com o palpite 7611",
+          "BURRO 🐴 no nono prêmio!<br>com o palpite 7611"
+        ],
+        "8111": [
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 8111",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 8111",
+          "Dezena no nono prêmio!<br>com o palpite 8111",
+          "BURRO 🐴 no nono prêmio!<br>com o palpite 8111"
+        ],
+        "8311": [
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 8311",
+          "Dezena no nono prêmio!<br>com o palpite 8311",
+          "BURRO 🐴 no nono prêmio!<br>com o palpite 8311"
+        ],
+        "8411": [
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 8411",
+          "Dezena no nono prêmio!<br>com o palpite 8411",
+          "BURRO 🐴 no nono prêmio!<br>com o palpite 8411"
+        ],
+        "8611": [
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 8611",
+          "Dezena no nono prêmio!<br>com o palpite 8611",
+          "BURRO 🐴 no nono prêmio!<br>com o palpite 8611"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 1,
+        "Centena": 2,
+        "Dezena": 8,
         "Grupo": [
-          "🐓"
+          "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2151"
+      "resumo": "Palpites dados para esta extração: 7111, 7311, 7411, 7611, 8111, 8311, 8411, 8611"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -445,14 +502,41 @@
           "Bicho": "Borboleta"
         }
       ],
-      "frases": {},
+      "frases": {
+        "7111": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 7111"
+        ],
+        "7311": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 7311"
+        ],
+        "7411": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 7411"
+        ],
+        "7611": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 7611"
+        ],
+        "8111": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 8111"
+        ],
+        "8311": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 8311"
+        ],
+        "8411": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 8411"
+        ],
+        "8611": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 8611"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐴"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2151"
+      "resumo": "Palpites dados para esta extração: 7111, 7311, 7411, 7611, 8111, 8311, 8411, 8611"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
