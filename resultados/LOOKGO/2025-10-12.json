@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0300, 0309"
+      "resumo": "Palpites dados para esta extração: 0000, 0002, 0003, 0009, 0300, 0302, 0303, 0309, 0400, 0402, 0403, 0409, 0500, 0502, 0503, 0509, 1000, 1002, 1003, 1009, 1300, 1302, 1303, 1309, 1400, 1402, 1403, 1409, 1500, 1502, 1503, 1509"
     },
     "LOOK - GOIÁS, 09h": {
       "cabecalhos": [
@@ -112,8 +112,93 @@
         }
       ],
       "frases": {
+        "1002": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1002",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1002"
+        ],
+        "1003": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1003",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1003"
+        ],
+        "1009": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 1009"
+        ],
+        "1302": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1302",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1302"
+        ],
+        "1303": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1303",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1303"
+        ],
+        "1309": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 1309"
+        ],
+        "1402": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1402",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1402"
+        ],
+        "1403": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1403",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1403"
+        ],
+        "1409": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 1409"
+        ],
+        "1502": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1502",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1502"
+        ],
+        "1503": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1503",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1503"
+        ],
+        "1509": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 1509"
+        ],
+        "0002": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0002",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0002"
+        ],
+        "0003": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0003",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0003"
+        ],
+        "0302": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0302",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0302"
+        ],
+        "0303": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0303",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0303"
+        ],
+        "0402": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0402",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0402"
+        ],
+        "0403": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0403",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0403"
+        ],
+        "0502": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0502",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0502"
+        ],
+        "0503": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0503",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0503"
+        ],
+        "0009": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 0009"
+        ],
         "0309": [
           "BURRO 🐴 no quinto prêmio!<br>com o palpite 0309"
+        ],
+        "0409": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 0409"
+        ],
+        "0509": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 0509"
         ]
       },
       "acertos": {
@@ -121,10 +206,11 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
+          "🪶",
           "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0300, 0309"
+      "resumo": "Palpites dados para esta extração: 0000, 0002, 0003, 0009, 0300, 0302, 0303, 0309, 0400, 0402, 0403, 0409, 0500, 0502, 0503, 0509, 1000, 1002, 1003, 1009, 1300, 1302, 1303, 1309, 1400, 1402, 1403, 1409, 1500, 1502, 1503, 1509"
     },
     "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
@@ -177,14 +263,65 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1002": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1002"
+        ],
+        "1003": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1003"
+        ],
+        "1302": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1302"
+        ],
+        "1303": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1303"
+        ],
+        "1402": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1402"
+        ],
+        "1403": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1403"
+        ],
+        "1502": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1502"
+        ],
+        "1503": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1503"
+        ],
+        "0002": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0002"
+        ],
+        "0003": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0003"
+        ],
+        "0302": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0302"
+        ],
+        "0303": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0303"
+        ],
+        "0402": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0402"
+        ],
+        "0403": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0403"
+        ],
+        "0502": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0502"
+        ],
+        "0503": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0503"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🪶"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0300, 0309"
+      "resumo": "Palpites dados para esta extração: 0000, 0002, 0003, 0009, 0300, 0302, 0303, 0309, 0400, 0402, 0403, 0409, 0500, 0502, 0503, 0509, 1000, 1002, 1003, 1009, 1300, 1302, 1303, 1309, 1400, 1402, 1403, 1409, 1500, 1502, 1503, 1509"
     },
     "LOOK - GOIÁS, 14h": {
       "cabecalhos": [
@@ -237,14 +374,65 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1002": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1002"
+        ],
+        "1003": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1003"
+        ],
+        "1302": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1302"
+        ],
+        "1303": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1303"
+        ],
+        "1402": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1402"
+        ],
+        "1403": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1403"
+        ],
+        "1502": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1502"
+        ],
+        "1503": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1503"
+        ],
+        "0002": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0002"
+        ],
+        "0003": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0003"
+        ],
+        "0302": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0302"
+        ],
+        "0303": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0303"
+        ],
+        "0402": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0402"
+        ],
+        "0403": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0403"
+        ],
+        "0502": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0502"
+        ],
+        "0503": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0503"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🪶"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0300, 0309"
+      "resumo": "Palpites dados para esta extração: 0000, 0002, 0003, 0009, 0300, 0302, 0303, 0309, 0400, 0402, 0403, 0409, 0500, 0502, 0503, 0509, 1000, 1002, 1003, 1009, 1300, 1302, 1303, 1309, 1400, 1402, 1403, 1409, 1500, 1502, 1503, 1509"
     },
     "LOOK - GOIÁS, 16h": {
       "cabecalhos": [
@@ -298,26 +486,83 @@
         }
       ],
       "frases": {
+        "1000": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1000",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1000"
+        ],
+        "1009": [
+          "Dezena no quarto prêmio!<br>com o palpite 1009",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 1009"
+        ],
+        "1300": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1300",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1300"
+        ],
+        "1309": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 1309",
+          "Dezena no quarto prêmio!<br>com o palpite 1309",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 1309"
+        ],
+        "1400": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1400",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1400"
+        ],
+        "1409": [
+          "Dezena no quarto prêmio!<br>com o palpite 1409",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 1409"
+        ],
+        "1500": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1500",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1500"
+        ],
+        "1509": [
+          "Dezena no quarto prêmio!<br>com o palpite 1509",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 1509"
+        ],
+        "0000": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0000",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 0000"
+        ],
         "0300": [
           "Dezena no primeiro prêmio!<br>com o palpite 0300",
           "VACA 🐄 no primeiro prêmio!<br>com o palpite 0300"
+        ],
+        "0400": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0400",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 0400"
+        ],
+        "0500": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0500",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 0500"
+        ],
+        "0009": [
+          "Dezena no quarto prêmio!<br>com o palpite 0009",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 0009"
         ],
         "0309": [
           "Centena e Dezena no quarto prêmio!<br>com o palpite 0309",
           "Dezena no quarto prêmio!<br>com o palpite 0309",
           "BURRO 🐴 no quarto prêmio!<br>com o palpite 0309"
+        ],
+        "0409": [
+          "Dezena no quarto prêmio!<br>com o palpite 0409",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 0409"
+        ],
+        "0509": [
+          "Dezena no quarto prêmio!<br>com o palpite 0509",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 0509"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 2,
+        "Centena": 2,
+        "Dezena": 16,
         "Grupo": [
           "🐄",
           "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0300, 0309"
+      "resumo": "Palpites dados para esta extração: 0000, 0002, 0003, 0009, 0300, 0302, 0303, 0309, 0400, 0402, 0403, 0409, 0500, 0502, 0503, 0509, 1000, 1002, 1003, 1009, 1300, 1302, 1303, 1309, 1400, 1402, 1403, 1409, 1500, 1502, 1503, 1509"
     },
     "LOOK - GOIÁS, 18h": {
       "cabecalhos": [
@@ -371,9 +616,37 @@
         }
       ],
       "frases": {
+        "1009": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 1009",
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 1009"
+        ],
+        "1309": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 1309",
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 1309"
+        ],
+        "1409": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 1409",
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 1409"
+        ],
+        "1509": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 1509",
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 1509"
+        ],
+        "0009": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 0009",
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 0009"
+        ],
         "0309": [
           "BURRO 🐴 no quinto prêmio!<br>com o palpite 0309",
           "BURRO 🐴 no sétimo prêmio!<br>com o palpite 0309"
+        ],
+        "0409": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 0409",
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 0409"
+        ],
+        "0509": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 0509",
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 0509"
         ]
       },
       "acertos": {
@@ -384,7 +657,7 @@
           "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0300, 0309"
+      "resumo": "Palpites dados para esta extração: 0000, 0002, 0003, 0009, 0300, 0302, 0303, 0309, 0400, 0402, 0403, 0409, 0500, 0502, 0503, 0509, 1000, 1002, 1003, 1009, 1300, 1302, 1303, 1309, 1400, 1402, 1403, 1409, 1500, 1502, 1503, 1509"
     },
     "LOOK - GOIÁS, 21h": {
       "cabecalhos": [
@@ -480,14 +753,65 @@
           "Bicho": "Gato"
         }
       ],
-      "frases": {},
+      "frases": {
+        "1002": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 1002"
+        ],
+        "1003": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 1003"
+        ],
+        "1302": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 1302"
+        ],
+        "1303": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 1303"
+        ],
+        "1402": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 1402"
+        ],
+        "1403": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 1403"
+        ],
+        "1502": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 1502"
+        ],
+        "1503": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 1503"
+        ],
+        "0002": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 0002"
+        ],
+        "0003": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 0003"
+        ],
+        "0302": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 0302"
+        ],
+        "0303": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 0303"
+        ],
+        "0402": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 0402"
+        ],
+        "0403": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 0403"
+        ],
+        "0502": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 0502"
+        ],
+        "0503": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 0503"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🪶"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0300, 0309"
+      "resumo": "Palpites dados para esta extração: 0000, 0002, 0003, 0009, 0300, 0302, 0303, 0309, 0400, 0402, 0403, 0409, 0500, 0502, 0503, 0509, 1000, 1002, 1003, 1009, 1300, 1302, 1303, 1309, 1400, 1402, 1403, 1409, 1500, 1502, 1503, 1509"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
       "cabecalhos": [
@@ -559,8 +883,77 @@
         }
       ],
       "frases": {
+        "1002": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1002"
+        ],
+        "1003": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1003"
+        ],
+        "1009": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 1009"
+        ],
+        "1302": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1302"
+        ],
+        "1303": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1303"
+        ],
+        "1309": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 1309"
+        ],
+        "1402": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1402"
+        ],
+        "1403": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1403"
+        ],
+        "1409": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 1409"
+        ],
+        "1502": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1502"
+        ],
+        "1503": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1503"
+        ],
+        "1509": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 1509"
+        ],
+        "0002": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0002"
+        ],
+        "0003": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0003"
+        ],
+        "0302": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0302"
+        ],
+        "0303": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0303"
+        ],
+        "0402": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0402"
+        ],
+        "0403": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0403"
+        ],
+        "0502": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0502"
+        ],
+        "0503": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0503"
+        ],
+        "0009": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 0009"
+        ],
         "0309": [
           "BURRO 🐴 no quinto prêmio!<br>com o palpite 0309"
+        ],
+        "0409": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 0409"
+        ],
+        "0509": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 0509"
         ]
       },
       "acertos": {
@@ -568,10 +961,11 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
+          "🪶",
           "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0300, 0309"
+      "resumo": "Palpites dados para esta extração: 0000, 0002, 0003, 0009, 0300, 0302, 0303, 0309, 0400, 0402, 0403, 0409, 0500, 0502, 0503, 0509, 1000, 1002, 1003, 1009, 1300, 1302, 1303, 1309, 1400, 1402, 1403, 1409, 1500, 1502, 1503, 1509"
     },
     "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
@@ -643,8 +1037,77 @@
         }
       ],
       "frases": {
+        "1002": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1002"
+        ],
+        "1003": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1003"
+        ],
+        "1009": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1009"
+        ],
+        "1302": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1302"
+        ],
+        "1303": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1303"
+        ],
+        "1309": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1309"
+        ],
+        "1402": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1402"
+        ],
+        "1403": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1403"
+        ],
+        "1409": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1409"
+        ],
+        "1502": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1502"
+        ],
+        "1503": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1503"
+        ],
+        "1509": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1509"
+        ],
+        "0002": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0002"
+        ],
+        "0003": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0003"
+        ],
+        "0302": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0302"
+        ],
+        "0303": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0303"
+        ],
+        "0402": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0402"
+        ],
+        "0403": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0403"
+        ],
+        "0502": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0502"
+        ],
+        "0503": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0503"
+        ],
+        "0009": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 0009"
+        ],
         "0309": [
           "BURRO 🐴 no oitavo prêmio!<br>com o palpite 0309"
+        ],
+        "0409": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 0409"
+        ],
+        "0509": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 0509"
         ]
       },
       "acertos": {
@@ -652,10 +1115,11 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
+          "🪶",
           "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0300, 0309"
+      "resumo": "Palpites dados para esta extração: 0000, 0002, 0003, 0009, 0300, 0302, 0303, 0309, 0400, 0402, 0403, 0409, 0500, 0502, 0503, 0509, 1000, 1002, 1003, 1009, 1300, 1302, 1303, 1309, 1400, 1402, 1403, 1409, 1500, 1502, 1503, 1509"
     },
     "LOOK - GOIÁS, 14h do 1º ao 10º": {
       "cabecalhos": [
@@ -727,8 +1191,29 @@
         }
       ],
       "frases": {
+        "1009": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 1009"
+        ],
+        "1309": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 1309"
+        ],
+        "1409": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 1409"
+        ],
+        "1509": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 1509"
+        ],
+        "0009": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 0009"
+        ],
         "0309": [
           "BURRO 🐴 no sétimo prêmio!<br>com o palpite 0309"
+        ],
+        "0409": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 0409"
+        ],
+        "0509": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 0509"
         ]
       },
       "acertos": {
@@ -739,7 +1224,7 @@
           "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0300, 0309"
+      "resumo": "Palpites dados para esta extração: 0000, 0002, 0003, 0009, 0300, 0302, 0303, 0309, 0400, 0402, 0403, 0409, 0500, 0502, 0503, 0509, 1000, 1002, 1003, 1009, 1300, 1302, 1303, 1309, 1400, 1402, 1403, 1409, 1500, 1502, 1503, 1509"
     },
     "LOOK - GOIÁS, 16h do 1º ao 10º": {
       "cabecalhos": [
@@ -811,28 +1296,99 @@
         }
       ],
       "frases": {
+        "1000": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1000",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1000",
+          "Dezena no oitavo prêmio!<br>com o palpite 1000",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 1000"
+        ],
+        "1009": [
+          "Dezena no quarto prêmio!<br>com o palpite 1009",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 1009"
+        ],
+        "1300": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1300",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1300",
+          "Dezena no oitavo prêmio!<br>com o palpite 1300",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 1300"
+        ],
+        "1309": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 1309",
+          "Dezena no quarto prêmio!<br>com o palpite 1309",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 1309"
+        ],
+        "1400": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1400",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1400",
+          "Dezena no oitavo prêmio!<br>com o palpite 1400",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 1400"
+        ],
+        "1409": [
+          "Dezena no quarto prêmio!<br>com o palpite 1409",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 1409"
+        ],
+        "1500": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1500",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1500",
+          "Dezena no oitavo prêmio!<br>com o palpite 1500",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 1500"
+        ],
+        "1509": [
+          "Dezena no quarto prêmio!<br>com o palpite 1509",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 1509"
+        ],
+        "0000": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0000",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 0000",
+          "Dezena no oitavo prêmio!<br>com o palpite 0000",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 0000"
+        ],
         "0300": [
           "Dezena no primeiro prêmio!<br>com o palpite 0300",
           "VACA 🐄 no primeiro prêmio!<br>com o palpite 0300",
           "Dezena no oitavo prêmio!<br>com o palpite 0300",
           "VACA 🐄 no oitavo prêmio!<br>com o palpite 0300"
         ],
+        "0400": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0400",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 0400",
+          "Dezena no oitavo prêmio!<br>com o palpite 0400",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 0400"
+        ],
+        "0500": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0500",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 0500",
+          "Dezena no oitavo prêmio!<br>com o palpite 0500",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 0500"
+        ],
+        "0009": [
+          "Dezena no quarto prêmio!<br>com o palpite 0009",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 0009"
+        ],
         "0309": [
           "Centena e Dezena no quarto prêmio!<br>com o palpite 0309",
           "Dezena no quarto prêmio!<br>com o palpite 0309",
           "BURRO 🐴 no quarto prêmio!<br>com o palpite 0309"
+        ],
+        "0409": [
+          "Dezena no quarto prêmio!<br>com o palpite 0409",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 0409"
+        ],
+        "0509": [
+          "Dezena no quarto prêmio!<br>com o palpite 0509",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 0509"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 3,
+        "Centena": 2,
+        "Dezena": 24,
         "Grupo": [
           "🐄",
           "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0300, 0309"
+      "resumo": "Palpites dados para esta extração: 0000, 0002, 0003, 0009, 0300, 0302, 0303, 0309, 0400, 0402, 0403, 0409, 0500, 0502, 0503, 0509, 1000, 1002, 1003, 1009, 1300, 1302, 1303, 1309, 1400, 1402, 1403, 1409, 1500, 1502, 1503, 1509"
     },
     "LOOK - GOIÁS, 18h do 1º ao 10º": {
       "cabecalhos": [
@@ -904,11 +1460,53 @@
         }
       ],
       "frases": {
+        "1000": [
+          "VACA 🐄 no nono prêmio!<br>com o palpite 1000"
+        ],
+        "1009": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 1009"
+        ],
+        "1300": [
+          "VACA 🐄 no nono prêmio!<br>com o palpite 1300"
+        ],
+        "1309": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 1309"
+        ],
+        "1400": [
+          "VACA 🐄 no nono prêmio!<br>com o palpite 1400"
+        ],
+        "1409": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 1409"
+        ],
+        "1500": [
+          "VACA 🐄 no nono prêmio!<br>com o palpite 1500"
+        ],
+        "1509": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 1509"
+        ],
+        "0009": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 0009"
+        ],
         "0309": [
           "BURRO 🐴 no quinto prêmio!<br>com o palpite 0309"
         ],
+        "0409": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 0409"
+        ],
+        "0509": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 0509"
+        ],
+        "0000": [
+          "VACA 🐄 no nono prêmio!<br>com o palpite 0000"
+        ],
         "0300": [
           "VACA 🐄 no nono prêmio!<br>com o palpite 0300"
+        ],
+        "0400": [
+          "VACA 🐄 no nono prêmio!<br>com o palpite 0400"
+        ],
+        "0500": [
+          "VACA 🐄 no nono prêmio!<br>com o palpite 0500"
         ]
       },
       "acertos": {
@@ -920,7 +1518,7 @@
           "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0300, 0309"
+      "resumo": "Palpites dados para esta extração: 0000, 0002, 0003, 0009, 0300, 0302, 0303, 0309, 0400, 0402, 0403, 0409, 0500, 0502, 0503, 0509, 1000, 1002, 1003, 1009, 1300, 1302, 1303, 1309, 1400, 1402, 1403, 1409, 1500, 1502, 1503, 1509"
     },
     "LOOK - GOIÁS, 21h do 1º ao 10º": {
       "cabecalhos": [
