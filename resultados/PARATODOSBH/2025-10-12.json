@@ -978,25 +978,98 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "6563",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6693",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8485",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7396",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5504",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1539",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "9244",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5936",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6972",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "5692",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "6101": [
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 6101"
+        ],
+        "6171": [
+          "PORCO 🐖 no nono prêmio!<br>com o palpite 6171"
+        ],
+        "6191": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 6191"
+        ],
+        "6501": [
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 6501"
+        ],
+        "6571": [
+          "PORCO 🐖 no nono prêmio!<br>com o palpite 6571"
+        ],
+        "6591": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 6591"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🪶",
+          "🐖",
+          "🐻"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 6101, 6171, 6191, 6501, 6571, 6591"
     }
   }
 }
