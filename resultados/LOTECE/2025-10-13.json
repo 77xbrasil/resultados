@@ -225,32 +225,14 @@
           "Bicho": "Jacaré"
         }
       ],
-      "frases": {
-        "3448": [
-          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 3448",
-          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 3448",
-          "ELEFANTE 🐘 no sétimo prêmio!<br>com o palpite 3448"
-        ],
-        "8448": [
-          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 8448",
-          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 8448",
-          "ELEFANTE 🐘 no sétimo prêmio!<br>com o palpite 8448"
-        ],
-        "0448": [
-          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 0448",
-          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 0448",
-          "ELEFANTE 🐘 no sétimo prêmio!<br>com o palpite 0448"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐘"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0448, 3448, 8448"
+      "resumo": "Palpites dados para esta extração: 0420, 0440, 0490, 4420, 4440, 4490, 8420, 8440, 8490"
     },
     "LOTECE - CE, 15:45 (tarde II)": {
       "cabecalhos": [
@@ -322,25 +304,41 @@
         }
       ],
       "frases": {
-        "3448": [
-          "ELEFANTE 🐘 no décimo prêmio!<br>com o palpite 3448"
+        "4420": [
+          "Dezena no quinto prêmio!<br>com o palpite 4420",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 4420"
         ],
-        "8448": [
-          "ELEFANTE 🐘 no décimo prêmio!<br>com o palpite 8448"
+        "4490": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4490",
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 4490"
         ],
-        "0448": [
-          "ELEFANTE 🐘 no décimo prêmio!<br>com o palpite 0448"
+        "8420": [
+          "Dezena no quinto prêmio!<br>com o palpite 8420",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 8420"
+        ],
+        "8490": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8490",
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 8490"
+        ],
+        "0490": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0490",
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 0490"
+        ],
+        "0420": [
+          "Dezena no quinto prêmio!<br>com o palpite 0420",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 0420"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 6,
         "Grupo": [
-          "🐘"
+          "🐻",
+          "🐕"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0448, 3448, 8448"
+      "resumo": "Palpites dados para esta extração: 0420, 0440, 0490, 4420, 4440, 4490, 8420, 8440, 8490"
     },
     "LOTECE - CE, 19:00 (noite)": {
       "cabecalhos": [
@@ -506,14 +504,49 @@
           "Bicho": "Urso"
         }
       ],
-      "frases": {},
+      "frases": {
+        "4420": [
+          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 4420"
+        ],
+        "4440": [
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 4440"
+        ],
+        "4490": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 4490",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 4490"
+        ],
+        "8420": [
+          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 8420"
+        ],
+        "8440": [
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 8440"
+        ],
+        "8490": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 8490",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 8490"
+        ],
+        "0490": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 0490",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 0490"
+        ],
+        "0420": [
+          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 0420"
+        ],
+        "0440": [
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 0440"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐻",
+          "🐕",
+          "🐇"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0448, 3448, 8448"
+      "resumo": "Palpites dados para esta extração: 0420, 0440, 0490, 4420, 4440, 4490, 8420, 8440, 8490"
     }
   }
 }
