@@ -139,6 +139,107 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 0780, 0781, 0782, 0784, 0785, 3780, 3781, 3782, 3784, 3785, 4780, 4781, 4782, 4784, 4785, 7780, 7781, 7782, 7784, 7785, 8780, 8781, 8782, 8784, 8785"
+    },
+    "ALVORADA - MG, 12h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1176",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6122",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7288",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4566",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2072",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "21224",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "199",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "3785": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 3785"
+        ],
+        "4785": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 4785"
+        ],
+        "7785": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 7785"
+        ],
+        "8785": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 8785"
+        ],
+        "0785": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 0785"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0780, 0781, 0782, 0784, 0785, 3780, 3781, 3782, 3784, 3785, 4780, 4781, 4782, 4784, 4785, 7780, 7781, 7782, 7784, 7785, 8780, 8781, 8782, 8784, 8785"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
