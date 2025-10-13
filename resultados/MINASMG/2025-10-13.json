@@ -258,6 +258,84 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1708",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7828",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9425",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1836",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7993",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "28790",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "370",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1172": [
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 1172"
+        ],
+        "2172": [
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 2172"
+        ],
+        "4172": [
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 4172"
+        ],
+        "6172": [
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 6172"
+        ],
+        "7172": [
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 7172"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐖"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1172, 1176, 2172, 2176, 4172, 4176, 6172, 6176, 7172, 7176"
+    },
+    "MINAS NOITE - MG, 19h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
