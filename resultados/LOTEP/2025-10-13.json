@@ -69,14 +69,32 @@
           "Bicho": "Cavalo"
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "0070": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 0070",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 0070",
+          "Dezena no primeiro prêmio!<br>com o palpite 0070",
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 0070",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 0070",
+          "Dezena no quinto prêmio!<br>com o palpite 0070",
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 0070"
+        ],
+        "0770": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0770",
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 0770",
+          "Dezena no quinto prêmio!<br>com o palpite 0770",
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 0770"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0700, 1700"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 4,
+        "Grupo": [
+          "🐖"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0000, 0070, 0700, 0770"
     },
     "LOTEP - PB, 12:45": {
       "cabecalhos": [
