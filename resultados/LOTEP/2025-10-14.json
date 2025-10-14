@@ -70,27 +70,131 @@
         }
       ],
       "frases": {
-        "5126": [
-          "Dezena no segundo prêmio!<br>com o palpite 5126",
-          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 5126"
+        "5101": [
+          "Dezena no décimo prêmio!<br>com o palpite 5101",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 5101"
         ],
         "5131": [
           "Dezena no sétimo prêmio!<br>com o palpite 5131",
           "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 5131"
+        ],
+        "5141": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5141",
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 5141"
+        ],
+        "5171": [
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 5171"
+        ],
+        "5701": [
+          "Dezena no décimo prêmio!<br>com o palpite 5701",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 5701"
+        ],
+        "5731": [
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 5731",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 5731",
+          "Dezena no sétimo prêmio!<br>com o palpite 5731",
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 5731"
+        ],
+        "5741": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5741",
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 5741"
+        ],
+        "5771": [
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 5771"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 2,
+        "Milhar": 1,
+        "Centena": 1,
+        "Dezena": 6,
         "Grupo": [
-          "🐑",
-          "🐪"
+          "🐎",
+          "🐖",
+          "🐪",
+          "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5121, 5126, 5131, 5136, 5151, 5156, 5181, 5186"
+      "resumo": "Palpites dados para esta extração: 5101, 5121, 5131, 5141, 5151, 5171, 5181, 5191, 5701, 5721, 5731, 5741, 5751, 5771, 5781, 5791"
     },
     "LOTEP - PB, 12:45": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7636",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1039",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3436",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5034",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0597",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7135",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6040",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3333",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6964",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1214",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 5101, 5121, 5131, 5141, 5151, 5171, 5181, 5191, 5701, 5721, 5731, 5741, 5751, 5771, 5781, 5791"
+    },
+    "LOTEP - PB, 15:45h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
