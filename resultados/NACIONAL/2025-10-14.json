@@ -46,20 +46,24 @@
         }
       ],
       "frases": {
-        "2226": [
-          "Dezena no segundo prêmio!<br>com o palpite 2226",
-          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2226"
+        "2217": [
+          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 2217",
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 2217"
+        ],
+        "2317": [
+          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 2317",
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 2317"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 0,
         "Grupo": [
-          "🐑"
+          "🐕"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2211, 2212, 2216, 2221, 2222, 2226"
+      "resumo": "Palpites dados para esta extração: 2211, 2212, 2216, 2217, 2311, 2312, 2316, 2317"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -114,30 +118,33 @@
           "Dezena no terceiro prêmio!<br>com o palpite 2212",
           "BURRO 🐴 no terceiro prêmio!<br>com o palpite 2212"
         ],
-        "2221": [
-          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 2221"
+        "2217": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 2217",
+          "Dezena no quinto prêmio!<br>com o palpite 2217",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 2217"
         ],
-        "2222": [
-          "Milhar e Centena no primeiro prêmio!<br>com o palpite 2222",
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 2222",
-          "Dezena no primeiro prêmio!<br>com o palpite 2222",
-          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 2222"
+        "2311": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 2311"
         ],
-        "2226": [
-          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2226"
+        "2312": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2312",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 2312"
+        ],
+        "2317": [
+          "Dezena no quinto prêmio!<br>com o palpite 2317",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 2317"
         ]
       },
       "acertos": {
-        "Milhar": 1,
+        "Milhar": 0,
         "Centena": 1,
-        "Dezena": 2,
+        "Dezena": 4,
         "Grupo": [
-          "🐐",
-          "🐑",
-          "🐴"
+          "🐴",
+          "🐕"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2211, 2212, 2216, 2221, 2222, 2226"
+      "resumo": "Palpites dados para esta extração: 2211, 2212, 2216, 2217, 2311, 2312, 2316, 2317"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -184,16 +191,99 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2217": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2217",
+          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 2217"
+        ],
+        "2317": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2317",
+          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 2317"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐕"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2211, 2212, 2216, 2221, 2222, 2226"
+      "resumo": "Palpites dados para esta extração: 2211, 2212, 2216, 2217, 2311, 2312, 2316, 2317"
     },
     "Nacional - LN 12:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3083",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6860",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1502",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3726",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1141",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "6312",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2211": [
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 2211"
+        ],
+        "2212": [
+          "Dezena no sexto prêmio!<br>com o palpite 2212",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 2212"
+        ],
+        "2311": [
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 2311"
+        ],
+        "2312": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 2312",
+          "Dezena no sexto prêmio!<br>com o palpite 2312",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 2312"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🐴"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2211, 2212, 2216, 2217, 2311, 2312, 2316, 2317"
+    },
+    "Nacional - LN 15:00": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -296,29 +386,32 @@
           "Dezena no oitavo prêmio!<br>com o palpite 2212",
           "BURRO 🐴 no oitavo prêmio!<br>com o palpite 2212"
         ],
-        "2221": [
-          "Dezena no décimo prêmio!<br>com o palpite 2221",
-          "CABRA 🐐 no décimo prêmio!<br>com o palpite 2221"
+        "2217": [
+          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 2217",
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 2217"
         ],
-        "2222": [
-          "CABRA 🐐 no décimo prêmio!<br>com o palpite 2222"
+        "2311": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 2311"
         ],
-        "2226": [
-          "Dezena no segundo prêmio!<br>com o palpite 2226",
-          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2226"
+        "2312": [
+          "Dezena no oitavo prêmio!<br>com o palpite 2312",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 2312"
+        ],
+        "2317": [
+          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 2317",
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 2317"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 1,
-        "Dezena": 3,
+        "Dezena": 2,
         "Grupo": [
-          "🐑",
-          "🐴",
-          "🐐"
+          "🐕",
+          "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2211, 2212, 2216, 2221, 2222, 2226"
+      "resumo": "Palpites dados para esta extração: 2211, 2212, 2216, 2217, 2311, 2312, 2316, 2317"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -397,33 +490,35 @@
           "Dezena no terceiro prêmio!<br>com o palpite 2212",
           "BURRO 🐴 no terceiro prêmio!<br>com o palpite 2212"
         ],
-        "2221": [
-          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 2221",
-          "Dezena no nono prêmio!<br>com o palpite 2221",
-          "CABRA 🐐 no nono prêmio!<br>com o palpite 2221"
+        "2217": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 2217",
+          "Dezena no quinto prêmio!<br>com o palpite 2217",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 2217",
+          "CACHORRO 🐕 no oitavo prêmio!<br>com o palpite 2217"
         ],
-        "2222": [
-          "Milhar e Centena no primeiro prêmio!<br>com o palpite 2222",
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 2222",
-          "Dezena no primeiro prêmio!<br>com o palpite 2222",
-          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 2222",
-          "CABRA 🐐 no nono prêmio!<br>com o palpite 2222"
+        "2311": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 2311"
         ],
-        "2226": [
-          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2226"
+        "2312": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2312",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 2312"
+        ],
+        "2317": [
+          "Dezena no quinto prêmio!<br>com o palpite 2317",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 2317",
+          "CACHORRO 🐕 no oitavo prêmio!<br>com o palpite 2317"
         ]
       },
       "acertos": {
-        "Milhar": 1,
+        "Milhar": 0,
         "Centena": 1,
-        "Dezena": 3,
+        "Dezena": 4,
         "Grupo": [
-          "🐐",
-          "🐑",
-          "🐴"
+          "🐴",
+          "🐕"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2211, 2212, 2216, 2221, 2222, 2226"
+      "resumo": "Palpites dados para esta extração: 2211, 2212, 2216, 2217, 2311, 2312, 2316, 2317"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -500,6 +595,120 @@
         ],
         "2212": [
           "BURRO 🐴 no oitavo prêmio!<br>com o palpite 2212"
+        ],
+        "2217": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2217",
+          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 2217"
+        ],
+        "2311": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 2311"
+        ],
+        "2312": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 2312"
+        ],
+        "2317": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2317",
+          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 2317"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐕",
+          "🐴"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2211, 2212, 2216, 2217, 2311, 2312, 2316, 2317"
+    },
+    "Nacional - LN 12:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3083",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6860",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1502",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3726",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1141",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3613",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0857",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8602",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3026",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2410",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        }
+      ],
+      "frases": {
+        "2211": [
+          "BURRO 🐴 no décimo prêmio!<br>com o palpite 2211"
+        ],
+        "2212": [
+          "BURRO 🐴 no décimo prêmio!<br>com o palpite 2212"
+        ],
+        "2216": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 2216"
+        ],
+        "2311": [
+          "BURRO 🐴 no décimo prêmio!<br>com o palpite 2311"
+        ],
+        "2312": [
+          "BURRO 🐴 no décimo prêmio!<br>com o palpite 2312"
+        ],
+        "2316": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 2316"
         ]
       },
       "acertos": {
@@ -507,12 +716,13 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
+          "🦋",
           "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2211, 2212, 2216, 2221, 2222, 2226"
+      "resumo": "Palpites dados para esta extração: 2211, 2212, 2216, 2217, 2311, 2312, 2316, 2317"
     },
-    "Nacional - LN 12:00 do 1º ao 10º": {
+    "Nacional - LN 15:00 do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
