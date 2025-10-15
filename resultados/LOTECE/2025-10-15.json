@@ -70,13 +70,8 @@
         }
       ],
       "frases": {
-        "2172": [
-          "Dezena no primeiro prêmio!<br>com o palpite 2172",
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 2172"
-        ],
-        "5172": [
-          "Dezena no primeiro prêmio!<br>com o palpite 5172",
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 5172"
+        "9170": [
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 9170"
         ],
         "9172": [
           "Dezena no primeiro prêmio!<br>com o palpite 9172",
@@ -86,12 +81,12 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
+        "Dezena": 1,
         "Grupo": [
           "🐖"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2132, 2162, 2172, 5132, 5162, 5172, 9132, 9162, 9172"
+      "resumo": "Palpites dados para esta extração: 9130, 9132, 9160, 9162, 9170, 9172, 9190, 9192"
     },
     "LOTECE - CE, 14:00 (tarde)": {
       "cabecalhos": [
@@ -162,14 +157,25 @@
           "Bicho": "Elefante"
         }
       ],
-      "frases": {},
+      "frases": {
+        "9190": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 9190",
+          "Dezena no sétimo prêmio!<br>com o palpite 9190",
+          "URSO 🐻 no sétimo prêmio!<br>com o palpite 9190"
+        ],
+        "9192": [
+          "URSO 🐻 no sétimo prêmio!<br>com o palpite 9192"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 1,
+        "Grupo": [
+          "🐻"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2132, 2162, 2172, 5132, 5162, 5172, 9132, 9162, 9172"
+      "resumo": "Palpites dados para esta extração: 9130, 9132, 9160, 9162, 9170, 9172, 9190, 9192"
     },
     "LOTECE - CE, 15:45 (tarde II)": {
       "cabecalhos": [
@@ -241,42 +247,38 @@
         }
       ],
       "frases": {
-        "2162": [
-          "Centena e Dezena no nono prêmio!<br>com o palpite 2162",
-          "Dezena no nono prêmio!<br>com o palpite 2162",
-          "LEÃO 🦁 no nono prêmio!<br>com o palpite 2162"
-        ],
-        "2172": [
-          "PORCO 🐖 no segundo prêmio!<br>com o palpite 2172"
-        ],
-        "5162": [
-          "Centena e Dezena no nono prêmio!<br>com o palpite 5162",
-          "Dezena no nono prêmio!<br>com o palpite 5162",
-          "LEÃO 🦁 no nono prêmio!<br>com o palpite 5162"
-        ],
-        "5172": [
-          "PORCO 🐖 no segundo prêmio!<br>com o palpite 5172"
-        ],
         "9162": [
           "Milhar e Centena no nono prêmio!<br>com o palpite 9162",
           "Centena e Dezena no nono prêmio!<br>com o palpite 9162",
           "Dezena no nono prêmio!<br>com o palpite 9162",
           "LEÃO 🦁 no nono prêmio!<br>com o palpite 9162"
         ],
+        "9170": [
+          "Dezena no segundo prêmio!<br>com o palpite 9170",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 9170"
+        ],
         "9172": [
           "PORCO 🐖 no segundo prêmio!<br>com o palpite 9172"
+        ],
+        "9190": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 9190"
+        ],
+        "9192": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9192",
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 9192"
         ]
       },
       "acertos": {
         "Milhar": 1,
-        "Centena": 3,
+        "Centena": 1,
         "Dezena": 3,
         "Grupo": [
+          "🐻",
           "🐖",
           "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2132, 2162, 2172, 5132, 5162, 5172, 9132, 9162, 9172"
+      "resumo": "Palpites dados para esta extração: 9130, 9132, 9160, 9162, 9170, 9172, 9190, 9192"
     },
     "A FEDERAL DO BRASIL CE - Ceará Federal": {
       "cabecalhos": [
@@ -354,7 +356,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2132, 2162, 2172, 5132, 5162, 5172, 9132, 9162, 9172"
+      "resumo": "Palpites dados para esta extração: 9130, 9132, 9160, 9162, 9170, 9172, 9190, 9192"
     },
     "LOTECE - CE, 19:00 (noite)": {
       "cabecalhos": [
@@ -426,25 +428,45 @@
         }
       ],
       "frases": {
-        "2172": [
-          "PORCO 🐖 no sexto prêmio!<br>com o palpite 2172"
+        "9160": [
+          "Dezena no terceiro prêmio!<br>com o palpite 9160",
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 9160"
         ],
-        "5172": [
-          "PORCO 🐖 no sexto prêmio!<br>com o palpite 5172"
+        "9170": [
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 9170",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 9170",
+          "Dezena no sexto prêmio!<br>com o palpite 9170",
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 9170"
         ],
         "9172": [
           "PORCO 🐖 no sexto prêmio!<br>com o palpite 9172"
+        ],
+        "9190": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 9190",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 9190",
+          "URSO 🐻 no sétimo prêmio!<br>com o palpite 9190"
+        ],
+        "9192": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 9192",
+          "Dezena no quinto prêmio!<br>com o palpite 9192",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 9192",
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 9192",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 9192",
+          "Dezena no sétimo prêmio!<br>com o palpite 9192",
+          "URSO 🐻 no sétimo prêmio!<br>com o palpite 9192"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Milhar": 2,
+        "Centena": 2,
+        "Dezena": 4,
         "Grupo": [
+          "🐻",
+          "🐊",
           "🐖"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2132, 2162, 2172, 5132, 5162, 5172, 9132, 9162, 9172"
+      "resumo": "Palpites dados para esta extração: 9130, 9132, 9160, 9162, 9170, 9172, 9190, 9192"
     }
   }
 }
