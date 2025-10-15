@@ -194,6 +194,95 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9492",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1570",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6066",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5944",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2938",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7139",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "5802",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2155",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9162",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "4476",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        }
+      ],
+      "frases": {
+        "3044": [
+          "Dezena no quarto prêmio!<br>com o palpite 3044",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3044"
+        ],
+        "3344": [
+          "Dezena no quarto prêmio!<br>com o palpite 3344",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3344"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐎"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3044, 3047, 3344, 3347"
+    },
+    "A FEDERAL DO BRASIL CE - Ceará Federal": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
