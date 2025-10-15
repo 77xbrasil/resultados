@@ -370,25 +370,96 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "2733",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6799",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1802",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8104",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2443",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2618",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "7781",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3900",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3924",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0104",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "6097": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 6097",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 6097"
+        ],
+        "6099": [
+          "Dezena no segundo prêmio!<br>com o palpite 6099",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 6099",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 6099"
+        ],
+        "6397": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 6397",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 6397"
+        ],
+        "6399": [
+          "Dezena no segundo prêmio!<br>com o palpite 6399",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 6399",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 6399"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐄"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 6091, 6095, 6097, 6099, 6391, 6395, 6397, 6399"
     }
   }
 }
