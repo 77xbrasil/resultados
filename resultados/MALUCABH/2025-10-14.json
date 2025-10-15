@@ -580,25 +580,256 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "2228",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7257",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1577",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8871",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9933",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0859",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "5306",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1285",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5238",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "3347",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "5528": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5528",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 5528"
+        ],
+        "5558": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 5558",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 5558"
+        ],
+        "5588": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 5588"
+        ],
+        "5628": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5628",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 5628"
+        ],
+        "5658": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 5658",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 5658"
+        ],
+        "5688": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 5688"
+        ],
+        "5828": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5828",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 5828"
+        ],
+        "5858": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 5858",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 5858"
+        ],
+        "5888": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 5888"
+        ],
+        "5928": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5928",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 5928"
+        ],
+        "5958": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 5958",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 5958"
+        ],
+        "5988": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 5988"
+        ],
+        "7528": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7528",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 7528"
+        ],
+        "7558": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 7558",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 7558"
+        ],
+        "7588": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 7588"
+        ],
+        "7628": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7628",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 7628"
+        ],
+        "7658": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 7658",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 7658"
+        ],
+        "7688": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 7688"
+        ],
+        "7828": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7828",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 7828"
+        ],
+        "7858": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 7858",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 7858"
+        ],
+        "7888": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 7888"
+        ],
+        "7928": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7928",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 7928"
+        ],
+        "7958": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 7958",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 7958"
+        ],
+        "7988": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 7988"
+        ],
+        "9528": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9528",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 9528"
+        ],
+        "9558": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 9558",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 9558"
+        ],
+        "9588": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 9588"
+        ],
+        "9628": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9628",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 9628"
+        ],
+        "9658": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 9658",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 9658"
+        ],
+        "9688": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 9688"
+        ],
+        "9828": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9828",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 9828"
+        ],
+        "9858": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 9858",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 9858"
+        ],
+        "9888": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 9888"
+        ],
+        "9928": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9928",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 9928"
+        ],
+        "9958": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 9958",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 9958"
+        ],
+        "9988": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 9988"
+        ],
+        "0528": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0528",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 0528"
+        ],
+        "0628": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0628",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 0628"
+        ],
+        "0828": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0828",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 0828"
+        ],
+        "0928": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0928",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 0928"
+        ],
+        "0558": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 0558",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 0558"
+        ],
+        "0658": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 0658",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 0658"
+        ],
+        "0858": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 0858",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 0858"
+        ],
+        "0958": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 0958",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 0958"
+        ],
+        "0588": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 0588"
+        ],
+        "0688": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 0688"
+        ],
+        "0888": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 0888"
+        ],
+        "0988": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 0988"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 16,
+        "Grupo": [
+          "🐑",
+          "🐊",
+          "🐅"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 0528, 0558, 0588, 0628, 0658, 0688, 0828, 0858, 0888, 0928, 0958, 0988, 5528, 5558, 5588, 5628, 5658, 5688, 5828, 5858, 5888, 5928, 5958, 5988, 7528, 7558, 7588, 7628, 7658, 7688, 7828, 7858, 7888, 7928, 7958, 7988, 9528, 9558, 9588, 9628, 9658, 9688, 9828, 9858, 9888, 9928, 9958, 9988"
     }
   }
 }
