@@ -589,6 +589,136 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2733",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6799",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1802",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8104",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2443",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0281",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2735",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "0748",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "7691",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6739",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        }
+      ],
+      "frases": {
+        "6600": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 6600"
+        ],
+        "6602": [
+          "Dezena no terceiro prêmio!<br>com o palpite 6602",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 6602",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 6602"
+        ],
+        "6700": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 6700"
+        ],
+        "6702": [
+          "Dezena no terceiro prêmio!<br>com o palpite 6702",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 6702",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 6702"
+        ],
+        "8600": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 8600"
+        ],
+        "8602": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8602",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 8602",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 8602"
+        ],
+        "8700": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 8700"
+        ],
+        "8702": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8702",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 8702",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 8702"
+        ],
+        "0600": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 0600"
+        ],
+        "0700": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 0700"
+        ],
+        "0602": [
+          "Dezena no terceiro prêmio!<br>com o palpite 0602",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 0602",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0602"
+        ],
+        "0702": [
+          "Dezena no terceiro prêmio!<br>com o palpite 0702",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 0702",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0702"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 6,
+        "Grupo": [
+          "🐄",
+          "🪶"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0600, 0602, 0606, 0607, 0610, 0612, 0616, 0617, 0660, 0662, 0666, 0667, 0700, 0702, 0706, 0707, 0710, 0712, 0716, 0717, 0760, 0762, 0766, 0767, 6600, 6602, 6606, 6607, 6610, 6612, 6616, 6617, 6660, 6662, 6666, 6667, 6700, 6702, 6706, 6707, 6710, 6712, 6716, 6717, 6760, 6762, 6766, 6767, 8600, 8602, 8606, 8607, 8610, 8612, 8616, 8617, 8660, 8662, 8666, 8667, 8700, 8702, 8706, 8707, 8710, 8712, 8716, 8717, 8760, 8762, 8766, 8767"
+    },
+    "21h - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
