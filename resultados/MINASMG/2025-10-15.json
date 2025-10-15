@@ -144,6 +144,84 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5206",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2850",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9782",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9210",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8902",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "35950",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "837",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1040": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 1040"
+        ],
+        "1140": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 1140"
+        ],
+        "1240": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 1240"
+        ],
+        "1540": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 1540"
+        ],
+        "1840": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 1840"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐇"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1040, 1041, 1044, 1046, 1047, 1140, 1141, 1144, 1146, 1147, 1240, 1241, 1244, 1246, 1247, 1540, 1541, 1544, 1546, 1547, 1840, 1841, 1844, 1846, 1847"
+    },
+    "MINAS FEDERAL - MG": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
