@@ -70,11 +70,29 @@
         }
       ],
       "frases": {
-        "6091": [
-          "URSO 🐻 no sexto prêmio!<br>com o palpite 6091"
+        "2104": [
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 2104"
         ],
-        "6391": [
-          "URSO 🐻 no sexto prêmio!<br>com o palpite 6391"
+        "2144": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 2144"
+        ],
+        "2404": [
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 2404"
+        ],
+        "2444": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 2444"
+        ],
+        "6104": [
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 6104"
+        ],
+        "6144": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 6144"
+        ],
+        "6404": [
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 6404"
+        ],
+        "6444": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 6444"
         ]
       },
       "acertos": {
@@ -82,12 +100,91 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐻"
+          "🐎",
+          "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6091, 6095, 6097, 6099, 6391, 6395, 6397, 6399"
+      "resumo": "Palpites dados para esta extração: 2104, 2144, 2404, 2444, 6104, 6144, 6404, 6444"
     },
     "LOTEP - PB, 12:45": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5866",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6470",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8252",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8333",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5123",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5688",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8423",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6753",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6023",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0931",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 2104, 2144, 2404, 2444, 6104, 6144, 6404, 6444"
+    },
+    "LOTEP - PB, 15:45h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
