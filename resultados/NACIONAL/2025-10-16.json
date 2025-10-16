@@ -52,7 +52,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3002, 9002"
+      "resumo": "Palpites dados para esta extração: 2002, 2022, 3002, 3022, 8002, 8022, 9002, 9022"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -99,14 +99,29 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2022": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 2022"
+        ],
+        "3022": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 3022"
+        ],
+        "8022": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 8022"
+        ],
+        "9022": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 9022"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐐"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3002, 9002"
+      "resumo": "Palpites dados para esta extração: 2002, 2022, 3002, 3022, 8002, 8022, 9002, 9022"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -153,14 +168,29 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2022": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 2022"
+        ],
+        "3022": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 3022"
+        ],
+        "8022": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 8022"
+        ],
+        "9022": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 9022"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐐"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3002, 9002"
+      "resumo": "Palpites dados para esta extração: 2002, 2022, 3002, 3022, 8002, 8022, 9002, 9022"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -208,9 +238,17 @@
         }
       ],
       "frases": {
+        "2002": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 2002",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 2002"
+        ],
         "3002": [
           "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3002",
           "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3002"
+        ],
+        "8002": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 8002",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 8002"
         ],
         "9002": [
           "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 9002",
@@ -225,7 +263,7 @@
           "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3002, 9002"
+      "resumo": "Palpites dados para esta extração: 2002, 2022, 3002, 3022, 8002, 8022, 9002, 9022"
     },
     "Nacional - LN 15:00": {
       "cabecalhos": [
@@ -279,7 +317,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3002, 9002"
+      "resumo": "Palpites dados para esta extração: 2002, 2022, 3002, 3022, 8002, 8022, 9002, 9022"
     },
     "Nacional - LN 17:00": {
       "cabecalhos": [
@@ -327,26 +365,101 @@
         }
       ],
       "frases": {
+        "2002": [
+          "Dezena no quarto prêmio!<br>com o palpite 2002",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 2002"
+        ],
+        "2022": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 2022"
+        ],
         "3002": [
           "Dezena no quarto prêmio!<br>com o palpite 3002",
           "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 3002"
         ],
+        "3022": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 3022"
+        ],
+        "8002": [
+          "Dezena no quarto prêmio!<br>com o palpite 8002",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 8002"
+        ],
+        "8022": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 8022"
+        ],
         "9002": [
           "Dezena no quarto prêmio!<br>com o palpite 9002",
           "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9002"
+        ],
+        "9022": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 9022"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 4,
         "Grupo": [
+          "🐐",
           "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3002, 9002"
+      "resumo": "Palpites dados para esta extração: 2002, 2022, 3002, 3022, 8002, 8022, 9002, 9022"
     },
     "Nacional - LN 20:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5993",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8248",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7030",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1496",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7790",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "0557",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 2002, 2022, 3002, 3022, 8002, 8022, 9002, 9022"
+    },
+    "Nacional - LN 23:00": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -447,7 +560,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3002, 9002"
+      "resumo": "Palpites dados para esta extração: 2002, 2022, 3002, 3022, 8002, 8022, 9002, 9022"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -525,7 +638,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3002, 9002"
+      "resumo": "Palpites dados para esta extração: 2002, 2022, 3002, 3022, 8002, 8022, 9002, 9022"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -596,14 +709,29 @@
           "Bicho": "Borboleta"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2022": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 2022"
+        ],
+        "3022": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 3022"
+        ],
+        "8022": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 8022"
+        ],
+        "9022": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 9022"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐐"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3002, 9002"
+      "resumo": "Palpites dados para esta extração: 2002, 2022, 3002, 3022, 8002, 8022, 9002, 9022"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -675,8 +803,14 @@
         }
       ],
       "frases": {
+        "2002": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 2002"
+        ],
         "3002": [
           "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3002"
+        ],
+        "8002": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 8002"
         ],
         "9002": [
           "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 9002"
@@ -690,7 +824,7 @@
           "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3002, 9002"
+      "resumo": "Palpites dados para esta extração: 2002, 2022, 3002, 3022, 8002, 8022, 9002, 9022"
     },
     "Nacional - LN 15:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -762,10 +896,20 @@
         }
       ],
       "frases": {
+        "2002": [
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 2002",
+          "Dezena no décimo prêmio!<br>com o palpite 2002",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 2002"
+        ],
         "3002": [
           "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3002",
           "Dezena no décimo prêmio!<br>com o palpite 3002",
           "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 3002"
+        ],
+        "8002": [
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 8002",
+          "Dezena no décimo prêmio!<br>com o palpite 8002",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 8002"
         ],
         "9002": [
           "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 9002",
@@ -776,12 +920,12 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 4,
         "Grupo": [
           "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3002, 9002"
+      "resumo": "Palpites dados para esta extração: 2002, 2022, 3002, 3022, 8002, 8022, 9002, 9022"
     },
     "Nacional - LN 17:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -853,26 +997,140 @@
         }
       ],
       "frases": {
+        "2002": [
+          "Dezena no quarto prêmio!<br>com o palpite 2002",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 2002"
+        ],
+        "2022": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 2022"
+        ],
         "3002": [
           "Dezena no quarto prêmio!<br>com o palpite 3002",
           "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 3002"
         ],
+        "3022": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 3022"
+        ],
+        "8002": [
+          "Dezena no quarto prêmio!<br>com o palpite 8002",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 8002"
+        ],
+        "8022": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 8022"
+        ],
         "9002": [
           "Dezena no quarto prêmio!<br>com o palpite 9002",
           "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9002"
+        ],
+        "9022": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 9022"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 4,
+        "Grupo": [
+          "🐐",
+          "🪶"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2002, 2022, 3002, 3022, 8002, 8022, 9002, 9022"
+    },
+    "Nacional - LN 20:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5993",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8248",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7030",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1496",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7790",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5871",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "9204",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "9439",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3806",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8877",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        }
+      ],
+      "frases": {
+        "2002": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 2002"
+        ],
+        "3002": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 3002"
+        ],
+        "8002": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 8002"
+        ],
+        "9002": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 9002"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
         "Grupo": [
           "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3002, 9002"
+      "resumo": "Palpites dados para esta extração: 2002, 2022, 3002, 3022, 8002, 8022, 9002, 9022"
     },
-    "Nacional - LN 20:00 do 1º ao 10º": {
+    "Nacional - LN 23:00 do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
