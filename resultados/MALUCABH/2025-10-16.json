@@ -70,21 +70,127 @@
         }
       ],
       "frases": {
-        "9003": [
-          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 9003"
+        "1003": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1003"
+        ],
+        "1008": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 1008",
+          "Dezena no segundo prêmio!<br>com o palpite 1008",
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 1008",
+          "Dezena no quarto prêmio!<br>com o palpite 1008",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 1008"
+        ],
+        "7003": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 7003"
+        ],
+        "7008": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 7008",
+          "Dezena no segundo prêmio!<br>com o palpite 7008",
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 7008",
+          "Dezena no quarto prêmio!<br>com o palpite 7008",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 7008"
+        ],
+        "0008": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 0008",
+          "Dezena no segundo prêmio!<br>com o palpite 0008",
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 0008",
+          "Dezena no quarto prêmio!<br>com o palpite 0008",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 0008"
+        ],
+        "0003": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0003"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Centena": 3,
+        "Dezena": 6,
         "Grupo": [
+          "🦅",
           "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9003"
+      "resumo": "Palpites dados para esta extração: 0000, 0003, 0008, 0009, 1000, 1003, 1008, 1009, 7000, 7003, 7008, 7009"
     },
     "12h - MALUCA - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5141",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7296",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6523",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6958",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3049",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1468",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0045",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5075",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0173",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "5725",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0000, 0003, 0008, 0009, 1000, 1003, 1008, 1009, 7000, 7003, 7008, 7009"
+    },
+    "15h - MALUCA - BA": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
