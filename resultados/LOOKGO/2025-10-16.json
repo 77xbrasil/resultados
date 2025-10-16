@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2244"
+      "resumo": "Palpites dados para esta extração: 4144, 4146, 4244, 4246, 4444, 4446, 4744, 4746"
     },
     "LOOK - GOIÁS, 09h": {
       "cabecalhos": [
@@ -112,8 +112,17 @@
         }
       ],
       "frases": {
-        "2244": [
-          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 2244"
+        "4144": [
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 4144"
+        ],
+        "4244": [
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 4244"
+        ],
+        "4444": [
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 4444"
+        ],
+        "4744": [
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 4744"
         ]
       },
       "acertos": {
@@ -124,7 +133,7 @@
           "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2244"
+      "resumo": "Palpites dados para esta extração: 4144, 4146, 4244, 4246, 4444, 4446, 4744, 4746"
     },
     "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
@@ -178,20 +187,50 @@
         }
       ],
       "frases": {
-        "2244": [
-          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 2244",
-          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 2244"
+        "4144": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 4144",
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 4144"
+        ],
+        "4146": [
+          "Dezena no sexto prêmio!<br>com o palpite 4146",
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 4146"
+        ],
+        "4244": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 4244",
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 4244"
+        ],
+        "4246": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 4246",
+          "Dezena no sexto prêmio!<br>com o palpite 4246",
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 4246"
+        ],
+        "4444": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 4444",
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 4444"
+        ],
+        "4446": [
+          "Dezena no sexto prêmio!<br>com o palpite 4446",
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 4446"
+        ],
+        "4744": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 4744",
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 4744"
+        ],
+        "4746": [
+          "Dezena no sexto prêmio!<br>com o palpite 4746",
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 4746"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Centena": 1,
+        "Dezena": 4,
         "Grupo": [
-          "🐎"
+          "🐎",
+          "🐘"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2244"
+      "resumo": "Palpites dados para esta extração: 4144, 4146, 4244, 4246, 4444, 4446, 4744, 4746"
     },
     "LOOK - GOIÁS, 14h": {
       "cabecalhos": [
@@ -245,22 +284,127 @@
         }
       ],
       "frases": {
-        "2244": [
-          "Dezena no primeiro prêmio!<br>com o palpite 2244",
-          "CAVALO 🐎 no primeiro prêmio!<br>com o palpite 2244"
+        "4144": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4144",
+          "CAVALO 🐎 no primeiro prêmio!<br>com o palpite 4144"
+        ],
+        "4244": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4244",
+          "CAVALO 🐎 no primeiro prêmio!<br>com o palpite 4244"
+        ],
+        "4444": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 4444",
+          "Dezena no primeiro prêmio!<br>com o palpite 4444",
+          "CAVALO 🐎 no primeiro prêmio!<br>com o palpite 4444"
+        ],
+        "4744": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4744",
+          "CAVALO 🐎 no primeiro prêmio!<br>com o palpite 4744"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 4,
+        "Grupo": [
+          "🐎"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 4144, 4146, 4244, 4246, 4444, 4446, 4744, 4746"
+    },
+    "LOOK - GOIÁS, 16h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2014",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3177",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2921",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6544",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3248",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "7904",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "398",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "4144": [
+          "Dezena no quarto prêmio!<br>com o palpite 4144",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 4144"
+        ],
+        "4146": [
+          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 4146"
+        ],
+        "4244": [
+          "Dezena no quarto prêmio!<br>com o palpite 4244",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 4244"
+        ],
+        "4246": [
+          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 4246"
+        ],
+        "4444": [
+          "Dezena no quarto prêmio!<br>com o palpite 4444",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 4444"
+        ],
+        "4446": [
+          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 4446"
+        ],
+        "4744": [
+          "Dezena no quarto prêmio!<br>com o palpite 4744",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 4744"
+        ],
+        "4746": [
+          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 4746"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 4,
         "Grupo": [
-          "🐎"
+          "🐎",
+          "🐘"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2244"
+      "resumo": "Palpites dados para esta extração: 4144, 4146, 4244, 4246, 4444, 4446, 4744, 4746"
     },
-    "LOOK - GOIÁS, 16h": {
+    "LOOK - GOIÁS, 18h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -361,7 +505,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2244"
+      "resumo": "Palpites dados para esta extração: 4144, 4146, 4244, 4246, 4444, 4446, 4744, 4746"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
       "cabecalhos": [
@@ -433,8 +577,17 @@
         }
       ],
       "frases": {
-        "2244": [
-          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 2244"
+        "4144": [
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 4144"
+        ],
+        "4244": [
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 4244"
+        ],
+        "4444": [
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 4444"
+        ],
+        "4744": [
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 4744"
         ]
       },
       "acertos": {
@@ -445,7 +598,7 @@
           "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2244"
+      "resumo": "Palpites dados para esta extração: 4144, 4146, 4244, 4246, 4444, 4446, 4744, 4746"
     },
     "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
@@ -517,10 +670,25 @@
         }
       ],
       "frases": {
-        "2244": [
-          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 2244",
-          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 2244",
-          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 2244"
+        "4144": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 4144",
+          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 4144",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 4144"
+        ],
+        "4244": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 4244",
+          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 4244",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 4244"
+        ],
+        "4444": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 4444",
+          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 4444",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 4444"
+        ],
+        "4744": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 4744",
+          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 4744",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 4744"
         ]
       },
       "acertos": {
@@ -531,7 +699,7 @@
           "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2244"
+      "resumo": "Palpites dados para esta extração: 4144, 4146, 4244, 4246, 4444, 4446, 4744, 4746"
     },
     "LOOK - GOIÁS, 14h do 1º ao 10º": {
       "cabecalhos": [
@@ -603,22 +771,178 @@
         }
       ],
       "frases": {
-        "2244": [
-          "Dezena no primeiro prêmio!<br>com o palpite 2244",
-          "CAVALO 🐎 no primeiro prêmio!<br>com o palpite 2244"
+        "4144": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4144",
+          "CAVALO 🐎 no primeiro prêmio!<br>com o palpite 4144"
+        ],
+        "4146": [
+          "Dezena no sexto prêmio!<br>com o palpite 4146",
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 4146",
+          "Dezena no nono prêmio!<br>com o palpite 4146",
+          "ELEFANTE 🐘 no nono prêmio!<br>com o palpite 4146",
+          "Dezena no décimo prêmio!<br>com o palpite 4146",
+          "ELEFANTE 🐘 no décimo prêmio!<br>com o palpite 4146"
+        ],
+        "4244": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4244",
+          "CAVALO 🐎 no primeiro prêmio!<br>com o palpite 4244"
+        ],
+        "4246": [
+          "Dezena no sexto prêmio!<br>com o palpite 4246",
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 4246",
+          "Dezena no nono prêmio!<br>com o palpite 4246",
+          "ELEFANTE 🐘 no nono prêmio!<br>com o palpite 4246",
+          "Dezena no décimo prêmio!<br>com o palpite 4246",
+          "ELEFANTE 🐘 no décimo prêmio!<br>com o palpite 4246"
+        ],
+        "4444": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 4444",
+          "Dezena no primeiro prêmio!<br>com o palpite 4444",
+          "CAVALO 🐎 no primeiro prêmio!<br>com o palpite 4444"
+        ],
+        "4446": [
+          "Dezena no sexto prêmio!<br>com o palpite 4446",
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 4446",
+          "Dezena no nono prêmio!<br>com o palpite 4446",
+          "ELEFANTE 🐘 no nono prêmio!<br>com o palpite 4446",
+          "Dezena no décimo prêmio!<br>com o palpite 4446",
+          "ELEFANTE 🐘 no décimo prêmio!<br>com o palpite 4446"
+        ],
+        "4744": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4744",
+          "CAVALO 🐎 no primeiro prêmio!<br>com o palpite 4744"
+        ],
+        "4746": [
+          "Dezena no sexto prêmio!<br>com o palpite 4746",
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 4746",
+          "Dezena no nono prêmio!<br>com o palpite 4746",
+          "ELEFANTE 🐘 no nono prêmio!<br>com o palpite 4746",
+          "Dezena no décimo prêmio!<br>com o palpite 4746",
+          "ELEFANTE 🐘 no décimo prêmio!<br>com o palpite 4746"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 16,
+        "Grupo": [
+          "🐎",
+          "🐘"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 4144, 4146, 4244, 4246, 4444, 4446, 4744, 4746"
+    },
+    "LOOK - GOIÁS, 16h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2014",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3177",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2921",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6544",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3248",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2326",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0195",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1724",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4714",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6863",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        }
+      ],
+      "frases": {
+        "4144": [
+          "Dezena no quarto prêmio!<br>com o palpite 4144",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 4144"
+        ],
+        "4146": [
+          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 4146"
+        ],
+        "4244": [
+          "Dezena no quarto prêmio!<br>com o palpite 4244",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 4244"
+        ],
+        "4246": [
+          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 4246"
+        ],
+        "4444": [
+          "Dezena no quarto prêmio!<br>com o palpite 4444",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 4444"
+        ],
+        "4446": [
+          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 4446"
+        ],
+        "4744": [
+          "Dezena no quarto prêmio!<br>com o palpite 4744",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 4744"
+        ],
+        "4746": [
+          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 4746"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 4,
         "Grupo": [
-          "🐎"
+          "🐎",
+          "🐘"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2244"
+      "resumo": "Palpites dados para esta extração: 4144, 4146, 4244, 4246, 4444, 4446, 4744, 4746"
     },
-    "LOOK - GOIÁS, 16h do 1º ao 10º": {
+    "LOOK - GOIÁS, 18h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
