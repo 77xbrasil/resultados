@@ -46,6 +46,12 @@
         }
       ],
       "frases": {
+        "7031": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 7031"
+        ],
+        "7131": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 7131"
+        ],
         "7331": [
           "CAMELO 🐪 no segundo prêmio!<br>com o palpite 7331"
         ],
@@ -61,9 +67,63 @@
           "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7331, 7731"
+      "resumo": "Palpites dados para esta extração: 7031, 7037, 7131, 7137, 7331, 7337, 7731, 7737"
     },
     "Nacional - LN 08:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2594",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3228",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0597",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6869",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8133",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "1421",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 7031, 7037, 7131, 7137, 7331, 7337, 7731, 7737"
+    },
+    "Nacional - LN 10:00": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -158,6 +218,12 @@
         }
       ],
       "frases": {
+        "7031": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 7031"
+        ],
+        "7131": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 7131"
+        ],
         "7331": [
           "CAMELO 🐪 no segundo prêmio!<br>com o palpite 7331"
         ],
@@ -173,9 +239,87 @@
           "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7331, 7731"
+      "resumo": "Palpites dados para esta extração: 7031, 7037, 7131, 7137, 7331, 7337, 7731, 7737"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2594",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3228",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0597",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6869",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8133",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2306",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "5258",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "9296",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4879",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "3160",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 7031, 7037, 7131, 7137, 7331, 7337, 7731, 7737"
+    },
+    "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
