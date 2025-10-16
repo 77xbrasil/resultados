@@ -233,14 +233,36 @@
           "Bicho": "Macaco"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2700": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2700"
+        ],
+        "2701": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 2701"
+        ],
+        "6700": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 6700"
+        ],
+        "6701": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 6701"
+        ],
+        "0700": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 0700"
+        ],
+        "0701": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 0701"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐄",
+          "🪶"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2731, 2733, 2739"
+      "resumo": "Palpites dados para esta extração: 0700, 0701, 0708, 0709, 0730, 0731, 0738, 0739, 2700, 2701, 2708, 2709, 2730, 2731, 2738, 2739, 6700, 6701, 6708, 6709, 6730, 6731, 6738, 6739"
     },
     "15h - BA": {
       "cabecalhos": [
@@ -311,14 +333,36 @@
           "Bicho": "Tigre"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2701": [
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 2701"
+        ],
+        "2708": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 2708"
+        ],
+        "6701": [
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 6701"
+        ],
+        "6708": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 6708"
+        ],
+        "0708": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 0708"
+        ],
+        "0701": [
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 0701"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦅",
+          "🪶"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2731, 2733, 2739"
+      "resumo": "Palpites dados para esta extração: 0700, 0701, 0708, 0709, 0730, 0731, 0738, 0739, 2700, 2701, 2708, 2709, 2730, 2731, 2738, 2739, 6700, 6701, 6708, 6709, 6730, 6731, 6738, 6739"
     },
     "19h FEDERAL - BA": {
       "cabecalhos": [
@@ -390,29 +434,64 @@
         }
       ],
       "frases": {
-        "2733": [
-          "Milhar e Centena no primeiro prêmio!<br>com o palpite 2733",
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 2733",
-          "Dezena no primeiro prêmio!<br>com o palpite 2733",
-          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 2733",
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 2733"
+        "2700": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2700"
+        ],
+        "2701": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 2701",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 2701"
+        ],
+        "2738": [
+          "COELHO 🐇 no décimo prêmio!<br>com o palpite 2738"
         ],
         "2739": [
           "Centena e Dezena no décimo prêmio!<br>com o palpite 2739",
           "Dezena no décimo prêmio!<br>com o palpite 2739",
           "COELHO 🐇 no décimo prêmio!<br>com o palpite 2739"
+        ],
+        "6700": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 6700"
+        ],
+        "6701": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 6701",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 6701"
+        ],
+        "6738": [
+          "COELHO 🐇 no décimo prêmio!<br>com o palpite 6738"
+        ],
+        "6739": [
+          "Milhar e Centena no décimo prêmio!<br>com o palpite 6739",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 6739",
+          "Dezena no décimo prêmio!<br>com o palpite 6739",
+          "COELHO 🐇 no décimo prêmio!<br>com o palpite 6739"
+        ],
+        "0700": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 0700"
+        ],
+        "0701": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 0701",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0701"
+        ],
+        "0738": [
+          "COELHO 🐇 no décimo prêmio!<br>com o palpite 0738"
+        ],
+        "0739": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 0739",
+          "Dezena no décimo prêmio!<br>com o palpite 0739",
+          "COELHO 🐇 no décimo prêmio!<br>com o palpite 0739"
         ]
       },
       "acertos": {
         "Milhar": 1,
-        "Centena": 2,
-        "Dezena": 2,
+        "Centena": 3,
+        "Dezena": 3,
         "Grupo": [
-          "🐍",
+          "🐄",
+          "🪶",
           "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2731, 2733, 2739"
+      "resumo": "Palpites dados para esta extração: 0700, 0701, 0708, 0709, 0730, 0731, 0738, 0739, 2700, 2701, 2708, 2709, 2730, 2731, 2738, 2739, 6700, 6701, 6708, 6709, 6730, 6731, 6738, 6739"
     },
     "21h - BA": {
       "cabecalhos": [
@@ -484,23 +563,82 @@
         }
       ],
       "frases": {
+        "2700": [
+          "Dezena no segundo prêmio!<br>com o palpite 2700",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2700",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 2700",
+          "Dezena no décimo prêmio!<br>com o palpite 2700",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 2700"
+        ],
+        "2730": [
+          "Dezena no nono prêmio!<br>com o palpite 2730",
+          "CAMELO 🐪 no nono prêmio!<br>com o palpite 2730"
+        ],
         "2731": [
           "CAMELO 🐪 no nono prêmio!<br>com o palpite 2731"
         ],
+        "2738": [
+          "Dezena no quarto prêmio!<br>com o palpite 2738",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 2738"
+        ],
         "2739": [
           "COELHO 🐇 no quarto prêmio!<br>com o palpite 2739"
+        ],
+        "6700": [
+          "Dezena no segundo prêmio!<br>com o palpite 6700",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 6700",
+          "Milhar e Centena no décimo prêmio!<br>com o palpite 6700",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 6700",
+          "Dezena no décimo prêmio!<br>com o palpite 6700",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 6700"
+        ],
+        "6730": [
+          "Dezena no nono prêmio!<br>com o palpite 6730",
+          "CAMELO 🐪 no nono prêmio!<br>com o palpite 6730"
+        ],
+        "6731": [
+          "CAMELO 🐪 no nono prêmio!<br>com o palpite 6731"
+        ],
+        "6738": [
+          "Dezena no quarto prêmio!<br>com o palpite 6738",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 6738"
+        ],
+        "6739": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 6739"
+        ],
+        "0700": [
+          "Dezena no segundo prêmio!<br>com o palpite 0700",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 0700",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 0700",
+          "Dezena no décimo prêmio!<br>com o palpite 0700",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 0700"
+        ],
+        "0738": [
+          "Dezena no quarto prêmio!<br>com o palpite 0738",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 0738"
+        ],
+        "0739": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 0739"
+        ],
+        "0730": [
+          "Dezena no nono prêmio!<br>com o palpite 0730",
+          "CAMELO 🐪 no nono prêmio!<br>com o palpite 0730"
+        ],
+        "0731": [
+          "CAMELO 🐪 no nono prêmio!<br>com o palpite 0731"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Milhar": 1,
+        "Centena": 3,
+        "Dezena": 12,
         "Grupo": [
+          "🐄",
           "🐇",
           "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2731, 2733, 2739"
+      "resumo": "Palpites dados para esta extração: 0700, 0701, 0708, 0709, 0730, 0731, 0738, 0739, 2700, 2701, 2708, 2709, 2730, 2731, 2738, 2739, 6700, 6701, 6708, 6709, 6730, 6731, 6738, 6739"
     }
   }
 }
