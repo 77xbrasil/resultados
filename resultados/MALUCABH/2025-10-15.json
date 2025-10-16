@@ -479,25 +479,127 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "4008",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6023",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7253",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3802",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9409",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9180",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "1923",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2901",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5043",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0076",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "3301": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 3301",
+          "Dezena no oitavo prêmio!<br>com o palpite 3301",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3301"
+        ],
+        "3306": [
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3306"
+        ],
+        "3341": [
+          "CAVALO 🐎 no nono prêmio!<br>com o palpite 3341"
+        ],
+        "3376": [
+          "Dezena no décimo prêmio!<br>com o palpite 3376",
+          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 3376"
+        ],
+        "3701": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 3701",
+          "Dezena no oitavo prêmio!<br>com o palpite 3701",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3701"
+        ],
+        "3706": [
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3706"
+        ],
+        "3741": [
+          "CAVALO 🐎 no nono prêmio!<br>com o palpite 3741"
+        ],
+        "3776": [
+          "Dezena no décimo prêmio!<br>com o palpite 3776",
+          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 3776"
+        ],
+        "3901": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 3901",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 3901",
+          "Dezena no oitavo prêmio!<br>com o palpite 3901",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3901"
+        ],
+        "3906": [
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3906"
+        ],
+        "3941": [
+          "CAVALO 🐎 no nono prêmio!<br>com o palpite 3941"
+        ],
+        "3976": [
+          "Dezena no décimo prêmio!<br>com o palpite 3976",
+          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 3976"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 6,
+        "Grupo": [
+          "🦅",
+          "🪶",
+          "🐎",
+          "🦚"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 3301, 3306, 3341, 3346, 3371, 3376, 3381, 3386, 3701, 3706, 3741, 3746, 3771, 3776, 3781, 3786, 3901, 3906, 3941, 3946, 3971, 3976, 3981, 3986"
     }
   }
 }
