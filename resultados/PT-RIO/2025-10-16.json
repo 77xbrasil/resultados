@@ -56,39 +56,20 @@
           "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 0059",
           "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 0059"
         ],
-        "0559": [
-          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 0559",
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 0559"
-        ],
-        "0041": [
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 0041",
-          "Dezena no terceiro prêmio!<br>com o palpite 0041",
-          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 0041",
-          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 0041"
-        ],
-        "0541": [
-          "Dezena no terceiro prêmio!<br>com o palpite 0541",
-          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 0541",
-          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 0541"
-        ],
-        "0096": [
-          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 0096"
-        ],
-        "0596": [
-          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 0596"
+        "0069": [
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0069"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 2,
+        "Centena": 0,
+        "Dezena": 0,
         "Grupo": [
           "🐊",
-          "🐎",
-          "🦌"
+          "🐖"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0041, 0046, 0049, 0051, 0056, 0059, 0091, 0096, 0099, 0541, 0546, 0549, 0551, 0556, 0559, 0591, 0596, 0599"
+      "resumo": "Palpites dados para esta extração: 0049, 0059, 0069, 0099"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -142,17 +123,78 @@
         }
       ],
       "frases": {
-        "0056": [
-          "GATO 🐈 no segundo prêmio!<br>com o palpite 0056"
-        ],
-        "0556": [
-          "GATO 🐈 no segundo prêmio!<br>com o palpite 0556"
-        ],
-        "0096": [
-          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 0096"
-        ],
-        "0596": [
-          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 0596"
+        "0069": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 0069",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 0069",
+          "Dezena no quarto prêmio!<br>com o palpite 0069",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 0069"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 1,
+        "Dezena": 1,
+        "Grupo": [
+          "🐖"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0049, 0059, 0069, 0099"
+    },
+    "PT-RIO, RJ, 14:20, PT": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4657",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6556",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6038",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6525",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5081",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "8857",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "531",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "0059": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 0059",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 0059"
         ]
       },
       "acertos": {
@@ -160,13 +202,12 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐈",
-          "🦌"
+          "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0041, 0046, 0049, 0051, 0056, 0059, 0091, 0096, 0099, 0541, 0546, 0549, 0551, 0556, 0559, 0591, 0596, 0599"
+      "resumo": "Palpites dados para esta extração: 0049, 0059, 0069, 0099"
     },
-    "PT-RIO, RJ, 14:20, PT": {
+    "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -265,50 +306,20 @@
           "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 0059",
           "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 0059"
         ],
-        "0559": [
-          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 0559",
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 0559"
-        ],
-        "0041": [
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 0041",
-          "Dezena no terceiro prêmio!<br>com o palpite 0041",
-          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 0041",
-          "Dezena no oitavo prêmio!<br>com o palpite 0041",
-          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 0041"
-        ],
-        "0541": [
-          "Dezena no terceiro prêmio!<br>com o palpite 0541",
-          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 0541",
-          "Dezena no oitavo prêmio!<br>com o palpite 0541",
-          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 0541"
-        ],
-        "0091": [
-          "Dezena no sexto prêmio!<br>com o palpite 0091",
-          "URSO 🐻 no sexto prêmio!<br>com o palpite 0091"
-        ],
-        "0591": [
-          "Dezena no sexto prêmio!<br>com o palpite 0591",
-          "URSO 🐻 no sexto prêmio!<br>com o palpite 0591"
-        ],
-        "0096": [
-          "VEADO 🦌 no décimo prêmio!<br>com o palpite 0096"
-        ],
-        "0596": [
-          "VEADO 🦌 no décimo prêmio!<br>com o palpite 0596"
+        "0069": [
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0069"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 6,
+        "Centena": 0,
+        "Dezena": 0,
         "Grupo": [
           "🐊",
-          "🐎",
-          "🐻",
-          "🦌"
+          "🐖"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0041, 0046, 0049, 0051, 0056, 0059, 0091, 0096, 0099, 0541, 0546, 0549, 0551, 0556, 0559, 0591, 0596, 0599"
+      "resumo": "Palpites dados para esta extração: 0049, 0059, 0069, 0099"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -380,62 +391,119 @@
         }
       ],
       "frases": {
-        "0056": [
-          "GATO 🐈 no segundo prêmio!<br>com o palpite 0056"
-        ],
-        "0556": [
-          "GATO 🐈 no segundo prêmio!<br>com o palpite 0556"
-        ],
-        "0096": [
-          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 0096",
-          "Dezena no oitavo prêmio!<br>com o palpite 0096",
-          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 0096"
-        ],
-        "0596": [
-          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 0596",
-          "Milhar e Centena no oitavo prêmio!<br>com o palpite 0596",
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 0596",
-          "Dezena no oitavo prêmio!<br>com o palpite 0596",
-          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 0596"
+        "0069": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 0069",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 0069",
+          "Dezena no quarto prêmio!<br>com o palpite 0069",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 0069",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 0069"
         ],
         "0059": [
           "Dezena no nono prêmio!<br>com o palpite 0059",
           "JACARÉ 🐊 no nono prêmio!<br>com o palpite 0059"
         ],
-        "0559": [
-          "Dezena no nono prêmio!<br>com o palpite 0559",
-          "JACARÉ 🐊 no nono prêmio!<br>com o palpite 0559"
-        ],
         "0049": [
           "Dezena no décimo prêmio!<br>com o palpite 0049",
           "GALO 🐓 no décimo prêmio!<br>com o palpite 0049"
-        ],
-        "0051": [
-          "GALO 🐓 no décimo prêmio!<br>com o palpite 0051"
-        ],
-        "0549": [
-          "Centena e Dezena no décimo prêmio!<br>com o palpite 0549",
-          "Dezena no décimo prêmio!<br>com o palpite 0549",
-          "GALO 🐓 no décimo prêmio!<br>com o palpite 0549"
-        ],
-        "0551": [
-          "GALO 🐓 no décimo prêmio!<br>com o palpite 0551"
         ]
       },
       "acertos": {
         "Milhar": 1,
-        "Centena": 2,
-        "Dezena": 6,
+        "Centena": 1,
+        "Dezena": 3,
         "Grupo": [
-          "🐈",
-          "🦌",
+          "🐖",
           "🐊",
           "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0041, 0046, 0049, 0051, 0056, 0059, 0091, 0096, 0099, 0541, 0546, 0549, 0551, 0556, 0559, 0591, 0596, 0599"
+      "resumo": "Palpites dados para esta extração: 0049, 0059, 0069, 0099"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4657",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6556",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6038",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6525",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5081",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4666",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6505",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5532",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "7685",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "3245",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        }
+      ],
+      "frases": {
+        "0059": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 0059"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐊"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0049, 0059, 0069, 0099"
+    },
+    "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
