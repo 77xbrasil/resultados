@@ -58,9 +58,69 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1815, 1895, 2815, 2895"
+      "resumo": "Palpites dados para esta extração: 2090, 2094, 2099, 2490, 2494, 2499, 2790, 2794, 2799, 2890, 2894, 2899, 2990, 2994, 2999, 3090, 3094, 3099, 3490, 3494, 3499, 3790, 3794, 3799, 3890, 3894, 3899, 3990, 3994, 3999, 4090, 4094, 4099, 4490, 4494, 4499, 4790, 4794, 4799, 4890, 4894, 4899, 4990, 4994, 4999"
     },
     "LOOK - GOIÁS, 09h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3185",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7641",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6870",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1367",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1278",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "0341",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "336",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 2090, 2094, 2099, 2490, 2494, 2499, 2790, 2794, 2799, 2890, 2894, 2899, 2990, 2994, 2999, 3090, 3094, 3099, 3490, 3494, 3499, 3790, 3794, 3799, 3890, 3894, 3899, 3990, 3994, 3999, 4090, 4094, 4099, 4490, 4494, 4499, 4790, 4794, 4799, 4890, 4894, 4899, 4990, 4994, 4999"
+    },
+    "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -154,6 +214,162 @@
           "Bicho": "Águia"
         }
       ],
+      "frases": {
+        "2090": [
+          "Dezena no sexto prêmio!<br>com o palpite 2090",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 2090",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 2090"
+        ],
+        "2490": [
+          "Dezena no sexto prêmio!<br>com o palpite 2490",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 2490",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 2490"
+        ],
+        "2790": [
+          "Dezena no sexto prêmio!<br>com o palpite 2790",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 2790",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 2790"
+        ],
+        "2890": [
+          "Dezena no sexto prêmio!<br>com o palpite 2890",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 2890",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 2890"
+        ],
+        "2990": [
+          "Dezena no sexto prêmio!<br>com o palpite 2990",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 2990",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 2990"
+        ],
+        "3090": [
+          "Dezena no sexto prêmio!<br>com o palpite 3090",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 3090",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 3090"
+        ],
+        "3490": [
+          "Dezena no sexto prêmio!<br>com o palpite 3490",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 3490",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 3490"
+        ],
+        "3790": [
+          "Dezena no sexto prêmio!<br>com o palpite 3790",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 3790",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 3790"
+        ],
+        "3890": [
+          "Dezena no sexto prêmio!<br>com o palpite 3890",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 3890",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 3890"
+        ],
+        "3990": [
+          "Dezena no sexto prêmio!<br>com o palpite 3990",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 3990",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 3990"
+        ],
+        "4090": [
+          "Dezena no sexto prêmio!<br>com o palpite 4090",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 4090",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 4090"
+        ],
+        "4490": [
+          "Dezena no sexto prêmio!<br>com o palpite 4490",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 4490",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 4490"
+        ],
+        "4790": [
+          "Dezena no sexto prêmio!<br>com o palpite 4790",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 4790",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 4790"
+        ],
+        "4890": [
+          "Dezena no sexto prêmio!<br>com o palpite 4890",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 4890",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 4890"
+        ],
+        "4990": [
+          "Dezena no sexto prêmio!<br>com o palpite 4990",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 4990",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 4990"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 15,
+        "Grupo": [
+          "🐻"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2090, 2094, 2099, 2490, 2494, 2499, 2790, 2794, 2799, 2890, 2894, 2899, 2990, 2994, 2999, 3090, 3094, 3099, 3490, 3494, 3499, 3790, 3794, 3799, 3890, 3894, 3899, 3990, 3994, 3999, 4090, 4094, 4099, 4490, 4494, 4499, 4790, 4794, 4799, 4890, 4894, 4899, 4990, 4994, 4999"
+    },
+    "LOOK - GOIÁS, 09h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3185",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7641",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6870",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1367",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1278",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3761",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "1683",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8476",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5107",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "9368",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        }
+      ],
       "frases": {},
       "acertos": {
         "Milhar": 0,
@@ -161,9 +377,9 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1815, 1895, 2815, 2895"
+      "resumo": "Palpites dados para esta extração: 2090, 2094, 2099, 2490, 2494, 2499, 2790, 2794, 2799, 2890, 2894, 2899, 2990, 2994, 2999, 3090, 3094, 3099, 3490, 3494, 3499, 3790, 3794, 3799, 3890, 3894, 3899, 3990, 3994, 3999, 4090, 4094, 4099, 4490, 4494, 4499, 4790, 4794, 4799, 4890, 4894, 4899, 4990, 4994, 4999"
     },
-    "LOOK - GOIÁS, 09h do 1º ao 10º": {
+    "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
