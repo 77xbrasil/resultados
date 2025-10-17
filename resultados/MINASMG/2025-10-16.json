@@ -52,15 +52,6 @@
         }
       ],
       "frases": {
-        "3405": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3405"
-        ],
-        "3705": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3705"
-        ],
-        "3805": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3805"
-        ],
         "8405": [
           "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 8405"
         ],
@@ -88,7 +79,7 @@
           "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0405, 0425, 0705, 0725, 0805, 0825, 3405, 3425, 3705, 3725, 3805, 3825, 8405, 8425, 8705, 8725, 8805, 8825"
+      "resumo": "Palpites dados para esta extração: 0405, 0415, 0425, 0445, 0705, 0715, 0725, 0745, 0805, 0815, 0825, 0845, 8405, 8415, 8425, 8445, 8705, 8715, 8725, 8745, 8805, 8815, 8825, 8845"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
@@ -141,14 +132,71 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "8415": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 8415",
+          "Dezena no terceiro prêmio!<br>com o palpite 8415",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8415"
+        ],
+        "8445": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 8445",
+          "Dezena no primeiro prêmio!<br>com o palpite 8445",
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 8445"
+        ],
+        "8715": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8715",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8715"
+        ],
+        "8745": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8745",
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 8745"
+        ],
+        "8815": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8815",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8815"
+        ],
+        "8845": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8845",
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 8845"
+        ],
+        "0445": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 0445",
+          "Dezena no primeiro prêmio!<br>com o palpite 0445",
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 0445"
+        ],
+        "0745": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0745",
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 0745"
+        ],
+        "0845": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0845",
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 0845"
+        ],
+        "0415": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 0415",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 0415",
+          "Dezena no terceiro prêmio!<br>com o palpite 0415",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0415"
+        ],
+        "0715": [
+          "Dezena no terceiro prêmio!<br>com o palpite 0715",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0715"
+        ],
+        "0815": [
+          "Dezena no terceiro prêmio!<br>com o palpite 0815",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0815"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0405, 0425, 0705, 0725, 0805, 0825, 3405, 3425, 3705, 3725, 3805, 3825, 8405, 8425, 8705, 8725, 8805, 8825"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 12,
+        "Grupo": [
+          "🐘",
+          "🦋"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0405, 0415, 0425, 0445, 0705, 0715, 0725, 0745, 0805, 0815, 0825, 0845, 8405, 8415, 8425, 8445, 8705, 8715, 8725, 8745, 8805, 8815, 8825, 8845"
     },
     "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
@@ -201,14 +249,35 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "8415": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 8415"
+        ],
+        "8715": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 8715"
+        ],
+        "8815": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 8815"
+        ],
+        "0415": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 0415"
+        ],
+        "0715": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 0715"
+        ],
+        "0815": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 0815"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦋"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0405, 0425, 0705, 0725, 0805, 0825, 3405, 3425, 3705, 3725, 3805, 3825, 8405, 8425, 8705, 8725, 8805, 8825"
+      "resumo": "Palpites dados para esta extração: 0405, 0415, 0425, 0445, 0705, 0715, 0725, 0745, 0805, 0815, 0825, 0845, 8405, 8415, 8425, 8445, 8705, 8715, 8725, 8745, 8805, 8815, 8825, 8845"
     },
     "PREFERIDA - MG, 21h": {
       "cabecalhos": [
@@ -218,11 +287,48 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "6385",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2995",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1929",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6456",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8552",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "26317",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "123",
+          "Grupo": "",
+          "Bicho": ""
+        }
       ],
       "frases": {},
       "acertos": {
@@ -231,7 +337,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 0405, 0415, 0425, 0445, 0705, 0715, 0725, 0745, 0805, 0815, 0825, 0845, 8405, 8415, 8425, 8445, 8705, 8715, 8725, 8745, 8805, 8815, 8825, 8845"
     }
   }
 }
