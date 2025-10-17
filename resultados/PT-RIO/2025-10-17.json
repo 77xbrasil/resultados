@@ -52,68 +52,99 @@
         }
       ],
       "frases": {
-        "3066": [
-          "MACACO 🐒 no sexto prêmio!<br>com o palpite 3066"
+        "3994": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3994"
         ],
-        "3096": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3096",
-          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3096"
+        "4994": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 4994"
         ],
-        "3266": [
-          "MACACO 🐒 no sexto prêmio!<br>com o palpite 3266"
-        ],
-        "3296": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3296",
-          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3296"
-        ],
-        "3366": [
-          "MACACO 🐒 no sexto prêmio!<br>com o palpite 3366"
-        ],
-        "3396": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3396",
-          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3396"
-        ],
-        "3466": [
-          "MACACO 🐒 no sexto prêmio!<br>com o palpite 3466"
-        ],
-        "3496": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3496",
-          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3496"
-        ],
-        "3666": [
-          "MACACO 🐒 no sexto prêmio!<br>com o palpite 3666"
-        ],
-        "3696": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3696",
-          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3696"
-        ],
-        "3866": [
-          "MACACO 🐒 no sexto prêmio!<br>com o palpite 3866"
-        ],
-        "3896": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3896",
-          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3896"
-        ],
-        "3966": [
-          "MACACO 🐒 no sexto prêmio!<br>com o palpite 3966"
-        ],
-        "3996": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3996",
-          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3996"
+        "9994": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 9994"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 7,
+        "Dezena": 0,
         "Grupo": [
-          "🦌",
-          "🐒"
+          "🦌"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3060, 3066, 3080, 3086, 3090, 3096, 3260, 3266, 3280, 3286, 3290, 3296, 3360, 3366, 3380, 3386, 3390, 3396, 3460, 3466, 3480, 3486, 3490, 3496, 3660, 3666, 3680, 3686, 3690, 3696, 3860, 3866, 3880, 3886, 3890, 3896, 3960, 3966, 3980, 3986, 3990, 3996"
+      "resumo": "Palpites dados para esta extração: 3990, 3994, 4990, 4994, 9990, 9994"
     },
     "PT-RIO, RJ, 11:00, PTM": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1178",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3549",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9353",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8556",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6492",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "9128",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "180",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "3990": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 3990"
+        ],
+        "4990": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 4990"
+        ],
+        "9990": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 9990"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐻"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3990, 3994, 4990, 4994, 9990, 9994"
+    },
+    "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -208,53 +239,127 @@
         }
       ],
       "frases": {
-        "3096": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3096",
-          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3096",
-          "VEADO 🦌 no décimo prêmio!<br>com o palpite 3096"
+        "3994": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3994",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 3994",
+          "Dezena no décimo prêmio!<br>com o palpite 3994",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 3994"
         ],
-        "3296": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3296",
-          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3296",
-          "VEADO 🦌 no décimo prêmio!<br>com o palpite 3296"
+        "4994": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 4994",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 4994",
+          "Dezena no décimo prêmio!<br>com o palpite 4994",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 4994"
         ],
-        "3396": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3396",
-          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3396",
-          "VEADO 🦌 no décimo prêmio!<br>com o palpite 3396"
+        "9994": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 9994",
+          "Milhar e Centena no décimo prêmio!<br>com o palpite 9994",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 9994",
+          "Dezena no décimo prêmio!<br>com o palpite 9994",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 9994"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 3,
+        "Dezena": 3,
+        "Grupo": [
+          "🦌"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3990, 3994, 4990, 4994, 9990, 9994"
+    },
+    "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1178",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3549",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9353",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8556",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6492",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1398",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "1535",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7455",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8936",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8452",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        }
+      ],
+      "frases": {
+        "3990": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 3990"
         ],
-        "3496": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3496",
-          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3496",
-          "VEADO 🦌 no décimo prêmio!<br>com o palpite 3496"
+        "4990": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 4990"
         ],
-        "3696": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3696",
-          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3696",
-          "VEADO 🦌 no décimo prêmio!<br>com o palpite 3696"
-        ],
-        "3896": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3896",
-          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3896",
-          "VEADO 🦌 no décimo prêmio!<br>com o palpite 3896"
-        ],
-        "3996": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3996",
-          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3996",
-          "VEADO 🦌 no décimo prêmio!<br>com o palpite 3996"
+        "9990": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 9990"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 7,
+        "Dezena": 0,
         "Grupo": [
-          "🦌"
+          "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3060, 3066, 3080, 3086, 3090, 3096, 3260, 3266, 3280, 3286, 3290, 3296, 3360, 3366, 3380, 3386, 3390, 3396, 3460, 3466, 3480, 3486, 3490, 3496, 3660, 3666, 3680, 3686, 3690, 3696, 3860, 3866, 3880, 3886, 3890, 3896, 3960, 3966, 3980, 3986, 3990, 3996"
+      "resumo": "Palpites dados para esta extração: 3990, 3994, 4990, 4994, 9990, 9994"
     },
-    "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
+    "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
