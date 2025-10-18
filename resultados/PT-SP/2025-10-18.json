@@ -52,13 +52,13 @@
         }
       ],
       "frases": {
+        "2288": [
+          "Dezena no sexto prêmio!<br>com o palpite 2288",
+          "TIGRE 🐅 no sexto prêmio!<br>com o palpite 2288"
+        ],
         "3288": [
           "Dezena no sexto prêmio!<br>com o palpite 3288",
           "TIGRE 🐅 no sexto prêmio!<br>com o palpite 3288"
-        ],
-        "3388": [
-          "Dezena no sexto prêmio!<br>com o palpite 3388",
-          "TIGRE 🐅 no sexto prêmio!<br>com o palpite 3388"
         ]
       },
       "acertos": {
@@ -69,9 +69,80 @@
           "🐅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3228, 3288, 3328, 3388"
+      "resumo": "Palpites dados para esta extração: 2228, 2288, 3228, 3288"
     },
     "SP, 10hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5280",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4075",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3595",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9188",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9631",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "1769",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "516",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2288": [
+          "Dezena no quarto prêmio!<br>com o palpite 2288",
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 2288"
+        ],
+        "3288": [
+          "Dezena no quarto prêmio!<br>com o palpite 3288",
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 3288"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2228, 2288, 3228, 3288"
+    },
+    "SP, 12:00 - PTSP": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -172,9 +243,98 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3228, 3288, 3328, 3388"
+      "resumo": "Palpites dados para esta extração: 2228, 2288, 3228, 3288"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5280",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4075",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3595",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9188",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9631",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5439",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2051",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8798",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0558",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8615",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        }
+      ],
+      "frases": {
+        "2288": [
+          "Dezena no quarto prêmio!<br>com o palpite 2288",
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 2288"
+        ],
+        "3288": [
+          "Dezena no quarto prêmio!<br>com o palpite 3288",
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 3288"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2228, 2288, 3228, 3288"
+    },
+    "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
