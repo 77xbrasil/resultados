@@ -58,9 +58,69 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1476, 2476, 3476, 8476, 9476"
+      "resumo": "Palpites dados para esta extração: 0176, 0376, 0476, 0776, 1176, 1376, 1476, 1776, 2176, 2376, 2476, 2776, 3176, 3376, 3476, 3776, 6176, 6376, 6476, 6776, 7176, 7376, 7476, 7776, 8176, 8376, 8476, 8776, 9176, 9376, 9476, 9776"
     },
     "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0382",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1529",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1205",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3566",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4672",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "11354",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "584",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0176, 0376, 0476, 0776, 1176, 1376, 1476, 1776, 2176, 2376, 2476, 2776, 3176, 3376, 3476, 3776, 6176, 6376, 6476, 6776, 7176, 7376, 7476, 7776, 8176, 8376, 8476, 8776, 9176, 9376, 9476, 9776"
+    },
+    "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
