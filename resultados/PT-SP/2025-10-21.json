@@ -1,0 +1,316 @@
+{
+  "1-5": {
+    "SP, 08hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8891",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0291",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3790",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8241",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2953",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "4166",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "587",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "3142": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3142"
+        ],
+        "3144": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3144"
+        ],
+        "3242": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3242"
+        ],
+        "3244": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3244"
+        ],
+        "3842": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3842"
+        ],
+        "3844": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3844"
+        ],
+        "7142": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7142"
+        ],
+        "7144": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7144"
+        ],
+        "7242": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7242"
+        ],
+        "7244": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7244"
+        ],
+        "7842": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7842"
+        ],
+        "7844": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7844"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐎"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3132, 3134, 3138, 3139, 3142, 3144, 3148, 3149, 3232, 3234, 3238, 3239, 3242, 3244, 3248, 3249, 3832, 3834, 3838, 3839, 3842, 3844, 3848, 3849, 7132, 7134, 7138, 7139, 7142, 7144, 7148, 7149, 7232, 7234, 7238, 7239, 7242, 7244, 7248, 7249, 7832, 7834, 7838, 7839, 7842, 7844, 7848, 7849"
+    },
+    "SP, 10hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    }
+  },
+  "1-10": {
+    "SP, 08hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8891",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0291",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3790",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8241",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2953",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "8038",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8272",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "9994",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1101",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1571",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        }
+      ],
+      "frases": {
+        "3138": [
+          "Dezena no sexto prêmio!<br>com o palpite 3138",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 3138"
+        ],
+        "3139": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 3139"
+        ],
+        "3142": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3142"
+        ],
+        "3144": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3144"
+        ],
+        "3238": [
+          "Dezena no sexto prêmio!<br>com o palpite 3238",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 3238"
+        ],
+        "3239": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 3239"
+        ],
+        "3242": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3242"
+        ],
+        "3244": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3244"
+        ],
+        "3838": [
+          "Dezena no sexto prêmio!<br>com o palpite 3838",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 3838"
+        ],
+        "3839": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 3839"
+        ],
+        "3842": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3842"
+        ],
+        "3844": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3844"
+        ],
+        "7138": [
+          "Dezena no sexto prêmio!<br>com o palpite 7138",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 7138"
+        ],
+        "7139": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 7139"
+        ],
+        "7142": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7142"
+        ],
+        "7144": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7144"
+        ],
+        "7238": [
+          "Dezena no sexto prêmio!<br>com o palpite 7238",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 7238"
+        ],
+        "7239": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 7239"
+        ],
+        "7242": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7242"
+        ],
+        "7244": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7244"
+        ],
+        "7838": [
+          "Dezena no sexto prêmio!<br>com o palpite 7838",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 7838"
+        ],
+        "7839": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 7839"
+        ],
+        "7842": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7842"
+        ],
+        "7844": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7844"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 6,
+        "Grupo": [
+          "🐎",
+          "🐇"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3132, 3134, 3138, 3139, 3142, 3144, 3148, 3149, 3232, 3234, 3238, 3239, 3242, 3244, 3248, 3249, 3832, 3834, 3838, 3839, 3842, 3844, 3848, 3849, 7132, 7134, 7138, 7139, 7142, 7144, 7148, 7149, 7232, 7234, 7238, 7239, 7242, 7244, 7248, 7249, 7832, 7834, 7838, 7839, 7842, 7844, 7848, 7849"
+    },
+    "SP, 10hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    }
+  }
+}
