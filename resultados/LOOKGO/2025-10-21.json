@@ -51,6 +51,122 @@
           "Bicho": ""
         }
       ],
+      "frases": {
+        "4033": [
+          "Dezena no segundo prêmio!<br>com o palpite 4033",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 4033"
+        ],
+        "4633": [
+          "Dezena no segundo prêmio!<br>com o palpite 4633",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 4633"
+        ],
+        "4733": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 4733",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 4733",
+          "Dezena no segundo prêmio!<br>com o palpite 4733",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 4733"
+        ],
+        "7033": [
+          "Dezena no segundo prêmio!<br>com o palpite 7033",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 7033"
+        ],
+        "7633": [
+          "Dezena no segundo prêmio!<br>com o palpite 7633",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 7633"
+        ],
+        "7733": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 7733",
+          "Dezena no segundo prêmio!<br>com o palpite 7733",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 7733"
+        ],
+        "8033": [
+          "Dezena no segundo prêmio!<br>com o palpite 8033",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 8033"
+        ],
+        "8633": [
+          "Dezena no segundo prêmio!<br>com o palpite 8633",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 8633"
+        ],
+        "8733": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 8733",
+          "Dezena no segundo prêmio!<br>com o palpite 8733",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 8733"
+        ],
+        "0033": [
+          "Dezena no segundo prêmio!<br>com o palpite 0033",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 0033"
+        ],
+        "0633": [
+          "Dezena no segundo prêmio!<br>com o palpite 0633",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 0633"
+        ],
+        "0733": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 0733",
+          "Dezena no segundo prêmio!<br>com o palpite 0733",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 0733"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 12,
+        "Grupo": [
+          "🐍"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0033, 0037, 0633, 0637, 0733, 0737, 4033, 4037, 4633, 4637, 4733, 4737, 7033, 7037, 7633, 7637, 7733, 7737, 8033, 8037, 8633, 8637, 8733, 8737"
+    },
+    "LOOK - GOIÁS, 09h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5223",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7190",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3076",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2861",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7249",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "5599",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "553",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
       "frases": {},
       "acertos": {
         "Milhar": 0,
@@ -58,9 +174,9 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0007, 0037, 0107, 0137, 0407, 0437, 0507, 0537, 0607, 0637, 0707, 0737, 0807, 0837, 0907, 0937, 7007, 7037, 7107, 7137, 7407, 7437, 7507, 7537, 7607, 7637, 7707, 7737, 7807, 7837, 7907, 7937"
+      "resumo": "Palpites dados para esta extração: 0033, 0037, 0633, 0637, 0733, 0737, 4033, 4037, 4633, 4637, 4733, 4737, 7033, 7037, 7633, 7637, 7733, 7737, 8033, 8037, 8633, 8637, 8733, 8737"
     },
-    "LOOK - GOIÁS, 09h": {
+    "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -154,6 +270,164 @@
           "Bicho": "Leão"
         }
       ],
+      "frases": {
+        "4033": [
+          "Dezena no segundo prêmio!<br>com o palpite 4033",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 4033",
+          "Dezena no nono prêmio!<br>com o palpite 4033",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 4033"
+        ],
+        "4633": [
+          "Dezena no segundo prêmio!<br>com o palpite 4633",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 4633",
+          "Dezena no nono prêmio!<br>com o palpite 4633",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 4633"
+        ],
+        "4733": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 4733",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 4733",
+          "Dezena no segundo prêmio!<br>com o palpite 4733",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 4733",
+          "Dezena no nono prêmio!<br>com o palpite 4733",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 4733"
+        ],
+        "7033": [
+          "Dezena no segundo prêmio!<br>com o palpite 7033",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 7033",
+          "Dezena no nono prêmio!<br>com o palpite 7033",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 7033"
+        ],
+        "7633": [
+          "Dezena no segundo prêmio!<br>com o palpite 7633",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 7633",
+          "Dezena no nono prêmio!<br>com o palpite 7633",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 7633"
+        ],
+        "7733": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 7733",
+          "Dezena no segundo prêmio!<br>com o palpite 7733",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 7733",
+          "Dezena no nono prêmio!<br>com o palpite 7733",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 7733"
+        ],
+        "8033": [
+          "Dezena no segundo prêmio!<br>com o palpite 8033",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 8033",
+          "Dezena no nono prêmio!<br>com o palpite 8033",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 8033"
+        ],
+        "8633": [
+          "Dezena no segundo prêmio!<br>com o palpite 8633",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 8633",
+          "Dezena no nono prêmio!<br>com o palpite 8633",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 8633"
+        ],
+        "8733": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 8733",
+          "Dezena no segundo prêmio!<br>com o palpite 8733",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 8733",
+          "Dezena no nono prêmio!<br>com o palpite 8733",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 8733"
+        ],
+        "0033": [
+          "Dezena no segundo prêmio!<br>com o palpite 0033",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 0033",
+          "Dezena no nono prêmio!<br>com o palpite 0033",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 0033"
+        ],
+        "0633": [
+          "Dezena no segundo prêmio!<br>com o palpite 0633",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 0633",
+          "Dezena no nono prêmio!<br>com o palpite 0633",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 0633"
+        ],
+        "0733": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 0733",
+          "Dezena no segundo prêmio!<br>com o palpite 0733",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 0733",
+          "Dezena no nono prêmio!<br>com o palpite 0733",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 0733"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 24,
+        "Grupo": [
+          "🐍"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0033, 0037, 0633, 0637, 0733, 0737, 4033, 4037, 4633, 4637, 4733, 4737, 7033, 7037, 7633, 7637, 7733, 7737, 8033, 8037, 8633, 8637, 8733, 8737"
+    },
+    "LOOK - GOIÁS, 09h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5223",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7190",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3076",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2861",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7249",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5732",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2108",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2976",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3061",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "9476",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        }
+      ],
       "frases": {},
       "acertos": {
         "Milhar": 0,
@@ -161,9 +435,9 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0007, 0037, 0107, 0137, 0407, 0437, 0507, 0537, 0607, 0637, 0707, 0737, 0807, 0837, 0907, 0937, 7007, 7037, 7107, 7137, 7407, 7437, 7507, 7537, 7607, 7637, 7707, 7737, 7807, 7837, 7907, 7937"
+      "resumo": "Palpites dados para esta extração: 0033, 0037, 0633, 0637, 0733, 0737, 4033, 4037, 4633, 4637, 4733, 4737, 7033, 7037, 7633, 7637, 7733, 7737, 8033, 8037, 8633, 8637, 8733, 8737"
     },
-    "LOOK - GOIÁS, 09h do 1º ao 10º": {
+    "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
