@@ -51,14 +51,30 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "7107": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 7107"
+        ],
+        "7187": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 7187"
+        ],
+        "7607": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 7607"
+        ],
+        "7687": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 7687"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐅",
+          "🦅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7183, 7683"
+      "resumo": "Palpites dados para esta extração: 7107, 7137, 7187, 7607, 7637, 7687"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -111,25 +127,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "7183": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 7183",
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 7183"
-        ],
-        "7683": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 7683",
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 7683"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐂"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 7183, 7683"
+      "resumo": "Palpites dados para esta extração: 7107, 7137, 7187, 7607, 7637, 7687"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -183,11 +188,19 @@
         }
       ],
       "frases": {
-        "7183": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 7183"
+        "7107": [
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 7107",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 7107"
         ],
-        "7683": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 7683"
+        "7187": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 7187"
+        ],
+        "7607": [
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 7607",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 7607"
+        ],
+        "7687": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 7687"
         ]
       },
       "acertos": {
@@ -195,10 +208,11 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐂"
+          "🦅",
+          "🐅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7183, 7683"
+      "resumo": "Palpites dados para esta extração: 7107, 7137, 7187, 7607, 7637, 7687"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -258,7 +272,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 7183, 7683"
+      "resumo": "Palpites dados para esta extração: 7107, 7137, 7187, 7607, 7637, 7687"
     },
     "A FEDERAL DO BRASIL - RJ": {
       "cabecalhos": [
@@ -268,20 +282,68 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "1299",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5271",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8027",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5916",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7735",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "8248",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "507",
+          "Grupo": "",
+          "Bicho": ""
+        }
       ],
-      "frases": {},
+      "frases": {
+        "7107": [
+          "Dezena no sétimo prêmio!<br>com o palpite 7107",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 7107"
+        ],
+        "7607": [
+          "Dezena no sétimo prêmio!<br>com o palpite 7607",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 7607"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🦅"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 7107, 7137, 7187, 7607, 7637, 7687"
     }
   },
   "1-10": {
@@ -354,14 +416,30 @@
           "Bicho": "Galo"
         }
       ],
-      "frases": {},
+      "frases": {
+        "7137": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 7137"
+        ],
+        "7187": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 7187"
+        ],
+        "7637": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 7637"
+        ],
+        "7687": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 7687"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐅",
+          "🐇"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7183, 7683"
+      "resumo": "Palpites dados para esta extração: 7107, 7137, 7187, 7607, 7637, 7687"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -432,25 +510,14 @@
           "Bicho": "Cobra"
         }
       ],
-      "frases": {
-        "7183": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 7183",
-          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 7183"
-        ],
-        "7683": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 7683",
-          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 7683"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐂"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 7183, 7683"
+      "resumo": "Palpites dados para esta extração: 7107, 7137, 7187, 7607, 7637, 7687"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -522,22 +589,40 @@
         }
       ],
       "frases": {
-        "7183": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 7183"
+        "7107": [
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 7107"
         ],
-        "7683": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 7683"
+        "7137": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 7137"
+        ],
+        "7187": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 7187",
+          "Dezena no oitavo prêmio!<br>com o palpite 7187",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 7187"
+        ],
+        "7607": [
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 7607"
+        ],
+        "7637": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 7637"
+        ],
+        "7687": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 7687",
+          "Dezena no oitavo prêmio!<br>com o palpite 7687",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 7687"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 2,
         "Grupo": [
-          "🐂"
+          "🦅",
+          "🐅",
+          "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7183, 7683"
+      "resumo": "Palpites dados para esta extração: 7107, 7137, 7187, 7607, 7637, 7687"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
@@ -608,14 +693,23 @@
           "Bicho": "Avestruz"
         }
       ],
-      "frases": {},
+      "frases": {
+        "7187": [
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 7187"
+        ],
+        "7687": [
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 7687"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7183, 7683"
+      "resumo": "Palpites dados para esta extração: 7107, 7137, 7187, 7607, 7637, 7687"
     },
     "A FEDERAL DO BRASIL - RJ do 1º ao 10º": {
       "cabecalhos": [
@@ -625,25 +719,91 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "1299",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5271",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8027",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5916",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7735",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1585",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2209",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "9721",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9176",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0939",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "7137": [
+          "COELHO 🐇 no décimo prêmio!<br>com o palpite 7137"
+        ],
+        "7187": [
+          "TIGRE 🐅 no sexto prêmio!<br>com o palpite 7187"
+        ],
+        "7637": [
+          "COELHO 🐇 no décimo prêmio!<br>com o palpite 7637"
+        ],
+        "7687": [
+          "TIGRE 🐅 no sexto prêmio!<br>com o palpite 7687"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐅",
+          "🐇"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 7107, 7137, 7187, 7607, 7637, 7687"
     }
   }
 }
