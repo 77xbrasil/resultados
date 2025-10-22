@@ -70,33 +70,13 @@
         }
       ],
       "frases": {
-        "4461": [
-          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 4461",
-          "LEÃO 🦁 no décimo prêmio!<br>com o palpite 4461"
+        "3464": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 3464",
+          "LEÃO 🦁 no décimo prêmio!<br>com o palpite 3464"
         ],
         "4464": [
           "LEÃO 🦁 no sexto prêmio!<br>com o palpite 4464",
           "LEÃO 🦁 no décimo prêmio!<br>com o palpite 4464"
-        ],
-        "7461": [
-          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 7461",
-          "LEÃO 🦁 no décimo prêmio!<br>com o palpite 7461"
-        ],
-        "7464": [
-          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 7464",
-          "LEÃO 🦁 no décimo prêmio!<br>com o palpite 7464"
-        ],
-        "8461": [
-          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 8461",
-          "LEÃO 🦁 no décimo prêmio!<br>com o palpite 8461"
-        ],
-        "8464": [
-          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 8464",
-          "LEÃO 🦁 no décimo prêmio!<br>com o palpite 8464"
-        ],
-        "9461": [
-          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 9461",
-          "LEÃO 🦁 no décimo prêmio!<br>com o palpite 9461"
         ],
         "9464": [
           "LEÃO 🦁 no sexto prêmio!<br>com o palpite 9464",
@@ -111,9 +91,87 @@
           "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4460, 4461, 4464, 4466, 4480, 4481, 4484, 4486, 7460, 7461, 7464, 7466, 7480, 7481, 7484, 7486, 8460, 8461, 8464, 8466, 8480, 8481, 8484, 8486, 9460, 9461, 9464, 9466, 9480, 9481, 9484, 9486"
+      "resumo": "Palpites dados para esta extração: 3464, 4464, 9464"
     },
     "LOTEP - PB, 12:45": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9641",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1896",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1478",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4072",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7117",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9114",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6840",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "4977",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1682",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6817",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 3464, 4464, 9464"
+    },
+    "LOTEP - PB, 15:45h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
