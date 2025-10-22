@@ -69,14 +69,30 @@
           "Bicho": "Leão"
         }
       ],
-      "frases": {},
+      "frases": {
+        "6438": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 6438"
+        ],
+        "6439": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 6439"
+        ],
+        "6462": [
+          "Dezena no sexto prêmio!<br>com o palpite 6462",
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 6462",
+          "Dezena no décimo prêmio!<br>com o palpite 6462",
+          "LEÃO 🦁 no décimo prêmio!<br>com o palpite 6462"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🦁",
+          "🐇"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1012, 1017, 1018, 1072, 1077, 1078, 1412, 1417, 1418, 1472, 1477, 1478, 1612, 1617, 1618, 1672, 1677, 1678, 1812, 1817, 1818, 1872, 1877, 1878, 6012, 6017, 6018, 6072, 6077, 6078, 6412, 6417, 6418, 6472, 6477, 6478, 6612, 6617, 6618, 6672, 6677, 6678, 6812, 6817, 6818, 6872, 6877, 6878"
+      "resumo": "Palpites dados para esta extração: 6402, 6408, 6409, 6422, 6428, 6429, 6432, 6438, 6439, 6462, 6468, 6469"
     },
     "LOTEP - PB, 12:45": {
       "cabecalhos": [
@@ -148,218 +164,26 @@
         }
       ],
       "frases": {
-        "1017": [
-          "Dezena no quinto prêmio!<br>com o palpite 1017",
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 1017",
-          "Dezena no décimo prêmio!<br>com o palpite 1017",
-          "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 1017"
+        "6438": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 6438"
         ],
-        "1018": [
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 1018",
-          "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 1018"
+        "6439": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 6439"
         ],
-        "1072": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 1072",
-          "Dezena no quarto prêmio!<br>com o palpite 1072",
-          "PORCO 🐖 no quarto prêmio!<br>com o palpite 1072"
-        ],
-        "1077": [
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 1077",
-          "Dezena no oitavo prêmio!<br>com o palpite 1077",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 1077"
-        ],
-        "1078": [
-          "Dezena no terceiro prêmio!<br>com o palpite 1078",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 1078",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 1078"
-        ],
-        "1417": [
-          "Dezena no quinto prêmio!<br>com o palpite 1417",
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 1417",
-          "Dezena no décimo prêmio!<br>com o palpite 1417",
-          "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 1417"
-        ],
-        "1418": [
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 1418",
-          "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 1418"
-        ],
-        "1472": [
-          "Dezena no quarto prêmio!<br>com o palpite 1472",
-          "PORCO 🐖 no quarto prêmio!<br>com o palpite 1472"
-        ],
-        "1477": [
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 1477",
-          "Dezena no oitavo prêmio!<br>com o palpite 1477",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 1477"
-        ],
-        "1478": [
-          "Milhar e Centena no terceiro prêmio!<br>com o palpite 1478",
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 1478",
-          "Dezena no terceiro prêmio!<br>com o palpite 1478",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 1478",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 1478"
-        ],
-        "1617": [
-          "Dezena no quinto prêmio!<br>com o palpite 1617",
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 1617",
-          "Dezena no décimo prêmio!<br>com o palpite 1617",
-          "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 1617"
-        ],
-        "1618": [
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 1618",
-          "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 1618"
-        ],
-        "1672": [
-          "Dezena no quarto prêmio!<br>com o palpite 1672",
-          "PORCO 🐖 no quarto prêmio!<br>com o palpite 1672"
-        ],
-        "1677": [
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 1677",
-          "Dezena no oitavo prêmio!<br>com o palpite 1677",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 1677"
-        ],
-        "1678": [
-          "Dezena no terceiro prêmio!<br>com o palpite 1678",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 1678",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 1678"
-        ],
-        "1817": [
-          "Dezena no quinto prêmio!<br>com o palpite 1817",
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 1817",
-          "Centena e Dezena no décimo prêmio!<br>com o palpite 1817",
-          "Dezena no décimo prêmio!<br>com o palpite 1817",
-          "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 1817"
-        ],
-        "1818": [
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 1818",
-          "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 1818"
-        ],
-        "1872": [
-          "Dezena no quarto prêmio!<br>com o palpite 1872",
-          "PORCO 🐖 no quarto prêmio!<br>com o palpite 1872"
-        ],
-        "1877": [
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 1877",
-          "Dezena no oitavo prêmio!<br>com o palpite 1877",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 1877"
-        ],
-        "1878": [
-          "Dezena no terceiro prêmio!<br>com o palpite 1878",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 1878",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 1878"
-        ],
-        "6017": [
-          "Dezena no quinto prêmio!<br>com o palpite 6017",
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 6017",
-          "Dezena no décimo prêmio!<br>com o palpite 6017",
-          "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 6017"
-        ],
-        "6018": [
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 6018",
-          "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 6018"
-        ],
-        "6072": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 6072",
-          "Dezena no quarto prêmio!<br>com o palpite 6072",
-          "PORCO 🐖 no quarto prêmio!<br>com o palpite 6072"
-        ],
-        "6077": [
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 6077",
-          "Dezena no oitavo prêmio!<br>com o palpite 6077",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 6077"
-        ],
-        "6078": [
-          "Dezena no terceiro prêmio!<br>com o palpite 6078",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 6078",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 6078"
-        ],
-        "6417": [
-          "Dezena no quinto prêmio!<br>com o palpite 6417",
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 6417",
-          "Dezena no décimo prêmio!<br>com o palpite 6417",
-          "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 6417"
-        ],
-        "6418": [
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 6418",
-          "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 6418"
-        ],
-        "6472": [
-          "Dezena no quarto prêmio!<br>com o palpite 6472",
-          "PORCO 🐖 no quarto prêmio!<br>com o palpite 6472"
-        ],
-        "6477": [
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 6477",
-          "Dezena no oitavo prêmio!<br>com o palpite 6477",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 6477"
-        ],
-        "6478": [
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 6478",
-          "Dezena no terceiro prêmio!<br>com o palpite 6478",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 6478",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 6478"
-        ],
-        "6617": [
-          "Dezena no quinto prêmio!<br>com o palpite 6617",
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 6617",
-          "Dezena no décimo prêmio!<br>com o palpite 6617",
-          "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 6617"
-        ],
-        "6618": [
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 6618",
-          "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 6618"
-        ],
-        "6672": [
-          "Dezena no quarto prêmio!<br>com o palpite 6672",
-          "PORCO 🐖 no quarto prêmio!<br>com o palpite 6672"
-        ],
-        "6677": [
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 6677",
-          "Dezena no oitavo prêmio!<br>com o palpite 6677",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 6677"
-        ],
-        "6678": [
-          "Dezena no terceiro prêmio!<br>com o palpite 6678",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 6678",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 6678"
-        ],
-        "6817": [
-          "Dezena no quinto prêmio!<br>com o palpite 6817",
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 6817",
-          "Milhar e Centena no décimo prêmio!<br>com o palpite 6817",
-          "Centena e Dezena no décimo prêmio!<br>com o palpite 6817",
-          "Dezena no décimo prêmio!<br>com o palpite 6817",
-          "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 6817"
-        ],
-        "6818": [
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 6818",
-          "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 6818"
-        ],
-        "6872": [
-          "Dezena no quarto prêmio!<br>com o palpite 6872",
-          "PORCO 🐖 no quarto prêmio!<br>com o palpite 6872"
-        ],
-        "6877": [
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 6877",
-          "Dezena no oitavo prêmio!<br>com o palpite 6877",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 6877"
-        ],
-        "6878": [
-          "Dezena no terceiro prêmio!<br>com o palpite 6878",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 6878",
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 6878"
+        "6469": [
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 6469"
         ]
       },
       "acertos": {
-        "Milhar": 2,
-        "Centena": 6,
-        "Dezena": 40,
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
         "Grupo": [
-          "🦃",
           "🐖",
-          "🐕"
+          "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1012, 1017, 1018, 1072, 1077, 1078, 1412, 1417, 1418, 1472, 1477, 1478, 1612, 1617, 1618, 1672, 1677, 1678, 1812, 1817, 1818, 1872, 1877, 1878, 6012, 6017, 6018, 6072, 6077, 6078, 6412, 6417, 6418, 6472, 6477, 6478, 6612, 6617, 6618, 6672, 6677, 6678, 6812, 6817, 6818, 6872, 6877, 6878"
+      "resumo": "Palpites dados para esta extração: 6402, 6408, 6409, 6422, 6428, 6429, 6432, 6438, 6439, 6462, 6468, 6469"
     },
     "LOTEP - PB, 15:45h": {
       "cabecalhos": [
@@ -431,72 +255,55 @@
         }
       ],
       "frases": {
-        "1017": [
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 1017"
+        "6402": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 6402",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 6402",
+          "Dezena no sétimo prêmio!<br>com o palpite 6402",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 6402"
         ],
-        "1018": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1018",
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 1018"
+        "6422": [
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 6422"
         ],
-        "1417": [
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 1417"
+        "6428": [
+          "Dezena no terceiro prêmio!<br>com o palpite 6428",
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 6428"
         ],
-        "1418": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1418",
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 1418"
+        "6429": [
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 6429"
         ],
-        "1617": [
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 1617"
+        "6432": [
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 6432"
         ],
-        "1618": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1618",
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 1618"
+        "6438": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 6438"
         ],
-        "1817": [
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 1817"
+        "6439": [
+          "Dezena no quarto prêmio!<br>com o palpite 6439",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 6439"
         ],
-        "1818": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1818",
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 1818"
+        "6462": [
+          "Dezena no sexto prêmio!<br>com o palpite 6462",
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 6462"
         ],
-        "6017": [
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 6017"
-        ],
-        "6018": [
-          "Dezena no primeiro prêmio!<br>com o palpite 6018",
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 6018"
-        ],
-        "6417": [
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 6417"
-        ],
-        "6418": [
-          "Dezena no primeiro prêmio!<br>com o palpite 6418",
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 6418"
-        ],
-        "6617": [
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 6617"
-        ],
-        "6618": [
-          "Dezena no primeiro prêmio!<br>com o palpite 6618",
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 6618"
-        ],
-        "6817": [
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 6817"
-        ],
-        "6818": [
-          "Dezena no primeiro prêmio!<br>com o palpite 6818",
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 6818"
+        "6468": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 6468"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 8,
+        "Centena": 1,
+        "Dezena": 4,
         "Grupo": [
-          "🐕"
+          "🪶",
+          "🐑",
+          "🐇",
+          "🐒",
+          "🦁",
+          "🐐",
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1012, 1017, 1018, 1072, 1077, 1078, 1412, 1417, 1418, 1472, 1477, 1478, 1612, 1617, 1618, 1672, 1677, 1678, 1812, 1817, 1818, 1872, 1877, 1878, 6012, 6017, 6018, 6072, 6077, 6078, 6412, 6417, 6418, 6472, 6477, 6478, 6612, 6617, 6618, 6672, 6677, 6678, 6812, 6817, 6818, 6872, 6877, 6878"
+      "resumo": "Palpites dados para esta extração: 6402, 6408, 6409, 6422, 6428, 6429, 6432, 6438, 6439, 6462, 6468, 6469"
     },
     "LOTEP - PB, 18h": {
       "cabecalhos": [
