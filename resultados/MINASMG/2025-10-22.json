@@ -52,16 +52,6 @@
         }
       ],
       "frases": {
-        "3202": [
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3202"
-        ],
-        "3203": [
-          "Dezena no segundo prêmio!<br>com o palpite 3203",
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3203"
-        ],
-        "0202": [
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0202"
-        ],
         "0203": [
           "Dezena no segundo prêmio!<br>com o palpite 0203",
           "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0203"
@@ -70,12 +60,12 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 1,
         "Grupo": [
           "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0202, 0203, 0206, 3202, 3203, 3206"
+      "resumo": "Palpites dados para esta extração: 0203, 0206"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
@@ -129,25 +119,6 @@
         }
       ],
       "frases": {
-        "3202": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 3202",
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3202",
-          "Dezena no terceiro prêmio!<br>com o palpite 3202",
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3202"
-        ],
-        "3203": [
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 3203",
-          "Dezena no primeiro prêmio!<br>com o palpite 3203",
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 3203",
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3203",
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3203"
-        ],
-        "0202": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 0202",
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0202",
-          "Dezena no terceiro prêmio!<br>com o palpite 0202",
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 0202"
-        ],
         "0203": [
           "Milhar e Centena no primeiro prêmio!<br>com o palpite 0203",
           "Centena e Dezena no primeiro prêmio!<br>com o palpite 0203",
@@ -159,13 +130,13 @@
       },
       "acertos": {
         "Milhar": 1,
-        "Centena": 2,
-        "Dezena": 4,
+        "Centena": 1,
+        "Dezena": 1,
         "Grupo": [
           "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0202, 0203, 0206, 3202, 3203, 3206"
+      "resumo": "Palpites dados para esta extração: 0203, 0206"
     },
     "MINAS FEDERAL - MG": {
       "cabecalhos": [
@@ -219,9 +190,6 @@
         }
       ],
       "frases": {
-        "3206": [
-          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 3206"
-        ],
         "0206": [
           "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 0206"
         ]
@@ -234,7 +202,67 @@
           "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0202, 0203, 0206, 3202, 3203, 3206"
+      "resumo": "Palpites dados para esta extração: 0203, 0206"
+    },
+    "PREFERIDA - MG, 21h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5068",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6061",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7215",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1110",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9616",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "29070",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "717",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0203, 0206"
     }
   }
 }
