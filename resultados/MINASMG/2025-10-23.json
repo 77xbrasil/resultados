@@ -58,9 +58,156 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0200, 0201, 0202, 0203, 0206, 1200, 1201, 1202, 1203, 1206, 3200, 3201, 3202, 3203, 3206, 5200, 5201, 5202, 5203, 5206, 7200, 7201, 7202, 7203, 7206"
+      "resumo": "Palpites dados para esta extração: 0000, 0001, 0003, 0006, 0200, 0201, 0203, 0206, 1000, 1001, 1003, 1006, 1200, 1201, 1203, 1206, 2000, 2001, 2003, 2006, 2200, 2201, 2203, 2206, 3000, 3001, 3003, 3006, 3200, 3201, 3203, 3206, 5000, 5001, 5003, 5006, 5200, 5201, 5203, 5206, 7000, 7001, 7003, 7006, 7200, 7201, 7203, 7206, 9000, 9001, 9003, 9006, 9200, 9201, 9203, 9206"
     },
     "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7041",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1514",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6277",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8110",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3562",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "26504",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "660",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1001": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1001"
+        ],
+        "1003": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1003"
+        ],
+        "1201": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1201"
+        ],
+        "1203": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1203"
+        ],
+        "2001": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 2001"
+        ],
+        "2003": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 2003"
+        ],
+        "2201": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 2201"
+        ],
+        "2203": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 2203"
+        ],
+        "3001": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3001"
+        ],
+        "3003": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3003"
+        ],
+        "3201": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3201"
+        ],
+        "3203": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3203"
+        ],
+        "5001": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5001"
+        ],
+        "5003": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5003"
+        ],
+        "5201": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5201"
+        ],
+        "5203": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5203"
+        ],
+        "7001": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 7001"
+        ],
+        "7003": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 7003"
+        ],
+        "7201": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 7201"
+        ],
+        "7203": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 7203"
+        ],
+        "9001": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 9001"
+        ],
+        "9003": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 9003"
+        ],
+        "9201": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 9201"
+        ],
+        "9203": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 9203"
+        ],
+        "0001": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 0001"
+        ],
+        "0003": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 0003"
+        ],
+        "0201": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 0201"
+        ],
+        "0203": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 0203"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🪶"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0000, 0001, 0003, 0006, 0200, 0201, 0203, 0206, 1000, 1001, 1003, 1006, 1200, 1201, 1203, 1206, 2000, 2001, 2003, 2006, 2200, 2201, 2203, 2206, 3000, 3001, 3003, 3006, 3200, 3201, 3203, 3206, 5000, 5001, 5003, 5006, 5200, 5201, 5203, 5206, 7000, 7001, 7003, 7006, 7200, 7201, 7203, 7206, 9000, 9001, 9003, 9006, 9200, 9201, 9203, 9206"
+    },
+    "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
