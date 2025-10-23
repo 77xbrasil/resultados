@@ -58,9 +58,69 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 4519, 4529, 4539, 4549, 4569, 4579, 4599, 4619, 4629, 4639, 4649, 4669, 4679, 4699, 7519, 7529, 7539, 7549, 7569, 7579, 7599, 7619, 7629, 7639, 7649, 7669, 7679, 7699"
+      "resumo": "Palpites dados para esta extração: 0549, 0559, 0599, 0949, 0959, 0999, 1549, 1559, 1599, 1949, 1959, 1999, 2549, 2559, 2599, 2949, 2959, 2999, 4549, 4559, 4599, 4949, 4959, 4999, 7549, 7559, 7599, 7949, 7959, 7999, 8549, 8559, 8599, 8949, 8959, 8999, 9549, 9559, 9599, 9949, 9959, 9999"
     },
     "SP, 10hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2328",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3366",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7945",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0064",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9709",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "3412",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "836",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0549, 0559, 0599, 0949, 0959, 0999, 1549, 1559, 1599, 1949, 1959, 1999, 2549, 2559, 2599, 2949, 2959, 2999, 4549, 4559, 4599, 4949, 4959, 4999, 7549, 7559, 7599, 7949, 7959, 7999, 8549, 8559, 8599, 8949, 8959, 8999, 9549, 9559, 9599, 9949, 9959, 9999"
+    },
+    "SP, 12:00 - PTSP": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -155,30 +215,195 @@
         }
       ],
       "frases": {
+        "1549": [
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 1549"
+        ],
+        "1559": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1559",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 1559"
+        ],
+        "1949": [
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 1949"
+        ],
+        "1959": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1959",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 1959"
+        ],
+        "2549": [
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 2549"
+        ],
+        "2559": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2559",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 2559"
+        ],
+        "2949": [
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 2949"
+        ],
+        "2959": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2959",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 2959"
+        ],
         "4549": [
           "GALO 🐓 no décimo prêmio!<br>com o palpite 4549"
         ],
-        "4649": [
-          "GALO 🐓 no décimo prêmio!<br>com o palpite 4649"
+        "4559": [
+          "Dezena no sétimo prêmio!<br>com o palpite 4559",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 4559"
+        ],
+        "4949": [
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 4949"
+        ],
+        "4959": [
+          "Dezena no sétimo prêmio!<br>com o palpite 4959",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 4959"
         ],
         "7549": [
           "GALO 🐓 no décimo prêmio!<br>com o palpite 7549"
         ],
-        "7649": [
-          "GALO 🐓 no décimo prêmio!<br>com o palpite 7649"
+        "7559": [
+          "Dezena no sétimo prêmio!<br>com o palpite 7559",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 7559"
+        ],
+        "7949": [
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 7949"
+        ],
+        "7959": [
+          "Dezena no sétimo prêmio!<br>com o palpite 7959",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 7959"
+        ],
+        "8549": [
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 8549"
+        ],
+        "8559": [
+          "Dezena no sétimo prêmio!<br>com o palpite 8559",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 8559"
+        ],
+        "8949": [
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 8949"
+        ],
+        "8959": [
+          "Dezena no sétimo prêmio!<br>com o palpite 8959",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 8959"
+        ],
+        "9549": [
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 9549"
+        ],
+        "9559": [
+          "Dezena no sétimo prêmio!<br>com o palpite 9559",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 9559"
+        ],
+        "9949": [
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 9949"
+        ],
+        "9959": [
+          "Dezena no sétimo prêmio!<br>com o palpite 9959",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 9959"
+        ],
+        "0559": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0559",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 0559"
+        ],
+        "0959": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0959",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 0959"
+        ],
+        "0549": [
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 0549"
+        ],
+        "0949": [
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 0949"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 14,
         "Grupo": [
+          "🐊",
           "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4519, 4529, 4539, 4549, 4569, 4579, 4599, 4619, 4629, 4639, 4649, 4669, 4679, 4699, 7519, 7529, 7539, 7549, 7569, 7579, 7599, 7619, 7629, 7639, 7649, 7669, 7679, 7699"
+      "resumo": "Palpites dados para esta extração: 0549, 0559, 0599, 0949, 0959, 0999, 1549, 1559, 1599, 1949, 1959, 1999, 2549, 2559, 2599, 2949, 2959, 2999, 4549, 4559, 4599, 4949, 4959, 4999, 7549, 7559, 7599, 7949, 7959, 7999, 8549, 8559, 8599, 8949, 8959, 8999, 9549, 9559, 9599, 9949, 9959, 9999"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2328",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3366",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7945",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0064",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9709",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2370",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3390",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2646",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8654",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0472",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0549, 0559, 0599, 0949, 0959, 0999, 1549, 1559, 1599, 1949, 1959, 1999, 2549, 2559, 2599, 2949, 2959, 2999, 4549, 4559, 4599, 4949, 4959, 4999, 7549, 7559, 7599, 7949, 7959, 7999, 8549, 8559, 8599, 8949, 8959, 8999, 9549, 9559, 9599, 9949, 9959, 9999"
+    },
+    "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
