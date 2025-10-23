@@ -70,17 +70,173 @@
         }
       ],
       "frases": {
-        "1279": [
-          "Dezena no sexto prêmio!<br>com o palpite 1279",
-          "PERU 🦃 no sexto prêmio!<br>com o palpite 1279"
+        "9001": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 9001"
         ],
-        "5279": [
-          "Dezena no sexto prêmio!<br>com o palpite 5279",
-          "PERU 🦃 no sexto prêmio!<br>com o palpite 5279"
+        "9019": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 9019",
+          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 9019"
+        ],
+        "9041": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 9041",
+          "Dezena no terceiro prêmio!<br>com o palpite 9041",
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 9041",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 9041",
+          "Dezena no oitavo prêmio!<br>com o palpite 9041",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 9041",
+          "Dezena no décimo prêmio!<br>com o palpite 9041",
+          "CAVALO 🐎 no décimo prêmio!<br>com o palpite 9041"
+        ],
+        "9079": [
+          "Dezena no sexto prêmio!<br>com o palpite 9079",
+          "PERU 🦃 no sexto prêmio!<br>com o palpite 9079"
+        ],
+        "9201": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 9201"
+        ],
+        "9219": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 9219",
+          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 9219"
+        ],
+        "9241": [
+          "Dezena no terceiro prêmio!<br>com o palpite 9241",
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 9241",
+          "Dezena no oitavo prêmio!<br>com o palpite 9241",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 9241",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 9241",
+          "Dezena no décimo prêmio!<br>com o palpite 9241",
+          "CAVALO 🐎 no décimo prêmio!<br>com o palpite 9241"
         ],
         "9279": [
           "Dezena no sexto prêmio!<br>com o palpite 9279",
           "PERU 🦃 no sexto prêmio!<br>com o palpite 9279"
+        ],
+        "9701": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 9701"
+        ],
+        "9719": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 9719",
+          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 9719"
+        ],
+        "9741": [
+          "Dezena no terceiro prêmio!<br>com o palpite 9741",
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 9741",
+          "Dezena no oitavo prêmio!<br>com o palpite 9741",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 9741",
+          "Dezena no décimo prêmio!<br>com o palpite 9741",
+          "CAVALO 🐎 no décimo prêmio!<br>com o palpite 9741"
+        ],
+        "9779": [
+          "Dezena no sexto prêmio!<br>com o palpite 9779",
+          "PERU 🦃 no sexto prêmio!<br>com o palpite 9779"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 3,
+        "Dezena": 12,
+        "Grupo": [
+          "🐎",
+          "🐕",
+          "🦃",
+          "🪶"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 9001, 9009, 9011, 9019, 9031, 9039, 9041, 9049, 9071, 9079, 9201, 9209, 9211, 9219, 9231, 9239, 9241, 9249, 9271, 9279, 9701, 9709, 9711, 9719, 9731, 9739, 9741, 9749, 9771, 9779"
+    },
+    "LOTEP - PB, 12:45": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9891",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1143",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4187",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7399",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5943",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9147",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8113",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "9489",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1379",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6691",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        }
+      ],
+      "frases": {
+        "9041": [
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 9041",
+          "CAVALO 🐎 no quinto prêmio!<br>com o palpite 9041"
+        ],
+        "9079": [
+          "Dezena no nono prêmio!<br>com o palpite 9079",
+          "PERU 🦃 no nono prêmio!<br>com o palpite 9079"
+        ],
+        "9241": [
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 9241",
+          "CAVALO 🐎 no quinto prêmio!<br>com o palpite 9241"
+        ],
+        "9279": [
+          "Dezena no nono prêmio!<br>com o palpite 9279",
+          "PERU 🦃 no nono prêmio!<br>com o palpite 9279"
+        ],
+        "9741": [
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 9741",
+          "CAVALO 🐎 no quinto prêmio!<br>com o palpite 9741"
+        ],
+        "9779": [
+          "Dezena no nono prêmio!<br>com o palpite 9779",
+          "PERU 🦃 no nono prêmio!<br>com o palpite 9779"
         ]
       },
       "acertos": {
@@ -88,12 +244,13 @@
         "Centena": 0,
         "Dezena": 3,
         "Grupo": [
+          "🐎",
           "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1229, 1239, 1279, 5229, 5239, 5279, 9229, 9239, 9279"
+      "resumo": "Palpites dados para esta extração: 9001, 9009, 9011, 9019, 9031, 9039, 9041, 9049, 9071, 9079, 9201, 9209, 9211, 9219, 9231, 9239, 9241, 9249, 9271, 9279, 9701, 9709, 9711, 9719, 9731, 9739, 9741, 9749, 9771, 9779"
     },
-    "LOTEP - PB, 12:45": {
+    "LOTEP - PB, 15:45h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
