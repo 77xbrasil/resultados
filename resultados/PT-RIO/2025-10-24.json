@@ -1,0 +1,402 @@
+{
+  "1-5": {
+    "PT-RIO, RJ, 09:20, PT": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6011",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3884",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4553",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7884",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8611",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "0943",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "346",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1056": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1056"
+        ],
+        "1156": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1156"
+        ],
+        "1656": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1656"
+        ],
+        "1756": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1756"
+        ],
+        "2056": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2056"
+        ],
+        "2156": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2156"
+        ],
+        "2656": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2656"
+        ],
+        "2756": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2756"
+        ],
+        "6056": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 6056"
+        ],
+        "6156": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 6156"
+        ],
+        "6656": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 6656"
+        ],
+        "6756": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 6756"
+        ],
+        "9056": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 9056"
+        ],
+        "9156": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 9156"
+        ],
+        "9656": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 9656"
+        ],
+        "9756": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 9756"
+        ],
+        "0056": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 0056"
+        ],
+        "0156": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 0156"
+        ],
+        "0656": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 0656"
+        ],
+        "0756": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 0756"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐈"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0016, 0019, 0056, 0059, 0066, 0069, 0086, 0089, 0116, 0119, 0156, 0159, 0166, 0169, 0186, 0189, 0616, 0619, 0656, 0659, 0666, 0669, 0686, 0689, 0716, 0719, 0756, 0759, 0766, 0769, 0786, 0789, 1016, 1019, 1056, 1059, 1066, 1069, 1086, 1089, 1116, 1119, 1156, 1159, 1166, 1169, 1186, 1189, 1616, 1619, 1656, 1659, 1666, 1669, 1686, 1689, 1716, 1719, 1756, 1759, 1766, 1769, 1786, 1789, 2016, 2019, 2056, 2059, 2066, 2069, 2086, 2089, 2116, 2119, 2156, 2159, 2166, 2169, 2186, 2189, 2616, 2619, 2656, 2659, 2666, 2669, 2686, 2689, 2716, 2719, 2756, 2759, 2766, 2769, 2786, 2789, 6016, 6019, 6056, 6059, 6066, 6069, 6086, 6089, 6116, 6119, 6156, 6159, 6166, 6169, 6186, 6189, 6616, 6619, 6656, 6659, 6666, 6669, 6686, 6689, 6716, 6719, 6756, 6759, 6766, 6769, 6786, 6789, 9016, 9019, 9056, 9059, 9066, 9069, 9086, 9089, 9116, 9119, 9156, 9159, 9166, 9169, 9186, 9189, 9616, 9619, 9656, 9659, 9666, 9669, 9686, 9689, 9716, 9719, 9756, 9759, 9766, 9769, 9786, 9789"
+    },
+    "PT-RIO, RJ, 11:00, PTM": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    }
+  },
+  "1-10": {
+    "PT-RIO, RJ, 09:20, PT do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6011",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3884",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4553",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7884",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8611",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "6347",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0858",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1858",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1434",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1440",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        }
+      ],
+      "frases": {
+        "1056": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1056"
+        ],
+        "1059": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 1059",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 1059"
+        ],
+        "1156": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1156"
+        ],
+        "1159": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 1159",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 1159"
+        ],
+        "1656": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1656"
+        ],
+        "1659": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 1659",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 1659"
+        ],
+        "1756": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1756"
+        ],
+        "1759": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 1759",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 1759"
+        ],
+        "2056": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2056"
+        ],
+        "2059": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 2059",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 2059"
+        ],
+        "2156": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2156"
+        ],
+        "2159": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 2159",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 2159"
+        ],
+        "2656": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2656"
+        ],
+        "2659": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 2659",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 2659"
+        ],
+        "2756": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2756"
+        ],
+        "2759": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 2759",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 2759"
+        ],
+        "6056": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 6056"
+        ],
+        "6059": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 6059",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 6059"
+        ],
+        "6156": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 6156"
+        ],
+        "6159": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 6159",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 6159"
+        ],
+        "6656": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 6656"
+        ],
+        "6659": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 6659",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 6659"
+        ],
+        "6756": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 6756"
+        ],
+        "6759": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 6759",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 6759"
+        ],
+        "9056": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 9056"
+        ],
+        "9059": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 9059",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 9059"
+        ],
+        "9156": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 9156"
+        ],
+        "9159": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 9159",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 9159"
+        ],
+        "9656": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 9656"
+        ],
+        "9659": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 9659",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 9659"
+        ],
+        "9756": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 9756"
+        ],
+        "9759": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 9759",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 9759"
+        ],
+        "0056": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 0056"
+        ],
+        "0156": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 0156"
+        ],
+        "0656": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 0656"
+        ],
+        "0756": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 0756"
+        ],
+        "0059": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 0059",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 0059"
+        ],
+        "0159": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 0159",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 0159"
+        ],
+        "0659": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 0659",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 0659"
+        ],
+        "0759": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 0759",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 0759"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐈",
+          "🐊"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0016, 0019, 0056, 0059, 0066, 0069, 0086, 0089, 0116, 0119, 0156, 0159, 0166, 0169, 0186, 0189, 0616, 0619, 0656, 0659, 0666, 0669, 0686, 0689, 0716, 0719, 0756, 0759, 0766, 0769, 0786, 0789, 1016, 1019, 1056, 1059, 1066, 1069, 1086, 1089, 1116, 1119, 1156, 1159, 1166, 1169, 1186, 1189, 1616, 1619, 1656, 1659, 1666, 1669, 1686, 1689, 1716, 1719, 1756, 1759, 1766, 1769, 1786, 1789, 2016, 2019, 2056, 2059, 2066, 2069, 2086, 2089, 2116, 2119, 2156, 2159, 2166, 2169, 2186, 2189, 2616, 2619, 2656, 2659, 2666, 2669, 2686, 2689, 2716, 2719, 2756, 2759, 2766, 2769, 2786, 2789, 6016, 6019, 6056, 6059, 6066, 6069, 6086, 6089, 6116, 6119, 6156, 6159, 6166, 6169, 6186, 6189, 6616, 6619, 6656, 6659, 6666, 6669, 6686, 6689, 6716, 6719, 6756, 6759, 6766, 6769, 6786, 6789, 9016, 9019, 9056, 9059, 9066, 9069, 9086, 9089, 9116, 9119, 9156, 9159, 9166, 9169, 9186, 9189, 9616, 9619, 9656, 9659, 9666, 9669, 9686, 9689, 9716, 9719, 9756, 9759, 9766, 9769, 9786, 9789"
+    },
+    "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    }
+  }
+}
