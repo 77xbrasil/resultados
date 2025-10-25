@@ -1,0 +1,735 @@
+{
+  "1-5": {
+    "SP, 08hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1111",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2026",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2300",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6608",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9056",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "1101",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "250",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1025": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1025"
+        ],
+        "1053": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1053"
+        ],
+        "1055": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1055"
+        ],
+        "1125": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1125"
+        ],
+        "1153": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1153"
+        ],
+        "1155": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1155"
+        ],
+        "1325": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1325"
+        ],
+        "1353": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1353"
+        ],
+        "1355": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1355"
+        ],
+        "1425": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1425"
+        ],
+        "1453": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1453"
+        ],
+        "1455": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1455"
+        ],
+        "1725": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1725"
+        ],
+        "1753": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1753"
+        ],
+        "1755": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1755"
+        ],
+        "1825": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1825"
+        ],
+        "1853": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1853"
+        ],
+        "1855": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1855"
+        ],
+        "1925": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1925"
+        ],
+        "1953": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1953"
+        ],
+        "1955": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1955"
+        ],
+        "2025": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2025"
+        ],
+        "2053": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2053"
+        ],
+        "2055": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2055"
+        ],
+        "2125": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2125"
+        ],
+        "2153": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2153"
+        ],
+        "2155": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2155"
+        ],
+        "2325": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2325"
+        ],
+        "2353": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2353"
+        ],
+        "2355": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2355"
+        ],
+        "2425": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2425"
+        ],
+        "2453": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2453"
+        ],
+        "2455": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2455"
+        ],
+        "2725": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2725"
+        ],
+        "2753": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2753"
+        ],
+        "2755": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2755"
+        ],
+        "2825": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2825"
+        ],
+        "2853": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2853"
+        ],
+        "2855": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2855"
+        ],
+        "2925": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2925"
+        ],
+        "2953": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2953"
+        ],
+        "2955": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2955"
+        ],
+        "3025": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3025"
+        ],
+        "3053": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3053"
+        ],
+        "3055": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3055"
+        ],
+        "3125": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3125"
+        ],
+        "3153": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3153"
+        ],
+        "3155": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3155"
+        ],
+        "3325": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3325"
+        ],
+        "3353": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3353"
+        ],
+        "3355": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3355"
+        ],
+        "3425": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3425"
+        ],
+        "3453": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3453"
+        ],
+        "3455": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3455"
+        ],
+        "3725": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3725"
+        ],
+        "3753": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3753"
+        ],
+        "3755": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3755"
+        ],
+        "3825": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3825"
+        ],
+        "3853": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3853"
+        ],
+        "3855": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3855"
+        ],
+        "3925": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3925"
+        ],
+        "3953": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3953"
+        ],
+        "3955": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3955"
+        ],
+        "7025": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 7025"
+        ],
+        "7053": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7053"
+        ],
+        "7055": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7055"
+        ],
+        "7125": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 7125"
+        ],
+        "7153": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7153"
+        ],
+        "7155": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7155"
+        ],
+        "7325": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 7325"
+        ],
+        "7353": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7353"
+        ],
+        "7355": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7355"
+        ],
+        "7425": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 7425"
+        ],
+        "7453": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7453"
+        ],
+        "7455": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7455"
+        ],
+        "7725": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 7725"
+        ],
+        "7753": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7753"
+        ],
+        "7755": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7755"
+        ],
+        "7825": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 7825"
+        ],
+        "7853": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7853"
+        ],
+        "7855": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7855"
+        ],
+        "7925": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 7925"
+        ],
+        "7953": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7953"
+        ],
+        "7955": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7955"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐑",
+          "🐈"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1023, 1025, 1053, 1055, 1073, 1075, 1123, 1125, 1153, 1155, 1173, 1175, 1323, 1325, 1353, 1355, 1373, 1375, 1423, 1425, 1453, 1455, 1473, 1475, 1723, 1725, 1753, 1755, 1773, 1775, 1823, 1825, 1853, 1855, 1873, 1875, 1923, 1925, 1953, 1955, 1973, 1975, 2023, 2025, 2053, 2055, 2073, 2075, 2123, 2125, 2153, 2155, 2173, 2175, 2323, 2325, 2353, 2355, 2373, 2375, 2423, 2425, 2453, 2455, 2473, 2475, 2723, 2725, 2753, 2755, 2773, 2775, 2823, 2825, 2853, 2855, 2873, 2875, 2923, 2925, 2953, 2955, 2973, 2975, 3023, 3025, 3053, 3055, 3073, 3075, 3123, 3125, 3153, 3155, 3173, 3175, 3323, 3325, 3353, 3355, 3373, 3375, 3423, 3425, 3453, 3455, 3473, 3475, 3723, 3725, 3753, 3755, 3773, 3775, 3823, 3825, 3853, 3855, 3873, 3875, 3923, 3925, 3953, 3955, 3973, 3975, 7023, 7025, 7053, 7055, 7073, 7075, 7123, 7125, 7153, 7155, 7173, 7175, 7323, 7325, 7353, 7355, 7373, 7375, 7423, 7425, 7453, 7455, 7473, 7475, 7723, 7725, 7753, 7755, 7773, 7775, 7823, 7825, 7853, 7855, 7873, 7875, 7923, 7925, 7953, 7955, 7973, 7975"
+    },
+    "SP, 10hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    }
+  },
+  "1-10": {
+    "SP, 08hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1111",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2026",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2300",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6608",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9056",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1226",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "1036",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1200",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1608",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6171",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        }
+      ],
+      "frases": {
+        "1025": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1025",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 1025"
+        ],
+        "1053": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1053"
+        ],
+        "1055": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1055"
+        ],
+        "1125": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1125",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 1125"
+        ],
+        "1153": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1153"
+        ],
+        "1155": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1155"
+        ],
+        "1325": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1325",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 1325"
+        ],
+        "1353": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1353"
+        ],
+        "1355": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1355"
+        ],
+        "1425": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1425",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 1425"
+        ],
+        "1453": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1453"
+        ],
+        "1455": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1455"
+        ],
+        "1725": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1725",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 1725"
+        ],
+        "1753": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1753"
+        ],
+        "1755": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1755"
+        ],
+        "1825": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1825",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 1825"
+        ],
+        "1853": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1853"
+        ],
+        "1855": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1855"
+        ],
+        "1925": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1925",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 1925"
+        ],
+        "1953": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1953"
+        ],
+        "1955": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 1955"
+        ],
+        "2025": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2025",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 2025"
+        ],
+        "2053": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2053"
+        ],
+        "2055": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2055"
+        ],
+        "2125": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2125",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 2125"
+        ],
+        "2153": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2153"
+        ],
+        "2155": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2155"
+        ],
+        "2325": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2325",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 2325"
+        ],
+        "2353": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2353"
+        ],
+        "2355": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2355"
+        ],
+        "2425": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2425",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 2425"
+        ],
+        "2453": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2453"
+        ],
+        "2455": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2455"
+        ],
+        "2725": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2725",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 2725"
+        ],
+        "2753": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2753"
+        ],
+        "2755": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2755"
+        ],
+        "2825": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2825",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 2825"
+        ],
+        "2853": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2853"
+        ],
+        "2855": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2855"
+        ],
+        "2925": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2925",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 2925"
+        ],
+        "2953": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2953"
+        ],
+        "2955": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 2955"
+        ],
+        "3025": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3025",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 3025"
+        ],
+        "3053": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3053"
+        ],
+        "3055": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3055"
+        ],
+        "3125": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3125",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 3125"
+        ],
+        "3153": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3153"
+        ],
+        "3155": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3155"
+        ],
+        "3325": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3325",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 3325"
+        ],
+        "3353": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3353"
+        ],
+        "3355": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3355"
+        ],
+        "3425": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3425",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 3425"
+        ],
+        "3453": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3453"
+        ],
+        "3455": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3455"
+        ],
+        "3725": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3725",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 3725"
+        ],
+        "3753": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3753"
+        ],
+        "3755": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3755"
+        ],
+        "3825": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3825",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 3825"
+        ],
+        "3853": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3853"
+        ],
+        "3855": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3855"
+        ],
+        "3925": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3925",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 3925"
+        ],
+        "3953": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3953"
+        ],
+        "3955": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 3955"
+        ],
+        "7025": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 7025",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 7025"
+        ],
+        "7053": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7053"
+        ],
+        "7055": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7055"
+        ],
+        "7125": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 7125",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 7125"
+        ],
+        "7153": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7153"
+        ],
+        "7155": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7155"
+        ],
+        "7325": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 7325",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 7325"
+        ],
+        "7353": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7353"
+        ],
+        "7355": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7355"
+        ],
+        "7425": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 7425",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 7425"
+        ],
+        "7453": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7453"
+        ],
+        "7455": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7455"
+        ],
+        "7725": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 7725",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 7725"
+        ],
+        "7753": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7753"
+        ],
+        "7755": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7755"
+        ],
+        "7825": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 7825",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 7825"
+        ],
+        "7853": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7853"
+        ],
+        "7855": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7855"
+        ],
+        "7925": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 7925",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 7925"
+        ],
+        "7953": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7953"
+        ],
+        "7955": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7955"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐑",
+          "🐈"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1023, 1025, 1053, 1055, 1073, 1075, 1123, 1125, 1153, 1155, 1173, 1175, 1323, 1325, 1353, 1355, 1373, 1375, 1423, 1425, 1453, 1455, 1473, 1475, 1723, 1725, 1753, 1755, 1773, 1775, 1823, 1825, 1853, 1855, 1873, 1875, 1923, 1925, 1953, 1955, 1973, 1975, 2023, 2025, 2053, 2055, 2073, 2075, 2123, 2125, 2153, 2155, 2173, 2175, 2323, 2325, 2353, 2355, 2373, 2375, 2423, 2425, 2453, 2455, 2473, 2475, 2723, 2725, 2753, 2755, 2773, 2775, 2823, 2825, 2853, 2855, 2873, 2875, 2923, 2925, 2953, 2955, 2973, 2975, 3023, 3025, 3053, 3055, 3073, 3075, 3123, 3125, 3153, 3155, 3173, 3175, 3323, 3325, 3353, 3355, 3373, 3375, 3423, 3425, 3453, 3455, 3473, 3475, 3723, 3725, 3753, 3755, 3773, 3775, 3823, 3825, 3853, 3855, 3873, 3875, 3923, 3925, 3953, 3955, 3973, 3975, 7023, 7025, 7053, 7055, 7073, 7075, 7123, 7125, 7153, 7155, 7173, 7175, 7323, 7325, 7353, 7355, 7373, 7375, 7423, 7425, 7453, 7455, 7473, 7475, 7723, 7725, 7753, 7755, 7773, 7775, 7823, 7825, 7853, 7855, 7873, 7875, 7923, 7925, 7953, 7955, 7973, 7975"
+    },
+    "SP, 10hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    }
+  }
+}
