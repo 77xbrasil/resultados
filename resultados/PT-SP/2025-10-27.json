@@ -58,9 +58,103 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1303, 1353, 1393, 1403, 1453, 1493, 1703, 1753, 1793"
+      "resumo": "Palpites dados para esta extração: 1102, 1103, 1152, 1153, 1182, 1183, 1192, 1193, 1202, 1203, 1252, 1253, 1282, 1283, 1292, 1293, 1302, 1303, 1352, 1353, 1382, 1383, 1392, 1393, 1402, 1403, 1452, 1453, 1482, 1483, 1492, 1493, 1702, 1703, 1752, 1753, 1782, 1783, 1792, 1793"
     },
     "SP, 10hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5249",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5069",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2308",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3565",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2999",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "9190",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "607",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1152": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1152"
+        ],
+        "1192": [
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 1192"
+        ],
+        "1252": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1252"
+        ],
+        "1292": [
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 1292"
+        ],
+        "1352": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1352"
+        ],
+        "1392": [
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 1392"
+        ],
+        "1452": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1452"
+        ],
+        "1492": [
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 1492"
+        ],
+        "1752": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1752"
+        ],
+        "1792": [
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 1792"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐓",
+          "🐻"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1102, 1103, 1152, 1153, 1182, 1183, 1192, 1193, 1202, 1203, 1252, 1253, 1282, 1283, 1292, 1293, 1302, 1303, 1352, 1353, 1382, 1383, 1392, 1393, 1402, 1403, 1452, 1453, 1482, 1483, 1492, 1493, 1702, 1703, 1752, 1753, 1782, 1783, 1792, 1793"
+    },
+    "SP, 12:00 - PTSP": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -155,15 +249,56 @@
         }
       ],
       "frases": {
+        "1102": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1102"
+        ],
+        "1103": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1103"
+        ],
+        "1153": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 1153"
+        ],
+        "1192": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 1192"
+        ],
+        "1193": [
+          "Dezena no oitavo prêmio!<br>com o palpite 1193",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 1193"
+        ],
+        "1202": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1202"
+        ],
+        "1203": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1203"
+        ],
+        "1253": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 1253"
+        ],
+        "1292": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 1292"
+        ],
+        "1293": [
+          "Dezena no oitavo prêmio!<br>com o palpite 1293",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 1293"
+        ],
+        "1302": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1302"
+        ],
         "1303": [
           "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1303"
         ],
         "1353": [
           "GATO 🐈 no sexto prêmio!<br>com o palpite 1353"
         ],
+        "1392": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 1392"
+        ],
         "1393": [
           "Dezena no oitavo prêmio!<br>com o palpite 1393",
           "VEADO 🦌 no oitavo prêmio!<br>com o palpite 1393"
+        ],
+        "1402": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1402"
         ],
         "1403": [
           "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1403"
@@ -171,16 +306,25 @@
         "1453": [
           "GATO 🐈 no sexto prêmio!<br>com o palpite 1453"
         ],
+        "1492": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 1492"
+        ],
         "1493": [
           "Centena e Dezena no oitavo prêmio!<br>com o palpite 1493",
           "Dezena no oitavo prêmio!<br>com o palpite 1493",
           "VEADO 🦌 no oitavo prêmio!<br>com o palpite 1493"
+        ],
+        "1702": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1702"
         ],
         "1703": [
           "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1703"
         ],
         "1753": [
           "GATO 🐈 no sexto prêmio!<br>com o palpite 1753"
+        ],
+        "1792": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 1792"
         ],
         "1793": [
           "Dezena no oitavo prêmio!<br>com o palpite 1793",
@@ -190,16 +334,113 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 1,
-        "Dezena": 3,
+        "Dezena": 5,
         "Grupo": [
           "🐈",
           "🪶",
-          "🦌"
+          "🦌",
+          "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1303, 1353, 1393, 1403, 1453, 1493, 1703, 1753, 1793"
+      "resumo": "Palpites dados para esta extração: 1102, 1103, 1152, 1153, 1182, 1183, 1192, 1193, 1202, 1203, 1252, 1253, 1282, 1283, 1292, 1293, 1302, 1303, 1352, 1353, 1382, 1383, 1392, 1393, 1402, 1403, 1452, 1453, 1482, 1483, 1492, 1493, 1702, 1703, 1752, 1753, 1782, 1783, 1792, 1793"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5249",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5069",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2308",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3565",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2999",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5523",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2035",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "4606",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9985",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1339",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        }
+      ],
+      "frases": {
+        "1152": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1152"
+        ],
+        "1252": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1252"
+        ],
+        "1352": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1352"
+        ],
+        "1452": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1452"
+        ],
+        "1752": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1752"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐓"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1102, 1103, 1152, 1153, 1182, 1183, 1192, 1193, 1202, 1203, 1252, 1253, 1282, 1283, 1292, 1293, 1302, 1303, 1352, 1353, 1382, 1383, 1392, 1393, 1402, 1403, 1452, 1453, 1482, 1483, 1492, 1493, 1702, 1703, 1752, 1753, 1782, 1783, 1792, 1793"
+    },
+    "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
