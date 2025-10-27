@@ -1,0 +1,231 @@
+{
+  "1-5": {
+    "SP, 08hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2008",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1244",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5097",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5132",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4387",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "7868",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "497",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1303, 1353, 1393, 1403, 1453, 1493, 1703, 1753, 1793"
+    },
+    "SP, 10hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    }
+  },
+  "1-10": {
+    "SP, 08hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2008",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1244",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5097",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5132",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4387",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2155",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0201",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "0493",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8472",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "9189",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        }
+      ],
+      "frases": {
+        "1303": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1303"
+        ],
+        "1353": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 1353"
+        ],
+        "1393": [
+          "Dezena no oitavo prêmio!<br>com o palpite 1393",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 1393"
+        ],
+        "1403": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1403"
+        ],
+        "1453": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 1453"
+        ],
+        "1493": [
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 1493",
+          "Dezena no oitavo prêmio!<br>com o palpite 1493",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 1493"
+        ],
+        "1703": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1703"
+        ],
+        "1753": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 1753"
+        ],
+        "1793": [
+          "Dezena no oitavo prêmio!<br>com o palpite 1793",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 1793"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 3,
+        "Grupo": [
+          "🐈",
+          "🪶",
+          "🦌"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1303, 1353, 1393, 1403, 1453, 1493, 1703, 1753, 1793"
+    },
+    "SP, 10hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    }
+  }
+}
