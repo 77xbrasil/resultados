@@ -45,14 +45,65 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1310": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1310",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 1310"
+        ],
+        "1810": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1810",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 1810"
+        ],
+        "1910": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1910",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 1910"
+        ],
+        "2310": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2310",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 2310"
+        ],
+        "2810": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2810",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 2810"
+        ],
+        "2910": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2910",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 2910"
+        ],
+        "5310": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5310",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 5310"
+        ],
+        "5810": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5810",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 5810"
+        ],
+        "5910": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5910",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 5910"
+        ],
+        "8310": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8310",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 8310"
+        ],
+        "8810": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8810",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 8810"
+        ],
+        "8910": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8910",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 8910"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 12,
+        "Grupo": [
+          "🐴"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 6200, 6230, 6300, 6330, 8200, 8230, 8300, 8330, 9200, 9230, 9300, 9330"
+      "resumo": "Palpites dados para esta extração: 1300, 1310, 1350, 1800, 1810, 1850, 1900, 1910, 1950, 2300, 2310, 2350, 2800, 2810, 2850, 2900, 2910, 2950, 5300, 5310, 5350, 5800, 5810, 5850, 5900, 5910, 5950, 8300, 8310, 8350, 8800, 8810, 8850, 8900, 8910, 8950"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -100,46 +151,81 @@
         }
       ],
       "frases": {
-        "6200": [
-          "Dezena no segundo prêmio!<br>com o palpite 6200",
-          "VACA 🐄 no segundo prêmio!<br>com o palpite 6200",
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 6200"
+        "1300": [
+          "Dezena no segundo prêmio!<br>com o palpite 1300",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 1300",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 1300"
         ],
-        "6300": [
-          "Dezena no segundo prêmio!<br>com o palpite 6300",
-          "VACA 🐄 no segundo prêmio!<br>com o palpite 6300",
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 6300"
+        "1800": [
+          "Dezena no segundo prêmio!<br>com o palpite 1800",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 1800",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 1800"
         ],
-        "8200": [
-          "Dezena no segundo prêmio!<br>com o palpite 8200",
-          "VACA 🐄 no segundo prêmio!<br>com o palpite 8200",
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 8200"
+        "1900": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 1900",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 1900",
+          "Dezena no segundo prêmio!<br>com o palpite 1900",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 1900",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 1900"
+        ],
+        "2300": [
+          "Dezena no segundo prêmio!<br>com o palpite 2300",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2300",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2300"
+        ],
+        "2800": [
+          "Dezena no segundo prêmio!<br>com o palpite 2800",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2800",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2800"
+        ],
+        "2900": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 2900",
+          "Dezena no segundo prêmio!<br>com o palpite 2900",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2900",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2900"
+        ],
+        "5300": [
+          "Dezena no segundo prêmio!<br>com o palpite 5300",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 5300",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5300"
+        ],
+        "5800": [
+          "Dezena no segundo prêmio!<br>com o palpite 5800",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 5800",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5800"
+        ],
+        "5900": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 5900",
+          "Dezena no segundo prêmio!<br>com o palpite 5900",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 5900",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5900"
         ],
         "8300": [
           "Dezena no segundo prêmio!<br>com o palpite 8300",
           "VACA 🐄 no segundo prêmio!<br>com o palpite 8300",
           "VACA 🐄 no terceiro prêmio!<br>com o palpite 8300"
         ],
-        "9200": [
-          "Dezena no segundo prêmio!<br>com o palpite 9200",
-          "VACA 🐄 no segundo prêmio!<br>com o palpite 9200",
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 9200"
+        "8800": [
+          "Dezena no segundo prêmio!<br>com o palpite 8800",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 8800",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 8800"
         ],
-        "9300": [
-          "Dezena no segundo prêmio!<br>com o palpite 9300",
-          "VACA 🐄 no segundo prêmio!<br>com o palpite 9300",
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 9300"
+        "8900": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 8900",
+          "Dezena no segundo prêmio!<br>com o palpite 8900",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 8900",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 8900"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 6,
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 12,
         "Grupo": [
           "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6200, 6230, 6300, 6330, 8200, 8230, 8300, 8330, 9200, 9230, 9300, 9330"
+      "resumo": "Palpites dados para esta extração: 1300, 1310, 1350, 1800, 1810, 1850, 1900, 1910, 1950, 2300, 2310, 2350, 2800, 2810, 2850, 2900, 2910, 2950, 5300, 5310, 5350, 5800, 5810, 5850, 5900, 5910, 5950, 8300, 8310, 8350, 8800, 8810, 8850, 8900, 8910, 8950"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -193,7 +279,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 6200, 6230, 6300, 6330, 8200, 8230, 8300, 8330, 9200, 9230, 9300, 9330"
+      "resumo": "Palpites dados para esta extração: 1300, 1310, 1350, 1800, 1810, 1850, 1900, 1910, 1950, 2300, 2310, 2350, 2800, 2810, 2850, 2900, 2910, 2950, 5300, 5310, 5350, 5800, 5810, 5850, 5900, 5910, 5950, 8300, 8310, 8350, 8800, 8810, 8850, 8900, 8910, 8950"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -241,71 +327,161 @@
         }
       ],
       "frases": {
-        "6200": [
-          "Dezena no quinto prêmio!<br>com o palpite 6200",
-          "VACA 🐄 no quinto prêmio!<br>com o palpite 6200"
+        "1300": [
+          "Dezena no quinto prêmio!<br>com o palpite 1300",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 1300"
         ],
-        "6230": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 6230",
-          "Dezena no quarto prêmio!<br>com o palpite 6230",
-          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 6230"
+        "1350": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 1350"
         ],
-        "6300": [
-          "Dezena no quinto prêmio!<br>com o palpite 6300",
-          "VACA 🐄 no quinto prêmio!<br>com o palpite 6300"
+        "1800": [
+          "Dezena no quinto prêmio!<br>com o palpite 1800",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 1800"
         ],
-        "6330": [
-          "Dezena no quarto prêmio!<br>com o palpite 6330",
-          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 6330"
+        "1850": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 1850"
         ],
-        "8200": [
-          "Dezena no quinto prêmio!<br>com o palpite 8200",
-          "VACA 🐄 no quinto prêmio!<br>com o palpite 8200"
+        "1900": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 1900",
+          "Dezena no quinto prêmio!<br>com o palpite 1900",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 1900"
         ],
-        "8230": [
-          "Milhar e Centena no quarto prêmio!<br>com o palpite 8230",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 8230",
-          "Dezena no quarto prêmio!<br>com o palpite 8230",
-          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 8230"
+        "1950": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 1950"
+        ],
+        "2300": [
+          "Dezena no quinto prêmio!<br>com o palpite 2300",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 2300"
+        ],
+        "2350": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2350"
+        ],
+        "2800": [
+          "Dezena no quinto prêmio!<br>com o palpite 2800",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 2800"
+        ],
+        "2850": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2850"
+        ],
+        "2900": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 2900",
+          "Dezena no quinto prêmio!<br>com o palpite 2900",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 2900"
+        ],
+        "2950": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2950"
+        ],
+        "5300": [
+          "Dezena no quinto prêmio!<br>com o palpite 5300",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 5300"
+        ],
+        "5350": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 5350"
+        ],
+        "5800": [
+          "Dezena no quinto prêmio!<br>com o palpite 5800",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 5800"
+        ],
+        "5850": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 5850"
+        ],
+        "5900": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 5900",
+          "Dezena no quinto prêmio!<br>com o palpite 5900",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 5900"
+        ],
+        "5950": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 5950"
         ],
         "8300": [
           "Dezena no quinto prêmio!<br>com o palpite 8300",
           "VACA 🐄 no quinto prêmio!<br>com o palpite 8300"
         ],
-        "8330": [
-          "Dezena no quarto prêmio!<br>com o palpite 8330",
-          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 8330"
+        "8350": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 8350"
         ],
-        "9200": [
-          "Dezena no quinto prêmio!<br>com o palpite 9200",
-          "VACA 🐄 no quinto prêmio!<br>com o palpite 9200"
+        "8800": [
+          "Dezena no quinto prêmio!<br>com o palpite 8800",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 8800"
         ],
-        "9230": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 9230",
-          "Dezena no quarto prêmio!<br>com o palpite 9230",
-          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 9230"
+        "8850": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 8850"
         ],
-        "9300": [
-          "Dezena no quinto prêmio!<br>com o palpite 9300",
-          "VACA 🐄 no quinto prêmio!<br>com o palpite 9300"
+        "8900": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 8900",
+          "Dezena no quinto prêmio!<br>com o palpite 8900",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 8900"
         ],
-        "9330": [
-          "Dezena no quarto prêmio!<br>com o palpite 9330",
-          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 9330"
+        "8950": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 8950"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 3,
+        "Milhar": 0,
+        "Centena": 4,
         "Dezena": 12,
         "Grupo": [
-          "🐪",
+          "🐓",
           "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6200, 6230, 6300, 6330, 8200, 8230, 8300, 8330, 9200, 9230, 9300, 9330"
+      "resumo": "Palpites dados para esta extração: 1300, 1310, 1350, 1800, 1810, 1850, 1900, 1910, 1950, 2300, 2310, 2350, 2800, 2810, 2850, 2900, 2910, 2950, 5300, 5310, 5350, 5800, 5810, 5850, 5900, 5910, 5950, 8300, 8310, 8350, 8800, 8810, 8850, 8900, 8910, 8950"
     },
     "Nacional - LN 15:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1236",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0216",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2153",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8763",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7703",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "0071",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1300, 1310, 1350, 1800, 1810, 1850, 1900, 1910, 1950, 2300, 2310, 2350, 2800, 2810, 2850, 2900, 2910, 2950, 5300, 5310, 5350, 5800, 5810, 5850, 5900, 5910, 5950, 8300, 8310, 8350, 8800, 8810, 8850, 8900, 8910, 8950"
+    },
+    "Nacional - LN 17:00": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -399,14 +575,65 @@
           "Bicho": "Cachorro"
         }
       ],
-      "frases": {},
+      "frases": {
+        "1310": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1310",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 1310"
+        ],
+        "1810": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1810",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 1810"
+        ],
+        "1910": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1910",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 1910"
+        ],
+        "2310": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2310",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 2310"
+        ],
+        "2810": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2810",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 2810"
+        ],
+        "2910": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2910",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 2910"
+        ],
+        "5310": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5310",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 5310"
+        ],
+        "5810": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5810",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 5810"
+        ],
+        "5910": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5910",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 5910"
+        ],
+        "8310": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8310",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 8310"
+        ],
+        "8810": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8810",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 8810"
+        ],
+        "8910": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8910",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 8910"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 12,
+        "Grupo": [
+          "🐴"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 6200, 6230, 6300, 6330, 8200, 8230, 8300, 8330, 9200, 9230, 9300, 9330"
+      "resumo": "Palpites dados para esta extração: 1300, 1310, 1350, 1800, 1810, 1850, 1900, 1910, 1950, 2300, 2310, 2350, 2800, 2810, 2850, 2900, 2910, 2950, 5300, 5310, 5350, 5800, 5810, 5850, 5900, 5910, 5950, 8300, 8310, 8350, 8800, 8810, 8850, 8900, 8910, 8950"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -478,23 +705,63 @@
         }
       ],
       "frases": {
-        "6200": [
-          "Dezena no segundo prêmio!<br>com o palpite 6200",
-          "VACA 🐄 no segundo prêmio!<br>com o palpite 6200",
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 6200",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 6200"
+        "1300": [
+          "Dezena no segundo prêmio!<br>com o palpite 1300",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 1300",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 1300",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 1300"
         ],
-        "6300": [
-          "Dezena no segundo prêmio!<br>com o palpite 6300",
-          "VACA 🐄 no segundo prêmio!<br>com o palpite 6300",
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 6300",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 6300"
+        "1800": [
+          "Dezena no segundo prêmio!<br>com o palpite 1800",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 1800",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 1800",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 1800"
         ],
-        "8200": [
-          "Dezena no segundo prêmio!<br>com o palpite 8200",
-          "VACA 🐄 no segundo prêmio!<br>com o palpite 8200",
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 8200",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 8200"
+        "1900": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 1900",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 1900",
+          "Dezena no segundo prêmio!<br>com o palpite 1900",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 1900",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 1900",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 1900"
+        ],
+        "2300": [
+          "Dezena no segundo prêmio!<br>com o palpite 2300",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2300",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2300",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 2300"
+        ],
+        "2800": [
+          "Dezena no segundo prêmio!<br>com o palpite 2800",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2800",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2800",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 2800"
+        ],
+        "2900": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 2900",
+          "Dezena no segundo prêmio!<br>com o palpite 2900",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2900",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2900",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 2900"
+        ],
+        "5300": [
+          "Dezena no segundo prêmio!<br>com o palpite 5300",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 5300",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5300",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 5300"
+        ],
+        "5800": [
+          "Dezena no segundo prêmio!<br>com o palpite 5800",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 5800",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5800",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 5800"
+        ],
+        "5900": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 5900",
+          "Dezena no segundo prêmio!<br>com o palpite 5900",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 5900",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5900",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 5900"
         ],
         "8300": [
           "Dezena no segundo prêmio!<br>com o palpite 8300",
@@ -502,28 +769,29 @@
           "VACA 🐄 no terceiro prêmio!<br>com o palpite 8300",
           "VACA 🐄 no oitavo prêmio!<br>com o palpite 8300"
         ],
-        "9200": [
-          "Dezena no segundo prêmio!<br>com o palpite 9200",
-          "VACA 🐄 no segundo prêmio!<br>com o palpite 9200",
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 9200",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 9200"
+        "8800": [
+          "Dezena no segundo prêmio!<br>com o palpite 8800",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 8800",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 8800",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 8800"
         ],
-        "9300": [
-          "Dezena no segundo prêmio!<br>com o palpite 9300",
-          "VACA 🐄 no segundo prêmio!<br>com o palpite 9300",
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 9300",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 9300"
+        "8900": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 8900",
+          "Dezena no segundo prêmio!<br>com o palpite 8900",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 8900",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 8900",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 8900"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 6,
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 12,
         "Grupo": [
           "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6200, 6230, 6300, 6330, 8200, 8230, 8300, 8330, 9200, 9230, 9300, 9330"
+      "resumo": "Palpites dados para esta extração: 1300, 1310, 1350, 1800, 1810, 1850, 1900, 1910, 1950, 2300, 2310, 2350, 2800, 2810, 2850, 2900, 2910, 2950, 5300, 5310, 5350, 5800, 5810, 5850, 5900, 5910, 5950, 8300, 8310, 8350, 8800, 8810, 8850, 8900, 8910, 8950"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -601,7 +869,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 6200, 6230, 6300, 6330, 8200, 8230, 8300, 8330, 9200, 9230, 9300, 9330"
+      "resumo": "Palpites dados para esta extração: 1300, 1310, 1350, 1800, 1810, 1850, 1900, 1910, 1950, 2300, 2310, 2350, 2800, 2810, 2850, 2900, 2910, 2950, 5300, 5310, 5350, 5800, 5810, 5850, 5900, 5910, 5950, 8300, 8310, 8350, 8800, 8810, 8850, 8900, 8910, 8950"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -673,38 +941,120 @@
         }
       ],
       "frases": {
-        "6200": [
-          "Dezena no quinto prêmio!<br>com o palpite 6200",
-          "VACA 🐄 no quinto prêmio!<br>com o palpite 6200",
-          "Dezena no décimo prêmio!<br>com o palpite 6200",
-          "VACA 🐄 no décimo prêmio!<br>com o palpite 6200"
+        "1300": [
+          "Dezena no quinto prêmio!<br>com o palpite 1300",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 1300",
+          "Dezena no décimo prêmio!<br>com o palpite 1300",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 1300"
         ],
-        "6230": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 6230",
-          "Dezena no quarto prêmio!<br>com o palpite 6230",
-          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 6230"
+        "1310": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 1310"
         ],
-        "6300": [
-          "Dezena no quinto prêmio!<br>com o palpite 6300",
-          "VACA 🐄 no quinto prêmio!<br>com o palpite 6300",
-          "Dezena no décimo prêmio!<br>com o palpite 6300",
-          "VACA 🐄 no décimo prêmio!<br>com o palpite 6300"
+        "1350": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 1350"
         ],
-        "6330": [
-          "Dezena no quarto prêmio!<br>com o palpite 6330",
-          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 6330"
+        "1800": [
+          "Dezena no quinto prêmio!<br>com o palpite 1800",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 1800",
+          "Milhar e Centena no décimo prêmio!<br>com o palpite 1800",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 1800",
+          "Dezena no décimo prêmio!<br>com o palpite 1800",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 1800"
         ],
-        "8200": [
-          "Dezena no quinto prêmio!<br>com o palpite 8200",
-          "VACA 🐄 no quinto prêmio!<br>com o palpite 8200",
-          "Dezena no décimo prêmio!<br>com o palpite 8200",
-          "VACA 🐄 no décimo prêmio!<br>com o palpite 8200"
+        "1810": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 1810"
         ],
-        "8230": [
-          "Milhar e Centena no quarto prêmio!<br>com o palpite 8230",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 8230",
-          "Dezena no quarto prêmio!<br>com o palpite 8230",
-          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 8230"
+        "1850": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 1850"
+        ],
+        "1900": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 1900",
+          "Dezena no quinto prêmio!<br>com o palpite 1900",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 1900",
+          "Dezena no décimo prêmio!<br>com o palpite 1900",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 1900"
+        ],
+        "1910": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 1910"
+        ],
+        "1950": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 1950"
+        ],
+        "2300": [
+          "Dezena no quinto prêmio!<br>com o palpite 2300",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 2300",
+          "Dezena no décimo prêmio!<br>com o palpite 2300",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 2300"
+        ],
+        "2310": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 2310"
+        ],
+        "2350": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2350"
+        ],
+        "2800": [
+          "Dezena no quinto prêmio!<br>com o palpite 2800",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 2800",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 2800",
+          "Dezena no décimo prêmio!<br>com o palpite 2800",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 2800"
+        ],
+        "2810": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 2810"
+        ],
+        "2850": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2850"
+        ],
+        "2900": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 2900",
+          "Dezena no quinto prêmio!<br>com o palpite 2900",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 2900",
+          "Dezena no décimo prêmio!<br>com o palpite 2900",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 2900"
+        ],
+        "2910": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 2910"
+        ],
+        "2950": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2950"
+        ],
+        "5300": [
+          "Dezena no quinto prêmio!<br>com o palpite 5300",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 5300",
+          "Dezena no décimo prêmio!<br>com o palpite 5300",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 5300"
+        ],
+        "5310": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 5310"
+        ],
+        "5350": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 5350"
+        ],
+        "5800": [
+          "Dezena no quinto prêmio!<br>com o palpite 5800",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 5800",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 5800",
+          "Dezena no décimo prêmio!<br>com o palpite 5800",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 5800"
+        ],
+        "5810": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 5810"
+        ],
+        "5850": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 5850"
+        ],
+        "5900": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 5900",
+          "Dezena no quinto prêmio!<br>com o palpite 5900",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 5900",
+          "Dezena no décimo prêmio!<br>com o palpite 5900",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 5900"
+        ],
+        "5910": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 5910"
+        ],
+        "5950": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 5950"
         ],
         "8300": [
           "Dezena no quinto prêmio!<br>com o palpite 8300",
@@ -712,44 +1062,130 @@
           "Dezena no décimo prêmio!<br>com o palpite 8300",
           "VACA 🐄 no décimo prêmio!<br>com o palpite 8300"
         ],
-        "8330": [
-          "Dezena no quarto prêmio!<br>com o palpite 8330",
-          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 8330"
+        "8310": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 8310"
         ],
-        "9200": [
-          "Dezena no quinto prêmio!<br>com o palpite 9200",
-          "VACA 🐄 no quinto prêmio!<br>com o palpite 9200",
-          "Dezena no décimo prêmio!<br>com o palpite 9200",
-          "VACA 🐄 no décimo prêmio!<br>com o palpite 9200"
+        "8350": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 8350"
         ],
-        "9230": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 9230",
-          "Dezena no quarto prêmio!<br>com o palpite 9230",
-          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 9230"
+        "8800": [
+          "Dezena no quinto prêmio!<br>com o palpite 8800",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 8800",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 8800",
+          "Dezena no décimo prêmio!<br>com o palpite 8800",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 8800"
         ],
-        "9300": [
-          "Dezena no quinto prêmio!<br>com o palpite 9300",
-          "VACA 🐄 no quinto prêmio!<br>com o palpite 9300",
-          "Dezena no décimo prêmio!<br>com o palpite 9300",
-          "VACA 🐄 no décimo prêmio!<br>com o palpite 9300"
+        "8810": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 8810"
         ],
-        "9330": [
-          "Dezena no quarto prêmio!<br>com o palpite 9330",
-          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 9330"
+        "8850": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 8850"
+        ],
+        "8900": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 8900",
+          "Dezena no quinto prêmio!<br>com o palpite 8900",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 8900",
+          "Dezena no décimo prêmio!<br>com o palpite 8900",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 8900"
+        ],
+        "8910": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 8910"
+        ],
+        "8950": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 8950"
         ]
       },
       "acertos": {
         "Milhar": 1,
-        "Centena": 3,
-        "Dezena": 18,
+        "Centena": 8,
+        "Dezena": 24,
         "Grupo": [
-          "🐪",
-          "🐄"
+          "🐓",
+          "🐄",
+          "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6200, 6230, 6300, 6330, 8200, 8230, 8300, 8330, 9200, 9230, 9300, 9330"
+      "resumo": "Palpites dados para esta extração: 1300, 1310, 1350, 1800, 1810, 1850, 1900, 1910, 1950, 2300, 2310, 2350, 2800, 2810, 2850, 2900, 2910, 2950, 5300, 5310, 5350, 5800, 5810, 5850, 5900, 5910, 5950, 8300, 8310, 8350, 8800, 8810, 8850, 8900, 8910, 8950"
     },
     "Nacional - LN 15:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1236",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0216",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2153",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8763",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7703",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1028",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2217",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3156",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6633",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "3105",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1300, 1310, 1350, 1800, 1810, 1850, 1900, 1910, 1950, 2300, 2310, 2350, 2800, 2810, 2850, 2900, 2910, 2950, 5300, 5310, 5350, 5800, 5810, 5850, 5900, 5910, 5950, 8300, 8310, 8350, 8800, 8810, 8850, 8900, 8910, 8950"
+    },
+    "Nacional - LN 17:00 do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
