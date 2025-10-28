@@ -51,16 +51,112 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "9288": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 9288"
+        ],
+        "9298": [
+          "Dezena no quinto prêmio!<br>com o palpite 9298",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 9298"
+        ],
+        "9988": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 9988"
+        ],
+        "9998": [
+          "Dezena no quinto prêmio!<br>com o palpite 9998",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 9998"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐅",
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1248, 4248, 8248, 9248"
+      "resumo": "Palpites dados para esta extração: 9248, 9258, 9288, 9298, 9948, 9958, 9988, 9998"
     },
     "SP, 10hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8388",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4108",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4282",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1604",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7244",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "5626",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "457",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "9258": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 9258"
+        ],
+        "9288": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9288",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 9288"
+        ],
+        "9958": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 9958"
+        ],
+        "9988": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9988",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 9988"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐅",
+          "🐊"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 9248, 9258, 9288, 9298, 9948, 9958, 9988, 9998"
+    },
+    "SP, 12:00 - PTSP": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -154,16 +250,136 @@
           "Bicho": "Borboleta"
         }
       ],
-      "frases": {},
+      "frases": {
+        "9288": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 9288",
+          "Dezena no oitavo prêmio!<br>com o palpite 9288",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 9288"
+        ],
+        "9298": [
+          "Dezena no quinto prêmio!<br>com o palpite 9298",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 9298",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 9298"
+        ],
+        "9988": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 9988",
+          "Dezena no oitavo prêmio!<br>com o palpite 9988",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 9988"
+        ],
+        "9998": [
+          "Dezena no quinto prêmio!<br>com o palpite 9998",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 9998",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 9998"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 4,
+        "Grupo": [
+          "🐅",
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1248, 4248, 8248, 9248"
+      "resumo": "Palpites dados para esta extração: 9248, 9258, 9288, 9298, 9948, 9958, 9988, 9998"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8388",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4108",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4282",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1604",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7244",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "8441",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3126",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8080",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8824",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "4097",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        }
+      ],
+      "frases": {
+        "9288": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9288",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 9288"
+        ],
+        "9298": [
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 9298"
+        ],
+        "9988": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9988",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 9988"
+        ],
+        "9998": [
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 9998"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐅",
+          "🐄"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 9248, 9258, 9288, 9298, 9948, 9958, 9988, 9998"
+    },
+    "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
