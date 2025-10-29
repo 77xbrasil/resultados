@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 6464, 6864, 6964"
+      "resumo": "Palpites dados para esta extração: 6854, 6864"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -154,14 +154,21 @@
           "Bicho": "Porco"
         }
       ],
-      "frases": {},
+      "frases": {
+        "6854": [
+          "Dezena no oitavo prêmio!<br>com o palpite 6854",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 6854"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🐈"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 6464, 6864, 6964"
+      "resumo": "Palpites dados para esta extração: 6854, 6864"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
