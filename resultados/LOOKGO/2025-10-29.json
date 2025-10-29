@@ -356,6 +356,88 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5381",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1753",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7033",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9802",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6149",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "0118",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "432",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1220": [
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 1220"
+        ],
+        "1250": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1250"
+        ],
+        "7220": [
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 7220"
+        ],
+        "7250": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7250"
+        ],
+        "0250": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 0250"
+        ],
+        "0220": [
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 0220"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐓",
+          "🐕"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0220, 0250, 1220, 1250, 7220, 7250"
+    },
+    "LOOK - GOIÁS, 21h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
@@ -859,6 +941,96 @@
       "resumo": "Palpites dados para esta extração: 0220, 0250, 1220, 1250, 7220, 7250"
     },
     "LOOK - GOIÁS, 18h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5381",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1753",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7033",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9802",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6149",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5179",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3708",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8530",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1332",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8867",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        }
+      ],
+      "frases": {
+        "1250": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1250"
+        ],
+        "7250": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7250"
+        ],
+        "0250": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 0250"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐓"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0220, 0250, 1220, 1250, 7220, 7250"
+    },
+    "LOOK - GOIÁS, 21h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
