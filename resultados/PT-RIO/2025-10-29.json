@@ -51,14 +51,20 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2122": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 2122"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐐"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2119, 2129, 2199, 9119, 9129, 9199"
+      "resumo": "Palpites dados para esta extração: 2122"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -111,39 +117,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "2119": [
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 2119"
-        ],
-        "2129": [
-          "Dezena no quinto prêmio!<br>com o palpite 2129",
-          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 2129"
-        ],
-        "2199": [
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 2199"
-        ],
-        "9119": [
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 9119"
-        ],
-        "9129": [
-          "Dezena no quinto prêmio!<br>com o palpite 9129",
-          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 9129"
-        ],
-        "9199": [
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 9199"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
-        "Grupo": [
-          "🐕",
-          "🐄",
-          "🐪"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2119, 2129, 2199, 9119, 9129, 9199"
+      "resumo": "Palpites dados para esta extração: 2122"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -196,14 +177,22 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2122": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2122",
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 2122",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 2122"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🐐"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2119, 2129, 2199, 9119, 9129, 9199"
+      "resumo": "Palpites dados para esta extração: 2122"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -300,11 +289,8 @@
         }
       ],
       "frases": {
-        "2129": [
-          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 2129"
-        ],
-        "9129": [
-          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 9129"
+        "2122": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 2122"
         ]
       },
       "acertos": {
@@ -312,10 +298,10 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐪"
+          "🐐"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2119, 2129, 2199, 9119, 9129, 9199"
+      "resumo": "Palpites dados para esta extração: 2122"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -386,50 +372,14 @@
           "Bicho": "Touro"
         }
       ],
-      "frases": {
-        "2119": [
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 2119",
-          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 2119",
-          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 2119"
-        ],
-        "2129": [
-          "Dezena no quinto prêmio!<br>com o palpite 2129",
-          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 2129"
-        ],
-        "2199": [
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 2199",
-          "Milhar e Centena no oitavo prêmio!<br>com o palpite 2199",
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 2199",
-          "Dezena no oitavo prêmio!<br>com o palpite 2199",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 2199"
-        ],
-        "9119": [
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 9119",
-          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 9119",
-          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 9119"
-        ],
-        "9129": [
-          "Dezena no quinto prêmio!<br>com o palpite 9129",
-          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 9129"
-        ],
-        "9199": [
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 9199",
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 9199",
-          "Dezena no oitavo prêmio!<br>com o palpite 9199",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 9199"
-        ]
-      },
+      "frases": {},
       "acertos": {
-        "Milhar": 1,
-        "Centena": 2,
-        "Dezena": 4,
-        "Grupo": [
-          "🐕",
-          "🐄",
-          "🐪"
-        ]
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2119, 2129, 2199, 9119, 9129, 9199"
+      "resumo": "Palpites dados para esta extração: 2122"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -501,24 +451,21 @@
         }
       ],
       "frases": {
-        "2199": [
-          "Dezena no sexto prêmio!<br>com o palpite 2199",
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 2199"
-        ],
-        "9199": [
-          "Dezena no sexto prêmio!<br>com o palpite 9199",
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 9199"
+        "2122": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2122",
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 2122",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 2122"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 1,
         "Grupo": [
-          "🐄"
+          "🐐"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2119, 2129, 2199, 9119, 9129, 9199"
+      "resumo": "Palpites dados para esta extração: 2122"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
