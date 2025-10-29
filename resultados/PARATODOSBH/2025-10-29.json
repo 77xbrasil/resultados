@@ -70,31 +70,152 @@
         }
       ],
       "frases": {
+        "1410": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 1410",
+          "Dezena no oitavo prêmio!<br>com o palpite 1410",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1410"
+        ],
+        "1440": [
+          "Dezena no segundo prêmio!<br>com o palpite 1440",
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 1440"
+        ],
+        "1449": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 1449",
+          "Dezena no sexto prêmio!<br>com o palpite 1449",
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 1449"
+        ],
         "7410": [
           "BURRO 🐴 no terceiro prêmio!<br>com o palpite 7410",
           "Dezena no oitavo prêmio!<br>com o palpite 7410",
           "BURRO 🐴 no oitavo prêmio!<br>com o palpite 7410"
         ],
-        "7411": [
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 7411",
-          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 7411"
+        "7440": [
+          "Dezena no segundo prêmio!<br>com o palpite 7440",
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 7440"
         ],
-        "7439": [
-          "COELHO 🐇 no segundo prêmio!<br>com o palpite 7439"
+        "7449": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 7449",
+          "Dezena no sexto prêmio!<br>com o palpite 7449",
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 7449"
+        ],
+        "9410": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 9410",
+          "Dezena no oitavo prêmio!<br>com o palpite 9410",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 9410"
+        ],
+        "9440": [
+          "Dezena no segundo prêmio!<br>com o palpite 9440",
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 9440"
+        ],
+        "9449": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 9449",
+          "Dezena no sexto prêmio!<br>com o palpite 9449",
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 9449"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 3,
+        "Dezena": 9,
+        "Grupo": [
+          "🐇",
+          "🐴",
+          "🐓"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1410, 1416, 1419, 1440, 1446, 1449, 7410, 7416, 7419, 7440, 7446, 7449, 9410, 9416, 9419, 9440, 9446, 9449"
+    },
+    "12h - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5300",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6344",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4099",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1848",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0997",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "8733",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "5380",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3991",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6301",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1290",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        }
+      ],
+      "frases": {
+        "1446": [
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 1446"
+        ],
+        "7446": [
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 7446"
+        ],
+        "9446": [
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 9446"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 0,
         "Grupo": [
-          "🐇",
-          "🐴"
+          "🐘"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7410, 7411, 7415, 7416, 7419, 7420, 7421, 7425, 7426, 7429, 7430, 7431, 7435, 7436, 7439"
+      "resumo": "Palpites dados para esta extração: 1410, 1416, 1419, 1440, 1446, 1449, 7410, 7416, 7419, 7440, 7446, 7449, 9410, 9416, 9419, 9440, 9446, 9449"
     },
-    "12h - BA": {
+    "15h - BA": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
