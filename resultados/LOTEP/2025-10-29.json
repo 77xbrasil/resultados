@@ -76,7 +76,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8188"
+      "resumo": "Palpites dados para esta extração: 0144, 0184, 7144, 7184, 8144, 8184, 9144, 9184"
     },
     "LOTEP - PB, 12:45": {
       "cabecalhos": [
@@ -148,8 +148,17 @@
         }
       ],
       "frases": {
-        "8188": [
-          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 8188"
+        "7144": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7144"
+        ],
+        "8144": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 8144"
+        ],
+        "9144": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 9144"
+        ],
+        "0144": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 0144"
         ]
       },
       "acertos": {
@@ -157,10 +166,10 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐅"
+          "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8188"
+      "resumo": "Palpites dados para esta extração: 0144, 0184, 7144, 7184, 8144, 8184, 9144, 9184"
     },
     "LOTEP - PB, 15:45h": {
       "cabecalhos": [
@@ -231,26 +240,14 @@
           "Bicho": "Tigre"
         }
       ],
-      "frases": {
-        "8188": [
-          "Dezena no sexto prêmio!<br>com o palpite 8188",
-          "TIGRE 🐅 no sexto prêmio!<br>com o palpite 8188",
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 8188",
-          "Dezena no sétimo prêmio!<br>com o palpite 8188",
-          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 8188",
-          "Dezena no décimo prêmio!<br>com o palpite 8188",
-          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 8188"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 3,
-        "Grupo": [
-          "🐅"
-        ]
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8188"
+      "resumo": "Palpites dados para esta extração: 0144, 0184, 7144, 7184, 8144, 8184, 9144, 9184"
     },
     "LOTEP - PB, 18h": {
       "cabecalhos": [
@@ -321,14 +318,54 @@
           "Bicho": "Burro"
         }
       ],
-      "frases": {},
+      "frases": {
+        "7144": [
+          "Dezena no quarto prêmio!<br>com o palpite 7144",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7144",
+          "Dezena no oitavo prêmio!<br>com o palpite 7144",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 7144"
+        ],
+        "7184": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 7184"
+        ],
+        "8144": [
+          "Dezena no quarto prêmio!<br>com o palpite 8144",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 8144",
+          "Dezena no oitavo prêmio!<br>com o palpite 8144",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 8144"
+        ],
+        "8184": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 8184"
+        ],
+        "9144": [
+          "Dezena no quarto prêmio!<br>com o palpite 9144",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 9144",
+          "Dezena no oitavo prêmio!<br>com o palpite 9144",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 9144"
+        ],
+        "9184": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 9184"
+        ],
+        "0184": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 0184"
+        ],
+        "0144": [
+          "Dezena no quarto prêmio!<br>com o palpite 0144",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 0144",
+          "Dezena no oitavo prêmio!<br>com o palpite 0144",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 0144"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 8,
+        "Grupo": [
+          "🐂",
+          "🐎"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 8188"
+      "resumo": "Palpites dados para esta extração: 0144, 0184, 7144, 7184, 8144, 8184, 9144, 9184"
     },
     "PB - FEDERAL": {
       "cabecalhos": [
