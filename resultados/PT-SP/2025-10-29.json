@@ -51,14 +51,34 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "6267": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 6267",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 6267",
+          "Dezena no primeiro prêmio!<br>com o palpite 6267",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 6267",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 6267"
+        ],
+        "6467": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6467",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 6467",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 6467"
+        ],
+        "6767": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6767",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 6767",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 6767"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0247, 0297, 0447, 0497, 0747, 0797, 2247, 2297, 2447, 2497, 2747, 2797, 3247, 3297, 3447, 3497, 3747, 3797, 4247, 4297, 4447, 4497, 4747, 4797, 5247, 5297, 5447, 5497, 5747, 5797, 6247, 6297, 6447, 6497, 6747, 6797, 7247, 7297, 7447, 7497, 7747, 7797"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 1,
+        "Dezena": 3,
+        "Grupo": [
+          "🐒"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 6267, 6297, 6467, 6497, 6767, 6797"
     },
     "SP, 10hs - PTSP": {
       "cabecalhos": [
@@ -155,61 +175,19 @@
         }
       ],
       "frases": {
-        "2297": [
-          "Dezena no oitavo prêmio!<br>com o palpite 2297",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 2297"
-        ],
-        "2497": [
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 2497",
-          "Dezena no oitavo prêmio!<br>com o palpite 2497",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 2497"
-        ],
-        "2797": [
-          "Dezena no oitavo prêmio!<br>com o palpite 2797",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 2797"
-        ],
-        "3297": [
-          "Dezena no oitavo prêmio!<br>com o palpite 3297",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 3297"
-        ],
-        "3497": [
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 3497",
-          "Dezena no oitavo prêmio!<br>com o palpite 3497",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 3497"
-        ],
-        "3797": [
-          "Dezena no oitavo prêmio!<br>com o palpite 3797",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 3797"
-        ],
-        "4297": [
-          "Dezena no oitavo prêmio!<br>com o palpite 4297",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 4297"
-        ],
-        "4497": [
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 4497",
-          "Dezena no oitavo prêmio!<br>com o palpite 4497",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 4497"
-        ],
-        "4797": [
-          "Dezena no oitavo prêmio!<br>com o palpite 4797",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 4797"
-        ],
-        "5297": [
-          "Dezena no oitavo prêmio!<br>com o palpite 5297",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 5297"
-        ],
-        "5497": [
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 5497",
-          "Dezena no oitavo prêmio!<br>com o palpite 5497",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 5497"
-        ],
-        "5797": [
-          "Dezena no oitavo prêmio!<br>com o palpite 5797",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 5797"
+        "6267": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 6267",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 6267",
+          "Dezena no primeiro prêmio!<br>com o palpite 6267",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 6267"
         ],
         "6297": [
           "Dezena no oitavo prêmio!<br>com o palpite 6297",
           "VACA 🐄 no oitavo prêmio!<br>com o palpite 6297"
+        ],
+        "6467": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6467",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 6467"
         ],
         "6497": [
           "Milhar e Centena no oitavo prêmio!<br>com o palpite 6497",
@@ -217,46 +195,25 @@
           "Dezena no oitavo prêmio!<br>com o palpite 6497",
           "VACA 🐄 no oitavo prêmio!<br>com o palpite 6497"
         ],
+        "6767": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6767",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 6767"
+        ],
         "6797": [
           "Dezena no oitavo prêmio!<br>com o palpite 6797",
           "VACA 🐄 no oitavo prêmio!<br>com o palpite 6797"
-        ],
-        "7297": [
-          "Dezena no oitavo prêmio!<br>com o palpite 7297",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 7297"
-        ],
-        "7497": [
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 7497",
-          "Dezena no oitavo prêmio!<br>com o palpite 7497",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 7497"
-        ],
-        "7797": [
-          "Dezena no oitavo prêmio!<br>com o palpite 7797",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 7797"
-        ],
-        "0297": [
-          "Dezena no oitavo prêmio!<br>com o palpite 0297",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 0297"
-        ],
-        "0497": [
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 0497",
-          "Dezena no oitavo prêmio!<br>com o palpite 0497",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 0497"
-        ],
-        "0797": [
-          "Dezena no oitavo prêmio!<br>com o palpite 0797",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 0797"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 7,
-        "Dezena": 21,
+        "Milhar": 2,
+        "Centena": 2,
+        "Dezena": 6,
         "Grupo": [
+          "🐒",
           "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0247, 0297, 0447, 0497, 0747, 0797, 2247, 2297, 2447, 2497, 2747, 2797, 3247, 3297, 3447, 3497, 3747, 3797, 4247, 4297, 4447, 4497, 4747, 4797, 5247, 5297, 5447, 5497, 5747, 5797, 6247, 6297, 6447, 6497, 6747, 6797, 7247, 7297, 7447, 7497, 7747, 7797"
+      "resumo": "Palpites dados para esta extração: 6267, 6297, 6467, 6497, 6767, 6797"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
