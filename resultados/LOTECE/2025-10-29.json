@@ -423,25 +423,126 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "8871",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4470",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5463",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4229",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2430",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "8454",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8442",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7762",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1039",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1160",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "3161": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 3161",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 3161"
+        ],
+        "3561": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 3561",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 3561"
+        ],
+        "3661": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 3661",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 3661"
+        ],
+        "3961": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 3961",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 3961"
+        ],
+        "5161": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 5161",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 5161"
+        ],
+        "5561": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 5561",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 5561"
+        ],
+        "5661": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 5661",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 5661"
+        ],
+        "5961": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 5961",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 5961"
+        ],
+        "7161": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 7161",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 7161"
+        ],
+        "7561": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 7561",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 7561"
+        ],
+        "7661": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 7661",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 7661"
+        ],
+        "7961": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 7961",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 7961"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦁"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 3161, 3165, 3167, 3561, 3565, 3567, 3661, 3665, 3667, 3961, 3965, 3967, 5161, 5165, 5167, 5561, 5565, 5567, 5661, 5665, 5667, 5961, 5965, 5967, 7161, 7165, 7167, 7561, 7565, 7567, 7661, 7665, 7667, 7961, 7965, 7967"
     }
   }
 }
