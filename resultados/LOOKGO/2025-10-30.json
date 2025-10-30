@@ -52,16 +52,6 @@
         }
       ],
       "frases": {
-        "6087": [
-          "Dezena no primeiro prêmio!<br>com o palpite 6087",
-          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6087",
-          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 6087"
-        ],
-        "6088": [
-          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6088",
-          "Dezena no segundo prêmio!<br>com o palpite 6088",
-          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 6088"
-        ],
         "6687": [
           "Dezena no primeiro prêmio!<br>com o palpite 6687",
           "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6687",
@@ -72,15 +62,17 @@
           "Dezena no segundo prêmio!<br>com o palpite 6688",
           "TIGRE 🐅 no segundo prêmio!<br>com o palpite 6688"
         ],
-        "7087": [
-          "Dezena no primeiro prêmio!<br>com o palpite 7087",
-          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 7087",
-          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 7087"
+        "6887": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6887",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6887",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 6887"
         ],
-        "7088": [
-          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 7088",
-          "Dezena no segundo prêmio!<br>com o palpite 7088",
-          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 7088"
+        "6888": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6888",
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 6888",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 6888",
+          "Dezena no segundo prêmio!<br>com o palpite 6888",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 6888"
         ],
         "7687": [
           "Dezena no primeiro prêmio!<br>com o palpite 7687",
@@ -91,19 +83,111 @@
           "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 7688",
           "Dezena no segundo prêmio!<br>com o palpite 7688",
           "TIGRE 🐅 no segundo prêmio!<br>com o palpite 7688"
+        ],
+        "7887": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7887",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 7887",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 7887"
+        ],
+        "7888": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 7888",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 7888",
+          "Dezena no segundo prêmio!<br>com o palpite 7888",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 7888"
+        ],
+        "9687": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9687",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 9687",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 9687"
+        ],
+        "9688": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 9688",
+          "Dezena no segundo prêmio!<br>com o palpite 9688",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 9688"
+        ],
+        "9887": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9887",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 9887",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 9887"
+        ],
+        "9888": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 9888",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 9888",
+          "Dezena no segundo prêmio!<br>com o palpite 9888",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 9888"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 8,
+        "Milhar": 1,
+        "Centena": 3,
+        "Dezena": 12,
         "Grupo": [
           "🐅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6083, 6087, 6088, 6683, 6687, 6688, 7083, 7087, 7088, 7683, 7687, 7688"
+      "resumo": "Palpites dados para esta extração: 6681, 6687, 6688, 6881, 6887, 6888, 7681, 7687, 7688, 7881, 7887, 7888, 9681, 9687, 9688, 9881, 9887, 9888"
     },
     "LOOK - GOIÁS, 09h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8212",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0173",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9259",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5220",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0758",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "3622",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "420",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 6681, 6687, 6688, 6881, 6887, 6888, 7681, 7687, 7688, 7881, 7887, 7888, 9681, 9687, 9688, 9881, 9887, 9888"
+    },
+    "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -198,19 +282,6 @@
         }
       ],
       "frases": {
-        "6087": [
-          "Dezena no primeiro prêmio!<br>com o palpite 6087",
-          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6087",
-          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 6087",
-          "Dezena no oitavo prêmio!<br>com o palpite 6087",
-          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 6087"
-        ],
-        "6088": [
-          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6088",
-          "Dezena no segundo prêmio!<br>com o palpite 6088",
-          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 6088",
-          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 6088"
-        ],
         "6687": [
           "Dezena no primeiro prêmio!<br>com o palpite 6687",
           "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6687",
@@ -224,18 +295,21 @@
           "TIGRE 🐅 no segundo prêmio!<br>com o palpite 6688",
           "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 6688"
         ],
-        "7087": [
-          "Dezena no primeiro prêmio!<br>com o palpite 7087",
-          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 7087",
-          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 7087",
-          "Dezena no oitavo prêmio!<br>com o palpite 7087",
-          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 7087"
+        "6887": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6887",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6887",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 6887",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 6887",
+          "Dezena no oitavo prêmio!<br>com o palpite 6887",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 6887"
         ],
-        "7088": [
-          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 7088",
-          "Dezena no segundo prêmio!<br>com o palpite 7088",
-          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 7088",
-          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 7088"
+        "6888": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6888",
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 6888",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 6888",
+          "Dezena no segundo prêmio!<br>com o palpite 6888",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 6888",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 6888"
         ],
         "7687": [
           "Dezena no primeiro prêmio!<br>com o palpite 7687",
@@ -249,19 +323,167 @@
           "Dezena no segundo prêmio!<br>com o palpite 7688",
           "TIGRE 🐅 no segundo prêmio!<br>com o palpite 7688",
           "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 7688"
+        ],
+        "7887": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7887",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 7887",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 7887",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 7887",
+          "Dezena no oitavo prêmio!<br>com o palpite 7887",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 7887"
+        ],
+        "7888": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 7888",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 7888",
+          "Dezena no segundo prêmio!<br>com o palpite 7888",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 7888",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 7888"
+        ],
+        "9687": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9687",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 9687",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 9687",
+          "Dezena no oitavo prêmio!<br>com o palpite 9687",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 9687"
+        ],
+        "9688": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 9688",
+          "Dezena no segundo prêmio!<br>com o palpite 9688",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 9688",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 9688"
+        ],
+        "9887": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9887",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 9887",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 9887",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 9887",
+          "Dezena no oitavo prêmio!<br>com o palpite 9887",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 9887"
+        ],
+        "9888": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 9888",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 9888",
+          "Dezena no segundo prêmio!<br>com o palpite 9888",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 9888",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 9888"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 6,
+        "Dezena": 18,
+        "Grupo": [
+          "🐅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 6681, 6687, 6688, 6881, 6887, 6888, 7681, 7687, 7688, 7881, 7887, 7888, 9681, 9687, 9688, 9881, 9887, 9888"
+    },
+    "LOOK - GOIÁS, 09h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8212",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0173",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9259",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5220",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0758",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "8095",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2122",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1752",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "2390",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7981",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        }
+      ],
+      "frases": {
+        "6681": [
+          "Dezena no décimo prêmio!<br>com o palpite 6681",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 6681"
+        ],
+        "6881": [
+          "Dezena no décimo prêmio!<br>com o palpite 6881",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 6881"
+        ],
+        "7681": [
+          "Dezena no décimo prêmio!<br>com o palpite 7681",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 7681"
+        ],
+        "7881": [
+          "Dezena no décimo prêmio!<br>com o palpite 7881",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 7881"
+        ],
+        "9681": [
+          "Dezena no décimo prêmio!<br>com o palpite 9681",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 9681"
+        ],
+        "9881": [
+          "Dezena no décimo prêmio!<br>com o palpite 9881",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 9881"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 12,
+        "Dezena": 6,
         "Grupo": [
-          "🐅"
+          "🐂"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6083, 6087, 6088, 6683, 6687, 6688, 7083, 7087, 7088, 7683, 7687, 7688"
+      "resumo": "Palpites dados para esta extração: 6681, 6687, 6688, 6881, 6887, 6888, 7681, 7687, 7688, 7881, 7887, 7888, 9681, 9687, 9688, 9881, 9887, 9888"
     },
-    "LOOK - GOIÁS, 09h do 1º ao 10º": {
+    "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
