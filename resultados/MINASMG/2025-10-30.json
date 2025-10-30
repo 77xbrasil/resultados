@@ -111,14 +111,27 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "2154": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 2154",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 2154",
+          "Dezena no primeiro prêmio!<br>com o palpite 2154",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 2154"
+        ],
+        "2184": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 2184"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7119"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 1,
+        "Dezena": 1,
+        "Grupo": [
+          "🐈",
+          "🐂"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2134, 2144, 2154, 2164, 2184, 2194"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
@@ -171,14 +184,25 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2164": [
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 2164"
+        ],
+        "2194": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2194",
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 2194"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🦌",
+          "🦁"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7119"
+      "resumo": "Palpites dados para esta extração: 2134, 2144, 2154, 2164, 2184, 2194"
     },
     "PREFERIDA - MG, 21h": {
       "cabecalhos": [
