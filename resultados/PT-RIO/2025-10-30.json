@@ -159,6 +159,81 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1872",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7984",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4463",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9947",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1074",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "5340",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "946",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2946": [
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 2946",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 2946",
+          "Dezena no sétimo prêmio!<br>com o palpite 2946",
+          "ELEFANTE 🐘 no sétimo prêmio!<br>com o palpite 2946"
+        ],
+        "2947": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 2947",
+          "Dezena no quarto prêmio!<br>com o palpite 2947",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 2947",
+          "ELEFANTE 🐘 no sétimo prêmio!<br>com o palpite 2947"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 2,
+        "Dezena": 2,
+        "Grupo": [
+          "🐘"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2926, 2927, 2946, 2947"
+    },
+    "PT-RIO, RJ, 16:00, PTV": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
@@ -368,6 +443,95 @@
       "resumo": "Palpites dados para esta extração: 2926, 2927, 2946, 2947"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1872",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7984",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4463",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9947",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1074",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1749",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8949",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7864",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "2437",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6339",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        }
+      ],
+      "frases": {
+        "2946": [
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 2946"
+        ],
+        "2947": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 2947",
+          "Dezena no quarto prêmio!<br>com o palpite 2947",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 2947"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 1,
+        "Grupo": [
+          "🐘"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2926, 2927, 2946, 2947"
+    },
+    "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
