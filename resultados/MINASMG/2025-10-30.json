@@ -308,20 +308,91 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "6493",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4213",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7318",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2803",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1871",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "22698",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "355",
+          "Grupo": "",
+          "Bicho": ""
+        }
       ],
-      "frases": {},
+      "frases": {
+        "1794": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 1794"
+        ],
+        "1799": [
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 1799"
+        ],
+        "2794": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 2794"
+        ],
+        "2799": [
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 2799"
+        ],
+        "3794": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3794"
+        ],
+        "3799": [
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 3799"
+        ],
+        "5794": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 5794"
+        ],
+        "5799": [
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 5799"
+        ],
+        "7794": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 7794"
+        ],
+        "7799": [
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 7799"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦌",
+          "🐄"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 1794, 1799, 2794, 2799, 3794, 3799, 5794, 5799, 7794, 7799"
     }
   }
 }
