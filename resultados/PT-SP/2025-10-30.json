@@ -111,14 +111,29 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "4487": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 4487",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 4487"
+        ],
+        "8487": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8487",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 8487"
+        ],
+        "9487": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 9487",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 9487"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2477, 4477, 7477, 9477"
+      "resumo": "Palpites dados para esta extração: 4437, 4477, 4487, 8437, 8477, 8487, 9437, 9477, 9487"
     },
     "SP, 10hs - PTSP": {
       "cabecalhos": [
@@ -178,7 +193,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2477, 4477, 7477, 9477"
+      "resumo": "Palpites dados para esta extração: 4437, 4477, 4487, 8437, 8477, 8487, 9437, 9477, 9487"
     },
     "SP, 12:00 - PTSP": {
       "cabecalhos": [
@@ -238,7 +253,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2477, 4477, 7477, 9477"
+      "resumo": "Palpites dados para esta extração: 4437, 4477, 4487, 8437, 8477, 8487, 9437, 9477, 9487"
     },
     "SP, 13hs - PTSP": {
       "cabecalhos": [
@@ -292,17 +307,13 @@
         }
       ],
       "frases": {
-        "2477": [
-          "Dezena no terceiro prêmio!<br>com o palpite 2477",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 2477"
-        ],
         "4477": [
           "Dezena no terceiro prêmio!<br>com o palpite 4477",
           "PERU 🦃 no terceiro prêmio!<br>com o palpite 4477"
         ],
-        "7477": [
-          "Dezena no terceiro prêmio!<br>com o palpite 7477",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 7477"
+        "8477": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8477",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 8477"
         ],
         "9477": [
           "Dezena no terceiro prêmio!<br>com o palpite 9477",
@@ -312,12 +323,12 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 4,
+        "Dezena": 3,
         "Grupo": [
           "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2477, 4477, 7477, 9477"
+      "resumo": "Palpites dados para esta extração: 4437, 4477, 4487, 8437, 8477, 8487, 9437, 9477, 9487"
     },
     "SP, 17hs - PTSP": {
       "cabecalhos": [
@@ -370,14 +381,32 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "4437": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 4437",
+          "Dezena no quarto prêmio!<br>com o palpite 4437",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 4437"
+        ],
+        "8437": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 8437",
+          "Dezena no quarto prêmio!<br>com o palpite 8437",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 8437"
+        ],
+        "9437": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 9437",
+          "Dezena no quarto prêmio!<br>com o palpite 9437",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 9437"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 3,
+        "Grupo": [
+          "🐇"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2477, 4477, 7477, 9477"
+      "resumo": "Palpites dados para esta extração: 4437, 4477, 4487, 8437, 8477, 8487, 9437, 9477, 9487"
     },
     "SP, 20hs - PTN SP": {
       "cabecalhos": [
@@ -456,11 +485,48 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "4233",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6546",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8954",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2022",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6972",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "8727",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "709",
+          "Grupo": "",
+          "Bicho": ""
+        }
       ],
       "frases": {},
       "acertos": {
@@ -469,7 +535,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 4437, 4477, 4487, 8437, 8477, 8487, 9437, 9477, 9487"
     }
   },
   "1-10": {
@@ -620,14 +686,26 @@
           "Bicho": "Carneiro"
         }
       ],
-      "frases": {},
+      "frases": {
+        "4487": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 4487"
+        ],
+        "8487": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8487"
+        ],
+        "9487": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 9487"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2477, 4477, 7477, 9477"
+      "resumo": "Palpites dados para esta extração: 4437, 4477, 4487, 8437, 8477, 8487, 9437, 9477, 9487"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -699,14 +777,11 @@
         }
       ],
       "frases": {
-        "2477": [
-          "PERU 🦃 no nono prêmio!<br>com o palpite 2477"
-        ],
         "4477": [
           "PERU 🦃 no nono prêmio!<br>com o palpite 4477"
         ],
-        "7477": [
-          "PERU 🦃 no nono prêmio!<br>com o palpite 7477"
+        "8477": [
+          "PERU 🦃 no nono prêmio!<br>com o palpite 8477"
         ],
         "9477": [
           "PERU 🦃 no nono prêmio!<br>com o palpite 9477"
@@ -720,7 +795,7 @@
           "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2477, 4477, 7477, 9477"
+      "resumo": "Palpites dados para esta extração: 4437, 4477, 4487, 8437, 8477, 8487, 9437, 9477, 9487"
     },
     "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -792,17 +867,22 @@
         }
       ],
       "frases": {
-        "2477": [
-          "Dezena no nono prêmio!<br>com o palpite 2477",
-          "PERU 🦃 no nono prêmio!<br>com o palpite 2477"
+        "4437": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 4437"
         ],
         "4477": [
           "Dezena no nono prêmio!<br>com o palpite 4477",
           "PERU 🦃 no nono prêmio!<br>com o palpite 4477"
         ],
-        "7477": [
-          "Dezena no nono prêmio!<br>com o palpite 7477",
-          "PERU 🦃 no nono prêmio!<br>com o palpite 7477"
+        "8437": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 8437"
+        ],
+        "8477": [
+          "Dezena no nono prêmio!<br>com o palpite 8477",
+          "PERU 🦃 no nono prêmio!<br>com o palpite 8477"
+        ],
+        "9437": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 9437"
         ],
         "9477": [
           "Dezena no nono prêmio!<br>com o palpite 9477",
@@ -812,12 +892,13 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 4,
+        "Dezena": 3,
         "Grupo": [
+          "🐇",
           "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2477, 4477, 7477, 9477"
+      "resumo": "Palpites dados para esta extração: 4437, 4477, 4487, 8437, 8477, 8487, 9437, 9477, 9487"
     },
     "SP, 13hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -889,40 +970,44 @@
         }
       ],
       "frases": {
-        "2477": [
-          "Dezena no terceiro prêmio!<br>com o palpite 2477",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 2477",
-          "Dezena no nono prêmio!<br>com o palpite 2477",
-          "PERU 🦃 no nono prêmio!<br>com o palpite 2477"
-        ],
         "4477": [
           "Dezena no terceiro prêmio!<br>com o palpite 4477",
           "PERU 🦃 no terceiro prêmio!<br>com o palpite 4477",
           "Dezena no nono prêmio!<br>com o palpite 4477",
           "PERU 🦃 no nono prêmio!<br>com o palpite 4477"
         ],
-        "7477": [
-          "Dezena no terceiro prêmio!<br>com o palpite 7477",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 7477",
-          "Dezena no nono prêmio!<br>com o palpite 7477",
-          "PERU 🦃 no nono prêmio!<br>com o palpite 7477"
+        "4487": [
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 4487"
+        ],
+        "8477": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8477",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 8477",
+          "Dezena no nono prêmio!<br>com o palpite 8477",
+          "PERU 🦃 no nono prêmio!<br>com o palpite 8477"
+        ],
+        "8487": [
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 8487"
         ],
         "9477": [
           "Dezena no terceiro prêmio!<br>com o palpite 9477",
           "PERU 🦃 no terceiro prêmio!<br>com o palpite 9477",
           "Dezena no nono prêmio!<br>com o palpite 9477",
           "PERU 🦃 no nono prêmio!<br>com o palpite 9477"
+        ],
+        "9487": [
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 9487"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 8,
+        "Dezena": 6,
         "Grupo": [
-          "🦃"
+          "🦃",
+          "🐅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2477, 4477, 7477, 9477"
+      "resumo": "Palpites dados para esta extração: 4437, 4477, 4487, 8437, 8477, 8487, 9437, 9477, 9487"
     },
     "SP, 17hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -993,14 +1078,48 @@
           "Bicho": "Galo"
         }
       ],
-      "frases": {},
+      "frases": {
+        "4437": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 4437",
+          "Dezena no quarto prêmio!<br>com o palpite 4437",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 4437"
+        ],
+        "4487": [
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 4487",
+          "Dezena no nono prêmio!<br>com o palpite 4487",
+          "TIGRE 🐅 no nono prêmio!<br>com o palpite 4487"
+        ],
+        "8437": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 8437",
+          "Dezena no quarto prêmio!<br>com o palpite 8437",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 8437"
+        ],
+        "8487": [
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 8487",
+          "Dezena no nono prêmio!<br>com o palpite 8487",
+          "TIGRE 🐅 no nono prêmio!<br>com o palpite 8487"
+        ],
+        "9437": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 9437",
+          "Dezena no quarto prêmio!<br>com o palpite 9437",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 9437"
+        ],
+        "9487": [
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 9487",
+          "Dezena no nono prêmio!<br>com o palpite 9487",
+          "TIGRE 🐅 no nono prêmio!<br>com o palpite 9487"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 6,
+        "Grupo": [
+          "🐇",
+          "🐅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2477, 4477, 7477, 9477"
+      "resumo": "Palpites dados para esta extração: 4437, 4477, 4487, 8437, 8477, 8487, 9437, 9477, 9487"
     },
     "SP, 20hs - PTN SP do 1º ao 10º": {
       "cabecalhos": [
@@ -1105,16 +1224,66 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "4233",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6546",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8954",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2022",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6972",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4682",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2590",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3452",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3642",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "3093",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        }
       ],
       "frases": {},
       "acertos": {
@@ -1123,7 +1292,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 4437, 4477, 4487, 8437, 8477, 8487, 9437, 9477, 9487"
     }
   }
 }
