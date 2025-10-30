@@ -299,6 +299,84 @@
         "Grupo": []
       },
       "resumo": "Palpites dados para esta extração: 3709, 3779, 5709, 5779"
+    },
+    "PT-RIO, RJ, 21:20, CORUJA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0825",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8377",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1323",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2030",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9377",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "1932",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "911",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "3709": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 3709"
+        ],
+        "3779": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 3779",
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 3779"
+        ],
+        "5709": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 5709"
+        ],
+        "5779": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 5779",
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 5779"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🦃",
+          "🐴"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3709, 3779, 5709, 5779"
     }
   },
   "1-10": {
@@ -707,6 +785,102 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 3709, 3779, 5709, 5779"
+    },
+    "PT-RIO, RJ, 21:20, CORUJA do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0825",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8377",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1323",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2030",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9377",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0812",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8330",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2723",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5730",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "9527",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        }
+      ],
+      "frases": {
+        "3709": [
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 3709"
+        ],
+        "3779": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 3779",
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 3779"
+        ],
+        "5709": [
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 5709"
+        ],
+        "5779": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 5779",
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 5779"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🦃",
+          "🐴"
+        ]
       },
       "resumo": "Palpites dados para esta extração: 3709, 3779, 5709, 5779"
     }
