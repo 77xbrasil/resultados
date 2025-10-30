@@ -130,43 +130,43 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5957",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
+          "Milhar": "5794",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "6035",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "2599",
+          "Grupo": "25",
+          "Bicho": "Vaca"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "9930",
-          "Grupo": "08",
-          "Bicho": "Camelo"
+          "Milhar": "3704",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "9325",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
+          "Milhar": "1399",
+          "Grupo": "25",
+          "Bicho": "Vaca"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "8882",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "7663",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "40129",
+          "Milhar": "21159",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "950",
+          "Milhar": "058",
           "Grupo": "",
           "Bicho": ""
         }
@@ -239,6 +239,29 @@
         "Grupo": []
       },
       "resumo": "Palpites dados para esta extração: 7119"
+    },
+    "MINAS NOITE - MG, 19h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
