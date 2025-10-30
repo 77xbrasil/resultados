@@ -224,6 +224,109 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3373",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7885",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4141",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4044",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7730",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7170",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4508",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3067",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3400",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8634",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        }
+      ],
+      "frases": {
+        "9467": [
+          "Dezena no oitavo prêmio!<br>com o palpite 9467",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 9467"
+        ],
+        "9487": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 9487"
+        ],
+        "9667": [
+          "Dezena no oitavo prêmio!<br>com o palpite 9667",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 9667"
+        ],
+        "9687": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 9687"
+        ],
+        "9767": [
+          "Dezena no oitavo prêmio!<br>com o palpite 9767",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 9767"
+        ],
+        "9787": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 9787"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 3,
+        "Grupo": [
+          "🐅",
+          "🐒"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 9437, 9467, 9477, 9487, 9637, 9667, 9677, 9687, 9737, 9767, 9777, 9787"
+    },
+    "19h - MALUCA - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
