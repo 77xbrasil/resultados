@@ -88,71 +88,80 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "2364",
-          "Grupo": "16",
-          "Bicho": "Leão"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "1819",
+          "Milhar": "3718",
           "Grupo": "05",
           "Bicho": "Cachorro"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "2582",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
           "Prêmio": "3º",
-          "Milhar": "7897",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "4979",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "7736",
-          "Grupo": "09",
-          "Bicho": "Cobra"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "4503",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "6232",
-          "Grupo": "08",
-          "Bicho": "Camelo"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "0336",
-          "Grupo": "09",
-          "Bicho": "Cobra"
-        },
-        {
-          "Prêmio": "8º",
-          "Milhar": "3549",
-          "Grupo": "13",
-          "Bicho": "Galo"
-        },
-        {
-          "Prêmio": "9º",
-          "Milhar": "6312",
+          "Milhar": "3812",
           "Grupo": "03",
           "Bicho": "Burro"
         },
         {
+          "Prêmio": "5º",
+          "Milhar": "3200",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "6100",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "7212",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1517",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9554",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
           "Prêmio": "10º",
-          "Milhar": "4981",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "3146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
         }
       ],
-      "frases": {},
+      "frases": {
+        "1678": [
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 1678"
+        ],
+        "5678": [
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 5678"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦃"
+        ]
       },
       "resumo": "Palpites dados para esta extração: 1678, 5678"
     },
