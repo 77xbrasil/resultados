@@ -69,16 +69,221 @@
           "Bicho": "Porco"
         }
       ],
-      "frases": {},
+      "frases": {
+        "1172": [
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 1172",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 1172"
+        ],
+        "1178": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 1178"
+        ],
+        "1372": [
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 1372",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 1372"
+        ],
+        "1378": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 1378"
+        ],
+        "1972": [
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 1972",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 1972"
+        ],
+        "1978": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 1978"
+        ],
+        "3172": [
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 3172",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 3172"
+        ],
+        "3178": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 3178"
+        ],
+        "3372": [
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 3372",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 3372"
+        ],
+        "3378": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 3378"
+        ],
+        "3972": [
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 3972",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 3972"
+        ],
+        "3978": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 3978"
+        ],
+        "4172": [
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 4172",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 4172"
+        ],
+        "4178": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 4178"
+        ],
+        "4372": [
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 4372",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 4372"
+        ],
+        "4378": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 4378"
+        ],
+        "4972": [
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 4972",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 4972"
+        ],
+        "4978": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 4978"
+        ],
+        "7172": [
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 7172",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 7172"
+        ],
+        "7178": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 7178"
+        ],
+        "7372": [
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 7372",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 7372"
+        ],
+        "7378": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 7378"
+        ],
+        "7972": [
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 7972",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 7972"
+        ],
+        "7978": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 7978"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐖",
+          "🦃"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 4005, 4025, 4045, 4105, 4125, 4145, 4605, 4625, 4645, 4905, 4925, 4945, 7005, 7025, 7045, 7105, 7125, 7145, 7605, 7625, 7645, 7905, 7925, 7945"
+      "resumo": "Palpites dados para esta extração: 1172, 1175, 1178, 1372, 1375, 1378, 1972, 1975, 1978, 3172, 3175, 3178, 3372, 3375, 3378, 3972, 3975, 3978, 4172, 4175, 4178, 4372, 4375, 4378, 4972, 4975, 4978, 7172, 7175, 7178, 7372, 7375, 7378, 7972, 7975, 7978"
     },
     "LOTECE - CE, 14:00 (tarde)": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0800",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7682",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2408",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7790",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "8941",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4758",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5670",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6540",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2733",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        }
+      ],
+      "frases": {
+        "1172": [
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 1172"
+        ],
+        "1372": [
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 1372"
+        ],
+        "1972": [
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 1972"
+        ],
+        "3172": [
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 3172"
+        ],
+        "3372": [
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 3372"
+        ],
+        "3972": [
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 3972"
+        ],
+        "4172": [
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 4172"
+        ],
+        "4372": [
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 4372"
+        ],
+        "4972": [
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 4972"
+        ],
+        "7172": [
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 7172"
+        ],
+        "7372": [
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 7372"
+        ],
+        "7972": [
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 7972"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐖"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1172, 1175, 1178, 1372, 1375, 1378, 1972, 1975, 1978, 3172, 3175, 3178, 3372, 3375, 3378, 3972, 3975, 3978, 4172, 4175, 4178, 4372, 4375, 4378, 4972, 4975, 4978, 7172, 7175, 7178, 7372, 7375, 7378, 7972, 7975, 7978"
+    },
+    "LOTECE - CE, 15:45 (tarde II)": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
