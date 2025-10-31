@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1175, 1375, 1775, 3175, 3375, 3775, 4175, 4375, 4775"
+      "resumo": "Palpites dados para esta extração: 1174, 1674"
     },
     "SP, 10hs - PTSP": {
       "cabecalhos": [
@@ -112,32 +112,11 @@
         }
       ],
       "frases": {
-        "1175": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1175"
+        "1174": [
+          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1174"
         ],
-        "1375": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1375"
-        ],
-        "1775": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1775"
-        ],
-        "3175": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 3175"
-        ],
-        "3375": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 3375"
-        ],
-        "3775": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 3775"
-        ],
-        "4175": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 4175"
-        ],
-        "4375": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 4375"
-        ],
-        "4775": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 4775"
+        "1674": [
+          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1674"
         ]
       },
       "acertos": {
@@ -148,7 +127,7 @@
           "🦚"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1175, 1375, 1775, 3175, 3375, 3775, 4175, 4375, 4775"
+      "resumo": "Palpites dados para esta extração: 1174, 1674"
     },
     "SP, 12:00 - PTSP": {
       "cabecalhos": [
@@ -208,7 +187,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1175, 1375, 1775, 3175, 3375, 3775, 4175, 4375, 4775"
+      "resumo": "Palpites dados para esta extração: 1174, 1674"
     },
     "SP, 13hs - PTSP": {
       "cabecalhos": [
@@ -268,7 +247,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1175, 1375, 1775, 3175, 3375, 3775, 4175, 4375, 4775"
+      "resumo": "Palpites dados para esta extração: 1174, 1674"
     },
     "SP, 17hs - PTSP": {
       "cabecalhos": [
@@ -322,45 +301,86 @@
         }
       ],
       "frases": {
-        "1175": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 1175"
+        "1174": [
+          "Dezena no quarto prêmio!<br>com o palpite 1174",
+          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 1174"
         ],
-        "1375": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 1375"
-        ],
-        "1775": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 1775"
-        ],
-        "3175": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 3175"
-        ],
-        "3375": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 3375"
-        ],
-        "3775": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 3775"
-        ],
-        "4175": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 4175"
-        ],
-        "4375": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 4375"
-        ],
-        "4775": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 4775"
+        "1674": [
+          "Dezena no quarto prêmio!<br>com o palpite 1674",
+          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 1674"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 2,
         "Grupo": [
           "🦚"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1175, 1375, 1775, 3175, 3375, 3775, 4175, 4375, 4775"
+      "resumo": "Palpites dados para esta extração: 1174, 1674"
     },
     "SP, 19hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8445",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0585",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1760",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9284",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6627",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "6701",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "940",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1174, 1674"
+    },
+    "SP, 20hs - PTN SP": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -461,7 +481,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1175, 1375, 1775, 3175, 3375, 3775, 4175, 4375, 4775"
+      "resumo": "Palpites dados para esta extração: 1174, 1674"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -533,32 +553,11 @@
         }
       ],
       "frases": {
-        "1175": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1175"
+        "1174": [
+          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1174"
         ],
-        "1375": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1375"
-        ],
-        "1775": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1775"
-        ],
-        "3175": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 3175"
-        ],
-        "3375": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 3375"
-        ],
-        "3775": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 3775"
-        ],
-        "4175": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 4175"
-        ],
-        "4375": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 4375"
-        ],
-        "4775": [
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 4775"
+        "1674": [
+          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1674"
         ]
       },
       "acertos": {
@@ -569,7 +568,7 @@
           "🦚"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1175, 1375, 1775, 3175, 3375, 3775, 4175, 4375, 4775"
+      "resumo": "Palpites dados para esta extração: 1174, 1674"
     },
     "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -641,78 +640,24 @@
         }
       ],
       "frases": {
-        "1175": [
-          "Dezena no oitavo prêmio!<br>com o palpite 1175",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 1175",
-          "Dezena no décimo prêmio!<br>com o palpite 1175",
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 1175"
+        "1174": [
+          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 1174",
+          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 1174"
         ],
-        "1375": [
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 1375",
-          "Dezena no oitavo prêmio!<br>com o palpite 1375",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 1375",
-          "Dezena no décimo prêmio!<br>com o palpite 1375",
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 1375"
-        ],
-        "1775": [
-          "Dezena no oitavo prêmio!<br>com o palpite 1775",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 1775",
-          "Milhar e Centena no décimo prêmio!<br>com o palpite 1775",
-          "Centena e Dezena no décimo prêmio!<br>com o palpite 1775",
-          "Dezena no décimo prêmio!<br>com o palpite 1775",
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 1775"
-        ],
-        "3175": [
-          "Dezena no oitavo prêmio!<br>com o palpite 3175",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 3175",
-          "Dezena no décimo prêmio!<br>com o palpite 3175",
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 3175"
-        ],
-        "3375": [
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 3375",
-          "Dezena no oitavo prêmio!<br>com o palpite 3375",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 3375",
-          "Dezena no décimo prêmio!<br>com o palpite 3375",
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 3375"
-        ],
-        "3775": [
-          "Dezena no oitavo prêmio!<br>com o palpite 3775",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 3775",
-          "Centena e Dezena no décimo prêmio!<br>com o palpite 3775",
-          "Dezena no décimo prêmio!<br>com o palpite 3775",
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 3775"
-        ],
-        "4175": [
-          "Dezena no oitavo prêmio!<br>com o palpite 4175",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 4175",
-          "Dezena no décimo prêmio!<br>com o palpite 4175",
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 4175"
-        ],
-        "4375": [
-          "Milhar e Centena no oitavo prêmio!<br>com o palpite 4375",
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 4375",
-          "Dezena no oitavo prêmio!<br>com o palpite 4375",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 4375",
-          "Dezena no décimo prêmio!<br>com o palpite 4375",
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 4375"
-        ],
-        "4775": [
-          "Dezena no oitavo prêmio!<br>com o palpite 4775",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 4775",
-          "Centena e Dezena no décimo prêmio!<br>com o palpite 4775",
-          "Dezena no décimo prêmio!<br>com o palpite 4775",
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 4775"
+        "1674": [
+          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 1674",
+          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 1674"
         ]
       },
       "acertos": {
-        "Milhar": 2,
-        "Centena": 6,
-        "Dezena": 18,
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
         "Grupo": [
           "🦚"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1175, 1375, 1775, 3175, 3375, 3775, 4175, 4375, 4775"
+      "resumo": "Palpites dados para esta extração: 1174, 1674"
     },
     "SP, 13hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -790,7 +735,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1175, 1375, 1775, 3175, 3375, 3775, 4175, 4375, 4775"
+      "resumo": "Palpites dados para esta extração: 1174, 1674"
     },
     "SP, 17hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -862,45 +807,104 @@
         }
       ],
       "frases": {
-        "1175": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 1175"
+        "1174": [
+          "Dezena no quarto prêmio!<br>com o palpite 1174",
+          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 1174"
         ],
-        "1375": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 1375"
-        ],
-        "1775": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 1775"
-        ],
-        "3175": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 3175"
-        ],
-        "3375": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 3375"
-        ],
-        "3775": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 3775"
-        ],
-        "4175": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 4175"
-        ],
-        "4375": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 4375"
-        ],
-        "4775": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 4775"
+        "1674": [
+          "Dezena no quarto prêmio!<br>com o palpite 1674",
+          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 1674"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 2,
         "Grupo": [
           "🦚"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1175, 1375, 1775, 3175, 3375, 3775, 4175, 4375, 4775"
+      "resumo": "Palpites dados para esta extração: 1174, 1674"
     },
     "SP, 19hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8445",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0585",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1760",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9284",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6627",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "8019",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4572",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "4868",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5504",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "9664",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1174, 1674"
+    },
+    "SP, 20hs - PTN SP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
