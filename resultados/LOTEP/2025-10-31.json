@@ -69,92 +69,94 @@
           "Bicho": "Peru"
         }
       ],
-      "frases": {
-        "2032": [
-          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 2032"
-        ],
-        "2034": [
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 2034"
-        ],
-        "2232": [
-          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 2232"
-        ],
-        "2234": [
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 2234"
-        ],
-        "2732": [
-          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 2732"
-        ],
-        "2734": [
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 2734"
-        ],
-        "3032": [
-          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 3032"
-        ],
-        "3034": [
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 3034"
-        ],
-        "3232": [
-          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 3232"
-        ],
-        "3234": [
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 3234"
-        ],
-        "3732": [
-          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 3732"
-        ],
-        "3734": [
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 3734"
-        ],
-        "4032": [
-          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4032"
-        ],
-        "4034": [
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 4034"
-        ],
-        "4232": [
-          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4232"
-        ],
-        "4234": [
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 4234"
-        ],
-        "4732": [
-          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4732"
-        ],
-        "4734": [
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 4734"
-        ],
-        "8032": [
-          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 8032"
-        ],
-        "8034": [
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 8034"
-        ],
-        "8232": [
-          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 8232"
-        ],
-        "8234": [
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 8234"
-        ],
-        "8732": [
-          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 8732"
-        ],
-        "8734": [
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 8734"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐪",
-          "🐍"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2002, 2004, 2012, 2014, 2032, 2034, 2072, 2074, 2202, 2204, 2212, 2214, 2232, 2234, 2272, 2274, 2702, 2704, 2712, 2714, 2732, 2734, 2772, 2774, 3002, 3004, 3012, 3014, 3032, 3034, 3072, 3074, 3202, 3204, 3212, 3214, 3232, 3234, 3272, 3274, 3702, 3704, 3712, 3714, 3732, 3734, 3772, 3774, 4002, 4004, 4012, 4014, 4032, 4034, 4072, 4074, 4202, 4204, 4212, 4214, 4232, 4234, 4272, 4274, 4702, 4704, 4712, 4714, 4732, 4734, 4772, 4774, 8002, 8004, 8012, 8014, 8032, 8034, 8072, 8074, 8202, 8204, 8212, 8214, 8232, 8234, 8272, 8274, 8702, 8704, 8712, 8714, 8732, 8734, 8772, 8774"
+      "resumo": "Palpites dados para esta extração: 2002, 2072, 2102, 2172"
     },
     "LOTEP - PB, 12:45": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5753",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3823",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1295",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0677",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7493",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5310",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "7826",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5297",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3357",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0831",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 2002, 2072, 2102, 2172"
+    },
+    "LOTEP - PB, 15:45h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
