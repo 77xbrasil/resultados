@@ -51,14 +51,26 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1019": [
+          "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 1019"
+        ],
+        "2019": [
+          "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 2019"
+        ],
+        "0019": [
+          "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 0019"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐕"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1015, 1115, 1515, 1915"
+      "resumo": "Palpites dados para esta extração: 0013, 0015, 0019, 0023, 0025, 0029, 1013, 1015, 1019, 1023, 1025, 1029, 2013, 2015, 2019, 2023, 2025, 2029"
     },
     "LOOK - GOIÁS, 09h": {
       "cabecalhos": [
@@ -111,16 +123,134 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1029": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 1029",
+          "Dezena no primeiro prêmio!<br>com o palpite 1029",
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 1029",
+          "Dezena no quarto prêmio!<br>com o palpite 1029",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 1029"
+        ],
+        "2029": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 2029",
+          "Dezena no primeiro prêmio!<br>com o palpite 2029",
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 2029",
+          "Dezena no quarto prêmio!<br>com o palpite 2029",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 2029"
+        ],
+        "0029": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 0029",
+          "Dezena no primeiro prêmio!<br>com o palpite 0029",
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 0029",
+          "Dezena no quarto prêmio!<br>com o palpite 0029",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 0029"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 3,
+        "Dezena": 6,
+        "Grupo": [
+          "🐪"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0013, 0015, 0019, 0023, 0025, 0029, 1013, 1015, 1019, 1023, 1025, 1029, 2013, 2015, 2019, 2023, 2025, 2029"
+    },
+    "LOOK - GOIÁS, 11h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2758",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7221",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4806",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3984",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8295",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "7064",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "915",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1013": [
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 1013"
+        ],
+        "1015": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1015",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 1015"
+        ],
+        "1023": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 1023"
+        ],
+        "2013": [
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 2013"
+        ],
+        "2015": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2015",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 2015"
+        ],
+        "2023": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 2023"
+        ],
+        "0023": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 0023"
+        ],
+        "0013": [
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 0013"
+        ],
+        "0015": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0015",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 0015"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 3,
+        "Grupo": [
+          "🐐",
+          "🦋"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1015, 1115, 1515, 1915"
+      "resumo": "Palpites dados para esta extração: 0013, 0015, 0019, 0023, 0025, 0029, 1013, 1015, 1019, 1023, 1025, 1029, 2013, 2015, 2019, 2023, 2025, 2029"
     },
-    "LOOK - GOIÁS, 11h": {
+    "LOOK - GOIÁS, 14h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -214,14 +344,52 @@
           "Bicho": "Burro"
         }
       ],
-      "frases": {},
+      "frases": {
+        "1019": [
+          "CACHORRO 🐕 no oitavo prêmio!<br>com o palpite 1019"
+        ],
+        "1023": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1023",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 1023"
+        ],
+        "1025": [
+          "Dezena no nono prêmio!<br>com o palpite 1025",
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 1025"
+        ],
+        "2019": [
+          "CACHORRO 🐕 no oitavo prêmio!<br>com o palpite 2019"
+        ],
+        "2023": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2023",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 2023"
+        ],
+        "2025": [
+          "Dezena no nono prêmio!<br>com o palpite 2025",
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 2025"
+        ],
+        "0023": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0023",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 0023"
+        ],
+        "0019": [
+          "CACHORRO 🐕 no oitavo prêmio!<br>com o palpite 0019"
+        ],
+        "0025": [
+          "Dezena no nono prêmio!<br>com o palpite 0025",
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 0025"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 6,
+        "Grupo": [
+          "🐐",
+          "🐕",
+          "🐑"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1015, 1115, 1515, 1915"
+      "resumo": "Palpites dados para esta extração: 0013, 0015, 0019, 0023, 0025, 0029, 1013, 1015, 1019, 1023, 1025, 1029, 2013, 2015, 2019, 2023, 2025, 2029"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
       "cabecalhos": [
@@ -293,17 +461,151 @@
         }
       ],
       "frases": {
+        "1013": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1013",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 1013"
+        ],
         "1015": [
           "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 1015"
         ],
-        "1115": [
-          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 1115"
+        "1025": [
+          "Dezena no sexto prêmio!<br>com o palpite 1025",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 1025"
         ],
-        "1515": [
-          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 1515"
+        "1029": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 1029",
+          "Dezena no primeiro prêmio!<br>com o palpite 1029",
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 1029",
+          "Dezena no quarto prêmio!<br>com o palpite 1029",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 1029"
         ],
-        "1915": [
-          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 1915"
+        "2013": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2013",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 2013"
+        ],
+        "2015": [
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 2015"
+        ],
+        "2025": [
+          "Dezena no sexto prêmio!<br>com o palpite 2025",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 2025"
+        ],
+        "2029": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 2029",
+          "Dezena no primeiro prêmio!<br>com o palpite 2029",
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 2029",
+          "Dezena no quarto prêmio!<br>com o palpite 2029",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 2029"
+        ],
+        "0029": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 0029",
+          "Dezena no primeiro prêmio!<br>com o palpite 0029",
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 0029",
+          "Dezena no quarto prêmio!<br>com o palpite 0029",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 0029"
+        ],
+        "0025": [
+          "Dezena no sexto prêmio!<br>com o palpite 0025",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 0025"
+        ],
+        "0013": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0013",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 0013"
+        ],
+        "0015": [
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 0015"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 3,
+        "Dezena": 12,
+        "Grupo": [
+          "🐪",
+          "🐑",
+          "🦋"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0013, 0015, 0019, 0023, 0025, 0029, 1013, 1015, 1019, 1023, 1025, 1029, 2013, 2015, 2019, 2023, 2025, 2029"
+    },
+    "LOOK - GOIÁS, 11h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2758",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7221",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4806",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3984",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8295",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2743",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "7289",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5208",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8164",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0468",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        }
+      ],
+      "frases": {
+        "1023": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 1023"
+        ],
+        "2023": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 2023"
+        ],
+        "0023": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 0023"
         ]
       },
       "acertos": {
@@ -311,12 +613,12 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🦋"
+          "🐐"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1015, 1115, 1515, 1915"
+      "resumo": "Palpites dados para esta extração: 0013, 0015, 0019, 0023, 0025, 0029, 1013, 1015, 1019, 1023, 1025, 1029, 2013, 2015, 2019, 2023, 2025, 2029"
     },
-    "LOOK - GOIÁS, 11h do 1º ao 10º": {
+    "LOOK - GOIÁS, 14h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
