@@ -131,6 +131,130 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 0225, 0245, 0255, 0285, 0295, 6225, 6245, 6255, 6285, 6295"
+    },
+    "12h - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6371",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3700",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1660",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2736",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6041",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5271",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "9345",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7789",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9511",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8586",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        }
+      ],
+      "frases": {
+        "6245": [
+          "Dezena no sétimo prêmio!<br>com o palpite 6245",
+          "ELEFANTE 🐘 no sétimo prêmio!<br>com o palpite 6245"
+        ],
+        "6285": [
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 6285"
+        ],
+        "0245": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0245",
+          "ELEFANTE 🐘 no sétimo prêmio!<br>com o palpite 0245"
+        ],
+        "0285": [
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 0285"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐘",
+          "🐅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0225, 0245, 0255, 0285, 0295, 6225, 6245, 6255, 6285, 6295"
+    },
+    "15h - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
