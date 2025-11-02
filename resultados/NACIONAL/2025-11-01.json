@@ -52,7 +52,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0927"
+      "resumo": "Palpites dados para esta extração: 0122, 0127, 0222, 0227, 0622, 0627, 0722, 0727, 0922, 0927"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -106,7 +106,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0927"
+      "resumo": "Palpites dados para esta extração: 0122, 0127, 0222, 0227, 0622, 0627, 0722, 0727, 0922, 0927"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -154,8 +154,35 @@
         }
       ],
       "frases": {
+        "0127": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 0127"
+        ],
+        "0227": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 0227"
+        ],
+        "0627": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 0627"
+        ],
+        "0727": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 0727"
+        ],
         "0927": [
           "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 0927"
+        ],
+        "0122": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0122"
+        ],
+        "0222": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0222"
+        ],
+        "0622": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0622"
+        ],
+        "0722": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0722"
+        ],
+        "0922": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0922"
         ]
       },
       "acertos": {
@@ -163,10 +190,11 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐑"
+          "🐑",
+          "🐐"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0927"
+      "resumo": "Palpites dados para esta extração: 0122, 0127, 0222, 0227, 0622, 0627, 0722, 0727, 0922, 0927"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -220,7 +248,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0927"
+      "resumo": "Palpites dados para esta extração: 0122, 0127, 0222, 0227, 0622, 0627, 0722, 0727, 0922, 0927"
     },
     "Nacional - LN 15:00": {
       "cabecalhos": [
@@ -274,7 +302,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0927"
+      "resumo": "Palpites dados para esta extração: 0122, 0127, 0222, 0227, 0622, 0627, 0722, 0727, 0922, 0927"
     },
     "Nacional - LN 17:00": {
       "cabecalhos": [
@@ -322,6 +350,18 @@
         }
       ],
       "frases": {
+        "0127": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0127"
+        ],
+        "0227": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0227"
+        ],
+        "0627": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0627"
+        ],
+        "0727": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0727"
+        ],
         "0927": [
           "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0927"
         ]
@@ -334,7 +374,7 @@
           "🐑"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0927"
+      "resumo": "Palpites dados para esta extração: 0122, 0127, 0222, 0227, 0622, 0627, 0722, 0727, 0922, 0927"
     },
     "A FEDERAL DO BRASIL": {
       "cabecalhos": [
@@ -387,14 +427,32 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "0122": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0122"
+        ],
+        "0222": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0222"
+        ],
+        "0622": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0622"
+        ],
+        "0722": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0722"
+        ],
+        "0922": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0922"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐐"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0927"
+      "resumo": "Palpites dados para esta extração: 0122, 0127, 0222, 0227, 0622, 0627, 0722, 0727, 0922, 0927"
     },
     "Nacional - LN 20:00": {
       "cabecalhos": [
@@ -442,6 +500,33 @@
         }
       ],
       "frases": {
+        "0122": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0122"
+        ],
+        "0222": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0222"
+        ],
+        "0622": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0622"
+        ],
+        "0722": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0722"
+        ],
+        "0922": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0922"
+        ],
+        "0127": [
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 0127"
+        ],
+        "0227": [
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 0227"
+        ],
+        "0627": [
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 0627"
+        ],
+        "0727": [
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 0727"
+        ],
         "0927": [
           "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 0927"
         ]
@@ -451,10 +536,11 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
+          "🐐",
           "🐑"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0927"
+      "resumo": "Palpites dados para esta extração: 0122, 0127, 0222, 0227, 0622, 0627, 0722, 0727, 0922, 0927"
     },
     "Nacional - LN 23:00": {
       "cabecalhos": [
@@ -464,11 +550,42 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "5856",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5685",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9963",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9917",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5735",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "7156",
+          "Grupo": "",
+          "Bicho": ""
+        }
       ],
       "frases": {},
       "acertos": {
@@ -477,7 +594,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 0122, 0127, 0222, 0227, 0622, 0627, 0722, 0727, 0922, 0927"
     }
   },
   "1-10": {
@@ -557,7 +674,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0927"
+      "resumo": "Palpites dados para esta extração: 0122, 0127, 0222, 0227, 0622, 0627, 0722, 0727, 0922, 0927"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -635,7 +752,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0927"
+      "resumo": "Palpites dados para esta extração: 0122, 0127, 0222, 0227, 0622, 0627, 0722, 0727, 0922, 0927"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -707,8 +824,35 @@
         }
       ],
       "frases": {
+        "0127": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 0127"
+        ],
+        "0227": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 0227"
+        ],
+        "0627": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 0627"
+        ],
+        "0727": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 0727"
+        ],
         "0927": [
           "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 0927"
+        ],
+        "0122": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0122"
+        ],
+        "0222": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0222"
+        ],
+        "0622": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0622"
+        ],
+        "0722": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0722"
+        ],
+        "0922": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0922"
         ]
       },
       "acertos": {
@@ -716,10 +860,11 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐑"
+          "🐑",
+          "🐐"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0927"
+      "resumo": "Palpites dados para esta extração: 0122, 0127, 0222, 0227, 0622, 0627, 0722, 0727, 0922, 0927"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -797,7 +942,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0927"
+      "resumo": "Palpites dados para esta extração: 0122, 0127, 0222, 0227, 0622, 0627, 0722, 0727, 0922, 0927"
     },
     "Nacional - LN 15:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -875,7 +1020,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0927"
+      "resumo": "Palpites dados para esta extração: 0122, 0127, 0222, 0227, 0622, 0627, 0722, 0727, 0922, 0927"
     },
     "Nacional - LN 17:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -947,21 +1092,64 @@
         }
       ],
       "frases": {
+        "0127": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0127",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 0127",
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 0127"
+        ],
+        "0227": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0227",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 0227",
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 0227"
+        ],
+        "0627": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0627",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 0627",
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 0627"
+        ],
+        "0727": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0727",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 0727",
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 0727"
+        ],
         "0927": [
           "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0927",
           "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 0927",
           "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 0927"
+        ],
+        "0122": [
+          "Dezena no sexto prêmio!<br>com o palpite 0122",
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 0122"
+        ],
+        "0222": [
+          "Dezena no sexto prêmio!<br>com o palpite 0222",
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 0222"
+        ],
+        "0622": [
+          "Dezena no sexto prêmio!<br>com o palpite 0622",
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 0622"
+        ],
+        "0722": [
+          "Dezena no sexto prêmio!<br>com o palpite 0722",
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 0722"
+        ],
+        "0922": [
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 0922",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 0922",
+          "Dezena no sexto prêmio!<br>com o palpite 0922",
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 0922"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Milhar": 1,
+        "Centena": 1,
+        "Dezena": 5,
         "Grupo": [
-          "🐑"
+          "🐑",
+          "🐐"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0927"
+      "resumo": "Palpites dados para esta extração: 0122, 0127, 0222, 0227, 0622, 0627, 0722, 0727, 0922, 0927"
     },
     "A FEDERAL DO BRASIL do 1º ao 10º": {
       "cabecalhos": [
@@ -1032,14 +1220,32 @@
           "Bicho": "Vaca"
         }
       ],
-      "frases": {},
+      "frases": {
+        "0122": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0122"
+        ],
+        "0222": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0222"
+        ],
+        "0622": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0622"
+        ],
+        "0722": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0722"
+        ],
+        "0922": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0922"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐐"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0927"
+      "resumo": "Palpites dados para esta extração: 0122, 0127, 0222, 0227, 0622, 0627, 0722, 0727, 0922, 0927"
     },
     "Nacional - LN 20:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1110,14 +1316,37 @@
           "Bicho": "Galo"
         }
       ],
-      "frases": {},
+      "frases": {
+        "0122": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0122",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 0122"
+        ],
+        "0222": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0222",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 0222"
+        ],
+        "0622": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0622",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 0622"
+        ],
+        "0722": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0722",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 0722"
+        ],
+        "0922": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0922",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 0922"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐐"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0927"
+      "resumo": "Palpites dados para esta extração: 0122, 0127, 0222, 0227, 0622, 0627, 0722, 0727, 0922, 0927"
     },
     "Nacional - LN 23:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1127,16 +1356,66 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "5856",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5685",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9963",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9917",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5735",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5599",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8699",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5861",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6537",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "3852",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        }
       ],
       "frases": {},
       "acertos": {
@@ -1145,7 +1424,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 0122, 0127, 0222, 0227, 0622, 0627, 0722, 0727, 0922, 0927"
     }
   }
 }
