@@ -316,55 +316,61 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "9052",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "9463",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "1026",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
+          "Milhar": "5513",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "6499",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "4811",
+          "Grupo": "03",
+          "Bicho": "Burro"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "6364",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "1135",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "2263",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "1406",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "5204",
+          "Milhar": "2328",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "287",
+          "Milhar": "169",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1561": [
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 1561"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦁"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3770, 3774, 3779"
+      "resumo": "Palpites dados para esta extração: 1561"
     },
     "SP, 20hs - PTN SP": {
       "cabecalhos": [
@@ -438,6 +444,29 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 3770, 3774, 3779"
+    },
+    "SP, 18hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   },
   "1-10": {
@@ -856,73 +885,79 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "9052",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "9463",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "1026",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
+          "Milhar": "5513",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "6499",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "4811",
+          "Grupo": "03",
+          "Bicho": "Burro"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "6364",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "1135",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "2263",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "1406",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "9166",
-          "Grupo": "17",
-          "Bicho": "Macaco"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "0043",
+          "Milhar": "9541",
           "Grupo": "11",
           "Bicho": "Cavalo"
         },
         {
+          "Prêmio": "7º",
+          "Milhar": "4581",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
           "Prêmio": "8º",
-          "Milhar": "5296",
-          "Grupo": "24",
-          "Bicho": "Veado"
+          "Milhar": "6113",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "2694",
-          "Grupo": "24",
-          "Bicho": "Veado"
+          "Milhar": "3315",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "2403",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "5878",
+          "Grupo": "20",
+          "Bicho": "Peru"
         }
       ],
-      "frases": {},
+      "frases": {
+        "1561": [
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 1561"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦁"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3770, 3774, 3779"
+      "resumo": "Palpites dados para esta extração: 1561"
     },
     "SP, 20hs - PTN SP do 1º ao 10º": {
       "cabecalhos": [
@@ -1014,6 +1049,34 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 3770, 3774, 3779"
+    },
+    "SP, 18hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
