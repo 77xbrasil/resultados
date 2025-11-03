@@ -112,38 +112,36 @@
         }
       ],
       "frases": {
-        "2118": [
-          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 2118"
-        ],
-        "2128": [
-          "Dezena no primeiro prêmio!<br>com o palpite 2128",
-          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 2128"
-        ],
-        "7118": [
-          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 7118"
-        ],
-        "7128": [
-          "Dezena no primeiro prêmio!<br>com o palpite 7128",
-          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 7128"
-        ],
         "9118": [
           "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 9118"
         ],
         "9128": [
           "Dezena no primeiro prêmio!<br>com o palpite 9128",
           "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 9128"
+        ],
+        "9168": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 9168",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 9168",
+          "Dezena no terceiro prêmio!<br>com o palpite 9168",
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 9168"
+        ],
+        "9178": [
+          "Dezena no quinto prêmio!<br>com o palpite 9178",
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 9178"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
+        "Milhar": 1,
+        "Centena": 1,
         "Dezena": 3,
         "Grupo": [
           "🐑",
-          "🐕"
+          "🐒",
+          "🐕",
+          "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2118, 2128, 2158, 7118, 7128, 7158, 9118, 9128, 9158"
+      "resumo": "Palpites dados para esta extração: 9118, 9128, 9168, 9178, 9198"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
