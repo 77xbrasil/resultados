@@ -402,6 +402,86 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7841",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7188",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0641",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0926",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3577",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "0173",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "361",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "3073": [
+          "Dezena no sexto prêmio!<br>com o palpite 3073",
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 3073"
+        ],
+        "3173": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 3173",
+          "Dezena no sexto prêmio!<br>com o palpite 3173",
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 3173"
+        ],
+        "3473": [
+          "Dezena no sexto prêmio!<br>com o palpite 3473",
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 3473"
+        ],
+        "3673": [
+          "Dezena no sexto prêmio!<br>com o palpite 3673",
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 3673"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 4,
+        "Grupo": [
+          "🦚"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3073, 3173, 3473, 3673"
+    },
+    "LOOK - GOIÁS, 23h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
@@ -971,6 +1051,84 @@
       "resumo": "Palpites dados para esta extração: 3073, 3173, 3473, 3673"
     },
     "LOOK - GOIÁS, 21h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7841",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7188",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0641",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0926",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3577",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7700",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8169",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "4842",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1816",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2700",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 3073, 3173, 3473, 3673"
+    },
+    "LOOK - GOIÁS, 23h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
