@@ -374,6 +374,118 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5551",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6328",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2081",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5141",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6453",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4008",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "9603",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2031",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8882",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7895",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        }
+      ],
+      "frases": {
+        "2003": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2003",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 2003"
+        ],
+        "2005": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 2005"
+        ],
+        "2025": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2025"
+        ],
+        "2083": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 2083",
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 2083"
+        ],
+        "2103": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2103",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 2103"
+        ],
+        "2105": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 2105"
+        ],
+        "2125": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2125"
+        ],
+        "2183": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 2183",
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 2183"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐑",
+          "🐂",
+          "🦅",
+          "🪶"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2000, 2003, 2005, 2020, 2023, 2025, 2060, 2063, 2065, 2080, 2083, 2085, 2100, 2103, 2105, 2120, 2123, 2125, 2160, 2163, 2165, 2180, 2183, 2185"
+    },
+    "21h - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
