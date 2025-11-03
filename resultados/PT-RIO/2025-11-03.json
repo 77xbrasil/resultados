@@ -52,8 +52,13 @@
         }
       ],
       "frases": {
-        "7450": [
-          "GALO 🐓 no quinto prêmio!<br>com o palpite 7450"
+        "7200": [
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 7200",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 7200"
+        ],
+        "7400": [
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 7400",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 7400"
         ]
       },
       "acertos": {
@@ -61,10 +66,10 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐓"
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7440, 7450, 7490"
+      "resumo": "Palpites dados para esta extração: 7200, 7260, 7290, 7400, 7460, 7490"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -118,8 +123,8 @@
         }
       ],
       "frases": {
-        "7440": [
-          "COELHO 🐇 no quarto prêmio!<br>com o palpite 7440"
+        "7290": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 7290"
         ],
         "7490": [
           "URSO 🐻 no primeiro prêmio!<br>com o palpite 7490"
@@ -130,11 +135,10 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐻",
-          "🐇"
+          "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7440, 7450, 7490"
+      "resumo": "Palpites dados para esta extração: 7200, 7260, 7290, 7400, 7460, 7490"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -187,14 +191,30 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "7200": [
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 7200"
+        ],
+        "7260": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 7260"
+        ],
+        "7400": [
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 7400"
+        ],
+        "7460": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 7460"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐊",
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7440, 7450, 7490"
+      "resumo": "Palpites dados para esta extração: 7200, 7260, 7290, 7400, 7460, 7490"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -248,6 +268,25 @@
         }
       ],
       "frases": {
+        "7200": [
+          "Dezena no quarto prêmio!<br>com o palpite 7200",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7200"
+        ],
+        "7260": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 7260"
+        ],
+        "7290": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7290",
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 7290",
+          "URSO 🐻 no sétimo prêmio!<br>com o palpite 7290"
+        ],
+        "7400": [
+          "Dezena no quarto prêmio!<br>com o palpite 7400",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7400"
+        ],
+        "7460": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 7460"
+        ],
         "7490": [
           "Dezena no primeiro prêmio!<br>com o palpite 7490",
           "URSO 🐻 no primeiro prêmio!<br>com o palpite 7490",
@@ -257,12 +296,14 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 4,
         "Grupo": [
-          "🐻"
+          "🐻",
+          "🐊",
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7440, 7450, 7490"
+      "resumo": "Palpites dados para esta extração: 7200, 7260, 7290, 7400, 7460, 7490"
     },
     "PT-RIO, RJ, 18:20, PTN": {
       "cabecalhos": [
@@ -316,6 +357,10 @@
         }
       ],
       "frases": {
+        "7290": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7290",
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 7290"
+        ],
         "7490": [
           "Dezena no primeiro prêmio!<br>com o palpite 7490",
           "URSO 🐻 no primeiro prêmio!<br>com o palpite 7490"
@@ -324,12 +369,12 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 2,
         "Grupo": [
           "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7440, 7450, 7490"
+      "resumo": "Palpites dados para esta extração: 7200, 7260, 7290, 7400, 7460, 7490"
     },
     "PT-RIO, RJ, 21:20, CORUJA": {
       "cabecalhos": [
@@ -426,9 +471,15 @@
         }
       ],
       "frases": {
-        "7450": [
-          "GALO 🐓 no quinto prêmio!<br>com o palpite 7450",
-          "GALO 🐓 no sexto prêmio!<br>com o palpite 7450"
+        "7200": [
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 7200",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 7200",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 7200"
+        ],
+        "7400": [
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 7400",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 7400",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 7400"
         ]
       },
       "acertos": {
@@ -436,10 +487,10 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐓"
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7440, 7450, 7490"
+      "resumo": "Palpites dados para esta extração: 7200, 7260, 7290, 7400, 7460, 7490"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -511,8 +562,11 @@
         }
       ],
       "frases": {
-        "7440": [
-          "COELHO 🐇 no quarto prêmio!<br>com o palpite 7440"
+        "7290": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 7290",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 7290",
+          "Dezena no décimo prêmio!<br>com o palpite 7290",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7290"
         ],
         "7490": [
           "URSO 🐻 no primeiro prêmio!<br>com o palpite 7490",
@@ -524,13 +578,12 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 2,
         "Grupo": [
-          "🐻",
-          "🐇"
+          "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7440, 7450, 7490"
+      "resumo": "Palpites dados para esta extração: 7200, 7260, 7290, 7400, 7460, 7490"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -601,14 +654,23 @@
           "Bicho": "Cabra"
         }
       ],
-      "frases": {},
+      "frases": {
+        "7260": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 7260"
+        ],
+        "7460": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 7460"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐊"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7440, 7450, 7490"
+      "resumo": "Palpites dados para esta extração: 7200, 7260, 7290, 7400, 7460, 7490"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
@@ -680,10 +742,26 @@
         }
       ],
       "frases": {
-        "7450": [
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 7450",
-          "Dezena no oitavo prêmio!<br>com o palpite 7450",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 7450"
+        "7200": [
+          "Dezena no quarto prêmio!<br>com o palpite 7200",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7200"
+        ],
+        "7260": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 7260"
+        ],
+        "7290": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7290",
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 7290",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 7290",
+          "Dezena no nono prêmio!<br>com o palpite 7290",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 7290"
+        ],
+        "7400": [
+          "Dezena no quarto prêmio!<br>com o palpite 7400",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7400"
+        ],
+        "7460": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 7460"
         ],
         "7490": [
           "Dezena no primeiro prêmio!<br>com o palpite 7490",
@@ -695,13 +773,14 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 1,
-        "Dezena": 3,
+        "Dezena": 6,
         "Grupo": [
           "🐻",
-          "🐓"
+          "🐊",
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7440, 7450, 7490"
+      "resumo": "Palpites dados para esta extração: 7200, 7260, 7290, 7400, 7460, 7490"
     },
     "PT-RIO, RJ, 18:20, PTN do 1º ao 10º": {
       "cabecalhos": [
@@ -773,6 +852,18 @@
         }
       ],
       "frases": {
+        "7260": [
+          "Dezena no oitavo prêmio!<br>com o palpite 7260",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 7260"
+        ],
+        "7290": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7290",
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 7290"
+        ],
+        "7460": [
+          "Dezena no oitavo prêmio!<br>com o palpite 7460",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 7460"
+        ],
         "7490": [
           "Dezena no primeiro prêmio!<br>com o palpite 7490",
           "URSO 🐻 no primeiro prêmio!<br>com o palpite 7490"
@@ -781,12 +872,13 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 4,
         "Grupo": [
-          "🐻"
+          "🐻",
+          "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7440, 7450, 7490"
+      "resumo": "Palpites dados para esta extração: 7200, 7260, 7290, 7400, 7460, 7490"
     },
     "PT-RIO, RJ, 21:20, CORUJA do 1º ao 10º": {
       "cabecalhos": [
