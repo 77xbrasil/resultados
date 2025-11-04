@@ -479,237 +479,73 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5995",
+          "Milhar": "4278",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7960",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9603",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7381",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7001",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9793",
           "Grupo": "24",
           "Bicho": "Veado"
         },
         {
-          "Prêmio": "2º",
-          "Milhar": "6089",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "2105",
-          "Grupo": "02",
-          "Bicho": "Águia"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "2154",
-          "Grupo": "14",
-          "Bicho": "Gato"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "3664",
-          "Grupo": "16",
-          "Bicho": "Leão"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "6712",
-          "Grupo": "03",
-          "Bicho": "Burro"
-        },
-        {
           "Prêmio": "7º",
-          "Milhar": "1668",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "1124",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "1536",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "7650",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "9427",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
+          "Milhar": "9050",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "0082",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "7642",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
         }
       ],
-      "frases": {
-        "1062": [
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 1062"
-        ],
-        "1064": [
-          "Dezena no quinto prêmio!<br>com o palpite 1064",
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 1064"
-        ],
-        "1065": [
-          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 1065"
-        ],
-        "1082": [
-          "Centena e Dezena no décimo prêmio!<br>com o palpite 1082",
-          "Dezena no décimo prêmio!<br>com o palpite 1082",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 1082"
-        ],
-        "1084": [
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 1084"
-        ],
-        "1162": [
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 1162"
-        ],
-        "1164": [
-          "Dezena no quinto prêmio!<br>com o palpite 1164",
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 1164"
-        ],
-        "1165": [
-          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 1165"
-        ],
-        "1182": [
-          "Dezena no décimo prêmio!<br>com o palpite 1182",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 1182"
-        ],
-        "1184": [
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 1184"
-        ],
-        "1662": [
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 1662"
-        ],
-        "1664": [
-          "Centena e Dezena no quinto prêmio!<br>com o palpite 1664",
-          "Dezena no quinto prêmio!<br>com o palpite 1664",
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 1664"
-        ],
-        "1665": [
-          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 1665"
-        ],
-        "1682": [
-          "Dezena no décimo prêmio!<br>com o palpite 1682",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 1682"
-        ],
-        "1684": [
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 1684"
-        ],
-        "2062": [
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 2062"
-        ],
-        "2064": [
-          "Dezena no quinto prêmio!<br>com o palpite 2064",
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 2064"
-        ],
-        "2065": [
-          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 2065"
-        ],
-        "2082": [
-          "Centena e Dezena no décimo prêmio!<br>com o palpite 2082",
-          "Dezena no décimo prêmio!<br>com o palpite 2082",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 2082"
-        ],
-        "2084": [
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 2084"
-        ],
-        "2162": [
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 2162"
-        ],
-        "2164": [
-          "Dezena no quinto prêmio!<br>com o palpite 2164",
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 2164"
-        ],
-        "2165": [
-          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 2165"
-        ],
-        "2182": [
-          "Dezena no décimo prêmio!<br>com o palpite 2182",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 2182"
-        ],
-        "2184": [
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 2184"
-        ],
-        "2662": [
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 2662"
-        ],
-        "2664": [
-          "Centena e Dezena no quinto prêmio!<br>com o palpite 2664",
-          "Dezena no quinto prêmio!<br>com o palpite 2664",
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 2664"
-        ],
-        "2665": [
-          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 2665"
-        ],
-        "2682": [
-          "Dezena no décimo prêmio!<br>com o palpite 2682",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 2682"
-        ],
-        "2684": [
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 2684"
-        ],
-        "6062": [
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 6062"
-        ],
-        "6064": [
-          "Dezena no quinto prêmio!<br>com o palpite 6064",
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 6064"
-        ],
-        "6065": [
-          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 6065"
-        ],
-        "6082": [
-          "Centena e Dezena no décimo prêmio!<br>com o palpite 6082",
-          "Dezena no décimo prêmio!<br>com o palpite 6082",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 6082"
-        ],
-        "6084": [
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 6084"
-        ],
-        "6162": [
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 6162"
-        ],
-        "6164": [
-          "Dezena no quinto prêmio!<br>com o palpite 6164",
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 6164"
-        ],
-        "6165": [
-          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 6165"
-        ],
-        "6182": [
-          "Dezena no décimo prêmio!<br>com o palpite 6182",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 6182"
-        ],
-        "6184": [
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 6184"
-        ],
-        "6662": [
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 6662"
-        ],
-        "6664": [
-          "Centena e Dezena no quinto prêmio!<br>com o palpite 6664",
-          "Dezena no quinto prêmio!<br>com o palpite 6664",
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 6664"
-        ],
-        "6665": [
-          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 6665"
-        ],
-        "6682": [
-          "Dezena no décimo prêmio!<br>com o palpite 6682",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 6682"
-        ],
-        "6684": [
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 6684"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
-        "Centena": 6,
-        "Dezena": 18,
-        "Grupo": [
-          "🦁",
-          "🐒",
-          "🐂"
-        ]
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1062, 1064, 1065, 1082, 1084, 1085, 1162, 1164, 1165, 1182, 1184, 1185, 1662, 1664, 1665, 1682, 1684, 1685, 2062, 2064, 2065, 2082, 2084, 2085, 2162, 2164, 2165, 2182, 2184, 2185, 2662, 2664, 2665, 2682, 2684, 2685, 6062, 6064, 6065, 6082, 6084, 6085, 6162, 6164, 6165, 6182, 6184, 6185, 6662, 6664, 6665, 6682, 6684, 6685"
+      "resumo": "Palpites dados para esta extração: 8010, 8011, 8013, 8015, 8030, 8031, 8033, 8035, 8070, 8071, 8073, 8075, 8510, 8511, 8513, 8515, 8530, 8531, 8533, 8535, 8570, 8571, 8573, 8575, 8610, 8611, 8613, 8615, 8630, 8631, 8633, 8635, 8670, 8671, 8673, 8675"
     }
   }
 }
