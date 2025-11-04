@@ -10,53 +10,71 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "2328",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "1095",
-          "Grupo": "24",
-          "Bicho": "Veado"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "9168",
+          "Milhar": "9666",
           "Grupo": "17",
           "Bicho": "Macaco"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "3758",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5751",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
           "Prêmio": "4º",
-          "Milhar": "8619",
-          "Grupo": "05",
-          "Bicho": "Cachorro"
+          "Milhar": "8567",
+          "Grupo": "17",
+          "Bicho": "Macaco"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "9878",
-          "Grupo": "20",
-          "Bicho": "Peru"
+          "Milhar": "6465",
+          "Grupo": "17",
+          "Bicho": "Macaco"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "31088",
+          "Milhar": "34207",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "549",
+          "Milhar": "324",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1008": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 1008"
+        ],
+        "3008": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 3008"
+        ],
+        "8008": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 8008"
+        ],
+        "9008": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 9008"
+        ],
+        "0008": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 0008"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦅"
+        ]
       },
       "resumo": "Palpites dados para esta extração: 0008, 1008, 3008, 8008, 9008"
     },
