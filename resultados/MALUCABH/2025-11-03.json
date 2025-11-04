@@ -435,25 +435,97 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "5927",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5343",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9642",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9853",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3604",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3298",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3287",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6993",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6312",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6239",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "5328": [
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 5328"
+        ],
+        "5388": [
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 5388"
+        ],
+        "5628": [
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 5628"
+        ],
+        "5688": [
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 5688"
+        ],
+        "5928": [
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 5928"
+        ],
+        "5988": [
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 5988"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐑",
+          "🐅"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 5308, 5318, 5328, 5388, 5608, 5618, 5628, 5688, 5908, 5918, 5928, 5988"
     }
   }
 }
