@@ -211,49 +211,69 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "1609",
-          "Grupo": "03",
-          "Bicho": "Burro"
+          "Milhar": "0921",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "9947",
-          "Grupo": "12",
-          "Bicho": "Elefante"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "2152",
-          "Grupo": "13",
-          "Bicho": "Galo"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "9365",
+          "Milhar": "4868",
           "Grupo": "17",
           "Bicho": "Macaco"
         },
         {
+          "Prêmio": "3º",
+          "Milhar": "1412",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4061",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
           "Prêmio": "5º",
-          "Milhar": "4314",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
+          "Milhar": "2570",
+          "Grupo": "18",
+          "Bicho": "Porco"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "7387",
+          "Milhar": "3832",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1912": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1912",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 1912"
+        ],
+        "1932": [
+          "Dezena no sexto prêmio!<br>com o palpite 1932",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 1932"
+        ],
+        "2912": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2912",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 2912"
+        ],
+        "2932": [
+          "Dezena no sexto prêmio!<br>com o palpite 2932",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 2932"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 4,
+        "Grupo": [
+          "🐴",
+          "🐪"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3431, 3531, 4431, 4531, 5431, 5531"
+      "resumo": "Palpites dados para esta extração: 1912, 1915, 1932, 1935, 1952, 1955, 2912, 2915, 2932, 2935, 2952, 2955"
     },
     "Nacional - LN 15:00": {
       "cabecalhos": [
@@ -831,94 +851,93 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "1609",
-          "Grupo": "03",
-          "Bicho": "Burro"
+          "Milhar": "0921",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "9947",
-          "Grupo": "12",
-          "Bicho": "Elefante"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "2152",
-          "Grupo": "13",
-          "Bicho": "Galo"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "9365",
+          "Milhar": "4868",
           "Grupo": "17",
           "Bicho": "Macaco"
         },
         {
+          "Prêmio": "3º",
+          "Milhar": "1412",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4061",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
           "Prêmio": "5º",
-          "Milhar": "4314",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
+          "Milhar": "2570",
+          "Grupo": "18",
+          "Bicho": "Porco"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "1929",
-          "Grupo": "08",
-          "Bicho": "Camelo"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "6913",
+          "Milhar": "0414",
           "Grupo": "04",
           "Bicho": "Borboleta"
         },
         {
+          "Prêmio": "7º",
+          "Milhar": "9840",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
           "Prêmio": "8º",
-          "Milhar": "0456",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "2616",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "9725",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
+          "Milhar": "1821",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "6410",
-          "Grupo": "03",
-          "Bicho": "Burro"
+          "Milhar": "8523",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         }
       ],
       "frases": {
-        "3431": [
-          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 3431"
+        "1912": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1912",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 1912"
         ],
-        "3531": [
-          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 3531"
+        "1915": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 1915",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 1915"
         ],
-        "4431": [
-          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 4431"
+        "2912": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2912",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 2912"
         ],
-        "4531": [
-          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 4531"
-        ],
-        "5431": [
-          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 5431"
-        ],
-        "5531": [
-          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 5531"
+        "2915": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 2915",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 2915"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 2,
         "Grupo": [
-          "🐪"
+          "🐴",
+          "🦋"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3431, 3531, 4431, 4531, 5431, 5531"
+      "resumo": "Palpites dados para esta extração: 1912, 1915, 1932, 1935, 1952, 1955, 2912, 2915, 2932, 2935, 2952, 2955"
     },
     "Nacional - LN 15:00 do 1º ao 10º": {
       "cabecalhos": [
