@@ -163,55 +163,70 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "9673",
-          "Grupo": "19",
-          "Bicho": "Pavão"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "9175",
-          "Grupo": "19",
-          "Bicho": "Pavão"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "6401",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "6036",
-          "Grupo": "09",
-          "Bicho": "Cobra"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "3980",
+          "Milhar": "9079",
           "Grupo": "20",
           "Bicho": "Peru"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "5563",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3834",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6724",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9710",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
           "Prêmio": "6º [soma]",
-          "Milhar": "5265",
+          "Milhar": "4910",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "749",
+          "Milhar": "506",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1806": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1806",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 1806"
+        ],
+        "1808": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 1808"
+        ],
+        "1809": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 1809",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 1809"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🐴",
+          "🦅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0009, 1009, 4009, 7009"
+      "resumo": "Palpites dados para esta extração: 1804, 1806, 1808, 1809, 1884, 1886, 1888, 1889"
     },
     "SP, 13hs - PTSP": {
       "cabecalhos": [
@@ -706,73 +721,88 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "9673",
-          "Grupo": "19",
-          "Bicho": "Pavão"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "9175",
-          "Grupo": "19",
-          "Bicho": "Pavão"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "6401",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "6036",
-          "Grupo": "09",
-          "Bicho": "Cobra"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "3980",
+          "Milhar": "9079",
           "Grupo": "20",
           "Bicho": "Peru"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "5563",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3834",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6724",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9710",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
           "Prêmio": "6º",
-          "Milhar": "9966",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "9536",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "6140",
-          "Grupo": "10",
-          "Bicho": "Coelho"
+          "Milhar": "0587",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "7703",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "7632",
+          "Grupo": "08",
+          "Bicho": "Camelo"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "3516",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
+          "Milhar": "9344",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "2590",
-          "Grupo": "23",
-          "Bicho": "Urso"
+          "Milhar": "2009",
+          "Grupo": "03",
+          "Bicho": "Burro"
         }
       ],
-      "frases": {},
+      "frases": {
+        "1809": [
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 1809",
+          "Dezena no décimo prêmio!<br>com o palpite 1809",
+          "BURRO 🐴 no décimo prêmio!<br>com o palpite 1809"
+        ],
+        "1886": [
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 1886"
+        ],
+        "1888": [
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 1888"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🐴",
+          "🐅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0009, 1009, 4009, 7009"
+      "resumo": "Palpites dados para esta extração: 1804, 1806, 1808, 1809, 1884, 1886, 1888, 1889"
     },
     "SP, 13hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
