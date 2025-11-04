@@ -76,7 +76,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 7408"
+      "resumo": "Palpites dados para esta extração: 0008, 0108, 0408, 3008, 3108, 3408, 4008, 4108, 4408, 7008, 7108, 7408, 8008, 8108, 8408"
     },
     "12h - MALUCA - BA": {
       "cabecalhos": [
@@ -148,8 +148,50 @@
         }
       ],
       "frases": {
+        "3008": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 3008"
+        ],
+        "3108": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 3108"
+        ],
+        "3408": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 3408"
+        ],
+        "4008": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 4008"
+        ],
+        "4108": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 4108"
+        ],
+        "4408": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 4408"
+        ],
+        "7008": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 7008"
+        ],
+        "7108": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 7108"
+        ],
         "7408": [
           "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 7408"
+        ],
+        "8008": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 8008"
+        ],
+        "8108": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 8108"
+        ],
+        "8408": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 8408"
+        ],
+        "0008": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 0008"
+        ],
+        "0108": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 0108"
+        ],
+        "0408": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 0408"
         ]
       },
       "acertos": {
@@ -160,7 +202,7 @@
           "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7408"
+      "resumo": "Palpites dados para esta extração: 0008, 0108, 0408, 3008, 3108, 3408, 4008, 4108, 4408, 7008, 7108, 7408, 8008, 8108, 8408"
     },
     "15h - MALUCA - BA": {
       "cabecalhos": [
@@ -232,23 +274,112 @@
         }
       ],
       "frases": {
+        "3008": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 3008",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 3008",
+          "Dezena no nono prêmio!<br>com o palpite 3008",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 3008"
+        ],
+        "3108": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 3108",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 3108",
+          "Dezena no nono prêmio!<br>com o palpite 3108",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 3108"
+        ],
+        "3408": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 3408",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 3408",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 3408",
+          "Dezena no nono prêmio!<br>com o palpite 3408",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 3408"
+        ],
+        "4008": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 4008",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 4008",
+          "Dezena no nono prêmio!<br>com o palpite 4008",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 4008"
+        ],
+        "4108": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 4108",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 4108",
+          "Dezena no nono prêmio!<br>com o palpite 4108",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 4108"
+        ],
+        "4408": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 4408",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 4408",
+          "Milhar e Centena no nono prêmio!<br>com o palpite 4408",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 4408",
+          "Dezena no nono prêmio!<br>com o palpite 4408",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 4408"
+        ],
+        "7008": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 7008",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 7008",
+          "Dezena no nono prêmio!<br>com o palpite 7008",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 7008"
+        ],
+        "7108": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 7108",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 7108",
+          "Dezena no nono prêmio!<br>com o palpite 7108",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 7108"
+        ],
         "7408": [
           "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 7408",
           "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 7408",
           "Centena e Dezena no nono prêmio!<br>com o palpite 7408",
           "Dezena no nono prêmio!<br>com o palpite 7408",
           "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 7408"
+        ],
+        "8008": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 8008",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 8008",
+          "Dezena no nono prêmio!<br>com o palpite 8008",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 8008"
+        ],
+        "8108": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 8108",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 8108",
+          "Dezena no nono prêmio!<br>com o palpite 8108",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 8108"
+        ],
+        "8408": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 8408",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 8408",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 8408",
+          "Dezena no nono prêmio!<br>com o palpite 8408",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 8408"
+        ],
+        "0008": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 0008",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 0008",
+          "Dezena no nono prêmio!<br>com o palpite 0008",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 0008"
+        ],
+        "0108": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 0108",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 0108",
+          "Dezena no nono prêmio!<br>com o palpite 0108",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 0108"
+        ],
+        "0408": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 0408",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 0408",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 0408",
+          "Dezena no nono prêmio!<br>com o palpite 0408",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 0408"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 1,
+        "Milhar": 1,
+        "Centena": 5,
+        "Dezena": 15,
         "Grupo": [
           "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7408"
+      "resumo": "Palpites dados para esta extração: 0008, 0108, 0408, 3008, 3108, 3408, 4008, 4108, 4408, 7008, 7108, 7408, 8008, 8108, 8408"
     },
     "19h - MALUCA - BA": {
       "cabecalhos": [
@@ -320,20 +451,76 @@
         }
       ],
       "frases": {
+        "3008": [
+          "Dezena no oitavo prêmio!<br>com o palpite 3008",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 3008"
+        ],
+        "3108": [
+          "Dezena no oitavo prêmio!<br>com o palpite 3108",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 3108"
+        ],
+        "3408": [
+          "Dezena no oitavo prêmio!<br>com o palpite 3408",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 3408"
+        ],
+        "4008": [
+          "Dezena no oitavo prêmio!<br>com o palpite 4008",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 4008"
+        ],
+        "4108": [
+          "Dezena no oitavo prêmio!<br>com o palpite 4108",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 4108"
+        ],
+        "4408": [
+          "Dezena no oitavo prêmio!<br>com o palpite 4408",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 4408"
+        ],
+        "7008": [
+          "Dezena no oitavo prêmio!<br>com o palpite 7008",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 7008"
+        ],
+        "7108": [
+          "Dezena no oitavo prêmio!<br>com o palpite 7108",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 7108"
+        ],
         "7408": [
           "Dezena no oitavo prêmio!<br>com o palpite 7408",
           "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 7408"
+        ],
+        "8008": [
+          "Dezena no oitavo prêmio!<br>com o palpite 8008",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 8008"
+        ],
+        "8108": [
+          "Dezena no oitavo prêmio!<br>com o palpite 8108",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 8108"
+        ],
+        "8408": [
+          "Dezena no oitavo prêmio!<br>com o palpite 8408",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 8408"
+        ],
+        "0008": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0008",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 0008"
+        ],
+        "0108": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0108",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 0108"
+        ],
+        "0408": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0408",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 0408"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 15,
         "Grupo": [
           "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7408"
+      "resumo": "Palpites dados para esta extração: 0008, 0108, 0408, 3008, 3108, 3408, 4008, 4108, 4408, 7008, 7108, 7408, 8008, 8108, 8408"
     },
     "21h - MALUCA - BA": {
       "cabecalhos": [
