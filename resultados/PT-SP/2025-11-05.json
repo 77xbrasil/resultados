@@ -382,6 +382,77 @@
         "Grupo": []
       },
       "resumo": ""
+    },
+    "SP, 18hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9042",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2957",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3654",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1744",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8359",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "5756",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "737",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "5655": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 5655",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 5655"
+        ],
+        "8655": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 8655",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 8655"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐈"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5655, 5665, 5685, 5695, 8655, 8665, 8685, 8695"
     }
   },
   "1-10": {
@@ -905,6 +976,102 @@
         "Grupo": []
       },
       "resumo": ""
+    },
+    "SP, 18hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9042",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2957",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3654",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1744",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8359",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9231",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0967",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "4554",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "2744",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "3252",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        }
+      ],
+      "frases": {
+        "5655": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 5655",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 5655"
+        ],
+        "5665": [
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 5665"
+        ],
+        "8655": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 8655",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 8655"
+        ],
+        "8665": [
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 8665"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐈",
+          "🐒"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5655, 5665, 5685, 5695, 8655, 8665, 8685, 8695"
     }
   }
 }
