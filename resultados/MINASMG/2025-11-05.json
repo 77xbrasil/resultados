@@ -152,6 +152,121 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3023",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8328",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1860",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6328",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6707",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "26246",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "175",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "3106": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 3106"
+        ],
+        "3126": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3126",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 3126"
+        ],
+        "3176": [
+          "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 3176"
+        ],
+        "3206": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 3206"
+        ],
+        "3226": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3226",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 3226"
+        ],
+        "3276": [
+          "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 3276"
+        ],
+        "3306": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 3306"
+        ],
+        "3326": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3326",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 3326"
+        ],
+        "3376": [
+          "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 3376"
+        ],
+        "3406": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 3406"
+        ],
+        "3426": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3426",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 3426"
+        ],
+        "3476": [
+          "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 3476"
+        ],
+        "3806": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 3806"
+        ],
+        "3826": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3826",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 3826"
+        ],
+        "3876": [
+          "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 3876"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐑",
+          "🦅",
+          "🦚"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3106, 3126, 3136, 3176, 3186, 3206, 3226, 3236, 3276, 3286, 3306, 3326, 3336, 3376, 3386, 3406, 3426, 3436, 3476, 3486, 3806, 3826, 3836, 3876, 3886"
+    },
+    "MINAS FEDERAL - MG": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
