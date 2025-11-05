@@ -70,20 +70,126 @@
         }
       ],
       "frases": {
+        "7000": [
+          "Dezena no quarto prêmio!<br>com o palpite 7000",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7000"
+        ],
+        "7001": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7001",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 7001"
+        ],
+        "7070": [
+          "Dezena no terceiro prêmio!<br>com o palpite 7070",
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 7070"
+        ],
+        "7071": [
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 7071"
+        ],
+        "7200": [
+          "Dezena no quarto prêmio!<br>com o palpite 7200",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7200"
+        ],
+        "7201": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7201",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 7201"
+        ],
+        "7270": [
+          "Dezena no terceiro prêmio!<br>com o palpite 7270",
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 7270"
+        ],
+        "7271": [
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 7271"
+        ],
+        "7300": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 7300",
+          "Dezena no quarto prêmio!<br>com o palpite 7300",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7300"
+        ],
+        "7301": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7301",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 7301"
+        ],
+        "7370": [
+          "Dezena no terceiro prêmio!<br>com o palpite 7370",
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 7370"
+        ],
+        "7371": [
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 7371"
+        ],
+        "7400": [
+          "Dezena no quarto prêmio!<br>com o palpite 7400",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7400"
+        ],
+        "7401": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7401",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 7401"
+        ],
+        "7470": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 7470",
+          "Dezena no terceiro prêmio!<br>com o palpite 7470",
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 7470"
+        ],
+        "7471": [
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 7471"
+        ],
         "7600": [
           "Dezena no quarto prêmio!<br>com o palpite 7600",
           "VACA 🐄 no quarto prêmio!<br>com o palpite 7600"
+        ],
+        "7601": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7601",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 7601"
+        ],
+        "7670": [
+          "Dezena no terceiro prêmio!<br>com o palpite 7670",
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 7670"
+        ],
+        "7671": [
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 7671"
+        ],
+        "7700": [
+          "Dezena no quarto prêmio!<br>com o palpite 7700",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7700"
+        ],
+        "7701": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7701",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 7701"
+        ],
+        "7770": [
+          "Dezena no terceiro prêmio!<br>com o palpite 7770",
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 7770"
+        ],
+        "7771": [
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 7771"
+        ],
+        "7800": [
+          "Dezena no quarto prêmio!<br>com o palpite 7800",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7800"
+        ],
+        "7801": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 7801",
+          "Dezena no primeiro prêmio!<br>com o palpite 7801",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 7801"
+        ],
+        "7870": [
+          "Dezena no terceiro prêmio!<br>com o palpite 7870",
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 7870"
+        ],
+        "7871": [
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 7871"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 1,
+        "Centena": 3,
+        "Dezena": 21,
         "Grupo": [
+          "🪶",
+          "🐖",
           "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7600, 7650"
+      "resumo": "Palpites dados para esta extração: 7000, 7001, 7020, 7021, 7070, 7071, 7200, 7201, 7220, 7221, 7270, 7271, 7300, 7301, 7320, 7321, 7370, 7371, 7400, 7401, 7420, 7421, 7470, 7471, 7600, 7601, 7620, 7621, 7670, 7671, 7700, 7701, 7720, 7721, 7770, 7771, 7800, 7801, 7820, 7821, 7870, 7871"
     },
     "LOTECE - CE, 14:00 (tarde)": {
       "cabecalhos": [
