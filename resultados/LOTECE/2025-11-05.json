@@ -10,71 +10,78 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5191",
-          "Grupo": "23",
-          "Bicho": "Urso"
+          "Milhar": "1801",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "6665",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "8439",
+          "Grupo": "10",
+          "Bicho": "Coelho"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "4670",
+          "Milhar": "5470",
           "Grupo": "18",
           "Bicho": "Porco"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "0009",
-          "Grupo": "03",
-          "Bicho": "Burro"
+          "Milhar": "0300",
+          "Grupo": "25",
+          "Bicho": "Vaca"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "1705",
-          "Grupo": "02",
-          "Bicho": "Águia"
+          "Milhar": "1727",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "4682",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "6077",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "0385",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "8562",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "3433",
+          "Milhar": "2233",
           "Grupo": "09",
           "Bicho": "Cobra"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "1430",
-          "Grupo": "08",
-          "Bicho": "Camelo"
+          "Milhar": "4491",
+          "Grupo": "23",
+          "Bicho": "Urso"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "2454",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "8825",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
         }
       ],
-      "frases": {},
+      "frases": {
+        "7600": [
+          "Dezena no quarto prêmio!<br>com o palpite 7600",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7600"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🐄"
+        ]
       },
       "resumo": "Palpites dados para esta extração: 7600, 7650"
     },
