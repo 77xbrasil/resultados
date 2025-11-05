@@ -330,84 +330,111 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "4278",
-          "Grupo": "20",
-          "Bicho": "Peru"
+          "Milhar": "7571",
+          "Grupo": "18",
+          "Bicho": "Porco"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "7960",
+          "Milhar": "5690",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3974",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0400",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8758",
           "Grupo": "15",
           "Bicho": "Jacaré"
         },
         {
-          "Prêmio": "3º",
-          "Milhar": "9603",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "7381",
-          "Grupo": "21",
-          "Bicho": "Touro"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "7001",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
-        },
-        {
           "Prêmio": "6º",
-          "Milhar": "9793",
-          "Grupo": "24",
-          "Bicho": "Veado"
+          "Milhar": "4729",
+          "Grupo": "08",
+          "Bicho": "Camelo"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "1124",
+          "Milhar": "5550",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1799",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0321",
           "Grupo": "06",
           "Bicho": "Cabra"
         },
         {
-          "Prêmio": "8º",
-          "Milhar": "7650",
-          "Grupo": "13",
-          "Bicho": "Galo"
-        },
-        {
-          "Prêmio": "9º",
-          "Milhar": "9050",
-          "Grupo": "13",
-          "Bicho": "Galo"
-        },
-        {
           "Prêmio": "10º",
-          "Milhar": "7642",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
+          "Milhar": "6132",
+          "Grupo": "08",
+          "Bicho": "Camelo"
         }
       ],
       "frases": {
-        "7650": [
-          "Milhar e Centena no oitavo prêmio!<br>com o palpite 7650",
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 7650",
-          "Dezena no oitavo prêmio!<br>com o palpite 7650",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 7650",
-          "Dezena no nono prêmio!<br>com o palpite 7650",
-          "GALO 🐓 no nono prêmio!<br>com o palpite 7650"
+        "9231": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 9231",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 9231"
+        ],
+        "9271": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9271",
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 9271"
+        ],
+        "9291": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 9291"
+        ],
+        "9631": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 9631",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 9631"
+        ],
+        "9671": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9671",
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 9671"
+        ],
+        "9691": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 9691"
+        ],
+        "9731": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 9731",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 9731"
+        ],
+        "9771": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9771",
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 9771"
+        ],
+        "9791": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 9791"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 1,
-        "Dezena": 2,
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 3,
         "Grupo": [
-          "🐓"
+          "🐖",
+          "🐻",
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7600, 7650"
+      "resumo": "Palpites dados para esta extração: 9211, 9231, 9271, 9291, 9611, 9631, 9671, 9691, 9711, 9731, 9771, 9791"
     },
     "A FEDERAL DO BRASIL CE - Ceará Federal": {
       "cabecalhos": [
