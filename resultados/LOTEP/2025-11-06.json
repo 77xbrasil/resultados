@@ -70,21 +70,25 @@
         }
       ],
       "frases": {
-        "8846": [
-          "Centena e Dezena no sexto prêmio!<br>com o palpite 8846",
-          "Dezena no sexto prêmio!<br>com o palpite 8846",
-          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 8846"
+        "7836": [
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 7836"
+        ],
+        "8836": [
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 8836"
+        ],
+        "9836": [
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 9836"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 1,
+        "Centena": 0,
+        "Dezena": 0,
         "Grupo": [
-          "🐘"
+          "🐍"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8846, 8849"
+      "resumo": "Palpites dados para esta extração: 7836, 7839, 8836, 8839, 9836, 9839"
     },
     "LOTEP - PB, 12:45": {
       "cabecalhos": [
@@ -155,14 +159,26 @@
           "Bicho": "Carneiro"
         }
       ],
-      "frases": {},
+      "frases": {
+        "7836": [
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 7836"
+        ],
+        "8836": [
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 8836"
+        ],
+        "9836": [
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 9836"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐍"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 8846, 8849"
+      "resumo": "Palpites dados para esta extração: 7836, 7839, 8836, 8839, 9836, 9839"
     },
     "LOTEP - PB, 15:45h": {
       "cabecalhos": [
@@ -233,22 +249,14 @@
           "Bicho": "Camelo"
         }
       ],
-      "frases": {
-        "8846": [
-          "ELEFANTE 🐘 no oitavo prêmio!<br>com o palpite 8846",
-          "Dezena no nono prêmio!<br>com o palpite 8846",
-          "ELEFANTE 🐘 no nono prêmio!<br>com o palpite 8846"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
-        "Grupo": [
-          "🐘"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8846, 8849"
+      "resumo": "Palpites dados para esta extração: 7836, 7839, 8836, 8839, 9836, 9839"
     },
     "LOTEP - PB, 18h": {
       "cabecalhos": [
@@ -320,19 +328,51 @@
         }
       ],
       "frases": {
-        "8849": [
-          "GALO 🐓 no décimo prêmio!<br>com o palpite 8849"
+        "7836": [
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 7836",
+          "Dezena no nono prêmio!<br>com o palpite 7836",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 7836"
+        ],
+        "7839": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 7839",
+          "Milhar e Centena no oitavo prêmio!<br>com o palpite 7839",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 7839",
+          "Dezena no oitavo prêmio!<br>com o palpite 7839",
+          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 7839"
+        ],
+        "8836": [
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 8836",
+          "Dezena no nono prêmio!<br>com o palpite 8836",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 8836"
+        ],
+        "8839": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 8839",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 8839",
+          "Dezena no oitavo prêmio!<br>com o palpite 8839",
+          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 8839"
+        ],
+        "9836": [
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 9836",
+          "Dezena no nono prêmio!<br>com o palpite 9836",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 9836"
+        ],
+        "9839": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 9839",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 9839",
+          "Dezena no oitavo prêmio!<br>com o palpite 9839",
+          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 9839"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Milhar": 1,
+        "Centena": 3,
+        "Dezena": 6,
         "Grupo": [
-          "🐓"
+          "🐍",
+          "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8846, 8849"
+      "resumo": "Palpites dados para esta extração: 7836, 7839, 8836, 8839, 9836, 9839"
     }
   }
 }
