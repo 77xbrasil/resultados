@@ -112,7 +112,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2029, 2229, 2829, 2929, 5029, 5229, 5829, 5929, 7029, 7229, 7829, 7929, 8029, 8229, 8829, 8929"
+      "resumo": "Palpites dados para esta extração: 5029, 5059, 5069, 7029, 7059, 7069"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -159,14 +159,23 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "5069": [
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 5069"
+        ],
+        "7069": [
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 7069"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐖"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2029, 2229, 2829, 2929, 5029, 5229, 5829, 5929, 7029, 7229, 7829, 7929, 8029, 8229, 8829, 8929"
+      "resumo": "Palpites dados para esta extração: 5029, 5059, 5069, 7029, 7059, 7069"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -687,7 +696,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2029, 2229, 2829, 2929, 5029, 5229, 5829, 5929, 7029, 7229, 7829, 7929, 8029, 8229, 8829, 8929"
+      "resumo": "Palpites dados para esta extração: 5029, 5059, 5069, 7029, 7059, 7069"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -759,84 +768,42 @@
         }
       ],
       "frases": {
-        "2029": [
-          "Dezena no nono prêmio!<br>com o palpite 2029",
-          "CAMELO 🐪 no nono prêmio!<br>com o palpite 2029"
-        ],
-        "2229": [
-          "Centena e Dezena no nono prêmio!<br>com o palpite 2229",
-          "Dezena no nono prêmio!<br>com o palpite 2229",
-          "CAMELO 🐪 no nono prêmio!<br>com o palpite 2229"
-        ],
-        "2829": [
-          "Dezena no nono prêmio!<br>com o palpite 2829",
-          "CAMELO 🐪 no nono prêmio!<br>com o palpite 2829"
-        ],
-        "2929": [
-          "Dezena no nono prêmio!<br>com o palpite 2929",
-          "CAMELO 🐪 no nono prêmio!<br>com o palpite 2929"
-        ],
         "5029": [
           "Dezena no nono prêmio!<br>com o palpite 5029",
           "CAMELO 🐪 no nono prêmio!<br>com o palpite 5029"
         ],
-        "5229": [
-          "Centena e Dezena no nono prêmio!<br>com o palpite 5229",
-          "Dezena no nono prêmio!<br>com o palpite 5229",
-          "CAMELO 🐪 no nono prêmio!<br>com o palpite 5229"
+        "5059": [
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 5059"
         ],
-        "5829": [
-          "Dezena no nono prêmio!<br>com o palpite 5829",
-          "CAMELO 🐪 no nono prêmio!<br>com o palpite 5829"
-        ],
-        "5929": [
-          "Dezena no nono prêmio!<br>com o palpite 5929",
-          "CAMELO 🐪 no nono prêmio!<br>com o palpite 5929"
+        "5069": [
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 5069",
+          "Dezena no oitavo prêmio!<br>com o palpite 5069",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 5069"
         ],
         "7029": [
           "Dezena no nono prêmio!<br>com o palpite 7029",
           "CAMELO 🐪 no nono prêmio!<br>com o palpite 7029"
         ],
-        "7229": [
-          "Centena e Dezena no nono prêmio!<br>com o palpite 7229",
-          "Dezena no nono prêmio!<br>com o palpite 7229",
-          "CAMELO 🐪 no nono prêmio!<br>com o palpite 7229"
+        "7059": [
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 7059"
         ],
-        "7829": [
-          "Dezena no nono prêmio!<br>com o palpite 7829",
-          "CAMELO 🐪 no nono prêmio!<br>com o palpite 7829"
-        ],
-        "7929": [
-          "Dezena no nono prêmio!<br>com o palpite 7929",
-          "CAMELO 🐪 no nono prêmio!<br>com o palpite 7929"
-        ],
-        "8029": [
-          "Dezena no nono prêmio!<br>com o palpite 8029",
-          "CAMELO 🐪 no nono prêmio!<br>com o palpite 8029"
-        ],
-        "8229": [
-          "Centena e Dezena no nono prêmio!<br>com o palpite 8229",
-          "Dezena no nono prêmio!<br>com o palpite 8229",
-          "CAMELO 🐪 no nono prêmio!<br>com o palpite 8229"
-        ],
-        "8829": [
-          "Dezena no nono prêmio!<br>com o palpite 8829",
-          "CAMELO 🐪 no nono prêmio!<br>com o palpite 8829"
-        ],
-        "8929": [
-          "Dezena no nono prêmio!<br>com o palpite 8929",
-          "CAMELO 🐪 no nono prêmio!<br>com o palpite 8929"
+        "7069": [
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 7069",
+          "Dezena no oitavo prêmio!<br>com o palpite 7069",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 7069"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 4,
-        "Dezena": 16,
+        "Centena": 0,
+        "Dezena": 4,
         "Grupo": [
+          "🐖",
+          "🐊",
           "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2029, 2229, 2829, 2929, 5029, 5229, 5829, 5929, 7029, 7229, 7829, 7929, 8029, 8229, 8829, 8929"
+      "resumo": "Palpites dados para esta extração: 5029, 5059, 5069, 7029, 7059, 7069"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
