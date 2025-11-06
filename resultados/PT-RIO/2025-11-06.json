@@ -51,37 +51,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "5039": [
-          "COELHO 🐇 no segundo prêmio!<br>com o palpite 5039",
-          "COELHO 🐇 no quinto prêmio!<br>com o palpite 5039",
-          "COELHO 🐇 no sexto prêmio!<br>com o palpite 5039"
-        ],
-        "7039": [
-          "COELHO 🐇 no segundo prêmio!<br>com o palpite 7039",
-          "COELHO 🐇 no quinto prêmio!<br>com o palpite 7039",
-          "COELHO 🐇 no sexto prêmio!<br>com o palpite 7039"
-        ],
-        "8039": [
-          "COELHO 🐇 no segundo prêmio!<br>com o palpite 8039",
-          "COELHO 🐇 no quinto prêmio!<br>com o palpite 8039",
-          "COELHO 🐇 no sexto prêmio!<br>com o palpite 8039"
-        ],
-        "0039": [
-          "COELHO 🐇 no segundo prêmio!<br>com o palpite 0039",
-          "COELHO 🐇 no quinto prêmio!<br>com o palpite 0039",
-          "COELHO 🐇 no sexto prêmio!<br>com o palpite 0039"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐇"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0039, 5039, 7039, 8039"
+      "resumo": "Palpites dados para esta extração: 0059, 0069, 0459, 0469, 0559, 0569, 0959, 0969, 5059, 5069, 5459, 5469, 5559, 5569, 5959, 5969"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -141,7 +118,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0039, 5039, 7039, 8039"
+      "resumo": "Palpites dados para esta extração: 0059, 0069, 0459, 0469, 0559, 0569, 0959, 0969, 5059, 5069, 5459, 5469, 5559, 5569, 5959, 5969"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -195,32 +172,76 @@
         }
       ],
       "frases": {
-        "5039": [
-          "Dezena no sétimo prêmio!<br>com o palpite 5039",
-          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 5039"
+        "5059": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 5059"
         ],
-        "7039": [
-          "Dezena no sétimo prêmio!<br>com o palpite 7039",
-          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 7039"
+        "5069": [
+          "Dezena no segundo prêmio!<br>com o palpite 5069",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 5069"
         ],
-        "8039": [
-          "Dezena no sétimo prêmio!<br>com o palpite 8039",
-          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 8039"
+        "5459": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 5459"
         ],
-        "0039": [
-          "Dezena no sétimo prêmio!<br>com o palpite 0039",
-          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 0039"
+        "5469": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 5469",
+          "Dezena no segundo prêmio!<br>com o palpite 5469",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 5469"
+        ],
+        "5559": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 5559"
+        ],
+        "5569": [
+          "Dezena no segundo prêmio!<br>com o palpite 5569",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 5569"
+        ],
+        "5959": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 5959"
+        ],
+        "5969": [
+          "Dezena no segundo prêmio!<br>com o palpite 5969",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 5969"
+        ],
+        "0069": [
+          "Dezena no segundo prêmio!<br>com o palpite 0069",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0069"
+        ],
+        "0469": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 0469",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 0469",
+          "Dezena no segundo prêmio!<br>com o palpite 0469",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0469"
+        ],
+        "0569": [
+          "Dezena no segundo prêmio!<br>com o palpite 0569",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0569"
+        ],
+        "0969": [
+          "Dezena no segundo prêmio!<br>com o palpite 0969",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0969"
+        ],
+        "0059": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 0059"
+        ],
+        "0459": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 0459"
+        ],
+        "0559": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 0559"
+        ],
+        "0959": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 0959"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 4,
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 8,
         "Grupo": [
-          "🐇"
+          "🐖",
+          "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0039, 5039, 7039, 8039"
+      "resumo": "Palpites dados para esta extração: 0059, 0069, 0459, 0469, 0559, 0569, 0959, 0969, 5059, 5069, 5459, 5469, 5559, 5569, 5959, 5969"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -316,33 +337,14 @@
           "Bicho": "Elefante"
         }
       ],
-      "frases": {
-        "5039": [
-          "COELHO 🐇 no segundo prêmio!<br>com o palpite 5039",
-          "COELHO 🐇 no quinto prêmio!<br>com o palpite 5039"
-        ],
-        "7039": [
-          "COELHO 🐇 no segundo prêmio!<br>com o palpite 7039",
-          "COELHO 🐇 no quinto prêmio!<br>com o palpite 7039"
-        ],
-        "8039": [
-          "COELHO 🐇 no segundo prêmio!<br>com o palpite 8039",
-          "COELHO 🐇 no quinto prêmio!<br>com o palpite 8039"
-        ],
-        "0039": [
-          "COELHO 🐇 no segundo prêmio!<br>com o palpite 0039",
-          "COELHO 🐇 no quinto prêmio!<br>com o palpite 0039"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐇"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0039, 5039, 7039, 8039"
+      "resumo": "Palpites dados para esta extração: 0059, 0069, 0459, 0469, 0559, 0569, 0959, 0969, 5059, 5069, 5459, 5469, 5559, 5569, 5959, 5969"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -414,32 +416,40 @@
         }
       ],
       "frases": {
-        "5039": [
-          "Dezena no oitavo prêmio!<br>com o palpite 5039",
-          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 5039"
+        "5059": [
+          "JACARÉ 🐊 no décimo prêmio!<br>com o palpite 5059"
         ],
-        "7039": [
-          "Dezena no oitavo prêmio!<br>com o palpite 7039",
-          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 7039"
+        "5459": [
+          "JACARÉ 🐊 no décimo prêmio!<br>com o palpite 5459"
         ],
-        "8039": [
-          "Dezena no oitavo prêmio!<br>com o palpite 8039",
-          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 8039"
+        "5559": [
+          "JACARÉ 🐊 no décimo prêmio!<br>com o palpite 5559"
         ],
-        "0039": [
-          "Dezena no oitavo prêmio!<br>com o palpite 0039",
-          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 0039"
+        "5959": [
+          "JACARÉ 🐊 no décimo prêmio!<br>com o palpite 5959"
+        ],
+        "0059": [
+          "JACARÉ 🐊 no décimo prêmio!<br>com o palpite 0059"
+        ],
+        "0459": [
+          "JACARÉ 🐊 no décimo prêmio!<br>com o palpite 0459"
+        ],
+        "0559": [
+          "JACARÉ 🐊 no décimo prêmio!<br>com o palpite 0559"
+        ],
+        "0959": [
+          "JACARÉ 🐊 no décimo prêmio!<br>com o palpite 0959"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 4,
+        "Dezena": 0,
         "Grupo": [
-          "🐇"
+          "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0039, 5039, 7039, 8039"
+      "resumo": "Palpites dados para esta extração: 0059, 0069, 0459, 0469, 0559, 0569, 0959, 0969, 5059, 5069, 5459, 5469, 5559, 5569, 5959, 5969"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -510,14 +520,77 @@
           "Bicho": "Gato"
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "5059": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 5059"
+        ],
+        "5069": [
+          "Dezena no segundo prêmio!<br>com o palpite 5069",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 5069"
+        ],
+        "5459": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 5459"
+        ],
+        "5469": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 5469",
+          "Dezena no segundo prêmio!<br>com o palpite 5469",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 5469"
+        ],
+        "5559": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 5559"
+        ],
+        "5569": [
+          "Dezena no segundo prêmio!<br>com o palpite 5569",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 5569"
+        ],
+        "5959": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 5959"
+        ],
+        "5969": [
+          "Dezena no segundo prêmio!<br>com o palpite 5969",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 5969"
+        ],
+        "0069": [
+          "Dezena no segundo prêmio!<br>com o palpite 0069",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0069"
+        ],
+        "0469": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 0469",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 0469",
+          "Dezena no segundo prêmio!<br>com o palpite 0469",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0469"
+        ],
+        "0569": [
+          "Dezena no segundo prêmio!<br>com o palpite 0569",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0569"
+        ],
+        "0969": [
+          "Dezena no segundo prêmio!<br>com o palpite 0969",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0969"
+        ],
+        "0059": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 0059"
+        ],
+        "0459": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 0459"
+        ],
+        "0559": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 0559"
+        ],
+        "0959": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 0959"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0039, 5039, 7039, 8039"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 8,
+        "Grupo": [
+          "🐖",
+          "🐊"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0059, 0069, 0459, 0469, 0559, 0569, 0959, 0969, 5059, 5069, 5459, 5469, 5559, 5569, 5959, 5969"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
