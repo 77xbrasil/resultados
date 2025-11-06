@@ -105,14 +105,35 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2000": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 2000",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 2000",
+          "Dezena no sexto prêmio!<br>com o palpite 2000",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 2000"
+        ],
+        "5000": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 5000",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 5000",
+          "Dezena no sexto prêmio!<br>com o palpite 5000",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 5000"
+        ],
+        "7000": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 7000",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 7000",
+          "Dezena no sexto prêmio!<br>com o palpite 7000",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 7000"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 3,
+        "Dezena": 3,
+        "Grupo": [
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5029, 5059, 5069, 7029, 7059, 7069"
+      "resumo": "Palpites dados para esta extração: 2000, 2060, 5000, 5060, 7000, 7060"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -160,11 +181,17 @@
         }
       ],
       "frases": {
-        "5069": [
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 5069"
+        "2000": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 2000",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 2000"
         ],
-        "7069": [
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 7069"
+        "5000": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 5000",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 5000"
+        ],
+        "7000": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7000",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 7000"
         ]
       },
       "acertos": {
@@ -172,10 +199,10 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐖"
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5029, 5059, 5069, 7029, 7059, 7069"
+      "resumo": "Palpites dados para esta extração: 2000, 2060, 5000, 5060, 7000, 7060"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -229,7 +256,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5029, 5059, 5069, 7029, 7059, 7069"
+      "resumo": "Palpites dados para esta extração: 2000, 2060, 5000, 5060, 7000, 7060"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -679,14 +706,29 @@
           "Bicho": "Vaca"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2000": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 2000",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 2000"
+        ],
+        "5000": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 5000",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 5000"
+        ],
+        "7000": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 7000",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 7000"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5029, 5059, 5069, 7029, 7059, 7069"
+      "resumo": "Palpites dados para esta extração: 2000, 2060, 5000, 5060, 7000, 7060"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -758,42 +800,41 @@
         }
       ],
       "frases": {
-        "5029": [
-          "Dezena no nono prêmio!<br>com o palpite 5029",
-          "CAMELO 🐪 no nono prêmio!<br>com o palpite 5029"
+        "2000": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 2000",
+          "Dezena no sétimo prêmio!<br>com o palpite 2000",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 2000"
         ],
-        "5059": [
-          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 5059"
+        "2060": [
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 2060"
         ],
-        "5069": [
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 5069",
-          "Dezena no oitavo prêmio!<br>com o palpite 5069",
-          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 5069"
+        "5000": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 5000",
+          "Dezena no sétimo prêmio!<br>com o palpite 5000",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 5000"
         ],
-        "7029": [
-          "Dezena no nono prêmio!<br>com o palpite 7029",
-          "CAMELO 🐪 no nono prêmio!<br>com o palpite 7029"
+        "5060": [
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 5060"
         ],
-        "7059": [
-          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 7059"
+        "7000": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7000",
+          "Dezena no sétimo prêmio!<br>com o palpite 7000",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7000"
         ],
-        "7069": [
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 7069",
-          "Dezena no oitavo prêmio!<br>com o palpite 7069",
-          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 7069"
+        "7060": [
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 7060"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 4,
+        "Dezena": 3,
         "Grupo": [
-          "🐖",
-          "🐊",
-          "🐪"
+          "🐄",
+          "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5029, 5059, 5069, 7029, 7059, 7069"
+      "resumo": "Palpites dados para esta extração: 2000, 2060, 5000, 5060, 7000, 7060"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -864,14 +905,29 @@
           "Bicho": "Vaca"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2000": [
+          "Dezena no décimo prêmio!<br>com o palpite 2000",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 2000"
+        ],
+        "5000": [
+          "Dezena no décimo prêmio!<br>com o palpite 5000",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 5000"
+        ],
+        "7000": [
+          "Dezena no décimo prêmio!<br>com o palpite 7000",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 7000"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 3,
+        "Grupo": [
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5029, 5059, 5069, 7029, 7059, 7069"
+      "resumo": "Palpites dados para esta extração: 2000, 2060, 5000, 5060, 7000, 7060"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
