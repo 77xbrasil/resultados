@@ -51,14 +51,21 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2692": [
+          "Dezena no segundo prêmio!<br>com o palpite 2692",
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 2692"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🐻"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2602, 2608, 2622, 2628"
+      "resumo": "Palpites dados para esta extração: 2602, 2622, 2682, 2692"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
@@ -112,33 +119,22 @@
         }
       ],
       "frases": {
-        "2608": [
-          "Dezena no primeiro prêmio!<br>com o palpite 2608",
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 2608",
-          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2608"
-        ],
         "2622": [
           "Milhar e Centena no quarto prêmio!<br>com o palpite 2622",
           "Centena e Dezena no quarto prêmio!<br>com o palpite 2622",
           "Dezena no quarto prêmio!<br>com o palpite 2622",
           "CABRA 🐐 no quarto prêmio!<br>com o palpite 2622"
-        ],
-        "2628": [
-          "Dezena no segundo prêmio!<br>com o palpite 2628",
-          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2628"
         ]
       },
       "acertos": {
         "Milhar": 1,
         "Centena": 1,
-        "Dezena": 3,
+        "Dezena": 1,
         "Grupo": [
-          "🦅",
-          "🐑",
           "🐐"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2602, 2608, 2622, 2628"
+      "resumo": "Palpites dados para esta extração: 2602, 2622, 2682, 2692"
     },
     "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
@@ -194,17 +190,28 @@
       "frases": {
         "2622": [
           "CABRA 🐐 no sexto prêmio!<br>com o palpite 2622"
+        ],
+        "2682": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2682",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 2682",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 2682"
+        ],
+        "2692": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 2692",
+          "URSO 🐻 no sétimo prêmio!<br>com o palpite 2692"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 1,
         "Grupo": [
+          "🐂",
+          "🐻",
           "🐐"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2602, 2608, 2622, 2628"
+      "resumo": "Palpites dados para esta extração: 2602, 2622, 2682, 2692"
     },
     "PREFERIDA - MG, 21h": {
       "cabecalhos": [
