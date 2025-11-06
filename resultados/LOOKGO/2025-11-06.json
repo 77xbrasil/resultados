@@ -177,55 +177,94 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "1562",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "6027",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "8647",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "1014",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "1991",
-          "Grupo": "23",
-          "Bicho": "Urso"
+          "Milhar": "0126",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "0921",
-          "Grupo": "06",
-          "Bicho": "Cabra"
+          "Milhar": "8144",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "8090",
-          "Grupo": "23",
-          "Bicho": "Urso"
+          "Milhar": "8712",
+          "Grupo": "03",
+          "Bicho": "Burro"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "1211",
+          "Milhar": "4023",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "506",
+          "Milhar": "111",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1141": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 1141"
+        ],
+        "1142": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 1142"
+        ],
+        "1441": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 1441"
+        ],
+        "1442": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 1442"
+        ],
+        "1641": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 1641"
+        ],
+        "1642": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 1642"
+        ],
+        "0141": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 0141"
+        ],
+        "0142": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 0142"
+        ],
+        "0441": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 0441"
+        ],
+        "0442": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 0442"
+        ],
+        "0641": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 0641"
+        ],
+        "0642": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 0642"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐎"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2231, 2241, 2251, 2271, 2631, 2641, 2651, 2671, 2831, 2841, 2851, 2871, 4231, 4241, 4251, 4271, 4631, 4641, 4651, 4671, 4831, 4841, 4851, 4871, 8231, 8241, 8251, 8271, 8631, 8641, 8651, 8671, 8831, 8841, 8851, 8871"
+      "resumo": "Palpites dados para esta extração: 0101, 0102, 0107, 0141, 0142, 0147, 0401, 0402, 0407, 0441, 0442, 0447, 0601, 0602, 0607, 0641, 0642, 0647, 1101, 1102, 1107, 1141, 1142, 1147, 1401, 1402, 1407, 1441, 1442, 1447, 1601, 1602, 1607, 1641, 1642, 1647"
     },
     "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
@@ -1185,73 +1224,131 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "1562",
+          "Milhar": "6027",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1014",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0126",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8144",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8712",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "6108",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0011",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2124",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "7464",
           "Grupo": "16",
           "Bicho": "Leão"
         },
         {
-          "Prêmio": "2º",
-          "Milhar": "8647",
-          "Grupo": "12",
-          "Bicho": "Elefante"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "1991",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "0921",
-          "Grupo": "06",
-          "Bicho": "Cabra"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "8090",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "1810",
-          "Grupo": "03",
-          "Bicho": "Burro"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "5699",
-          "Grupo": "25",
-          "Bicho": "Vaca"
-        },
-        {
-          "Prêmio": "8º",
-          "Milhar": "6492",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
-          "Prêmio": "9º",
-          "Milhar": "2711",
-          "Grupo": "03",
-          "Bicho": "Burro"
-        },
-        {
           "Prêmio": "10º",
-          "Milhar": "7923",
-          "Grupo": "06",
-          "Bicho": "Cabra"
+          "Milhar": "9730",
+          "Grupo": "08",
+          "Bicho": "Camelo"
         }
       ],
-      "frases": {},
+      "frases": {
+        "1107": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 1107"
+        ],
+        "1141": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 1141"
+        ],
+        "1142": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 1142"
+        ],
+        "1407": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 1407"
+        ],
+        "1441": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 1441"
+        ],
+        "1442": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 1442"
+        ],
+        "1607": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 1607"
+        ],
+        "1641": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 1641"
+        ],
+        "1642": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 1642"
+        ],
+        "0141": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 0141"
+        ],
+        "0142": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 0142"
+        ],
+        "0441": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 0441"
+        ],
+        "0442": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 0442"
+        ],
+        "0641": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 0641"
+        ],
+        "0642": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 0642"
+        ],
+        "0107": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 0107"
+        ],
+        "0407": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 0407"
+        ],
+        "0607": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 0607"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐎",
+          "🦅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2231, 2241, 2251, 2271, 2631, 2641, 2651, 2671, 2831, 2841, 2851, 2871, 4231, 4241, 4251, 4271, 4631, 4641, 4651, 4671, 4831, 4841, 4851, 4871, 8231, 8241, 8251, 8271, 8631, 8641, 8651, 8671, 8831, 8841, 8851, 8871"
+      "resumo": "Palpites dados para esta extração: 0101, 0102, 0107, 0141, 0142, 0147, 0401, 0402, 0407, 0441, 0442, 0447, 0601, 0602, 0607, 0641, 0642, 0647, 1101, 1102, 1107, 1141, 1142, 1147, 1401, 1402, 1407, 1441, 1442, 1447, 1601, 1602, 1607, 1641, 1642, 1647"
     },
     "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
