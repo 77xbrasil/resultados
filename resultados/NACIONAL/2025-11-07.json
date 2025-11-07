@@ -364,49 +364,68 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "4753",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "7271",
+          "Grupo": "18",
+          "Bicho": "Porco"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "1446",
+          "Milhar": "9143",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7609",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7348",
           "Grupo": "12",
           "Bicho": "Elefante"
         },
         {
-          "Prêmio": "3º",
-          "Milhar": "6490",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "6453",
+          "Prêmio": "5º",
+          "Milhar": "9256",
           "Grupo": "14",
           "Bicho": "Gato"
         },
         {
-          "Prêmio": "5º",
-          "Milhar": "6999",
-          "Grupo": "25",
-          "Bicho": "Vaca"
-        },
-        {
           "Prêmio": "6º [soma]",
-          "Milhar": "6141",
+          "Milhar": "0627",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1043": [
+          "Dezena no segundo prêmio!<br>com o palpite 1043",
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 1043"
+        ],
+        "1843": [
+          "Dezena no segundo prêmio!<br>com o palpite 1843",
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 1843"
+        ],
+        "6043": [
+          "Dezena no segundo prêmio!<br>com o palpite 6043",
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 6043"
+        ],
+        "6843": [
+          "Dezena no segundo prêmio!<br>com o palpite 6843",
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 6843"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 4,
+        "Grupo": [
+          "🐎"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1303, 1323, 1363, 2303, 2323, 2363, 4303, 4323, 4363"
+      "resumo": "Palpites dados para esta extração: 1043, 1843, 6043, 6843"
     },
     "Nacional - LN 23:00": {
       "cabecalhos": [
@@ -1016,88 +1035,92 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "4753",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "7271",
+          "Grupo": "18",
+          "Bicho": "Porco"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "1446",
-          "Grupo": "12",
-          "Bicho": "Elefante"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "6490",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "6453",
-          "Grupo": "14",
-          "Bicho": "Gato"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "6999",
-          "Grupo": "25",
-          "Bicho": "Vaca"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "4166",
-          "Grupo": "17",
-          "Bicho": "Macaco"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "7444",
+          "Milhar": "9143",
           "Grupo": "11",
           "Bicho": "Cavalo"
         },
         {
-          "Prêmio": "8º",
-          "Milhar": "5495",
-          "Grupo": "24",
-          "Bicho": "Veado"
+          "Prêmio": "3º",
+          "Milhar": "7609",
+          "Grupo": "03",
+          "Bicho": "Burro"
         },
         {
-          "Prêmio": "9º",
-          "Milhar": "3603",
+          "Prêmio": "4º",
+          "Milhar": "7348",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9256",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7977",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2163",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7404",
           "Grupo": "01",
           "Bicho": "Avestruz"
         },
         {
+          "Prêmio": "9º",
+          "Milhar": "1398",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
           "Prêmio": "10º",
-          "Milhar": "6849",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "9569",
+          "Grupo": "18",
+          "Bicho": "Porco"
         }
       ],
       "frases": {
-        "1303": [
-          "Dezena no nono prêmio!<br>com o palpite 1303",
-          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 1303"
+        "1043": [
+          "Dezena no segundo prêmio!<br>com o palpite 1043",
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 1043"
         ],
-        "2303": [
-          "Dezena no nono prêmio!<br>com o palpite 2303",
-          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 2303"
+        "1843": [
+          "Dezena no segundo prêmio!<br>com o palpite 1843",
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 1843"
         ],
-        "4303": [
-          "Dezena no nono prêmio!<br>com o palpite 4303",
-          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 4303"
+        "6043": [
+          "Dezena no segundo prêmio!<br>com o palpite 6043",
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 6043"
+        ],
+        "6843": [
+          "Dezena no segundo prêmio!<br>com o palpite 6843",
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 6843"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
+        "Dezena": 4,
         "Grupo": [
-          "🪶"
+          "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1303, 1323, 1363, 2303, 2323, 2363, 4303, 4323, 4363"
+      "resumo": "Palpites dados para esta extração: 1043, 1843, 6043, 6843"
     },
     "Nacional - LN 23:00 do 1º ao 10º": {
       "cabecalhos": [
