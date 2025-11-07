@@ -375,20 +375,80 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "0983",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5370",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1497",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6360",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5001",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "9211",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "278",
+          "Grupo": "",
+          "Bicho": ""
+        }
       ],
-      "frases": {},
+      "frases": {
+        "0771": [
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0771"
+        ],
+        "0798": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 0798"
+        ],
+        "0701": [
+          "Dezena no quinto prêmio!<br>com o palpite 0701",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 0701"
+        ],
+        "0704": [
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 0704"
+        ],
+        "0778": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0778",
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 0778"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐖",
+          "🐄",
+          "🪶",
+          "🦃"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 0701, 0704, 0708, 0771, 0774, 0778, 0791, 0794, 0798"
     }
   },
   "1-10": {
@@ -881,25 +941,98 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "0983",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5370",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1497",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6360",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5001",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0516",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "9343",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8796",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3070",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0936",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "0771": [
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0771",
+          "PORCO 🐖 no nono prêmio!<br>com o palpite 0771"
+        ],
+        "0798": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 0798"
+        ],
+        "0701": [
+          "Dezena no quinto prêmio!<br>com o palpite 0701",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 0701"
+        ],
+        "0704": [
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 0704"
+        ],
+        "0794": [
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 0794"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🐖",
+          "🐄",
+          "🪶",
+          "🦌"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 0701, 0704, 0708, 0771, 0774, 0778, 0791, 0794, 0798"
     }
   }
 }
