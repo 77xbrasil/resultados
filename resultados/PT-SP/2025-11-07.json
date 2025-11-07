@@ -264,6 +264,101 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7662",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7945",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6987",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5770",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5570",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "3934",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "874",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "8034": [
+          "Dezena no sexto prêmio!<br>com o palpite 8034",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 8034"
+        ],
+        "8048": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 8048"
+        ],
+        "8088": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 8088"
+        ],
+        "8334": [
+          "Dezena no sexto prêmio!<br>com o palpite 8334",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 8334"
+        ],
+        "8348": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 8348"
+        ],
+        "8388": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 8388"
+        ],
+        "8634": [
+          "Dezena no sexto prêmio!<br>com o palpite 8634",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 8634"
+        ],
+        "8648": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 8648"
+        ],
+        "8688": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 8688"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 3,
+        "Grupo": [
+          "🐘",
+          "🐅",
+          "🐍"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 8004, 8008, 8034, 8038, 8044, 8048, 8084, 8088, 8304, 8308, 8334, 8338, 8344, 8348, 8384, 8388, 8604, 8608, 8634, 8638, 8644, 8648, 8684, 8688"
+    },
+    "SP, 17hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
@@ -636,6 +731,109 @@
       "resumo": "Palpites dados para esta extração: 8004, 8008, 8034, 8038, 8044, 8048, 8084, 8088, 8304, 8308, 8334, 8338, 8344, 8348, 8384, 8388, 8604, 8608, 8634, 8638, 8644, 8648, 8684, 8688"
     },
     "SP, 13hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7662",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7945",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6987",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5770",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5570",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7765",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6997",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6487",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "2570",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7753",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        }
+      ],
+      "frases": {
+        "8048": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 8048"
+        ],
+        "8088": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 8088",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 8088"
+        ],
+        "8348": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 8348"
+        ],
+        "8388": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 8388",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 8388"
+        ],
+        "8648": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 8648"
+        ],
+        "8688": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 8688",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 8688"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐘",
+          "🐅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 8004, 8008, 8034, 8038, 8044, 8048, 8084, 8088, 8304, 8308, 8334, 8338, 8344, 8348, 8384, 8388, 8604, 8608, 8634, 8638, 8644, 8648, 8684, 8688"
+    },
+    "SP, 17hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
