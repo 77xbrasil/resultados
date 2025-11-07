@@ -120,71 +120,86 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5470",
-          "Grupo": "18",
-          "Bicho": "Porco"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "3922",
+          "Milhar": "0224",
           "Grupo": "06",
           "Bicho": "Cabra"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "2583",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
           "Prêmio": "3º",
-          "Milhar": "5062",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "4236",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "8099",
+          "Milhar": "6300",
           "Grupo": "25",
           "Bicho": "Vaca"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "7045",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "1492",
+          "Grupo": "23",
+          "Bicho": "Urso"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "9598",
+          "Milhar": "4835",
           "Grupo": "",
           "Bicho": ""
         }
       ],
       "frases": {
-        "1323": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 1323"
+        "1335": [
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 1335",
+          "Dezena no sexto prêmio!<br>com o palpite 1335",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 1335"
         ],
-        "1363": [
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 1363"
+        "1398": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 1398"
         ],
-        "2323": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 2323"
+        "1399": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 1399"
         ],
-        "2363": [
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 2363"
+        "2335": [
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 2335",
+          "Dezena no sexto prêmio!<br>com o palpite 2335",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 2335"
         ],
-        "4323": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 4323"
+        "2398": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 2398"
         ],
-        "4363": [
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 4363"
+        "2399": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 2399"
+        ],
+        "0335": [
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 0335",
+          "Dezena no sexto prêmio!<br>com o palpite 0335",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 0335"
+        ],
+        "0398": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 0398"
+        ],
+        "0399": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 0399"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 3,
         "Grupo": [
-          "🐐",
-          "🦁"
+          "🐍",
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1303, 1323, 1363, 2303, 2323, 2363, 4303, 4323, 4363"
+      "resumo": "Palpites dados para esta extração: 0305, 0308, 0309, 0335, 0338, 0339, 0355, 0358, 0359, 0395, 0398, 0399, 1305, 1308, 1309, 1335, 1338, 1339, 1355, 1358, 1359, 1395, 1398, 1399, 2305, 2308, 2309, 2335, 2338, 2339, 2355, 2358, 2359, 2395, 2398, 2399"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -786,83 +801,119 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5470",
-          "Grupo": "18",
-          "Bicho": "Porco"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "3922",
+          "Milhar": "0224",
           "Grupo": "06",
           "Bicho": "Cabra"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "2583",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
           "Prêmio": "3º",
-          "Milhar": "5062",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "4236",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "8099",
+          "Milhar": "6300",
           "Grupo": "25",
           "Bicho": "Vaca"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "7045",
+          "Milhar": "1492",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0246",
           "Grupo": "12",
           "Bicho": "Elefante"
         },
         {
-          "Prêmio": "6º",
-          "Milhar": "5358",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
-        },
-        {
           "Prêmio": "7º",
-          "Milhar": "4900",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "2523",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "7269",
-          "Grupo": "18",
-          "Bicho": "Porco"
-        },
-        {
-          "Prêmio": "9º",
-          "Milhar": "0229",
+          "Milhar": "2830",
           "Grupo": "08",
           "Bicho": "Camelo"
         },
         {
+          "Prêmio": "9º",
+          "Milhar": "4360",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
           "Prêmio": "10º",
-          "Milhar": "7354",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "4794",
+          "Grupo": "24",
+          "Bicho": "Veado"
         }
       ],
       "frases": {
-        "1323": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 1323"
+        "1335": [
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 1335"
         ],
-        "1363": [
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 1363"
+        "1358": [
+          "JACARÉ 🐊 no nono prêmio!<br>com o palpite 1358"
         ],
-        "2323": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 2323"
+        "1359": [
+          "JACARÉ 🐊 no nono prêmio!<br>com o palpite 1359"
         ],
-        "2363": [
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 2363"
+        "1395": [
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 1395"
         ],
-        "4323": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 4323"
+        "1398": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 1398"
         ],
-        "4363": [
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 4363"
+        "1399": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 1399"
+        ],
+        "2335": [
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 2335"
+        ],
+        "2358": [
+          "JACARÉ 🐊 no nono prêmio!<br>com o palpite 2358"
+        ],
+        "2359": [
+          "JACARÉ 🐊 no nono prêmio!<br>com o palpite 2359"
+        ],
+        "2395": [
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 2395"
+        ],
+        "2398": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 2398"
+        ],
+        "2399": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 2399"
+        ],
+        "0335": [
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 0335"
+        ],
+        "0398": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 0398"
+        ],
+        "0399": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 0399"
+        ],
+        "0358": [
+          "JACARÉ 🐊 no nono prêmio!<br>com o palpite 0358"
+        ],
+        "0359": [
+          "JACARÉ 🐊 no nono prêmio!<br>com o palpite 0359"
+        ],
+        "0395": [
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 0395"
         ]
       },
       "acertos": {
@@ -870,11 +921,13 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐐",
-          "🦁"
+          "🐍",
+          "🐄",
+          "🐊",
+          "🦌"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1303, 1323, 1363, 2303, 2323, 2363, 4303, 4323, 4363"
+      "resumo": "Palpites dados para esta extração: 0305, 0308, 0309, 0335, 0338, 0339, 0355, 0358, 0359, 0395, 0398, 0399, 1305, 1308, 1309, 1335, 1338, 1339, 1355, 1358, 1359, 1395, 1398, 1399, 2305, 2308, 2309, 2335, 2338, 2339, 2355, 2358, 2359, 2395, 2398, 2399"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
