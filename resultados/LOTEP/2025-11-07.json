@@ -69,14 +69,32 @@
           "Bicho": "Peru"
         }
       ],
-      "frases": {},
+      "frases": {
+        "4518": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4518",
+          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 4518",
+          "CACHORRO 🐕 no oitavo prêmio!<br>com o palpite 4518"
+        ],
+        "8518": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8518",
+          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 8518",
+          "CACHORRO 🐕 no oitavo prêmio!<br>com o palpite 8518"
+        ],
+        "9518": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9518",
+          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 9518",
+          "CACHORRO 🐕 no oitavo prêmio!<br>com o palpite 9518"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 3,
+        "Grupo": [
+          "🐕"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0338, 0538, 0838, 1338, 1538, 1838, 4338, 4538, 4838, 6338, 6538, 6838, 7338, 7538, 7838, 8338, 8538, 8838, 9338, 9538, 9838"
+      "resumo": "Palpites dados para esta extração: 4518, 8518, 9518"
     },
     "LOTEP - PB, 12:45": {
       "cabecalhos": [
