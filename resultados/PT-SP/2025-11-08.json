@@ -52,6 +52,25 @@
         }
       ],
       "frases": {
+        "2502": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 2502"
+        ],
+        "2577": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2577",
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 2577"
+        ],
+        "2578": [
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 2578"
+        ],
+        "2587": [
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 2587"
+        ],
+        "2588": [
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 2588"
+        ],
+        "2702": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 2702"
+        ],
         "2777": [
           "Centena e Dezena no sétimo prêmio!<br>com o palpite 2777",
           "Dezena no sétimo prêmio!<br>com o palpite 2777",
@@ -59,17 +78,25 @@
         ],
         "2778": [
           "PERU 🦃 no sétimo prêmio!<br>com o palpite 2778"
+        ],
+        "2787": [
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 2787"
+        ],
+        "2788": [
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 2788"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 1,
-        "Dezena": 1,
+        "Dezena": 2,
         "Grupo": [
+          "🪶",
+          "🐅",
           "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2777, 2778"
+      "resumo": "Palpites dados para esta extração: 2502, 2507, 2508, 2562, 2567, 2568, 2572, 2577, 2578, 2582, 2587, 2588, 2702, 2707, 2708, 2762, 2767, 2768, 2772, 2777, 2778, 2782, 2787, 2788"
     },
     "SP, 10hs - PTSP": {
       "cabecalhos": [
@@ -122,14 +149,46 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2507": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2507"
+        ],
+        "2508": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2508"
+        ],
+        "2567": [
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 2567",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 2567"
+        ],
+        "2568": [
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 2568",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 2568"
+        ],
+        "2707": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2707"
+        ],
+        "2708": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2708"
+        ],
+        "2767": [
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 2767",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 2767"
+        ],
+        "2768": [
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 2768",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 2768"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐒",
+          "🦅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2777, 2778"
+      "resumo": "Palpites dados para esta extração: 2502, 2507, 2508, 2562, 2567, 2568, 2572, 2577, 2578, 2582, 2587, 2588, 2702, 2707, 2708, 2762, 2767, 2768, 2772, 2777, 2778, 2782, 2787, 2788"
     },
     "SP, 12:00 - PTSP": {
       "cabecalhos": [
@@ -182,14 +241,43 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2502": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 2502"
+        ],
+        "2572": [
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 2572"
+        ],
+        "2587": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 2587"
+        ],
+        "2588": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 2588"
+        ],
+        "2702": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 2702"
+        ],
+        "2772": [
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 2772"
+        ],
+        "2787": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 2787"
+        ],
+        "2788": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 2788"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🪶",
+          "🐅",
+          "🐖"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2777, 2778"
+      "resumo": "Palpites dados para esta extração: 2502, 2507, 2508, 2562, 2567, 2568, 2572, 2577, 2578, 2582, 2587, 2588, 2702, 2707, 2708, 2762, 2767, 2768, 2772, 2777, 2778, 2782, 2787, 2788"
     },
     "SP, 13hs - PTSP": {
       "cabecalhos": [
@@ -242,14 +330,29 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2507": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 2507"
+        ],
+        "2508": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 2508"
+        ],
+        "2707": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 2707"
+        ],
+        "2708": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 2708"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2777, 2778"
+      "resumo": "Palpites dados para esta extração: 2502, 2507, 2508, 2562, 2567, 2568, 2572, 2577, 2578, 2582, 2587, 2588, 2702, 2707, 2708, 2762, 2767, 2768, 2772, 2777, 2778, 2782, 2787, 2788"
     },
     "SP, 17hs - PTSP": {
       "cabecalhos": [
@@ -302,14 +405,32 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2502": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 2502"
+        ],
+        "2572": [
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 2572",
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 2572"
+        ],
+        "2702": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 2702"
+        ],
+        "2772": [
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 2772",
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 2772"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐖",
+          "🪶"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2777, 2778"
+      "resumo": "Palpites dados para esta extração: 2502, 2507, 2508, 2562, 2567, 2568, 2572, 2577, 2578, 2582, 2587, 2588, 2702, 2707, 2708, 2762, 2767, 2768, 2772, 2777, 2778, 2782, 2787, 2788"
     },
     "SP, 19hs - PTSP": {
       "cabecalhos": [
@@ -363,6 +484,19 @@
         }
       ],
       "frases": {
+        "2502": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 2502"
+        ],
+        "2577": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 2577"
+        ],
+        "2578": [
+          "Dezena no segundo prêmio!<br>com o palpite 2578",
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 2578"
+        ],
+        "2702": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 2702"
+        ],
         "2777": [
           "PERU 🦃 no segundo prêmio!<br>com o palpite 2777"
         ],
@@ -374,12 +508,13 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 2,
         "Grupo": [
+          "🪶",
           "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2777, 2778"
+      "resumo": "Palpites dados para esta extração: 2502, 2507, 2508, 2562, 2567, 2568, 2572, 2577, 2578, 2582, 2587, 2588, 2702, 2707, 2708, 2762, 2767, 2768, 2772, 2777, 2778, 2782, 2787, 2788"
     },
     "SP, 20hs - PTN SP": {
       "cabecalhos": [
@@ -539,6 +674,47 @@
         }
       ],
       "frases": {
+        "2507": [
+          "Dezena no segundo prêmio!<br>com o palpite 2507",
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 2507"
+        ],
+        "2508": [
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 2508"
+        ],
+        "2567": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 2567"
+        ],
+        "2568": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 2568"
+        ],
+        "2577": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 2577",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 2577"
+        ],
+        "2578": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 2578",
+          "Dezena no primeiro prêmio!<br>com o palpite 2578",
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 2578",
+          "Dezena no quarto prêmio!<br>com o palpite 2578",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 2578"
+        ],
+        "2582": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 2582"
+        ],
+        "2707": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 2707",
+          "Dezena no segundo prêmio!<br>com o palpite 2707",
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 2707"
+        ],
+        "2708": [
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 2708"
+        ],
+        "2767": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 2767"
+        ],
+        "2768": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 2768"
+        ],
         "2777": [
           "PERU 🦃 no primeiro prêmio!<br>com o palpite 2777",
           "PERU 🦃 no quarto prêmio!<br>com o palpite 2777"
@@ -549,17 +725,23 @@
           "Centena e Dezena no quarto prêmio!<br>com o palpite 2778",
           "Dezena no quarto prêmio!<br>com o palpite 2778",
           "PERU 🦃 no quarto prêmio!<br>com o palpite 2778"
+        ],
+        "2782": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 2782"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 2,
+        "Centena": 3,
+        "Dezena": 6,
         "Grupo": [
-          "🦃"
+          "🦃",
+          "🦅",
+          "🐂",
+          "🐒"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2777, 2778"
+      "resumo": "Palpites dados para esta extração: 2502, 2507, 2508, 2562, 2567, 2568, 2572, 2577, 2578, 2582, 2587, 2588, 2702, 2707, 2708, 2762, 2767, 2768, 2772, 2777, 2778, 2782, 2787, 2788"
     }
   },
   "1-10": {
@@ -632,14 +814,55 @@
           "Bicho": "Camelo"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2502": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 2502"
+        ],
+        "2507": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 2507",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 2507"
+        ],
+        "2508": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 2508",
+          "Dezena no oitavo prêmio!<br>com o palpite 2508",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 2508"
+        ],
+        "2587": [
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 2587"
+        ],
+        "2588": [
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 2588"
+        ],
+        "2702": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 2702"
+        ],
+        "2707": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 2707",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 2707"
+        ],
+        "2708": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 2708",
+          "Dezena no oitavo prêmio!<br>com o palpite 2708",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 2708"
+        ],
+        "2787": [
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 2787"
+        ],
+        "2788": [
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 2788"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🪶",
+          "🐅",
+          "🦅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2777, 2778"
+      "resumo": "Palpites dados para esta extração: 2502, 2507, 2508, 2562, 2567, 2568, 2572, 2577, 2578, 2582, 2587, 2588, 2702, 2707, 2708, 2762, 2767, 2768, 2772, 2777, 2778, 2782, 2787, 2788"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -710,14 +933,57 @@
           "Bicho": "Macaco"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2507": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2507"
+        ],
+        "2508": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2508"
+        ],
+        "2567": [
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 2567",
+          "Dezena no décimo prêmio!<br>com o palpite 2567",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 2567"
+        ],
+        "2568": [
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 2568",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 2568"
+        ],
+        "2572": [
+          "Dezena no sexto prêmio!<br>com o palpite 2572",
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 2572"
+        ],
+        "2707": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2707"
+        ],
+        "2708": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2708"
+        ],
+        "2767": [
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 2767",
+          "Dezena no décimo prêmio!<br>com o palpite 2767",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 2767"
+        ],
+        "2768": [
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 2768",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 2768"
+        ],
+        "2772": [
+          "Dezena no sexto prêmio!<br>com o palpite 2772",
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 2772"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 4,
+        "Grupo": [
+          "🐒",
+          "🦅",
+          "🐖"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2777, 2778"
+      "resumo": "Palpites dados para esta extração: 2502, 2507, 2508, 2562, 2567, 2568, 2572, 2577, 2578, 2582, 2587, 2588, 2702, 2707, 2708, 2762, 2767, 2768, 2772, 2777, 2778, 2782, 2787, 2788"
     },
     "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -788,14 +1054,56 @@
           "Bicho": "Urso"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2502": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 2502"
+        ],
+        "2562": [
+          "LEÃO 🦁 no nono prêmio!<br>com o palpite 2562"
+        ],
+        "2582": [
+          "Dezena no sexto prêmio!<br>com o palpite 2582",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 2582"
+        ],
+        "2587": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 2587",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 2587"
+        ],
+        "2588": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 2588",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 2588"
+        ],
+        "2702": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 2702"
+        ],
+        "2762": [
+          "LEÃO 🦁 no nono prêmio!<br>com o palpite 2762"
+        ],
+        "2782": [
+          "Dezena no sexto prêmio!<br>com o palpite 2782",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 2782"
+        ],
+        "2787": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 2787",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 2787"
+        ],
+        "2788": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 2788",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 2788"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🪶",
+          "🐅",
+          "🐂",
+          "🦁"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2777, 2778"
+      "resumo": "Palpites dados para esta extração: 2502, 2507, 2508, 2562, 2567, 2568, 2572, 2577, 2578, 2582, 2587, 2588, 2702, 2707, 2708, 2762, 2767, 2768, 2772, 2777, 2778, 2782, 2787, 2788"
     },
     "SP, 13hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -866,14 +1174,36 @@
           "Bicho": "Burro"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2507": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 2507"
+        ],
+        "2508": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 2508"
+        ],
+        "2562": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 2562"
+        ],
+        "2707": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 2707"
+        ],
+        "2708": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 2708"
+        ],
+        "2762": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 2762"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦅",
+          "🦁"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2777, 2778"
+      "resumo": "Palpites dados para esta extração: 2502, 2507, 2508, 2562, 2567, 2568, 2572, 2577, 2578, 2582, 2587, 2588, 2702, 2707, 2708, 2762, 2767, 2768, 2772, 2777, 2778, 2782, 2787, 2788"
     },
     "SP, 17hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -944,14 +1274,35 @@
           "Bicho": "Cabra"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2502": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 2502",
+          "Dezena no sétimo prêmio!<br>com o palpite 2502",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 2502"
+        ],
+        "2572": [
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 2572",
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 2572"
+        ],
+        "2702": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2702",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 2702"
+        ],
+        "2772": [
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 2772",
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 2772"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🐖",
+          "🪶"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2777, 2778"
+      "resumo": "Palpites dados para esta extração: 2502, 2507, 2508, 2562, 2567, 2568, 2572, 2577, 2578, 2582, 2587, 2588, 2702, 2707, 2708, 2762, 2767, 2768, 2772, 2777, 2778, 2782, 2787, 2788"
     },
     "SP, 19hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -1023,23 +1374,58 @@
         }
       ],
       "frases": {
+        "2502": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 2502",
+          "Dezena no nono prêmio!<br>com o palpite 2502",
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 2502"
+        ],
+        "2562": [
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 2562"
+        ],
+        "2577": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 2577"
+        ],
+        "2578": [
+          "Dezena no segundo prêmio!<br>com o palpite 2578",
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 2578"
+        ],
+        "2582": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 2582",
+          "Dezena no sexto prêmio!<br>com o palpite 2582",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 2582"
+        ],
+        "2702": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 2702",
+          "Dezena no nono prêmio!<br>com o palpite 2702",
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 2702"
+        ],
+        "2762": [
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 2762"
+        ],
         "2777": [
           "PERU 🦃 no segundo prêmio!<br>com o palpite 2777"
         ],
         "2778": [
           "Dezena no segundo prêmio!<br>com o palpite 2778",
           "PERU 🦃 no segundo prêmio!<br>com o palpite 2778"
+        ],
+        "2782": [
+          "Dezena no sexto prêmio!<br>com o palpite 2782",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 2782"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 1,
+        "Centena": 1,
+        "Dezena": 6,
         "Grupo": [
-          "🦃"
+          "🪶",
+          "🦃",
+          "🐂",
+          "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2777, 2778"
+      "resumo": "Palpites dados para esta extração: 2502, 2507, 2508, 2562, 2567, 2568, 2572, 2577, 2578, 2582, 2587, 2588, 2702, 2707, 2708, 2762, 2767, 2768, 2772, 2777, 2778, 2782, 2787, 2788"
     },
     "SP, 20hs - PTN SP do 1º ao 10º": {
       "cabecalhos": [
@@ -1257,6 +1643,63 @@
         }
       ],
       "frases": {
+        "2507": [
+          "Dezena no segundo prêmio!<br>com o palpite 2507",
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 2507",
+          "Dezena no sétimo prêmio!<br>com o palpite 2507",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 2507"
+        ],
+        "2508": [
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 2508",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 2508"
+        ],
+        "2567": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 2567"
+        ],
+        "2568": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 2568"
+        ],
+        "2577": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 2577",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 2577",
+          "PERU 🦃 no décimo prêmio!<br>com o palpite 2577"
+        ],
+        "2578": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 2578",
+          "Dezena no primeiro prêmio!<br>com o palpite 2578",
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 2578",
+          "Dezena no quarto prêmio!<br>com o palpite 2578",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 2578",
+          "PERU 🦃 no décimo prêmio!<br>com o palpite 2578"
+        ],
+        "2582": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 2582"
+        ],
+        "2587": [
+          "Dezena no oitavo prêmio!<br>com o palpite 2587",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 2587"
+        ],
+        "2588": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 2588"
+        ],
+        "2707": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 2707",
+          "Dezena no segundo prêmio!<br>com o palpite 2707",
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 2707",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 2707",
+          "Dezena no sétimo prêmio!<br>com o palpite 2707",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 2707"
+        ],
+        "2708": [
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 2708",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 2708"
+        ],
+        "2767": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 2767"
+        ],
+        "2768": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 2768"
+        ],
         "2777": [
           "PERU 🦃 no primeiro prêmio!<br>com o palpite 2777",
           "PERU 🦃 no quarto prêmio!<br>com o palpite 2777",
@@ -1269,17 +1712,31 @@
           "Dezena no quarto prêmio!<br>com o palpite 2778",
           "PERU 🦃 no quarto prêmio!<br>com o palpite 2778",
           "PERU 🦃 no décimo prêmio!<br>com o palpite 2778"
+        ],
+        "2782": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 2782"
+        ],
+        "2787": [
+          "Dezena no oitavo prêmio!<br>com o palpite 2787",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 2787"
+        ],
+        "2788": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 2788"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 2,
+        "Centena": 4,
+        "Dezena": 10,
         "Grupo": [
-          "🦃"
+          "🦃",
+          "🦅",
+          "🐂",
+          "🐒",
+          "🐅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2777, 2778"
+      "resumo": "Palpites dados para esta extração: 2502, 2507, 2508, 2562, 2567, 2568, 2572, 2577, 2578, 2582, 2587, 2588, 2702, 2707, 2708, 2762, 2767, 2768, 2772, 2777, 2778, 2782, 2787, 2788"
     }
   }
 }
