@@ -70,25 +70,38 @@
         }
       ],
       "frases": {
-        "0088": [
-          "Dezena no sexto prêmio!<br>com o palpite 0088",
-          "TIGRE 🐅 no sexto prêmio!<br>com o palpite 0088"
+        "6662": [
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 6662"
         ],
-        "0068": [
-          "Dezena no nono prêmio!<br>com o palpite 0068",
-          "MACACO 🐒 no nono prêmio!<br>com o palpite 0068"
+        "6682": [
+          "Dezena no segundo prêmio!<br>com o palpite 6682",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 6682"
+        ],
+        "8662": [
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 8662"
+        ],
+        "8682": [
+          "Dezena no segundo prêmio!<br>com o palpite 8682",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 8682"
+        ],
+        "0662": [
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 0662"
+        ],
+        "0682": [
+          "Dezena no segundo prêmio!<br>com o palpite 0682",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 0682"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 3,
         "Grupo": [
-          "🐅",
-          "🐒"
+          "🦁",
+          "🐂"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0068, 0088"
+      "resumo": "Palpites dados para esta extração: 0652, 0662, 0682, 6652, 6662, 6682, 8652, 8662, 8682"
     },
     "12h - BA": {
       "cabecalhos": [
@@ -159,14 +172,62 @@
           "Bicho": "Touro"
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "6652": [
+          "Dezena no sétimo prêmio!<br>com o palpite 6652",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 6652"
+        ],
+        "6662": [
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 6662"
+        ],
+        "6682": [
+          "Dezena no nono prêmio!<br>com o palpite 6682",
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 6682",
+          "Milhar e Centena no décimo prêmio!<br>com o palpite 6682",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 6682",
+          "Dezena no décimo prêmio!<br>com o palpite 6682",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 6682"
+        ],
+        "8652": [
+          "Dezena no sétimo prêmio!<br>com o palpite 8652",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 8652"
+        ],
+        "8662": [
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 8662"
+        ],
+        "8682": [
+          "Dezena no nono prêmio!<br>com o palpite 8682",
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 8682",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 8682",
+          "Dezena no décimo prêmio!<br>com o palpite 8682",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 8682"
+        ],
+        "0662": [
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 0662"
+        ],
+        "0652": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0652",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 0652"
+        ],
+        "0682": [
+          "Dezena no nono prêmio!<br>com o palpite 0682",
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 0682",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 0682",
+          "Dezena no décimo prêmio!<br>com o palpite 0682",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 0682"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0068, 0088"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 3,
+        "Dezena": 9,
+        "Grupo": [
+          "🦁",
+          "🐓",
+          "🐂"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0652, 0662, 0682, 6652, 6662, 6682, 8652, 8662, 8682"
     },
     "15h - BA": {
       "cabecalhos": [
