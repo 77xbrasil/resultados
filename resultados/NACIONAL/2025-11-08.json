@@ -235,49 +235,62 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5088",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "9607",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "4624",
-          "Grupo": "06",
-          "Bicho": "Cabra"
+          "Milhar": "3912",
+          "Grupo": "03",
+          "Bicho": "Burro"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "7197",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "5574",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "3122",
-          "Grupo": "06",
-          "Bicho": "Cabra"
+          "Milhar": "8195",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "0520",
-          "Grupo": "05",
-          "Bicho": "Cachorro"
+          "Milhar": "1775",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "0551",
+          "Milhar": "9063",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "0075": [
+          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 0075",
+          "Dezena no quinto prêmio!<br>com o palpite 0075",
+          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 0075"
+        ],
+        "0675": [
+          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 0675",
+          "Dezena no quinto prêmio!<br>com o palpite 0675",
+          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 0675"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🦚"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0030, 0035, 0037, 1030, 1035, 1037, 2030, 2035, 2037"
+      "resumo": "Palpites dados para esta extração: 0025, 0075, 0625, 0675"
     },
     "Nacional - LN 17:00": {
       "cabecalhos": [
@@ -804,73 +817,86 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5088",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "9607",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "4624",
-          "Grupo": "06",
-          "Bicho": "Cabra"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "7197",
-          "Grupo": "25",
-          "Bicho": "Vaca"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "3122",
-          "Grupo": "06",
-          "Bicho": "Cabra"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "0520",
-          "Grupo": "05",
-          "Bicho": "Cachorro"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "5473",
-          "Grupo": "19",
-          "Bicho": "Pavão"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "0611",
+          "Milhar": "3912",
           "Grupo": "03",
           "Bicho": "Burro"
         },
         {
+          "Prêmio": "3º",
+          "Milhar": "5574",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8195",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1775",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9358",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6951",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
           "Prêmio": "8º",
-          "Milhar": "8292",
-          "Grupo": "23",
-          "Bicho": "Urso"
+          "Milhar": "0179",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "8472",
-          "Grupo": "18",
-          "Bicho": "Porco"
+          "Milhar": "7245",
+          "Grupo": "12",
+          "Bicho": "Elefante"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "3399",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "2796",
+          "Grupo": "24",
+          "Bicho": "Veado"
         }
       ],
-      "frases": {},
+      "frases": {
+        "0075": [
+          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 0075",
+          "Dezena no quinto prêmio!<br>com o palpite 0075",
+          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 0075"
+        ],
+        "0675": [
+          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 0675",
+          "Dezena no quinto prêmio!<br>com o palpite 0675",
+          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 0675"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🦚"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0030, 0035, 0037, 1030, 1035, 1037, 2030, 2035, 2037"
+      "resumo": "Palpites dados para esta extração: 0025, 0075, 0625, 0675"
     },
     "Nacional - LN 17:00 do 1º ao 10º": {
       "cabecalhos": [
