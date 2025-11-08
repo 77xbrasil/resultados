@@ -186,88 +186,73 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "9343",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
+          "Milhar": "2597",
+          "Grupo": "25",
+          "Bicho": "Vaca"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "0646",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "7410",
+          "Grupo": "03",
+          "Bicho": "Burro"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "4283",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "5824",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "4526",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
+          "Milhar": "5776",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "3353",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "2206",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "1287",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "3900",
+          "Grupo": "25",
+          "Bicho": "Vaca"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "7004",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "1670",
+          "Grupo": "18",
+          "Bicho": "Porco"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "5450",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "7463",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "0643",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
+          "Milhar": "0699",
+          "Grupo": "25",
+          "Bicho": "Vaca"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "4098",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "2010",
+          "Grupo": "03",
+          "Bicho": "Burro"
         }
       ],
-      "frases": {
-        "0242": [
-          "CAVALO 🐎 no primeiro prêmio!<br>com o palpite 0242",
-          "CAVALO 🐎 no nono prêmio!<br>com o palpite 0242"
-        ],
-        "0202": [
-          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0202"
-        ],
-        "0252": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 0252"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐎",
-          "🪶",
-          "🐓"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0202, 0242, 0252"
+      "resumo": "Palpites dados para esta extração: 5136, 5138, 6136, 6138"
     },
     "19h - MALUCA - BA": {
       "cabecalhos": [
@@ -443,6 +428,34 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 0202, 0242, 0252"
+    },
+    "19h FEDERAL - MALUCA - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
