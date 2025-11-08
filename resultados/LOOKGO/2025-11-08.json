@@ -342,43 +342,43 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "0175",
+          "Milhar": "7589",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9874",
           "Grupo": "19",
           "Bicho": "Pavão"
         },
         {
-          "Prêmio": "2º",
-          "Milhar": "4187",
-          "Grupo": "22",
-          "Bicho": "Tigre"
-        },
-        {
           "Prêmio": "3º",
-          "Milhar": "8702",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "3707",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "3143",
+          "Milhar": "0142",
           "Grupo": "11",
           "Bicho": "Cavalo"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "9985",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "7033",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "6192",
+          "Milhar": "8345",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "732",
+          "Milhar": "933",
           "Grupo": "",
           "Bicho": ""
         }
@@ -390,7 +390,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3480, 3580, 3680, 3880"
+      "resumo": "Palpites dados para esta extração: 8301, 8331, 8351, 8361"
     },
     "LOOK - GOIÁS, 21h": {
       "cabecalhos": [
@@ -531,6 +531,29 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 3480, 3580, 3680, 3880"
+    },
+    "FEDERAL": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   },
   "1-10": {
@@ -979,73 +1002,83 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "0175",
+          "Milhar": "7589",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9874",
           "Grupo": "19",
           "Bicho": "Pavão"
         },
         {
-          "Prêmio": "2º",
-          "Milhar": "4187",
-          "Grupo": "22",
-          "Bicho": "Tigre"
-        },
-        {
           "Prêmio": "3º",
-          "Milhar": "8702",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "3707",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "3143",
+          "Milhar": "0142",
           "Grupo": "11",
           "Bicho": "Cavalo"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "9985",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "7033",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "0483",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "7930",
+          "Grupo": "08",
+          "Bicho": "Camelo"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "1171",
+          "Milhar": "5871",
           "Grupo": "18",
           "Bicho": "Porco"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "7804",
+          "Milhar": "8704",
           "Grupo": "01",
           "Bicho": "Avestruz"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "5723",
-          "Grupo": "06",
-          "Bicho": "Cabra"
+          "Milhar": "9472",
+          "Grupo": "18",
+          "Bicho": "Porco"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "1373",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Milhar": "0322",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         }
       ],
-      "frases": {},
+      "frases": {
+        "8301": [
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 8301"
+        ],
+        "8331": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 8331"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐪",
+          "🪶"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3480, 3580, 3680, 3880"
+      "resumo": "Palpites dados para esta extração: 8301, 8331, 8351, 8361"
     },
     "LOOK - GOIÁS, 21h do 1º ao 10º": {
       "cabecalhos": [
@@ -1222,6 +1255,34 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 3480, 3580, 3680, 3880"
+    },
+    "FEDERAL do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
