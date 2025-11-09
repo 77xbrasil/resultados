@@ -514,55 +514,97 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "3578",
+          "Milhar": "5052",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3951",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8677",
           "Grupo": "20",
           "Bicho": "Peru"
         },
         {
-          "Prêmio": "2º",
-          "Milhar": "4707",
+          "Prêmio": "4º",
+          "Milhar": "8706",
           "Grupo": "02",
           "Bicho": "Águia"
         },
         {
-          "Prêmio": "3º",
-          "Milhar": "2084",
-          "Grupo": "21",
-          "Bicho": "Touro"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "4778",
-          "Grupo": "20",
-          "Bicho": "Peru"
-        },
-        {
           "Prêmio": "5º",
-          "Milhar": "2066",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "7415",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "7213",
+          "Milhar": "3801",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "841",
+          "Milhar": "960",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "5901": [
+          "Dezena no sexto prêmio!<br>com o palpite 5901",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5901"
+        ],
+        "5902": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5902"
+        ],
+        "5903": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5903"
+        ],
+        "5904": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5904"
+        ],
+        "8901": [
+          "Dezena no sexto prêmio!<br>com o palpite 8901",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 8901"
+        ],
+        "8902": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 8902"
+        ],
+        "8903": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 8903"
+        ],
+        "8904": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 8904"
+        ],
+        "9901": [
+          "Dezena no sexto prêmio!<br>com o palpite 9901",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 9901"
+        ],
+        "9902": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 9902"
+        ],
+        "9903": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 9903"
+        ],
+        "9904": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 9904"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 3,
+        "Grupo": [
+          "🪶"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2502, 2562, 5502, 5562, 7502, 7562"
+      "resumo": "Palpites dados para esta extração: 5901, 5902, 5903, 5904, 8901, 8902, 8903, 8904, 9901, 9902, 9903, 9904"
     },
     "SP, 19hs - PTSP": {
       "cabecalhos": [
@@ -1310,73 +1352,118 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "3578",
-          "Grupo": "20",
-          "Bicho": "Peru"
+          "Milhar": "5052",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "4707",
-          "Grupo": "02",
-          "Bicho": "Águia"
+          "Milhar": "3951",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "2084",
-          "Grupo": "21",
-          "Bicho": "Touro"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "4778",
+          "Milhar": "8677",
           "Grupo": "20",
           "Bicho": "Peru"
         },
         {
-          "Prêmio": "5º",
-          "Milhar": "2066",
-          "Grupo": "17",
-          "Bicho": "Macaco"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "3424",
-          "Grupo": "06",
-          "Bicho": "Cabra"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "5707",
+          "Prêmio": "4º",
+          "Milhar": "8706",
           "Grupo": "02",
           "Bicho": "Águia"
         },
         {
-          "Prêmio": "8º",
-          "Milhar": "7087",
+          "Prêmio": "5º",
+          "Milhar": "7415",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5388",
           "Grupo": "22",
           "Bicho": "Tigre"
         },
         {
+          "Prêmio": "7º",
+          "Milhar": "0967",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5570",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
           "Prêmio": "9º",
-          "Milhar": "8748",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "2176",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "2179",
-          "Grupo": "20",
-          "Bicho": "Peru"
+          "Milhar": "7902",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         }
       ],
-      "frases": {},
+      "frases": {
+        "5901": [
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 5901"
+        ],
+        "5902": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 5902",
+          "Dezena no décimo prêmio!<br>com o palpite 5902",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 5902"
+        ],
+        "5903": [
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 5903"
+        ],
+        "5904": [
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 5904"
+        ],
+        "8901": [
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 8901"
+        ],
+        "8902": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 8902",
+          "Dezena no décimo prêmio!<br>com o palpite 8902",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 8902"
+        ],
+        "8903": [
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 8903"
+        ],
+        "8904": [
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 8904"
+        ],
+        "9901": [
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 9901"
+        ],
+        "9902": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 9902",
+          "Dezena no décimo prêmio!<br>com o palpite 9902",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 9902"
+        ],
+        "9903": [
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 9903"
+        ],
+        "9904": [
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 9904"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 3,
+        "Dezena": 3,
+        "Grupo": [
+          "🪶"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2502, 2562, 5502, 5562, 7502, 7562"
+      "resumo": "Palpites dados para esta extração: 5901, 5902, 5903, 5904, 8901, 8902, 8903, 8904, 9901, 9902, 9903, 9904"
     },
     "SP, 19hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
