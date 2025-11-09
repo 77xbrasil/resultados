@@ -437,75 +437,55 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "3829",
+          "Milhar": "7309",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5623",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9971",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5863",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2030",
           "Grupo": "08",
           "Bicho": "Camelo"
         },
         {
-          "Prêmio": "2º",
-          "Milhar": "1465",
-          "Grupo": "17",
-          "Bicho": "Macaco"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "5586",
-          "Grupo": "22",
-          "Bicho": "Tigre"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "9880",
-          "Grupo": "20",
-          "Bicho": "Peru"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "8690",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
           "Prêmio": "6º [soma]",
-          "Milhar": "9450",
+          "Milhar": "0796",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "609",
+          "Milhar": "098",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {
-        "3480": [
-          "Dezena no quarto prêmio!<br>com o palpite 3480",
-          "PERU 🦃 no quarto prêmio!<br>com o palpite 3480"
-        ],
-        "3580": [
-          "Dezena no quarto prêmio!<br>com o palpite 3580",
-          "PERU 🦃 no quarto prêmio!<br>com o palpite 3580"
-        ],
-        "3680": [
-          "Dezena no quarto prêmio!<br>com o palpite 3680",
-          "PERU 🦃 no quarto prêmio!<br>com o palpite 3680"
-        ],
-        "3880": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 3880",
-          "Dezena no quarto prêmio!<br>com o palpite 3880",
-          "PERU 🦃 no quarto prêmio!<br>com o palpite 3880"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 4,
-        "Grupo": [
-          "🦃"
-        ]
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3480, 3580, 3680, 3880"
+      "resumo": "Palpites dados para esta extração: 2454"
     },
     "FEDERAL": {
       "cabecalhos": [
@@ -1152,93 +1132,73 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "3829",
+          "Milhar": "7309",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5623",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9971",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5863",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2030",
           "Grupo": "08",
           "Bicho": "Camelo"
         },
         {
-          "Prêmio": "2º",
-          "Milhar": "1465",
-          "Grupo": "17",
-          "Bicho": "Macaco"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "5586",
-          "Grupo": "22",
-          "Bicho": "Tigre"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "9880",
-          "Grupo": "20",
-          "Bicho": "Peru"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "8690",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
           "Prêmio": "6º",
-          "Milhar": "3159",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
+          "Milhar": "7595",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "8458",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
+          "Milhar": "3698",
+          "Grupo": "25",
+          "Bicho": "Vaca"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "2688",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "0276",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "9560",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
+          "Milhar": "9313",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "3315",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
+          "Milhar": "1678",
+          "Grupo": "20",
+          "Bicho": "Peru"
         }
       ],
-      "frases": {
-        "3480": [
-          "Dezena no quarto prêmio!<br>com o palpite 3480",
-          "PERU 🦃 no quarto prêmio!<br>com o palpite 3480"
-        ],
-        "3580": [
-          "Dezena no quarto prêmio!<br>com o palpite 3580",
-          "PERU 🦃 no quarto prêmio!<br>com o palpite 3580"
-        ],
-        "3680": [
-          "Dezena no quarto prêmio!<br>com o palpite 3680",
-          "PERU 🦃 no quarto prêmio!<br>com o palpite 3680"
-        ],
-        "3880": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 3880",
-          "Dezena no quarto prêmio!<br>com o palpite 3880",
-          "PERU 🦃 no quarto prêmio!<br>com o palpite 3880"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 4,
-        "Grupo": [
-          "🦃"
-        ]
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3480, 3580, 3680, 3880"
+      "resumo": "Palpites dados para esta extração: 2454"
     },
     "FEDERAL do 1º ao 10º": {
       "cabecalhos": [
