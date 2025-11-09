@@ -51,14 +51,50 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "9054": [
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 9054",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 9054"
+        ],
+        "9090": [
+          "Dezena no quarto prêmio!<br>com o palpite 9090",
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 9090"
+        ],
+        "9154": [
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 9154",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 9154"
+        ],
+        "9190": [
+          "Dezena no quarto prêmio!<br>com o palpite 9190",
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 9190"
+        ],
+        "9554": [
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 9554",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 9554"
+        ],
+        "9590": [
+          "Dezena no quarto prêmio!<br>com o palpite 9590",
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 9590"
+        ],
+        "9954": [
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 9954",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 9954"
+        ],
+        "9990": [
+          "Dezena no quarto prêmio!<br>com o palpite 9990",
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 9990"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 4,
+        "Grupo": [
+          "🐈",
+          "🐻"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 9127"
+      "resumo": "Palpites dados para esta extração: 9020, 9024, 9027, 9050, 9054, 9057, 9090, 9094, 9097, 9120, 9124, 9127, 9150, 9154, 9157, 9190, 9194, 9197, 9520, 9524, 9527, 9550, 9554, 9557, 9590, 9594, 9597, 9920, 9924, 9927, 9950, 9954, 9957, 9990, 9994, 9997"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -155,20 +191,101 @@
         }
       ],
       "frases": {
+        "9027": [
+          "Dezena no décimo prêmio!<br>com o palpite 9027",
+          "CARNEIRO 🐑 no décimo prêmio!<br>com o palpite 9027"
+        ],
+        "9054": [
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 9054",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 9054",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 9054",
+          "Dezena no sétimo prêmio!<br>com o palpite 9054",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 9054"
+        ],
+        "9057": [
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 9057"
+        ],
+        "9090": [
+          "Dezena no quarto prêmio!<br>com o palpite 9090",
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 9090"
+        ],
+        "9094": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 9094"
+        ],
         "9127": [
           "Dezena no décimo prêmio!<br>com o palpite 9127",
           "CARNEIRO 🐑 no décimo prêmio!<br>com o palpite 9127"
+        ],
+        "9154": [
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 9154",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 9154",
+          "Dezena no sétimo prêmio!<br>com o palpite 9154",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 9154"
+        ],
+        "9157": [
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 9157"
+        ],
+        "9190": [
+          "Dezena no quarto prêmio!<br>com o palpite 9190",
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 9190"
+        ],
+        "9194": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 9194"
+        ],
+        "9527": [
+          "Dezena no décimo prêmio!<br>com o palpite 9527",
+          "CARNEIRO 🐑 no décimo prêmio!<br>com o palpite 9527"
+        ],
+        "9554": [
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 9554",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 9554",
+          "Dezena no sétimo prêmio!<br>com o palpite 9554",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 9554"
+        ],
+        "9557": [
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 9557"
+        ],
+        "9590": [
+          "Dezena no quarto prêmio!<br>com o palpite 9590",
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 9590"
+        ],
+        "9594": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 9594"
+        ],
+        "9927": [
+          "Dezena no décimo prêmio!<br>com o palpite 9927",
+          "CARNEIRO 🐑 no décimo prêmio!<br>com o palpite 9927"
+        ],
+        "9954": [
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 9954",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 9954",
+          "Dezena no sétimo prêmio!<br>com o palpite 9954",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 9954"
+        ],
+        "9957": [
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 9957"
+        ],
+        "9990": [
+          "Dezena no quarto prêmio!<br>com o palpite 9990",
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 9990"
+        ],
+        "9994": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 9994"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 1,
+        "Centena": 1,
+        "Dezena": 12,
         "Grupo": [
+          "🐈",
+          "🐻",
+          "🦌",
+          "🐊",
           "🐑"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9127"
+      "resumo": "Palpites dados para esta extração: 9020, 9024, 9027, 9050, 9054, 9057, 9090, 9094, 9097, 9120, 9124, 9127, 9150, 9154, 9157, 9190, 9194, 9197, 9520, 9524, 9527, 9550, 9554, 9557, 9590, 9594, 9597, 9920, 9924, 9927, 9950, 9954, 9957, 9990, 9994, 9997"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
