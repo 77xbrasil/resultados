@@ -52,11 +52,17 @@
         }
       ],
       "frases": {
-        "3079": [
-          "PERU 🦃 no quinto prêmio!<br>com o palpite 3079"
+        "2000": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 2000"
         ],
-        "3179": [
-          "PERU 🦃 no quinto prêmio!<br>com o palpite 3179"
+        "2009": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 2009"
+        ],
+        "3000": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 3000"
+        ],
+        "3009": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 3009"
         ]
       },
       "acertos": {
@@ -64,10 +70,11 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🦃"
+          "🐴",
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3072, 3075, 3079, 3172, 3175, 3179"
+      "resumo": "Palpites dados para esta extração: 2000, 2002, 2009, 3000, 3002, 3009"
     },
     "SP, 10hs - PTSP": {
       "cabecalhos": [
@@ -121,11 +128,11 @@
         }
       ],
       "frases": {
-        "3079": [
-          "PERU 🦃 no sexto prêmio!<br>com o palpite 3079"
+        "2000": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2000"
         ],
-        "3179": [
-          "PERU 🦃 no sexto prêmio!<br>com o palpite 3179"
+        "3000": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 3000"
         ]
       },
       "acertos": {
@@ -133,10 +140,10 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🦃"
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3072, 3075, 3079, 3172, 3175, 3179"
+      "resumo": "Palpites dados para esta extração: 2000, 2002, 2009, 3000, 3002, 3009"
     },
     "SP, 12:00 - PTSP": {
       "cabecalhos": [
@@ -190,11 +197,17 @@
         }
       ],
       "frases": {
-        "3075": [
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 3075"
+        "2000": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2000"
         ],
-        "3175": [
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 3175"
+        "2009": [
+          "BURRO 🐴 no segundo prêmio!<br>com o palpite 2009"
+        ],
+        "3000": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 3000"
+        ],
+        "3009": [
+          "BURRO 🐴 no segundo prêmio!<br>com o palpite 3009"
         ]
       },
       "acertos": {
@@ -202,10 +215,11 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🦚"
+          "🐴",
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3072, 3075, 3079, 3172, 3175, 3179"
+      "resumo": "Palpites dados para esta extração: 2000, 2002, 2009, 3000, 3002, 3009"
     },
     "SP, 13hs - PTSP": {
       "cabecalhos": [
@@ -259,22 +273,36 @@
         }
       ],
       "frases": {
-        "3075": [
-          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 3075"
+        "2002": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2002",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 2002"
         ],
-        "3175": [
-          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 3175"
+        "2009": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 2009",
+          "Dezena no quarto prêmio!<br>com o palpite 2009",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 2009"
+        ],
+        "3002": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3002",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 3002"
+        ],
+        "3009": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 3009",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 3009",
+          "Dezena no quarto prêmio!<br>com o palpite 3009",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 3009"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 4,
         "Grupo": [
-          "🦚"
+          "🪶",
+          "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3072, 3075, 3079, 3172, 3175, 3179"
+      "resumo": "Palpites dados para esta extração: 2000, 2002, 2009, 3000, 3002, 3009"
     },
     "SP, 17hs - PTSP": {
       "cabecalhos": [
@@ -371,11 +399,19 @@
         }
       ],
       "frases": {
-        "3079": [
-          "PERU 🦃 no quinto prêmio!<br>com o palpite 3079"
+        "2000": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 2000",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 2000"
         ],
-        "3179": [
-          "PERU 🦃 no quinto prêmio!<br>com o palpite 3179"
+        "2009": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 2009"
+        ],
+        "3000": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 3000",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 3000"
+        ],
+        "3009": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 3009"
         ]
       },
       "acertos": {
@@ -383,10 +419,11 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🦃"
+          "🐴",
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3072, 3075, 3079, 3172, 3175, 3179"
+      "resumo": "Palpites dados para esta extração: 2000, 2002, 2009, 3000, 3002, 3009"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -457,14 +494,25 @@
           "Bicho": "Jacaré"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2000": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2000",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 2000"
+        ],
+        "3000": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 3000",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 3000"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3072, 3075, 3079, 3172, 3175, 3179"
+      "resumo": "Palpites dados para esta extração: 2000, 2002, 2009, 3000, 3002, 3009"
     },
     "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -536,37 +584,29 @@
         }
       ],
       "frases": {
-        "3075": [
-          "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 3075",
-          "Centena e Dezena no décimo prêmio!<br>com o palpite 3075",
-          "Dezena no décimo prêmio!<br>com o palpite 3075",
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 3075"
+        "2000": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2000"
         ],
-        "3079": [
-          "Dezena no nono prêmio!<br>com o palpite 3079",
-          "PERU 🦃 no nono prêmio!<br>com o palpite 3079"
+        "2009": [
+          "BURRO 🐴 no segundo prêmio!<br>com o palpite 2009"
         ],
-        "3175": [
-          "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 3175",
-          "Dezena no décimo prêmio!<br>com o palpite 3175",
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 3175"
+        "3000": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 3000"
         ],
-        "3179": [
-          "Centena e Dezena no nono prêmio!<br>com o palpite 3179",
-          "Dezena no nono prêmio!<br>com o palpite 3179",
-          "PERU 🦃 no nono prêmio!<br>com o palpite 3179"
+        "3009": [
+          "BURRO 🐴 no segundo prêmio!<br>com o palpite 3009"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 2,
-        "Dezena": 4,
+        "Centena": 0,
+        "Dezena": 0,
         "Grupo": [
-          "🦚",
-          "🦃"
+          "🐴",
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3072, 3075, 3079, 3172, 3175, 3179"
+      "resumo": "Palpites dados para esta extração: 2000, 2002, 2009, 3000, 3002, 3009"
     },
     "SP, 13hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -638,31 +678,45 @@
         }
       ],
       "frases": {
-        "3072": [
-          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 3072",
-          "PORCO 🐖 no nono prêmio!<br>com o palpite 3072"
+        "2000": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2000",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 2000"
         ],
-        "3075": [
-          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 3075"
+        "2002": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2002",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 2002"
         ],
-        "3172": [
-          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 3172",
-          "PORCO 🐖 no nono prêmio!<br>com o palpite 3172"
+        "2009": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 2009",
+          "Dezena no quarto prêmio!<br>com o palpite 2009",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 2009"
         ],
-        "3175": [
-          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 3175"
+        "3000": [
+          "Dezena no sétimo prêmio!<br>com o palpite 3000",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 3000"
+        ],
+        "3002": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3002",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 3002"
+        ],
+        "3009": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 3009",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 3009",
+          "Dezena no quarto prêmio!<br>com o palpite 3009",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 3009"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 6,
         "Grupo": [
-          "🦚",
-          "🐖"
+          "🪶",
+          "🐴",
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3072, 3075, 3079, 3172, 3175, 3179"
+      "resumo": "Palpites dados para esta extração: 2000, 2002, 2009, 3000, 3002, 3009"
     },
     "SP, 17hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
