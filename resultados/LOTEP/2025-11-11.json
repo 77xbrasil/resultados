@@ -69,14 +69,44 @@
           "Bicho": "Tigre"
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "7200": [
+          "Dezena no quarto prêmio!<br>com o palpite 7200",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7200",
+          "Dezena no oitavo prêmio!<br>com o palpite 7200",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 7200"
+        ],
+        "7205": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 7205",
+          "Dezena no sexto prêmio!<br>com o palpite 7205",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 7205"
+        ],
+        "7500": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 7500",
+          "Dezena no quarto prêmio!<br>com o palpite 7500",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7500",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 7500",
+          "Dezena no oitavo prêmio!<br>com o palpite 7500",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 7500"
+        ],
+        "7505": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 7505",
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 7505",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 7505",
+          "Dezena no sexto prêmio!<br>com o palpite 7505",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 7505"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1125, 1155, 1165, 7125, 7155, 7165"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 3,
+        "Dezena": 6,
+        "Grupo": [
+          "🦅",
+          "🐄"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 7200, 7205, 7500, 7505"
     },
     "LOTEP - PB, 12:45": {
       "cabecalhos": [
