@@ -411,25 +411,90 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "4097",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4222",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9454",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2282",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8048",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7295",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4457",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8245",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9149",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1152",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "5347": [
+          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 5347",
+          "ELEFANTE 🐘 no oitavo prêmio!<br>com o palpite 5347"
+        ],
+        "5382": [
+          "Dezena no quarto prêmio!<br>com o palpite 5382",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 5382"
+        ],
+        "5384": [
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 5384"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🐂",
+          "🐘"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 5342, 5344, 5347, 5362, 5364, 5367, 5382, 5384, 5387"
     }
   }
 }
