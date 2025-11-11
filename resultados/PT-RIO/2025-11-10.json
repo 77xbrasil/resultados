@@ -561,11 +561,48 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "2390",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9304",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9475",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9274",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6048",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "6491",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "236",
+          "Grupo": "",
+          "Bicho": ""
+        }
       ],
       "frases": {},
       "acertos": {
@@ -574,7 +611,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 1564, 1567, 1584, 1587, 1664, 1667, 1684, 1687, 1764, 1767, 1784, 1787, 8564, 8567, 8584, 8587, 8664, 8667, 8684, 8687, 8764, 8767, 8784, 8787, 9564, 9567, 9584, 9587, 9664, 9667, 9684, 9687, 9764, 9767, 9784, 9787"
     }
   },
   "1-10": {
@@ -1474,25 +1511,105 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "2390",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9304",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9475",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9274",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6048",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2999",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3342",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "9077",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0454",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2363",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "1564": [
+          "LEÃO 🦁 no décimo prêmio!<br>com o palpite 1564"
+        ],
+        "1664": [
+          "LEÃO 🦁 no décimo prêmio!<br>com o palpite 1664"
+        ],
+        "1764": [
+          "LEÃO 🦁 no décimo prêmio!<br>com o palpite 1764"
+        ],
+        "8564": [
+          "LEÃO 🦁 no décimo prêmio!<br>com o palpite 8564"
+        ],
+        "8664": [
+          "LEÃO 🦁 no décimo prêmio!<br>com o palpite 8664"
+        ],
+        "8764": [
+          "LEÃO 🦁 no décimo prêmio!<br>com o palpite 8764"
+        ],
+        "9564": [
+          "LEÃO 🦁 no décimo prêmio!<br>com o palpite 9564"
+        ],
+        "9664": [
+          "LEÃO 🦁 no décimo prêmio!<br>com o palpite 9664"
+        ],
+        "9764": [
+          "LEÃO 🦁 no décimo prêmio!<br>com o palpite 9764"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦁"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 1564, 1567, 1584, 1587, 1664, 1667, 1684, 1687, 1764, 1767, 1784, 1787, 8564, 8567, 8584, 8587, 8664, 8667, 8684, 8687, 8764, 8767, 8784, 8787, 9564, 9567, 9584, 9587, 9664, 9667, 9684, 9687, 9764, 9767, 9784, 9787"
     }
   }
 }
