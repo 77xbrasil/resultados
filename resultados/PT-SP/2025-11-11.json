@@ -143,94 +143,55 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "3082",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "8516",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "3111",
-          "Grupo": "03",
-          "Bicho": "Burro"
+          "Milhar": "5420",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "5797",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "6489",
+          "Grupo": "23",
+          "Bicho": "Urso"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "4629",
+          "Milhar": "9434",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0929",
           "Grupo": "08",
           "Bicho": "Camelo"
         },
         {
-          "Prêmio": "5º",
-          "Milhar": "6555",
-          "Grupo": "14",
-          "Bicho": "Gato"
-        },
-        {
           "Prêmio": "6º [soma]",
-          "Milhar": "3174",
+          "Milhar": "0788",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "588",
+          "Milhar": "156",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {
-        "1099": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 1099"
-        ],
-        "1299": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 1299"
-        ],
-        "1599": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 1599"
-        ],
-        "4099": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 4099"
-        ],
-        "4299": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 4299"
-        ],
-        "4599": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 4599"
-        ],
-        "7099": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 7099"
-        ],
-        "7299": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 7299"
-        ],
-        "7599": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 7599"
-        ],
-        "8099": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 8099"
-        ],
-        "8299": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 8299"
-        ],
-        "8599": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 8599"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐄"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1099, 1299, 1599, 4099, 4299, 4599, 7099, 7299, 7599, 8099, 8299, 8599"
+      "resumo": "Palpites dados para esta extração: 8883"
     },
     "SP, 13hs - PTSP": {
       "cabecalhos": [
@@ -709,112 +670,80 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "3082",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "8516",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "3111",
-          "Grupo": "03",
-          "Bicho": "Burro"
+          "Milhar": "5420",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "5797",
-          "Grupo": "25",
-          "Bicho": "Vaca"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "4629",
-          "Grupo": "08",
-          "Bicho": "Camelo"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "6555",
-          "Grupo": "14",
-          "Bicho": "Gato"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "3354",
-          "Grupo": "14",
-          "Bicho": "Gato"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "0176",
-          "Grupo": "19",
-          "Bicho": "Pavão"
-        },
-        {
-          "Prêmio": "8º",
-          "Milhar": "8192",
+          "Milhar": "6489",
           "Grupo": "23",
           "Bicho": "Urso"
         },
         {
+          "Prêmio": "4º",
+          "Milhar": "9434",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0929",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "8569",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "5444",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1283",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
           "Prêmio": "9º",
-          "Milhar": "2179",
-          "Grupo": "20",
-          "Bicho": "Peru"
+          "Milhar": "6094",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "7075",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Milhar": "2178",
+          "Grupo": "20",
+          "Bicho": "Peru"
         }
       ],
       "frases": {
-        "1099": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 1099"
-        ],
-        "1299": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 1299"
-        ],
-        "1599": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 1599"
-        ],
-        "4099": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 4099"
-        ],
-        "4299": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 4299"
-        ],
-        "4599": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 4599"
-        ],
-        "7099": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 7099"
-        ],
-        "7299": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 7299"
-        ],
-        "7599": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 7599"
-        ],
-        "8099": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 8099"
-        ],
-        "8299": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 8299"
-        ],
-        "8599": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 8599"
+        "8883": [
+          "Dezena no oitavo prêmio!<br>com o palpite 8883",
+          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 8883"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 1,
         "Grupo": [
-          "🐄"
+          "🐂"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1099, 1299, 1599, 4099, 4299, 4599, 7099, 7299, 7599, 8099, 8299, 8599"
+      "resumo": "Palpites dados para esta extração: 8883"
     },
     "SP, 13hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
