@@ -192,73 +192,109 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "1072",
-          "Grupo": "18",
-          "Bicho": "Porco"
+          "Milhar": "8676",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "6677",
-          "Grupo": "20",
-          "Bicho": "Peru"
+          "Milhar": "2451",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "0689",
-          "Grupo": "23",
-          "Bicho": "Urso"
+          "Milhar": "6320",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "5713",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
+          "Milhar": "0250",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "3579",
-          "Grupo": "20",
-          "Bicho": "Peru"
+          "Milhar": "4307",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "17730",
+          "Milhar": "22004",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "157",
+          "Milhar": "264",
           "Grupo": "",
           "Bicho": ""
         }
       ],
       "frases": {
-        "3069": [
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 3069"
+        "9150": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 9150",
+          "Dezena no quarto prêmio!<br>com o palpite 9150",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9150"
         ],
-        "3169": [
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 3169"
+        "9151": [
+          "Dezena no segundo prêmio!<br>com o palpite 9151",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 9151",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9151"
         ],
-        "3469": [
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 3469"
+        "9450": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 9450",
+          "Dezena no quarto prêmio!<br>com o palpite 9450",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9450"
         ],
-        "3569": [
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 3569"
+        "9451": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 9451",
+          "Dezena no segundo prêmio!<br>com o palpite 9451",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 9451",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9451"
         ],
-        "3869": [
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 3869"
+        "9650": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 9650",
+          "Dezena no quarto prêmio!<br>com o palpite 9650",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9650"
+        ],
+        "9651": [
+          "Dezena no segundo prêmio!<br>com o palpite 9651",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 9651",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9651"
+        ],
+        "9750": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 9750",
+          "Dezena no quarto prêmio!<br>com o palpite 9750",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9750"
+        ],
+        "9751": [
+          "Dezena no segundo prêmio!<br>com o palpite 9751",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 9751",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9751"
+        ],
+        "9950": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 9950",
+          "Dezena no quarto prêmio!<br>com o palpite 9950",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9950"
+        ],
+        "9951": [
+          "Dezena no segundo prêmio!<br>com o palpite 9951",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 9951",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9951"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Centena": 1,
+        "Dezena": 10,
         "Grupo": [
-          "🐖"
+          "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3068, 3069, 3168, 3169, 3468, 3469, 3568, 3569, 3868, 3869"
+      "resumo": "Palpites dados para esta extração: 9150, 9151, 9153, 9156, 9159, 9450, 9451, 9453, 9456, 9459, 9650, 9651, 9653, 9656, 9659, 9750, 9751, 9753, 9756, 9759, 9950, 9951, 9953, 9956, 9959"
     },
     "PREFERIDA - MG, 21h": {
       "cabecalhos": [
