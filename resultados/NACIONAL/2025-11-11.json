@@ -46,26 +46,77 @@
         }
       ],
       "frases": {
+        "7053": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 7053"
+        ],
+        "7055": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 7055"
+        ],
+        "7093": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 7093",
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7093"
+        ],
+        "7095": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7095",
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 7095",
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7095"
+        ],
+        "7153": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 7153"
+        ],
+        "7155": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 7155"
+        ],
+        "7193": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 7193",
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7193"
+        ],
         "7195": [
           "Dezena no primeiro prêmio!<br>com o palpite 7195",
           "VEADO 🦌 no primeiro prêmio!<br>com o palpite 7195",
           "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7195"
         ],
+        "7253": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 7253"
+        ],
+        "7255": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 7255"
+        ],
+        "7293": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 7293",
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7293"
+        ],
         "7295": [
           "Dezena no primeiro prêmio!<br>com o palpite 7295",
           "VEADO 🦌 no primeiro prêmio!<br>com o palpite 7295",
           "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7295"
+        ],
+        "7853": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 7853"
+        ],
+        "7855": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 7855"
+        ],
+        "7893": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 7893",
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7893"
+        ],
+        "7895": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7895",
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 7895",
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7895"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 4,
         "Grupo": [
-          "🦌"
+          "🦌",
+          "🐈"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7195, 7295"
+      "resumo": "Palpites dados para esta extração: 7053, 7055, 7093, 7095, 7153, 7155, 7193, 7195, 7253, 7255, 7293, 7295, 7853, 7855, 7893, 7895"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -112,14 +163,45 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "7053": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7053"
+        ],
+        "7055": [
+          "Dezena no terceiro prêmio!<br>com o palpite 7055",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7055"
+        ],
+        "7153": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7153"
+        ],
+        "7155": [
+          "Dezena no terceiro prêmio!<br>com o palpite 7155",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7155"
+        ],
+        "7253": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7253"
+        ],
+        "7255": [
+          "Dezena no terceiro prêmio!<br>com o palpite 7255",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7255"
+        ],
+        "7853": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7853"
+        ],
+        "7855": [
+          "Dezena no terceiro prêmio!<br>com o palpite 7855",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7855"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 4,
+        "Grupo": [
+          "🐈"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7195, 7295"
+      "resumo": "Palpites dados para esta extração: 7053, 7055, 7093, 7095, 7153, 7155, 7193, 7195, 7253, 7255, 7293, 7295, 7853, 7855, 7893, 7895"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -648,6 +730,29 @@
         }
       ],
       "frases": {
+        "7093": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 7093",
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7093",
+          "Dezena no sexto prêmio!<br>com o palpite 7093",
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 7093",
+          "Dezena no oitavo prêmio!<br>com o palpite 7093",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 7093"
+        ],
+        "7095": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7095",
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 7095",
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7095",
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 7095",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 7095"
+        ],
+        "7193": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 7193",
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7193",
+          "Dezena no sexto prêmio!<br>com o palpite 7193",
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 7193",
+          "Dezena no oitavo prêmio!<br>com o palpite 7193",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 7193"
+        ],
         "7195": [
           "Dezena no primeiro prêmio!<br>com o palpite 7195",
           "VEADO 🦌 no primeiro prêmio!<br>com o palpite 7195",
@@ -655,23 +760,49 @@
           "VEADO 🦌 no sexto prêmio!<br>com o palpite 7195",
           "VEADO 🦌 no oitavo prêmio!<br>com o palpite 7195"
         ],
+        "7293": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 7293",
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7293",
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 7293",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 7293",
+          "Dezena no sexto prêmio!<br>com o palpite 7293",
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 7293",
+          "Dezena no oitavo prêmio!<br>com o palpite 7293",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 7293"
+        ],
         "7295": [
           "Dezena no primeiro prêmio!<br>com o palpite 7295",
           "VEADO 🦌 no primeiro prêmio!<br>com o palpite 7295",
           "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7295",
           "VEADO 🦌 no sexto prêmio!<br>com o palpite 7295",
           "VEADO 🦌 no oitavo prêmio!<br>com o palpite 7295"
+        ],
+        "7893": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 7893",
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7893",
+          "Dezena no sexto prêmio!<br>com o palpite 7893",
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 7893",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 7893",
+          "Dezena no oitavo prêmio!<br>com o palpite 7893",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 7893"
+        ],
+        "7895": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7895",
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 7895",
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7895",
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 7895",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 7895"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 2,
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 12,
         "Grupo": [
           "🦌"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7195, 7295"
+      "resumo": "Palpites dados para esta extração: 7053, 7055, 7093, 7095, 7153, 7155, 7193, 7195, 7253, 7255, 7293, 7295, 7853, 7855, 7893, 7895"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -742,14 +873,58 @@
           "Bicho": "Jacaré"
         }
       ],
-      "frases": {},
+      "frases": {
+        "7053": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7053",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 7053"
+        ],
+        "7055": [
+          "Dezena no terceiro prêmio!<br>com o palpite 7055",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7055",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 7055",
+          "Dezena no oitavo prêmio!<br>com o palpite 7055",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 7055"
+        ],
+        "7153": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7153",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 7153"
+        ],
+        "7155": [
+          "Dezena no terceiro prêmio!<br>com o palpite 7155",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7155",
+          "Dezena no oitavo prêmio!<br>com o palpite 7155",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 7155"
+        ],
+        "7253": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7253",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 7253"
+        ],
+        "7255": [
+          "Dezena no terceiro prêmio!<br>com o palpite 7255",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7255",
+          "Dezena no oitavo prêmio!<br>com o palpite 7255",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 7255"
+        ],
+        "7853": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7853",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 7853"
+        ],
+        "7855": [
+          "Dezena no terceiro prêmio!<br>com o palpite 7855",
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7855",
+          "Dezena no oitavo prêmio!<br>com o palpite 7855",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 7855"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 8,
+        "Grupo": [
+          "🐈"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7195, 7295"
+      "resumo": "Palpites dados para esta extração: 7053, 7055, 7093, 7095, 7153, 7155, 7193, 7195, 7253, 7255, 7293, 7295, 7853, 7855, 7893, 7895"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
