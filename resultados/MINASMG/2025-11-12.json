@@ -51,14 +51,27 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1847": [
+          "Dezena no quarto prêmio!<br>com o palpite 1847",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 1847"
+        ],
+        "1857": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 1857",
+          "Dezena no primeiro prêmio!<br>com o palpite 1857",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 1857"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🐊",
+          "🐘"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1833, 1837, 2833, 2837"
+      "resumo": "Palpites dados para esta extração: 1837, 1847, 1857, 1877, 1897"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
