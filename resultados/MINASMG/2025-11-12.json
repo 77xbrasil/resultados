@@ -83,55 +83,61 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "9759",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
+          "Milhar": "7200",
+          "Grupo": "25",
+          "Bicho": "Vaca"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "8153",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "9115",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "9421",
-          "Grupo": "06",
-          "Bicho": "Cabra"
+          "Milhar": "8712",
+          "Grupo": "03",
+          "Bicho": "Burro"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "2690",
-          "Grupo": "23",
-          "Bicho": "Urso"
+          "Milhar": "9330",
+          "Grupo": "08",
+          "Bicho": "Camelo"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "9906",
-          "Grupo": "02",
-          "Bicho": "Águia"
+          "Milhar": "5949",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "39929",
+          "Milhar": "40306",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "565",
+          "Milhar": "628",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1897": [
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1897"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2033"
+      "resumo": "Palpites dados para esta extração: 1837, 1847, 1857, 1877, 1897"
     },
     "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
@@ -259,6 +265,29 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 2033"
+    },
+    "MINAS FEDERAL - MG": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
