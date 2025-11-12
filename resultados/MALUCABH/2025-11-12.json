@@ -223,6 +223,112 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6348",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4734",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9728",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7646",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9091",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9072",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8986",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "0692",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3670",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8770",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        }
+      ],
+      "frases": {
+        "6126": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 6126"
+        ],
+        "6146": [
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 6146",
+          "Dezena no quarto prêmio!<br>com o palpite 6146",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 6146"
+        ],
+        "6426": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 6426"
+        ],
+        "6446": [
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 6446",
+          "Dezena no quarto prêmio!<br>com o palpite 6446",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 6446"
+        ],
+        "6826": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 6826"
+        ],
+        "6846": [
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 6846",
+          "Dezena no quarto prêmio!<br>com o palpite 6846",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 6846"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 3,
+        "Grupo": [
+          "🐘",
+          "🐑"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 6126, 6146, 6196, 6426, 6446, 6496, 6826, 6846, 6896"
+    },
+    "19h FEDERAL - MALUCA - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
