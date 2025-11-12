@@ -172,37 +172,37 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "3168",
+          "Milhar": "2277",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3173",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5084",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0359",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1968",
           "Grupo": "17",
           "Bicho": "Macaco"
         },
         {
-          "Prêmio": "2º",
-          "Milhar": "1000",
-          "Grupo": "25",
-          "Bicho": "Vaca"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "4440",
-          "Grupo": "10",
-          "Bicho": "Coelho"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "1837",
-          "Grupo": "10",
-          "Bicho": "Coelho"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "2863",
-          "Grupo": "16",
-          "Bicho": "Leão"
-        },
-        {
           "Prêmio": "6º [soma]",
-          "Milhar": "3308",
+          "Milhar": "2861",
           "Grupo": "",
           "Bicho": ""
         }
@@ -214,7 +214,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0601, 0603, 0604"
+      "resumo": "Palpites dados para esta extração: 0885, 8885"
     },
     "Nacional - LN 15:00": {
       "cabecalhos": [
@@ -716,73 +716,84 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "3168",
+          "Milhar": "2277",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3173",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5084",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0359",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1968",
           "Grupo": "17",
           "Bicho": "Macaco"
         },
         {
-          "Prêmio": "2º",
-          "Milhar": "1000",
-          "Grupo": "25",
-          "Bicho": "Vaca"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "4440",
-          "Grupo": "10",
-          "Bicho": "Coelho"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "1837",
-          "Grupo": "10",
-          "Bicho": "Coelho"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "2863",
-          "Grupo": "16",
-          "Bicho": "Leão"
-        },
-        {
           "Prêmio": "6º",
-          "Milhar": "3141",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
+          "Milhar": "2350",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "1048",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "2103",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "6043",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
+          "Milhar": "7785",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "8007",
-          "Grupo": "02",
-          "Bicho": "Águia"
+          "Milhar": "7349",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "1547",
+          "Milhar": "2448",
           "Grupo": "12",
           "Bicho": "Elefante"
         }
       ],
-      "frases": {},
+      "frases": {
+        "8885": [
+          "Dezena no oitavo prêmio!<br>com o palpite 8885",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 8885"
+        ],
+        "0885": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0885",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 0885"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0601, 0603, 0604"
+      "resumo": "Palpites dados para esta extração: 0885, 8885"
     },
     "Nacional - LN 15:00 do 1º ao 10º": {
       "cabecalhos": [
