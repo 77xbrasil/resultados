@@ -248,20 +248,72 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "6412",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8536",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4190",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5574",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5039",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "9751",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "332",
+          "Grupo": "",
+          "Bicho": ""
+        }
       ],
-      "frases": {},
+      "frases": {
+        "4189": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 4189"
+        ],
+        "5189": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 5189"
+        ],
+        "7189": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 7189"
+        ],
+        "8189": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 8189"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐻"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 4189, 5189, 7189, 8189"
     }
   },
   "1-10": {
@@ -604,25 +656,90 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "6412",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8536",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4190",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5574",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5039",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "6845",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4515",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1397",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "2604",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "5112",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "4189": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 4189"
+        ],
+        "5189": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 5189"
+        ],
+        "7189": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 7189"
+        ],
+        "8189": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 8189"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐻"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 4189, 5189, 7189, 8189"
     }
   }
 }
