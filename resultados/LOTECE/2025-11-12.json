@@ -69,14 +69,110 @@
           "Bicho": "Urso"
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "1213": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 1213"
+        ],
+        "1231": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1231",
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 1231"
+        ],
+        "1233": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 1233",
+          "Dezena no sexto prêmio!<br>com o palpite 1233",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 1233"
+        ],
+        "1413": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 1413"
+        ],
+        "1431": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1431",
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 1431"
+        ],
+        "1433": [
+          "Dezena no sexto prêmio!<br>com o palpite 1433",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 1433"
+        ],
+        "1813": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 1813"
+        ],
+        "1831": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1831",
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 1831"
+        ],
+        "1833": [
+          "Dezena no sexto prêmio!<br>com o palpite 1833",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 1833"
+        ],
+        "1913": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 1913"
+        ],
+        "1931": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1931",
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 1931"
+        ],
+        "1933": [
+          "Dezena no sexto prêmio!<br>com o palpite 1933",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 1933"
+        ],
+        "2213": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 2213"
+        ],
+        "2231": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2231",
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 2231"
+        ],
+        "2233": [
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 2233",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 2233",
+          "Dezena no sexto prêmio!<br>com o palpite 2233",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 2233"
+        ],
+        "2413": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 2413"
+        ],
+        "2431": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2431",
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 2431"
+        ],
+        "2433": [
+          "Dezena no sexto prêmio!<br>com o palpite 2433",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 2433"
+        ],
+        "2813": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 2813"
+        ],
+        "2831": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2831",
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 2831"
+        ],
+        "2833": [
+          "Dezena no sexto prêmio!<br>com o palpite 2833",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 2833"
+        ],
+        "2913": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 2913"
+        ],
+        "2931": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2931",
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 2931"
+        ],
+        "2933": [
+          "Dezena no sexto prêmio!<br>com o palpite 2933",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 2933"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2201, 2203, 2204"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 16,
+        "Grupo": [
+          "🦋",
+          "🐍",
+          "🐪"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1201, 1203, 1211, 1213, 1231, 1233, 1401, 1403, 1411, 1413, 1431, 1433, 1801, 1803, 1811, 1813, 1831, 1833, 1901, 1903, 1911, 1913, 1931, 1933, 2201, 2203, 2211, 2213, 2231, 2233, 2401, 2403, 2411, 2413, 2431, 2433, 2801, 2803, 2811, 2813, 2831, 2833, 2901, 2903, 2911, 2913, 2931, 2933"
     },
     "LOTECE - CE, 14:00 (tarde)": {
       "cabecalhos": [
