@@ -52,7 +52,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0885, 8885"
+      "resumo": "Palpites dados para esta extração: 0383, 0385, 0388, 0389, 0883, 0885, 0888, 0889, 2383, 2385, 2388, 2389, 2883, 2885, 2888, 2889, 5383, 5385, 5388, 5389, 5883, 5885, 5888, 5889, 7383, 7385, 7388, 7389, 7883, 7885, 7888, 7889, 8383, 8385, 8388, 8389, 8883, 8885, 8888, 8889"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -106,7 +106,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0885, 8885"
+      "resumo": "Palpites dados para esta extração: 0383, 0385, 0388, 0389, 0883, 0885, 0888, 0889, 2383, 2385, 2388, 2389, 2883, 2885, 2888, 2889, 5383, 5385, 5388, 5389, 5883, 5885, 5888, 5889, 7383, 7385, 7388, 7389, 7883, 7885, 7888, 7889, 8383, 8385, 8388, 8389, 8883, 8885, 8888, 8889"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -153,14 +153,57 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2389": [
+          "Dezena no quinto prêmio!<br>com o palpite 2389",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 2389"
+        ],
+        "2889": [
+          "Dezena no quinto prêmio!<br>com o palpite 2889",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 2889"
+        ],
+        "5389": [
+          "Dezena no quinto prêmio!<br>com o palpite 5389",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 5389"
+        ],
+        "5889": [
+          "Dezena no quinto prêmio!<br>com o palpite 5889",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 5889"
+        ],
+        "7389": [
+          "Dezena no quinto prêmio!<br>com o palpite 7389",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 7389"
+        ],
+        "7889": [
+          "Dezena no quinto prêmio!<br>com o palpite 7889",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 7889"
+        ],
+        "8389": [
+          "Dezena no quinto prêmio!<br>com o palpite 8389",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 8389"
+        ],
+        "8889": [
+          "Dezena no quinto prêmio!<br>com o palpite 8889",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 8889"
+        ],
+        "0389": [
+          "Dezena no quinto prêmio!<br>com o palpite 0389",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 0389"
+        ],
+        "0889": [
+          "Dezena no quinto prêmio!<br>com o palpite 0889",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 0889"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 10,
+        "Grupo": [
+          "🐻"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0885, 8885"
+      "resumo": "Palpites dados para esta extração: 0383, 0385, 0388, 0389, 0883, 0885, 0888, 0889, 2383, 2385, 2388, 2389, 2883, 2885, 2888, 2889, 5383, 5385, 5388, 5389, 5883, 5885, 5888, 5889, 7383, 7385, 7388, 7389, 7883, 7885, 7888, 7889, 8383, 8385, 8388, 8389, 8883, 8885, 8888, 8889"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -207,14 +250,47 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2383": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 2383"
+        ],
+        "2883": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 2883"
+        ],
+        "5383": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 5383"
+        ],
+        "5883": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 5883"
+        ],
+        "7383": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 7383"
+        ],
+        "7883": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 7883"
+        ],
+        "8383": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 8383"
+        ],
+        "8883": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 8883"
+        ],
+        "0383": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 0383"
+        ],
+        "0883": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 0883"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐂"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0885, 8885"
+      "resumo": "Palpites dados para esta extração: 0383, 0385, 0388, 0389, 0883, 0885, 0888, 0889, 2383, 2385, 2388, 2389, 2883, 2885, 2888, 2889, 5383, 5385, 5388, 5389, 5883, 5885, 5888, 5889, 7383, 7385, 7388, 7389, 7883, 7885, 7888, 7889, 8383, 8385, 8388, 8389, 8883, 8885, 8888, 8889"
     },
     "Nacional - LN 15:00": {
       "cabecalhos": [
@@ -541,14 +617,47 @@
           "Bicho": "Macaco"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2383": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 2383"
+        ],
+        "2883": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 2883"
+        ],
+        "5383": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 5383"
+        ],
+        "5883": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 5883"
+        ],
+        "7383": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 7383"
+        ],
+        "7883": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 7883"
+        ],
+        "8383": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 8383"
+        ],
+        "8883": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 8883"
+        ],
+        "0383": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 0383"
+        ],
+        "0883": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 0883"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐂"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0885, 8885"
+      "resumo": "Palpites dados para esta extração: 0383, 0385, 0388, 0389, 0883, 0885, 0888, 0889, 2383, 2385, 2388, 2389, 2883, 2885, 2888, 2889, 5383, 5385, 5388, 5389, 5883, 5885, 5888, 5889, 7383, 7385, 7388, 7389, 7883, 7885, 7888, 7889, 8383, 8385, 8388, 8389, 8883, 8885, 8888, 8889"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -626,7 +735,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0885, 8885"
+      "resumo": "Palpites dados para esta extração: 0383, 0385, 0388, 0389, 0883, 0885, 0888, 0889, 2383, 2385, 2388, 2389, 2883, 2885, 2888, 2889, 5383, 5385, 5388, 5389, 5883, 5885, 5888, 5889, 7383, 7385, 7388, 7389, 7883, 7885, 7888, 7889, 8383, 8385, 8388, 8389, 8883, 8885, 8888, 8889"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -697,14 +806,114 @@
           "Bicho": "Touro"
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "2383": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2383",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 2383",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 2383"
+        ],
+        "2389": [
+          "Dezena no quinto prêmio!<br>com o palpite 2389",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 2389"
+        ],
+        "2883": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 2883",
+          "Dezena no sétimo prêmio!<br>com o palpite 2883",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 2883",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 2883"
+        ],
+        "2889": [
+          "Dezena no quinto prêmio!<br>com o palpite 2889",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 2889"
+        ],
+        "5383": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5383",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 5383",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 5383"
+        ],
+        "5389": [
+          "Dezena no quinto prêmio!<br>com o palpite 5389",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 5389"
+        ],
+        "5883": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 5883",
+          "Dezena no sétimo prêmio!<br>com o palpite 5883",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 5883",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 5883"
+        ],
+        "5889": [
+          "Dezena no quinto prêmio!<br>com o palpite 5889",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 5889"
+        ],
+        "7383": [
+          "Dezena no sétimo prêmio!<br>com o palpite 7383",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 7383",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 7383"
+        ],
+        "7389": [
+          "Dezena no quinto prêmio!<br>com o palpite 7389",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 7389"
+        ],
+        "7883": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 7883",
+          "Dezena no sétimo prêmio!<br>com o palpite 7883",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 7883",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 7883"
+        ],
+        "7889": [
+          "Dezena no quinto prêmio!<br>com o palpite 7889",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 7889"
+        ],
+        "8383": [
+          "Dezena no sétimo prêmio!<br>com o palpite 8383",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 8383",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 8383"
+        ],
+        "8389": [
+          "Dezena no quinto prêmio!<br>com o palpite 8389",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 8389"
+        ],
+        "8883": [
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 8883",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 8883",
+          "Dezena no sétimo prêmio!<br>com o palpite 8883",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 8883",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 8883"
+        ],
+        "8889": [
+          "Dezena no quinto prêmio!<br>com o palpite 8889",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 8889"
+        ],
+        "0389": [
+          "Dezena no quinto prêmio!<br>com o palpite 0389",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 0389"
+        ],
+        "0889": [
+          "Dezena no quinto prêmio!<br>com o palpite 0889",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 0889"
+        ],
+        "0383": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0383",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 0383",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 0383"
+        ],
+        "0883": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 0883",
+          "Dezena no sétimo prêmio!<br>com o palpite 0883",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 0883",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 0883"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0885, 8885"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 5,
+        "Dezena": 20,
+        "Grupo": [
+          "🐻",
+          "🐂"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0383, 0385, 0388, 0389, 0883, 0885, 0888, 0889, 2383, 2385, 2388, 2389, 2883, 2885, 2888, 2889, 5383, 5385, 5388, 5389, 5883, 5885, 5888, 5889, 7383, 7385, 7388, 7389, 7883, 7885, 7888, 7889, 8383, 8385, 8388, 8389, 8883, 8885, 8888, 8889"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -776,24 +985,117 @@
         }
       ],
       "frases": {
+        "2383": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 2383"
+        ],
+        "2385": [
+          "Dezena no oitavo prêmio!<br>com o palpite 2385",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 2385"
+        ],
+        "2388": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 2388"
+        ],
+        "2883": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 2883"
+        ],
+        "2885": [
+          "Dezena no oitavo prêmio!<br>com o palpite 2885",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 2885"
+        ],
+        "2888": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 2888"
+        ],
+        "5383": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 5383"
+        ],
+        "5385": [
+          "Dezena no oitavo prêmio!<br>com o palpite 5385",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 5385"
+        ],
+        "5388": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 5388"
+        ],
+        "5883": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 5883"
+        ],
+        "5885": [
+          "Dezena no oitavo prêmio!<br>com o palpite 5885",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 5885"
+        ],
+        "5888": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 5888"
+        ],
+        "7383": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 7383"
+        ],
+        "7385": [
+          "Dezena no oitavo prêmio!<br>com o palpite 7385",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 7385"
+        ],
+        "7388": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 7388"
+        ],
+        "7883": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 7883"
+        ],
+        "7885": [
+          "Dezena no oitavo prêmio!<br>com o palpite 7885",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 7885"
+        ],
+        "7888": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 7888"
+        ],
+        "8383": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 8383"
+        ],
+        "8385": [
+          "Dezena no oitavo prêmio!<br>com o palpite 8385",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 8385"
+        ],
+        "8388": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 8388"
+        ],
+        "8883": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 8883"
+        ],
         "8885": [
           "Dezena no oitavo prêmio!<br>com o palpite 8885",
           "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 8885"
         ],
+        "8888": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 8888"
+        ],
+        "0383": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 0383"
+        ],
+        "0883": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 0883"
+        ],
+        "0385": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0385",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 0385"
+        ],
+        "0388": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 0388"
+        ],
         "0885": [
           "Dezena no oitavo prêmio!<br>com o palpite 0885",
           "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 0885"
+        ],
+        "0888": [
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 0888"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 10,
         "Grupo": [
+          "🐂",
           "🐅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0885, 8885"
+      "resumo": "Palpites dados para esta extração: 0383, 0385, 0388, 0389, 0883, 0885, 0888, 0889, 2383, 2385, 2388, 2389, 2883, 2885, 2888, 2889, 5383, 5385, 5388, 5389, 5883, 5885, 5888, 5889, 7383, 7385, 7388, 7389, 7883, 7885, 7888, 7889, 8383, 8385, 8388, 8389, 8883, 8885, 8888, 8889"
     },
     "Nacional - LN 15:00 do 1º ao 10º": {
       "cabecalhos": [
