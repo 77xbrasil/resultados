@@ -218,80 +218,55 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "2089",
-          "Grupo": "23",
-          "Bicho": "Urso"
+          "Milhar": "3023",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "3564",
+          "Milhar": "4030",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2933",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2563",
           "Grupo": "16",
           "Bicho": "Leão"
         },
         {
-          "Prêmio": "3º",
-          "Milhar": "3468",
-          "Grupo": "17",
-          "Bicho": "Macaco"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "5849",
-          "Grupo": "13",
-          "Bicho": "Galo"
-        },
-        {
           "Prêmio": "5º",
-          "Milhar": "0138",
-          "Grupo": "10",
-          "Bicho": "Coelho"
+          "Milhar": "6804",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "15108",
+          "Milhar": "19353",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "445",
+          "Milhar": "182",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {
-        "3068": [
-          "Dezena no terceiro prêmio!<br>com o palpite 3068",
-          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 3068"
-        ],
-        "3168": [
-          "Dezena no terceiro prêmio!<br>com o palpite 3168",
-          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 3168"
-        ],
-        "3468": [
-          "Milhar e Centena no terceiro prêmio!<br>com o palpite 3468",
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 3468",
-          "Dezena no terceiro prêmio!<br>com o palpite 3468",
-          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 3468"
-        ],
-        "3568": [
-          "Dezena no terceiro prêmio!<br>com o palpite 3568",
-          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 3568"
-        ],
-        "3868": [
-          "Dezena no terceiro prêmio!<br>com o palpite 3868",
-          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 3868"
-        ]
-      },
+      "frases": {},
       "acertos": {
-        "Milhar": 1,
-        "Centena": 1,
-        "Dezena": 5,
-        "Grupo": [
-          "🐒"
-        ]
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3068, 3069, 3168, 3169, 3468, 3469, 3568, 3569, 3868, 3869"
+      "resumo": "Palpites dados para esta extração: 0350, 2350, 4350, 6350, 8350"
     }
   }
 }
