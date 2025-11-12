@@ -46,14 +46,23 @@
         }
       ],
       "frases": {
-        "1331": [
-          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 1331"
+        "1831": [
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 1831"
         ],
-        "9331": [
-          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 9331"
+        "1837": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 1837"
         ],
-        "0331": [
-          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 0331"
+        "8831": [
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 8831"
+        ],
+        "8837": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 8837"
+        ],
+        "9831": [
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 9831"
+        ],
+        "9837": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 9837"
         ]
       },
       "acertos": {
@@ -61,10 +70,11 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐪"
+          "🐪",
+          "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0331, 1331, 9331"
+      "resumo": "Palpites dados para esta extração: 1831, 1837, 8831, 8837, 9831, 9837"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -118,7 +128,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0331, 1331, 9331"
+      "resumo": "Palpites dados para esta extração: 1831, 1837, 8831, 8837, 9831, 9837"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -567,31 +577,53 @@
         }
       ],
       "frases": {
-        "1331": [
-          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 1331",
-          "Dezena no nono prêmio!<br>com o palpite 1331",
-          "CAMELO 🐪 no nono prêmio!<br>com o palpite 1331"
+        "1831": [
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 1831",
+          "Dezena no nono prêmio!<br>com o palpite 1831",
+          "CAMELO 🐪 no nono prêmio!<br>com o palpite 1831"
         ],
-        "9331": [
-          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 9331",
-          "Dezena no nono prêmio!<br>com o palpite 9331",
-          "CAMELO 🐪 no nono prêmio!<br>com o palpite 9331"
+        "1837": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 1837",
+          "Dezena no sétimo prêmio!<br>com o palpite 1837",
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 1837",
+          "Dezena no oitavo prêmio!<br>com o palpite 1837",
+          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 1837"
         ],
-        "0331": [
-          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 0331",
-          "Dezena no nono prêmio!<br>com o palpite 0331",
-          "CAMELO 🐪 no nono prêmio!<br>com o palpite 0331"
+        "8831": [
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 8831",
+          "Dezena no nono prêmio!<br>com o palpite 8831",
+          "CAMELO 🐪 no nono prêmio!<br>com o palpite 8831"
+        ],
+        "8837": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 8837",
+          "Dezena no sétimo prêmio!<br>com o palpite 8837",
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 8837",
+          "Dezena no oitavo prêmio!<br>com o palpite 8837",
+          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 8837"
+        ],
+        "9831": [
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 9831",
+          "Dezena no nono prêmio!<br>com o palpite 9831",
+          "CAMELO 🐪 no nono prêmio!<br>com o palpite 9831"
+        ],
+        "9837": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 9837",
+          "Dezena no sétimo prêmio!<br>com o palpite 9837",
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 9837",
+          "Dezena no oitavo prêmio!<br>com o palpite 9837",
+          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 9837"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
+        "Dezena": 9,
         "Grupo": [
-          "🐪"
+          "🐪",
+          "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0331, 1331, 9331"
+      "resumo": "Palpites dados para esta extração: 1831, 1837, 8831, 8837, 9831, 9837"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -662,14 +694,33 @@
           "Bicho": "Gato"
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "1837": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 1837",
+          "Dezena no sexto prêmio!<br>com o palpite 1837",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 1837"
+        ],
+        "8837": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 8837",
+          "Dezena no sexto prêmio!<br>com o palpite 8837",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 8837"
+        ],
+        "9837": [
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 9837",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 9837",
+          "Dezena no sexto prêmio!<br>com o palpite 9837",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 9837"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0331, 1331, 9331"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 3,
+        "Dezena": 3,
+        "Grupo": [
+          "🐇"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1831, 1837, 8831, 8837, 9831, 9837"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
