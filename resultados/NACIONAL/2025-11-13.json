@@ -10,80 +10,94 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "6902",
+          "Milhar": "9032",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1340",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8333",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1771",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0403",
           "Grupo": "01",
           "Bicho": "Avestruz"
         },
         {
-          "Prêmio": "2º",
-          "Milhar": "4350",
-          "Grupo": "13",
-          "Bicho": "Galo"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "8496",
-          "Grupo": "24",
-          "Bicho": "Veado"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "1353",
-          "Grupo": "14",
-          "Bicho": "Gato"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "1863",
-          "Grupo": "16",
-          "Bicho": "Leão"
-        },
-        {
           "Prêmio": "6º [soma]",
-          "Milhar": "2964",
+          "Milhar": "0879",
           "Grupo": "",
           "Bicho": ""
         }
       ],
       "frases": {
-        "1353": [
-          "Milhar e Centena no quarto prêmio!<br>com o palpite 1353",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 1353",
-          "Dezena no quarto prêmio!<br>com o palpite 1353",
-          "GATO 🐈 no quarto prêmio!<br>com o palpite 1353"
+        "1303": [
+          "Dezena no quinto prêmio!<br>com o palpite 1303",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 1303"
         ],
-        "1363": [
-          "Dezena no quinto prêmio!<br>com o palpite 1363",
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 1363",
-          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 1363"
+        "1403": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 1403",
+          "Dezena no quinto prêmio!<br>com o palpite 1403",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 1403"
         ],
-        "1393": [
-          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 1393"
+        "1703": [
+          "Dezena no quinto prêmio!<br>com o palpite 1703",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 1703"
         ],
-        "1453": [
-          "Dezena no quarto prêmio!<br>com o palpite 1453",
-          "GATO 🐈 no quarto prêmio!<br>com o palpite 1453"
+        "1803": [
+          "Dezena no quinto prêmio!<br>com o palpite 1803",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 1803"
         ],
-        "1463": [
-          "Dezena no quinto prêmio!<br>com o palpite 1463",
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 1463",
-          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 1463"
+        "1903": [
+          "Dezena no quinto prêmio!<br>com o palpite 1903",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 1903"
         ],
-        "1493": [
-          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 1493"
+        "6303": [
+          "Dezena no quinto prêmio!<br>com o palpite 6303",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 6303"
+        ],
+        "6403": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 6403",
+          "Dezena no quinto prêmio!<br>com o palpite 6403",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 6403"
+        ],
+        "6703": [
+          "Dezena no quinto prêmio!<br>com o palpite 6703",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 6703"
+        ],
+        "6803": [
+          "Dezena no quinto prêmio!<br>com o palpite 6803",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 6803"
+        ],
+        "6903": [
+          "Dezena no quinto prêmio!<br>com o palpite 6903",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 6903"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 1,
-        "Dezena": 4,
+        "Milhar": 0,
+        "Centena": 2,
+        "Dezena": 10,
         "Grupo": [
-          "🦌",
-          "🐈",
-          "🦁"
+          "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1343, 1353, 1363, 1393, 1443, 1453, 1463, 1493"
+      "resumo": "Palpites dados para esta extração: 1303, 1313, 1343, 1353, 1363, 1373, 1383, 1393, 1403, 1413, 1443, 1453, 1463, 1473, 1483, 1493, 1703, 1713, 1743, 1753, 1763, 1773, 1783, 1793, 1803, 1813, 1843, 1853, 1863, 1873, 1883, 1893, 1903, 1913, 1943, 1953, 1963, 1973, 1983, 1993, 6303, 6313, 6343, 6353, 6363, 6373, 6383, 6393, 6403, 6413, 6443, 6453, 6463, 6473, 6483, 6493, 6703, 6713, 6743, 6753, 6763, 6773, 6783, 6793, 6803, 6813, 6843, 6853, 6863, 6873, 6883, 6893, 6903, 6913, 6943, 6953, 6963, 6973, 6983, 6993"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -95,49 +109,82 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5767",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "9148",
+          "Grupo": "12",
+          "Bicho": "Elefante"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "2977",
+          "Milhar": "8851",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3077",
           "Grupo": "20",
           "Bicho": "Peru"
         },
         {
-          "Prêmio": "3º",
-          "Milhar": "0871",
+          "Prêmio": "4º",
+          "Milhar": "7769",
           "Grupo": "18",
           "Bicho": "Porco"
         },
         {
-          "Prêmio": "4º",
-          "Milhar": "4385",
-          "Grupo": "22",
-          "Bicho": "Tigre"
-        },
-        {
           "Prêmio": "5º",
-          "Milhar": "6839",
-          "Grupo": "10",
-          "Bicho": "Coelho"
+          "Milhar": "2609",
+          "Grupo": "03",
+          "Bicho": "Burro"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "0839",
+          "Milhar": "1454",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1353": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 1353"
+        ],
+        "1453": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 1453"
+        ],
+        "1753": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 1753"
+        ],
+        "1853": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 1853"
+        ],
+        "1953": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 1953"
+        ],
+        "6353": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 6353"
+        ],
+        "6453": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 6453"
+        ],
+        "6753": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 6753"
+        ],
+        "6853": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 6853"
+        ],
+        "6953": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 6953"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐈"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1343, 1353, 1363, 1393, 1443, 1453, 1463, 1493"
+      "resumo": "Palpites dados para esta extração: 1303, 1313, 1343, 1353, 1363, 1373, 1383, 1393, 1403, 1413, 1443, 1453, 1463, 1473, 1483, 1493, 1703, 1713, 1743, 1753, 1763, 1773, 1783, 1793, 1803, 1813, 1843, 1853, 1863, 1873, 1883, 1893, 1903, 1913, 1943, 1953, 1963, 1973, 1983, 1993, 6303, 6313, 6343, 6353, 6363, 6373, 6383, 6393, 6403, 6413, 6443, 6453, 6463, 6473, 6483, 6493, 6703, 6713, 6743, 6753, 6763, 6773, 6783, 6793, 6803, 6813, 6843, 6853, 6863, 6873, 6883, 6893, 6903, 6913, 6943, 6953, 6963, 6973, 6983, 6993"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -191,7 +238,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1343, 1353, 1363, 1393, 1443, 1453, 1463, 1493"
+      "resumo": "Palpites dados para esta extração: 1303, 1313, 1343, 1353, 1363, 1373, 1383, 1393, 1403, 1413, 1443, 1453, 1463, 1473, 1483, 1493, 1703, 1713, 1743, 1753, 1763, 1773, 1783, 1793, 1803, 1813, 1843, 1853, 1863, 1873, 1883, 1893, 1903, 1913, 1943, 1953, 1963, 1973, 1983, 1993, 6303, 6313, 6343, 6353, 6363, 6373, 6383, 6393, 6403, 6413, 6443, 6453, 6463, 6473, 6483, 6493, 6703, 6713, 6743, 6753, 6763, 6773, 6783, 6793, 6803, 6813, 6843, 6853, 6863, 6873, 6883, 6893, 6903, 6913, 6943, 6953, 6963, 6973, 6983, 6993"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -242,19 +289,115 @@
         "1363": [
           "LEÃO 🦁 no sexto prêmio!<br>com o palpite 1363"
         ],
+        "1373": [
+          "Dezena no segundo prêmio!<br>com o palpite 1373",
+          "PAVÃO 🦚 no segundo prêmio!<br>com o palpite 1373"
+        ],
+        "1383": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 1383"
+        ],
         "1463": [
           "LEÃO 🦁 no sexto prêmio!<br>com o palpite 1463"
+        ],
+        "1473": [
+          "Dezena no segundo prêmio!<br>com o palpite 1473",
+          "PAVÃO 🦚 no segundo prêmio!<br>com o palpite 1473"
+        ],
+        "1483": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 1483"
+        ],
+        "1763": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 1763"
+        ],
+        "1773": [
+          "Dezena no segundo prêmio!<br>com o palpite 1773",
+          "PAVÃO 🦚 no segundo prêmio!<br>com o palpite 1773"
+        ],
+        "1783": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 1783"
+        ],
+        "1863": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 1863"
+        ],
+        "1873": [
+          "Dezena no segundo prêmio!<br>com o palpite 1873",
+          "PAVÃO 🦚 no segundo prêmio!<br>com o palpite 1873"
+        ],
+        "1883": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 1883"
+        ],
+        "1963": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 1963"
+        ],
+        "1973": [
+          "Dezena no segundo prêmio!<br>com o palpite 1973",
+          "PAVÃO 🦚 no segundo prêmio!<br>com o palpite 1973"
+        ],
+        "1983": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 1983"
+        ],
+        "6363": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 6363"
+        ],
+        "6373": [
+          "Dezena no segundo prêmio!<br>com o palpite 6373",
+          "PAVÃO 🦚 no segundo prêmio!<br>com o palpite 6373"
+        ],
+        "6383": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 6383"
+        ],
+        "6463": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 6463"
+        ],
+        "6473": [
+          "Dezena no segundo prêmio!<br>com o palpite 6473",
+          "PAVÃO 🦚 no segundo prêmio!<br>com o palpite 6473"
+        ],
+        "6483": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 6483"
+        ],
+        "6763": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 6763"
+        ],
+        "6773": [
+          "Dezena no segundo prêmio!<br>com o palpite 6773",
+          "PAVÃO 🦚 no segundo prêmio!<br>com o palpite 6773"
+        ],
+        "6783": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 6783"
+        ],
+        "6863": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 6863"
+        ],
+        "6873": [
+          "Dezena no segundo prêmio!<br>com o palpite 6873",
+          "PAVÃO 🦚 no segundo prêmio!<br>com o palpite 6873"
+        ],
+        "6883": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 6883"
+        ],
+        "6963": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 6963"
+        ],
+        "6973": [
+          "Dezena no segundo prêmio!<br>com o palpite 6973",
+          "PAVÃO 🦚 no segundo prêmio!<br>com o palpite 6973"
+        ],
+        "6983": [
+          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 6983"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 10,
         "Grupo": [
+          "🦚",
+          "🐂",
           "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1343, 1353, 1363, 1393, 1443, 1453, 1463, 1493"
+      "resumo": "Palpites dados para esta extração: 1303, 1313, 1343, 1353, 1363, 1373, 1383, 1393, 1403, 1413, 1443, 1453, 1463, 1473, 1483, 1493, 1703, 1713, 1743, 1753, 1763, 1773, 1783, 1793, 1803, 1813, 1843, 1853, 1863, 1873, 1883, 1893, 1903, 1913, 1943, 1953, 1963, 1973, 1983, 1993, 6303, 6313, 6343, 6353, 6363, 6373, 6383, 6393, 6403, 6413, 6443, 6453, 6463, 6473, 6483, 6493, 6703, 6713, 6743, 6753, 6763, 6773, 6783, 6793, 6803, 6813, 6843, 6853, 6863, 6873, 6883, 6893, 6903, 6913, 6943, 6953, 6963, 6973, 6983, 6993"
     },
     "Nacional - LN 15:00": {
       "cabecalhos": [
@@ -321,6 +464,86 @@
         "1493": [
           "VEADO 🦌 no primeiro prêmio!<br>com o palpite 1493",
           "VEADO 🦌 no quinto prêmio!<br>com o palpite 1493"
+        ],
+        "1753": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1753"
+        ],
+        "1763": [
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 1763"
+        ],
+        "1793": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 1793",
+          "VEADO 🦌 no quinto prêmio!<br>com o palpite 1793"
+        ],
+        "1853": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1853"
+        ],
+        "1863": [
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 1863"
+        ],
+        "1893": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 1893",
+          "VEADO 🦌 no quinto prêmio!<br>com o palpite 1893"
+        ],
+        "1953": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1953"
+        ],
+        "1963": [
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 1963"
+        ],
+        "1993": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 1993",
+          "VEADO 🦌 no quinto prêmio!<br>com o palpite 1993"
+        ],
+        "6353": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 6353"
+        ],
+        "6363": [
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 6363"
+        ],
+        "6393": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 6393",
+          "VEADO 🦌 no quinto prêmio!<br>com o palpite 6393"
+        ],
+        "6453": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 6453"
+        ],
+        "6463": [
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 6463"
+        ],
+        "6493": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 6493",
+          "VEADO 🦌 no quinto prêmio!<br>com o palpite 6493"
+        ],
+        "6753": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 6753"
+        ],
+        "6763": [
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 6763"
+        ],
+        "6793": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 6793",
+          "VEADO 🦌 no quinto prêmio!<br>com o palpite 6793"
+        ],
+        "6853": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 6853"
+        ],
+        "6863": [
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 6863"
+        ],
+        "6893": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 6893",
+          "VEADO 🦌 no quinto prêmio!<br>com o palpite 6893"
+        ],
+        "6953": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 6953"
+        ],
+        "6963": [
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 6963"
+        ],
+        "6993": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 6993",
+          "VEADO 🦌 no quinto prêmio!<br>com o palpite 6993"
         ]
       },
       "acertos": {
@@ -333,7 +556,7 @@
           "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1343, 1353, 1363, 1393, 1443, 1453, 1463, 1493"
+      "resumo": "Palpites dados para esta extração: 1303, 1313, 1343, 1353, 1363, 1373, 1383, 1393, 1403, 1413, 1443, 1453, 1463, 1473, 1483, 1493, 1703, 1713, 1743, 1753, 1763, 1773, 1783, 1793, 1803, 1813, 1843, 1853, 1863, 1873, 1883, 1893, 1903, 1913, 1943, 1953, 1963, 1973, 1983, 1993, 6303, 6313, 6343, 6353, 6363, 6373, 6383, 6393, 6403, 6413, 6443, 6453, 6463, 6473, 6483, 6493, 6703, 6713, 6743, 6753, 6763, 6773, 6783, 6793, 6803, 6813, 6843, 6853, 6863, 6873, 6883, 6893, 6903, 6913, 6943, 6953, 6963, 6973, 6983, 6993"
     },
     "Nacional - LN 17:00": {
       "cabecalhos": [
@@ -386,6 +609,30 @@
         ],
         "1453": [
           "GATO 🐈 no segundo prêmio!<br>com o palpite 1453"
+        ],
+        "1753": [
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 1753"
+        ],
+        "1853": [
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 1853"
+        ],
+        "1953": [
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 1953"
+        ],
+        "6353": [
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 6353"
+        ],
+        "6453": [
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 6453"
+        ],
+        "6753": [
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 6753"
+        ],
+        "6853": [
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 6853"
+        ],
+        "6953": [
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 6953"
         ]
       },
       "acertos": {
@@ -396,7 +643,7 @@
           "🐈"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1343, 1353, 1363, 1393, 1443, 1453, 1463, 1493"
+      "resumo": "Palpites dados para esta extração: 1303, 1313, 1343, 1353, 1363, 1373, 1383, 1393, 1403, 1413, 1443, 1453, 1463, 1473, 1483, 1493, 1703, 1713, 1743, 1753, 1763, 1773, 1783, 1793, 1803, 1813, 1843, 1853, 1863, 1873, 1883, 1893, 1903, 1913, 1943, 1953, 1963, 1973, 1983, 1993, 6303, 6313, 6343, 6353, 6363, 6373, 6383, 6393, 6403, 6413, 6443, 6453, 6463, 6473, 6483, 6493, 6703, 6713, 6743, 6753, 6763, 6773, 6783, 6793, 6803, 6813, 6843, 6853, 6863, 6873, 6883, 6893, 6903, 6913, 6943, 6953, 6963, 6973, 6983, 6993"
     },
     "Nacional - LN 20:00": {
       "cabecalhos": [
@@ -762,6 +1009,9 @@
         }
       ],
       "frases": {
+        "1303": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 1303"
+        ],
         "1343": [
           "Centena e Dezena no sétimo prêmio!<br>com o palpite 1343",
           "Dezena no sétimo prêmio!<br>com o palpite 1343",
@@ -779,9 +1029,15 @@
           "Dezena no nono prêmio!<br>com o palpite 1363",
           "LEÃO 🦁 no nono prêmio!<br>com o palpite 1363"
         ],
+        "1383": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 1383"
+        ],
         "1393": [
           "VEADO 🦌 no terceiro prêmio!<br>com o palpite 1393",
           "VEADO 🦌 no oitavo prêmio!<br>com o palpite 1393"
+        ],
+        "1403": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 1403"
         ],
         "1443": [
           "Dezena no sétimo prêmio!<br>com o palpite 1443",
@@ -797,23 +1053,225 @@
           "Dezena no nono prêmio!<br>com o palpite 1463",
           "LEÃO 🦁 no nono prêmio!<br>com o palpite 1463"
         ],
+        "1483": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 1483"
+        ],
         "1493": [
           "VEADO 🦌 no terceiro prêmio!<br>com o palpite 1493",
           "VEADO 🦌 no oitavo prêmio!<br>com o palpite 1493"
+        ],
+        "1703": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 1703"
+        ],
+        "1743": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1743",
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 1743"
+        ],
+        "1753": [
+          "Dezena no quarto prêmio!<br>com o palpite 1753",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 1753"
+        ],
+        "1763": [
+          "Dezena no quinto prêmio!<br>com o palpite 1763",
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 1763",
+          "Dezena no nono prêmio!<br>com o palpite 1763",
+          "LEÃO 🦁 no nono prêmio!<br>com o palpite 1763"
+        ],
+        "1783": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 1783"
+        ],
+        "1793": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 1793",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 1793"
+        ],
+        "1803": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 1803"
+        ],
+        "1843": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1843",
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 1843"
+        ],
+        "1853": [
+          "Dezena no quarto prêmio!<br>com o palpite 1853",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 1853"
+        ],
+        "1863": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 1863",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 1863",
+          "Dezena no quinto prêmio!<br>com o palpite 1863",
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 1863",
+          "Dezena no nono prêmio!<br>com o palpite 1863",
+          "LEÃO 🦁 no nono prêmio!<br>com o palpite 1863"
+        ],
+        "1883": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 1883"
+        ],
+        "1893": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 1893",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 1893"
+        ],
+        "1903": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 1903"
+        ],
+        "1943": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1943",
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 1943"
+        ],
+        "1953": [
+          "Dezena no quarto prêmio!<br>com o palpite 1953",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 1953"
+        ],
+        "1963": [
+          "Dezena no quinto prêmio!<br>com o palpite 1963",
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 1963",
+          "Dezena no nono prêmio!<br>com o palpite 1963",
+          "LEÃO 🦁 no nono prêmio!<br>com o palpite 1963"
+        ],
+        "1983": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 1983"
+        ],
+        "1993": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 1993",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 1993"
+        ],
+        "6303": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 6303"
+        ],
+        "6343": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 6343",
+          "Dezena no sétimo prêmio!<br>com o palpite 6343",
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 6343"
+        ],
+        "6353": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 6353",
+          "Dezena no quarto prêmio!<br>com o palpite 6353",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 6353"
+        ],
+        "6363": [
+          "Dezena no quinto prêmio!<br>com o palpite 6363",
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 6363",
+          "Dezena no nono prêmio!<br>com o palpite 6363",
+          "LEÃO 🦁 no nono prêmio!<br>com o palpite 6363"
+        ],
+        "6383": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 6383"
+        ],
+        "6393": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 6393",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 6393"
+        ],
+        "6403": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 6403"
+        ],
+        "6443": [
+          "Dezena no sétimo prêmio!<br>com o palpite 6443",
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 6443"
+        ],
+        "6453": [
+          "Dezena no quarto prêmio!<br>com o palpite 6453",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 6453"
+        ],
+        "6463": [
+          "Dezena no quinto prêmio!<br>com o palpite 6463",
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 6463",
+          "Dezena no nono prêmio!<br>com o palpite 6463",
+          "LEÃO 🦁 no nono prêmio!<br>com o palpite 6463"
+        ],
+        "6483": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 6483"
+        ],
+        "6493": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 6493",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 6493"
+        ],
+        "6703": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 6703"
+        ],
+        "6743": [
+          "Dezena no sétimo prêmio!<br>com o palpite 6743",
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 6743"
+        ],
+        "6753": [
+          "Dezena no quarto prêmio!<br>com o palpite 6753",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 6753"
+        ],
+        "6763": [
+          "Dezena no quinto prêmio!<br>com o palpite 6763",
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 6763",
+          "Dezena no nono prêmio!<br>com o palpite 6763",
+          "LEÃO 🦁 no nono prêmio!<br>com o palpite 6763"
+        ],
+        "6783": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 6783"
+        ],
+        "6793": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 6793",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 6793"
+        ],
+        "6803": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 6803"
+        ],
+        "6843": [
+          "Dezena no sétimo prêmio!<br>com o palpite 6843",
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 6843"
+        ],
+        "6853": [
+          "Dezena no quarto prêmio!<br>com o palpite 6853",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 6853"
+        ],
+        "6863": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 6863",
+          "Dezena no quinto prêmio!<br>com o palpite 6863",
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 6863",
+          "Dezena no nono prêmio!<br>com o palpite 6863",
+          "LEÃO 🦁 no nono prêmio!<br>com o palpite 6863"
+        ],
+        "6883": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 6883"
+        ],
+        "6893": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 6893",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 6893"
+        ],
+        "6903": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 6903"
+        ],
+        "6943": [
+          "Dezena no sétimo prêmio!<br>com o palpite 6943",
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 6943"
+        ],
+        "6953": [
+          "Dezena no quarto prêmio!<br>com o palpite 6953",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 6953"
+        ],
+        "6963": [
+          "Dezena no quinto prêmio!<br>com o palpite 6963",
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 6963",
+          "Dezena no nono prêmio!<br>com o palpite 6963",
+          "LEÃO 🦁 no nono prêmio!<br>com o palpite 6963"
+        ],
+        "6983": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 6983"
+        ],
+        "6993": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 6993",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 6993"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 2,
-        "Dezena": 8,
+        "Milhar": 2,
+        "Centena": 6,
+        "Dezena": 40,
         "Grupo": [
+          "🪶",
           "🦌",
           "🐈",
           "🦁",
+          "🐂",
           "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1343, 1353, 1363, 1393, 1443, 1453, 1463, 1493"
+      "resumo": "Palpites dados para esta extração: 1303, 1313, 1343, 1353, 1363, 1373, 1383, 1393, 1403, 1413, 1443, 1453, 1463, 1473, 1483, 1493, 1703, 1713, 1743, 1753, 1763, 1773, 1783, 1793, 1803, 1813, 1843, 1853, 1863, 1873, 1883, 1893, 1903, 1913, 1943, 1953, 1963, 1973, 1983, 1993, 6303, 6313, 6343, 6353, 6363, 6373, 6383, 6393, 6403, 6413, 6443, 6453, 6463, 6473, 6483, 6493, 6703, 6713, 6743, 6753, 6763, 6773, 6783, 6793, 6803, 6813, 6843, 6853, 6863, 6873, 6883, 6893, 6903, 6913, 6943, 6953, 6963, 6973, 6983, 6993"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -884,14 +1342,121 @@
           "Bicho": "Cachorro"
         }
       ],
-      "frases": {},
+      "frases": {
+        "1303": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1303"
+        ],
+        "1313": [
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 1313"
+        ],
+        "1383": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1383",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 1383"
+        ],
+        "1403": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1403"
+        ],
+        "1413": [
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 1413"
+        ],
+        "1483": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1483",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 1483"
+        ],
+        "1703": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1703"
+        ],
+        "1713": [
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 1713"
+        ],
+        "1783": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1783",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 1783"
+        ],
+        "1803": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1803"
+        ],
+        "1813": [
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 1813"
+        ],
+        "1883": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1883",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 1883"
+        ],
+        "1903": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1903"
+        ],
+        "1913": [
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 1913"
+        ],
+        "1983": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 1983",
+          "Dezena no sétimo prêmio!<br>com o palpite 1983",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 1983"
+        ],
+        "6303": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 6303"
+        ],
+        "6313": [
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 6313"
+        ],
+        "6383": [
+          "Dezena no sétimo prêmio!<br>com o palpite 6383",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 6383"
+        ],
+        "6403": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 6403"
+        ],
+        "6413": [
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 6413"
+        ],
+        "6483": [
+          "Dezena no sétimo prêmio!<br>com o palpite 6483",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 6483"
+        ],
+        "6703": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 6703"
+        ],
+        "6713": [
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 6713"
+        ],
+        "6783": [
+          "Dezena no sétimo prêmio!<br>com o palpite 6783",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 6783"
+        ],
+        "6803": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 6803"
+        ],
+        "6813": [
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 6813"
+        ],
+        "6883": [
+          "Dezena no sétimo prêmio!<br>com o palpite 6883",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 6883"
+        ],
+        "6903": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 6903"
+        ],
+        "6913": [
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 6913"
+        ],
+        "6983": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 6983",
+          "Dezena no sétimo prêmio!<br>com o palpite 6983",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 6983"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 2,
+        "Dezena": 10,
+        "Grupo": [
+          "🪶",
+          "🐂",
+          "🦋"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1343, 1353, 1363, 1393, 1443, 1453, 1463, 1493"
+      "resumo": "Palpites dados para esta extração: 1303, 1313, 1343, 1353, 1363, 1373, 1383, 1393, 1403, 1413, 1443, 1453, 1463, 1473, 1483, 1493, 1703, 1713, 1743, 1753, 1763, 1773, 1783, 1793, 1803, 1813, 1843, 1853, 1863, 1873, 1883, 1893, 1903, 1913, 1943, 1953, 1963, 1973, 1983, 1993, 6303, 6313, 6343, 6353, 6363, 6373, 6383, 6393, 6403, 6413, 6443, 6453, 6463, 6473, 6483, 6493, 6703, 6713, 6743, 6753, 6763, 6773, 6783, 6793, 6803, 6813, 6843, 6853, 6863, 6873, 6883, 6893, 6903, 6913, 6943, 6953, 6963, 6973, 6983, 6993"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
