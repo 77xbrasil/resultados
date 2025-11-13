@@ -168,70 +168,67 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "2472",
-          "Grupo": "18",
-          "Bicho": "Porco"
+          "Milhar": "1636",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "7358",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
+          "Milhar": "8994",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "8071",
-          "Grupo": "18",
-          "Bicho": "Porco"
+          "Milhar": "0320",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "4587",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "4419",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "0074",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Milhar": "8652",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "2562",
+          "Milhar": "4021",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "188",
+          "Milhar": "714",
           "Grupo": "",
           "Bicho": ""
         }
       ],
       "frases": {
-        "3169": [
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 3169",
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 3169"
+        "1552": [
+          "Dezena no quinto prêmio!<br>com o palpite 1552",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1552"
         ],
-        "6169": [
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 6169",
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 6169"
-        ],
-        "8169": [
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 8169",
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 8169"
+        "1652": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 1652",
+          "Dezena no quinto prêmio!<br>com o palpite 1652",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1652"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Centena": 1,
+        "Dezena": 2,
         "Grupo": [
-          "🐖"
+          "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3109, 3119, 3139, 3169, 6109, 6119, 6139, 6169, 8109, 8119, 8139, 8169"
+      "resumo": "Palpites dados para esta extração: 1502, 1542, 1552, 1602, 1642, 1652"
     },
     "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
@@ -929,98 +926,92 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "2472",
-          "Grupo": "18",
-          "Bicho": "Porco"
+          "Milhar": "1636",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "7358",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
+          "Milhar": "8994",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "8071",
-          "Grupo": "18",
-          "Bicho": "Porco"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "4587",
-          "Grupo": "22",
-          "Bicho": "Tigre"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "0074",
-          "Grupo": "19",
-          "Bicho": "Pavão"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "2784",
-          "Grupo": "21",
-          "Bicho": "Touro"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "4305",
-          "Grupo": "02",
-          "Bicho": "Águia"
-        },
-        {
-          "Prêmio": "8º",
-          "Milhar": "7578",
-          "Grupo": "20",
-          "Bicho": "Peru"
-        },
-        {
-          "Prêmio": "9º",
-          "Milhar": "2817",
+          "Milhar": "0320",
           "Grupo": "05",
           "Bicho": "Cachorro"
         },
         {
+          "Prêmio": "4º",
+          "Milhar": "4419",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8652",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1804",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6934",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3921",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6409",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
           "Prêmio": "10º",
-          "Milhar": "0046",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "3089",
+          "Grupo": "23",
+          "Bicho": "Urso"
         }
       ],
       "frases": {
-        "3119": [
-          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 3119"
+        "1502": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1502"
         ],
-        "3169": [
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 3169",
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 3169"
+        "1552": [
+          "Dezena no quinto prêmio!<br>com o palpite 1552",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1552"
         ],
-        "6119": [
-          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 6119"
+        "1602": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1602"
         ],
-        "6169": [
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 6169",
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 6169"
-        ],
-        "8119": [
-          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 8119"
-        ],
-        "8169": [
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 8169",
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 8169"
+        "1652": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 1652",
+          "Dezena no quinto prêmio!<br>com o palpite 1652",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1652"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Centena": 1,
+        "Dezena": 2,
         "Grupo": [
-          "🐖",
-          "🐕"
+          "🐓",
+          "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3109, 3119, 3139, 3169, 6109, 6119, 6139, 6169, 8109, 8119, 8139, 8169"
+      "resumo": "Palpites dados para esta extração: 1502, 1542, 1552, 1602, 1642, 1652"
     },
     "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
