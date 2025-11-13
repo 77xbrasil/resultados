@@ -258,80 +258,70 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5725",
+          "Milhar": "2426",
           "Grupo": "07",
           "Bicho": "Carneiro"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "8580",
-          "Grupo": "20",
-          "Bicho": "Peru"
+          "Milhar": "2594",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "2561",
+          "Milhar": "3905",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4862",
           "Grupo": "16",
           "Bicho": "Leão"
         },
         {
-          "Prêmio": "4º",
-          "Milhar": "8042",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
-        },
-        {
           "Prêmio": "5º",
-          "Milhar": "8301",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "3721",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "3209",
+          "Milhar": "7508",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "120",
+          "Milhar": "293",
           "Grupo": "",
           "Bicho": ""
         }
       ],
       "frases": {
-        "3109": [
-          "Dezena no sexto prêmio!<br>com o palpite 3109",
-          "BURRO 🐴 no sexto prêmio!<br>com o palpite 3109"
+        "1924": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 1924"
         ],
-        "3119": [
-          "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 3119"
+        "3924": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 3924"
         ],
-        "6109": [
-          "Dezena no sexto prêmio!<br>com o palpite 6109",
-          "BURRO 🐴 no sexto prêmio!<br>com o palpite 6109"
+        "6924": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 6924"
         ],
-        "6119": [
-          "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 6119"
-        ],
-        "8109": [
-          "Dezena no sexto prêmio!<br>com o palpite 8109",
-          "BURRO 🐴 no sexto prêmio!<br>com o palpite 8109"
-        ],
-        "8119": [
-          "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 8119"
+        "8924": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 8924"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
+        "Dezena": 0,
         "Grupo": [
-          "🐴",
-          "🐕"
+          "🐐"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3109, 3119, 3139, 3169, 6109, 6119, 6139, 6169, 8109, 8119, 8139, 8169"
+      "resumo": "Palpites dados para esta extração: 1904, 1909, 1924, 1929, 1934, 1939, 3904, 3909, 3924, 3929, 3934, 3939, 6904, 6909, 6924, 6929, 6934, 6939, 8904, 8909, 8924, 8929, 8934, 8939"
     },
     "LOOK - GOIÁS, 14h": {
       "cabecalhos": [
@@ -1097,85 +1087,105 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5725",
+          "Milhar": "2426",
           "Grupo": "07",
           "Bicho": "Carneiro"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "8580",
-          "Grupo": "20",
-          "Bicho": "Peru"
+          "Milhar": "2594",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "2561",
+          "Milhar": "3905",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4862",
           "Grupo": "16",
           "Bicho": "Leão"
         },
         {
-          "Prêmio": "4º",
-          "Milhar": "8042",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
-        },
-        {
           "Prêmio": "5º",
-          "Milhar": "8301",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "3721",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "5828",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
+          "Milhar": "2234",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "7550",
+          "Milhar": "4598",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2906",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6452",
           "Grupo": "13",
           "Bicho": "Galo"
         },
         {
-          "Prêmio": "8º",
-          "Milhar": "2864",
-          "Grupo": "16",
-          "Bicho": "Leão"
-        },
-        {
-          "Prêmio": "9º",
-          "Milhar": "5012",
-          "Grupo": "03",
-          "Bicho": "Burro"
-        },
-        {
           "Prêmio": "10º",
-          "Milhar": "4463",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "3698",
+          "Grupo": "25",
+          "Bicho": "Vaca"
         }
       ],
       "frases": {
-        "3109": [
-          "BURRO 🐴 no nono prêmio!<br>com o palpite 3109"
+        "1924": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 1924"
         ],
-        "6109": [
-          "BURRO 🐴 no nono prêmio!<br>com o palpite 6109"
+        "1934": [
+          "Dezena no sexto prêmio!<br>com o palpite 1934",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 1934"
         ],
-        "8109": [
-          "BURRO 🐴 no nono prêmio!<br>com o palpite 8109"
+        "3924": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 3924"
+        ],
+        "3934": [
+          "Dezena no sexto prêmio!<br>com o palpite 3934",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 3934"
+        ],
+        "6924": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 6924"
+        ],
+        "6934": [
+          "Dezena no sexto prêmio!<br>com o palpite 6934",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 6934"
+        ],
+        "8924": [
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 8924"
+        ],
+        "8934": [
+          "Dezena no sexto prêmio!<br>com o palpite 8934",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 8934"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 4,
         "Grupo": [
-          "🐴"
+          "🐐",
+          "🐍"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3109, 3119, 3139, 3169, 6109, 6119, 6139, 6169, 8109, 8119, 8139, 8169"
+      "resumo": "Palpites dados para esta extração: 1904, 1909, 1924, 1929, 1934, 1939, 3904, 3909, 3924, 3929, 3934, 3939, 6904, 6909, 6924, 6929, 6934, 6939, 8904, 8909, 8924, 8929, 8934, 8939"
     },
     "LOOK - GOIÁS, 14h do 1º ao 10º": {
       "cabecalhos": [
