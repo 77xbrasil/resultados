@@ -311,25 +311,110 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "2766",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4096",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0805",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4881",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6876",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2404",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "7088",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6908",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6651",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2475",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "8288": [
+          "Dezena no sétimo prêmio!<br>com o palpite 8288",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 8288"
+        ],
+        "8388": [
+          "Dezena no sétimo prêmio!<br>com o palpite 8388",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 8388"
+        ],
+        "8788": [
+          "Dezena no sétimo prêmio!<br>com o palpite 8788",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 8788"
+        ],
+        "8888": [
+          "Dezena no sétimo prêmio!<br>com o palpite 8888",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 8888"
+        ],
+        "0288": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0288",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 0288"
+        ],
+        "0388": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0388",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 0388"
+        ],
+        "0788": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0788",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 0788"
+        ],
+        "0888": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0888",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 0888"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 8,
+        "Grupo": [
+          "🐅"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 0288, 0388, 0788, 0888, 8288, 8388, 8788, 8888"
     }
   }
 }
