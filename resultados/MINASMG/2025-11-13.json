@@ -546,20 +546,240 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "9442",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1405",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9102",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8698",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2151",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "30798",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "266",
+          "Grupo": "",
+          "Bicho": ""
+        }
       ],
-      "frases": {},
+      "frases": {
+        "1151": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 1151",
+          "Dezena no quinto prêmio!<br>com o palpite 1151",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1151"
+        ],
+        "1152": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1152"
+        ],
+        "1651": [
+          "Dezena no quinto prêmio!<br>com o palpite 1651",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1651"
+        ],
+        "1652": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1652"
+        ],
+        "1751": [
+          "Dezena no quinto prêmio!<br>com o palpite 1751",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1751"
+        ],
+        "1752": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1752"
+        ],
+        "1851": [
+          "Dezena no quinto prêmio!<br>com o palpite 1851",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1851"
+        ],
+        "1852": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1852"
+        ],
+        "1951": [
+          "Dezena no quinto prêmio!<br>com o palpite 1951",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1951"
+        ],
+        "1952": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1952"
+        ],
+        "6151": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 6151",
+          "Dezena no quinto prêmio!<br>com o palpite 6151",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 6151"
+        ],
+        "6152": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 6152"
+        ],
+        "6651": [
+          "Dezena no quinto prêmio!<br>com o palpite 6651",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 6651"
+        ],
+        "6652": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 6652"
+        ],
+        "6751": [
+          "Dezena no quinto prêmio!<br>com o palpite 6751",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 6751"
+        ],
+        "6752": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 6752"
+        ],
+        "6851": [
+          "Dezena no quinto prêmio!<br>com o palpite 6851",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 6851"
+        ],
+        "6852": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 6852"
+        ],
+        "6951": [
+          "Dezena no quinto prêmio!<br>com o palpite 6951",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 6951"
+        ],
+        "6952": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 6952"
+        ],
+        "7151": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 7151",
+          "Dezena no quinto prêmio!<br>com o palpite 7151",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7151"
+        ],
+        "7152": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7152"
+        ],
+        "7651": [
+          "Dezena no quinto prêmio!<br>com o palpite 7651",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7651"
+        ],
+        "7652": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7652"
+        ],
+        "7751": [
+          "Dezena no quinto prêmio!<br>com o palpite 7751",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7751"
+        ],
+        "7752": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7752"
+        ],
+        "7851": [
+          "Dezena no quinto prêmio!<br>com o palpite 7851",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7851"
+        ],
+        "7852": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7852"
+        ],
+        "7951": [
+          "Dezena no quinto prêmio!<br>com o palpite 7951",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7951"
+        ],
+        "7952": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7952"
+        ],
+        "8151": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 8151",
+          "Dezena no quinto prêmio!<br>com o palpite 8151",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 8151"
+        ],
+        "8152": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 8152"
+        ],
+        "8651": [
+          "Dezena no quinto prêmio!<br>com o palpite 8651",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 8651"
+        ],
+        "8652": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 8652"
+        ],
+        "8751": [
+          "Dezena no quinto prêmio!<br>com o palpite 8751",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 8751"
+        ],
+        "8752": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 8752"
+        ],
+        "8851": [
+          "Dezena no quinto prêmio!<br>com o palpite 8851",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 8851"
+        ],
+        "8852": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 8852"
+        ],
+        "8951": [
+          "Dezena no quinto prêmio!<br>com o palpite 8951",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 8951"
+        ],
+        "8952": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 8952"
+        ],
+        "9151": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 9151",
+          "Dezena no quinto prêmio!<br>com o palpite 9151",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 9151"
+        ],
+        "9152": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 9152"
+        ],
+        "9651": [
+          "Dezena no quinto prêmio!<br>com o palpite 9651",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 9651"
+        ],
+        "9652": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 9652"
+        ],
+        "9751": [
+          "Dezena no quinto prêmio!<br>com o palpite 9751",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 9751"
+        ],
+        "9752": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 9752"
+        ],
+        "9851": [
+          "Dezena no quinto prêmio!<br>com o palpite 9851",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 9851"
+        ],
+        "9852": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 9852"
+        ],
+        "9951": [
+          "Dezena no quinto prêmio!<br>com o palpite 9951",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 9951"
+        ],
+        "9952": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 9952"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 5,
+        "Dezena": 25,
+        "Grupo": [
+          "🐓"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 1151, 1152, 1153, 1154, 1158, 1651, 1652, 1653, 1654, 1658, 1751, 1752, 1753, 1754, 1758, 1851, 1852, 1853, 1854, 1858, 1951, 1952, 1953, 1954, 1958, 6151, 6152, 6153, 6154, 6158, 6651, 6652, 6653, 6654, 6658, 6751, 6752, 6753, 6754, 6758, 6851, 6852, 6853, 6854, 6858, 6951, 6952, 6953, 6954, 6958, 7151, 7152, 7153, 7154, 7158, 7651, 7652, 7653, 7654, 7658, 7751, 7752, 7753, 7754, 7758, 7851, 7852, 7853, 7854, 7858, 7951, 7952, 7953, 7954, 7958, 8151, 8152, 8153, 8154, 8158, 8651, 8652, 8653, 8654, 8658, 8751, 8752, 8753, 8754, 8758, 8851, 8852, 8853, 8854, 8858, 8951, 8952, 8953, 8954, 8958, 9151, 9152, 9153, 9154, 9158, 9651, 9652, 9653, 9654, 9658, 9751, 9752, 9753, 9754, 9758, 9851, 9852, 9853, 9854, 9858, 9951, 9952, 9953, 9954, 9958"
     }
   }
 }
