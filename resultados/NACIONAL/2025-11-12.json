@@ -52,7 +52,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5558"
+      "resumo": "Palpites dados para esta extração: 5008, 5058, 5068, 5908, 5958, 5968, 9008, 9058, 9068, 9908, 9958, 9968"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -106,7 +106,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5558"
+      "resumo": "Palpites dados para esta extração: 5008, 5058, 5068, 5908, 5958, 5968, 9008, 9058, 9068, 9908, 9958, 9968"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -153,14 +153,54 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "5008": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5008",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 5008",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 5008",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 5008"
+        ],
+        "5068": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 5068"
+        ],
+        "5908": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5908",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 5908",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 5908",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 5908"
+        ],
+        "5968": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 5968"
+        ],
+        "9008": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9008",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 9008",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 9008",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 9008"
+        ],
+        "9068": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 9068"
+        ],
+        "9908": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9908",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 9908",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 9908",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 9908"
+        ],
+        "9968": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 9968"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 4,
+        "Grupo": [
+          "🦅",
+          "🐒"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5558"
+      "resumo": "Palpites dados para esta extração: 5008, 5058, 5068, 5908, 5958, 5968, 9008, 9058, 9068, 9908, 9958, 9968"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -208,19 +248,47 @@
         }
       ],
       "frases": {
-        "5558": [
-          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 5558"
+        "5058": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 5058"
+        ],
+        "5068": [
+          "Dezena no quinto prêmio!<br>com o palpite 5068",
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 5068"
+        ],
+        "5958": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 5958"
+        ],
+        "5968": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 5968",
+          "Dezena no quinto prêmio!<br>com o palpite 5968",
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 5968"
+        ],
+        "9058": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 9058"
+        ],
+        "9068": [
+          "Dezena no quinto prêmio!<br>com o palpite 9068",
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 9068"
+        ],
+        "9958": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 9958"
+        ],
+        "9968": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 9968",
+          "Dezena no quinto prêmio!<br>com o palpite 9968",
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 9968"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Centena": 2,
+        "Dezena": 4,
         "Grupo": [
-          "🐊"
+          "🐊",
+          "🐒"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5558"
+      "resumo": "Palpites dados para esta extração: 5008, 5058, 5068, 5908, 5958, 5968, 9008, 9058, 9068, 9908, 9958, 9968"
     },
     "Nacional - LN 15:00": {
       "cabecalhos": [
@@ -268,8 +336,17 @@
         }
       ],
       "frases": {
-        "5558": [
-          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 5558"
+        "5058": [
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 5058"
+        ],
+        "5958": [
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 5958"
+        ],
+        "9058": [
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 9058"
+        ],
+        "9958": [
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 9958"
         ]
       },
       "acertos": {
@@ -280,7 +357,7 @@
           "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5558"
+      "resumo": "Palpites dados para esta extração: 5008, 5058, 5068, 5908, 5958, 5968, 9008, 9058, 9068, 9908, 9958, 9968"
     },
     "Nacional - LN 17:00": {
       "cabecalhos": [
@@ -328,8 +405,17 @@
         }
       ],
       "frases": {
-        "5558": [
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 5558"
+        "5058": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 5058"
+        ],
+        "5958": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 5958"
+        ],
+        "9058": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 9058"
+        ],
+        "9958": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 9958"
         ]
       },
       "acertos": {
@@ -340,7 +426,7 @@
           "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5558"
+      "resumo": "Palpites dados para esta extração: 5008, 5058, 5068, 5908, 5958, 5968, 9008, 9058, 9068, 9908, 9958, 9968"
     },
     "Nacional - LN 21:00": {
       "cabecalhos": [
@@ -619,14 +705,29 @@
           "Bicho": "Macaco"
         }
       ],
-      "frases": {},
+      "frases": {
+        "5068": [
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 5068"
+        ],
+        "5968": [
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 5968"
+        ],
+        "9068": [
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 9068"
+        ],
+        "9968": [
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 9968"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐒"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5558"
+      "resumo": "Palpites dados para esta extração: 5008, 5058, 5068, 5908, 5958, 5968, 9008, 9058, 9068, 9908, 9958, 9968"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -697,14 +798,29 @@
           "Bicho": "Gato"
         }
       ],
-      "frases": {},
+      "frases": {
+        "5008": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 5008"
+        ],
+        "5908": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 5908"
+        ],
+        "9008": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 9008"
+        ],
+        "9908": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 9908"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5558"
+      "resumo": "Palpites dados para esta extração: 5008, 5058, 5068, 5908, 5958, 5968, 9008, 9058, 9068, 9908, 9958, 9968"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -776,19 +892,62 @@
         }
       ],
       "frases": {
-        "5558": [
-          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 5558"
+        "5008": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5008",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 5008",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 5008"
+        ],
+        "5058": [
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 5058"
+        ],
+        "5068": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 5068"
+        ],
+        "5908": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5908",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 5908",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 5908"
+        ],
+        "5958": [
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 5958"
+        ],
+        "5968": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 5968"
+        ],
+        "9008": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9008",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 9008",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 9008"
+        ],
+        "9058": [
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 9058"
+        ],
+        "9068": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 9068"
+        ],
+        "9908": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9908",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 9908",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 9908"
+        ],
+        "9958": [
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 9958"
+        ],
+        "9968": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 9968"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 4,
         "Grupo": [
+          "🦅",
+          "🐒",
           "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5558"
+      "resumo": "Palpites dados para esta extração: 5008, 5058, 5068, 5908, 5958, 5968, 9008, 9058, 9068, 9908, 9958, 9968"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -860,19 +1019,47 @@
         }
       ],
       "frases": {
-        "5558": [
-          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 5558"
+        "5058": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 5058"
+        ],
+        "5068": [
+          "Dezena no quinto prêmio!<br>com o palpite 5068",
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 5068"
+        ],
+        "5958": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 5958"
+        ],
+        "5968": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 5968",
+          "Dezena no quinto prêmio!<br>com o palpite 5968",
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 5968"
+        ],
+        "9058": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 9058"
+        ],
+        "9068": [
+          "Dezena no quinto prêmio!<br>com o palpite 9068",
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 9068"
+        ],
+        "9958": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 9958"
+        ],
+        "9968": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 9968",
+          "Dezena no quinto prêmio!<br>com o palpite 9968",
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 9968"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Centena": 2,
+        "Dezena": 4,
         "Grupo": [
-          "🐊"
+          "🐊",
+          "🐒"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5558"
+      "resumo": "Palpites dados para esta extração: 5008, 5058, 5068, 5908, 5958, 5968, 9008, 9058, 9068, 9908, 9958, 9968"
     },
     "Nacional - LN 15:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -950,7 +1137,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5558"
+      "resumo": "Palpites dados para esta extração: 5008, 5058, 5068, 5908, 5958, 5968, 9008, 9058, 9068, 9908, 9958, 9968"
     },
     "Nacional - LN 17:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1022,20 +1209,51 @@
         }
       ],
       "frases": {
-        "5558": [
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 5558",
-          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 5558"
+        "5008": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 5008",
+          "Dezena no décimo prêmio!<br>com o palpite 5008",
+          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 5008"
+        ],
+        "5058": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 5058",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 5058"
+        ],
+        "5908": [
+          "Dezena no décimo prêmio!<br>com o palpite 5908",
+          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 5908"
+        ],
+        "5958": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 5958",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 5958"
+        ],
+        "9008": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 9008",
+          "Dezena no décimo prêmio!<br>com o palpite 9008",
+          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 9008"
+        ],
+        "9058": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 9058",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 9058"
+        ],
+        "9908": [
+          "Dezena no décimo prêmio!<br>com o palpite 9908",
+          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 9908"
+        ],
+        "9958": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 9958",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 9958"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Centena": 2,
+        "Dezena": 4,
         "Grupo": [
-          "🐊"
+          "🐊",
+          "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5558"
+      "resumo": "Palpites dados para esta extração: 5008, 5058, 5068, 5908, 5958, 5968, 9008, 9058, 9068, 9908, 9958, 9968"
     },
     "Nacional - LN 21:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1107,8 +1325,17 @@
         }
       ],
       "frases": {
-        "5558": [
-          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 5558"
+        "5058": [
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 5058"
+        ],
+        "5958": [
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 5958"
+        ],
+        "9058": [
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 9058"
+        ],
+        "9958": [
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 9958"
         ]
       },
       "acertos": {
@@ -1119,7 +1346,7 @@
           "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5558"
+      "resumo": "Palpites dados para esta extração: 5008, 5058, 5068, 5908, 5958, 5968, 9008, 9058, 9068, 9908, 9958, 9968"
     },
     "Nacional - LN 23:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1295,7 +1522,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5558"
+      "resumo": "Palpites dados para esta extração: 5008, 5058, 5068, 5908, 5958, 5968, 9008, 9058, 9068, 9908, 9958, 9968"
     },
     "Nacional - LN 20:00 do 1º ao 10º": {
       "cabecalhos": [
