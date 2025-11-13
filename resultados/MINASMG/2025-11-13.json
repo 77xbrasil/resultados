@@ -130,53 +130,59 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "7200",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "8822",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "9115",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
+          "Milhar": "6758",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "8712",
-          "Grupo": "03",
-          "Bicho": "Burro"
+          "Milhar": "7681",
+          "Grupo": "21",
+          "Bicho": "Touro"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "9330",
-          "Grupo": "08",
-          "Bicho": "Camelo"
+          "Milhar": "9193",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "5949",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "1954",
+          "Grupo": "14",
+          "Bicho": "Gato"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "40306",
+          "Milhar": "34408",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "628",
+          "Milhar": "619",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1057": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 1057"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐊"
+        ]
       },
       "resumo": "Palpites dados para esta extração: 1057"
     },
@@ -246,6 +252,29 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 1057"
+    },
+    "MINAS NOITE - MG, 19h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
