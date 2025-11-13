@@ -288,37 +288,37 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "4597",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "2904",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "5356",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "3043",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "5678",
-          "Grupo": "20",
-          "Bicho": "Peru"
+          "Milhar": "4364",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "9238",
-          "Grupo": "10",
-          "Bicho": "Coelho"
+          "Milhar": "7461",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "0957",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
+          "Milhar": "9486",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "5826",
+          "Milhar": "7258",
           "Grupo": "",
           "Bicho": ""
         }
@@ -1037,63 +1037,63 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "4597",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "2904",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "5356",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "3043",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "5678",
-          "Grupo": "20",
-          "Bicho": "Peru"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "9238",
-          "Grupo": "10",
-          "Bicho": "Coelho"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "0957",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "4559",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "5362",
+          "Milhar": "4364",
           "Grupo": "16",
           "Bicho": "Leão"
         },
         {
-          "Prêmio": "8º",
-          "Milhar": "9573",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Prêmio": "4º",
+          "Milhar": "7461",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
-          "Prêmio": "9º",
-          "Milhar": "7688",
+          "Prêmio": "5º",
+          "Milhar": "9486",
           "Grupo": "22",
           "Bicho": "Tigre"
         },
         {
+          "Prêmio": "6º",
+          "Milhar": "2347",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "9034",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "0466",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4341",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
           "Prêmio": "10º",
-          "Milhar": "3008",
-          "Grupo": "02",
-          "Bicho": "Águia"
+          "Milhar": "3446",
+          "Grupo": "12",
+          "Bicho": "Elefante"
         }
       ],
       "frases": {},
@@ -1103,7 +1103,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2442, 2447, 2449"
+      "resumo": "Palpites dados para esta extração: 2292"
     },
     "Nacional - LN 21:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1279,6 +1279,34 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 2442, 2447, 2449"
+    },
+    "Nacional - LN 20:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
