@@ -51,32 +51,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "9110": [
-          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 9110"
-        ],
-        "9210": [
-          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 9210"
-        ],
-        "9310": [
-          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 9310"
-        ],
-        "9710": [
-          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 9710"
-        ],
-        "9910": [
-          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 9910"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐴"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 9110, 9210, 9310, 9710, 9910"
+      "resumo": "Palpites dados para esta extração: 1057"
     },
     "ALVORADA - MG, 12h": {
       "cabecalhos": [
@@ -129,14 +111,21 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1057": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1057",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 1057"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🐊"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 9110, 9210, 9310, 9710, 9910"
+      "resumo": "Palpites dados para esta extração: 1057"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
@@ -189,32 +178,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "9110": [
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 9110"
-        ],
-        "9210": [
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 9210"
-        ],
-        "9310": [
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 9310"
-        ],
-        "9710": [
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 9710"
-        ],
-        "9910": [
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 9910"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐴"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 9110, 9210, 9310, 9710, 9910"
+      "resumo": "Palpites dados para esta extração: 1057"
     },
     "PREFERIDA - MG, 21h": {
       "cabecalhos": [
@@ -267,14 +238,21 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1057": [
+          "Dezena no quinto prêmio!<br>com o palpite 1057",
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 1057"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🐊"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 9110, 9210, 9310, 9710, 9910"
+      "resumo": "Palpites dados para esta extração: 1057"
     }
   }
 }
