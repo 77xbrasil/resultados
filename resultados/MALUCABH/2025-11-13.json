@@ -221,6 +221,107 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1391",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3405",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2782",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9958",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8961",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4100",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "9628",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "7513",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8171",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        }
+      ],
+      "frases": {
+        "0590": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 0590"
+        ],
+        "0890": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 0890"
+        ],
+        "0597": [
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 0597"
+        ],
+        "0897": [
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 0897"
+        ],
+        "0527": [
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 0527"
+        ],
+        "0827": [
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 0827"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐻",
+          "🐄",
+          "🐑"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0520, 0524, 0527, 0590, 0594, 0597, 0820, 0824, 0827, 0890, 0894, 0897"
+    },
+    "19h - MALUCA - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
