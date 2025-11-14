@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0242, 3242"
+      "resumo": "Palpites dados para esta extração: 1242, 1244, 1252, 1254, 3242, 3244, 3252, 3254, 7242, 7244, 7252, 7254"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -112,24 +112,37 @@
         }
       ],
       "frases": {
+        "1242": [
+          "Dezena no quarto prêmio!<br>com o palpite 1242",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 1242"
+        ],
+        "1244": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 1244"
+        ],
         "3242": [
           "Dezena no quarto prêmio!<br>com o palpite 3242",
           "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3242"
         ],
-        "0242": [
-          "Dezena no quarto prêmio!<br>com o palpite 0242",
-          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 0242"
+        "3244": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3244"
+        ],
+        "7242": [
+          "Dezena no quarto prêmio!<br>com o palpite 7242",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7242"
+        ],
+        "7244": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7244"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 3,
         "Grupo": [
           "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0242, 3242"
+      "resumo": "Palpites dados para esta extração: 1242, 1244, 1252, 1254, 3242, 3244, 3252, 3254, 7242, 7244, 7252, 7254"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -182,14 +195,39 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1252": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1252"
+        ],
+        "1254": [
+          "Dezena no quarto prêmio!<br>com o palpite 1254",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 1254"
+        ],
+        "3252": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 3252"
+        ],
+        "3254": [
+          "Dezena no quarto prêmio!<br>com o palpite 3254",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 3254"
+        ],
+        "7252": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 7252"
+        ],
+        "7254": [
+          "Dezena no quarto prêmio!<br>com o palpite 7254",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 7254"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 3,
+        "Grupo": [
+          "🐓",
+          "🐈"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0242, 3242"
+      "resumo": "Palpites dados para esta extração: 1242, 1244, 1252, 1254, 3242, 3244, 3252, 3254, 7242, 7244, 7252, 7254"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -292,7 +330,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0242, 3242"
+      "resumo": "Palpites dados para esta extração: 1242, 1244, 1252, 1254, 3242, 3244, 3252, 3254, 7242, 7244, 7252, 7254"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -364,26 +402,46 @@
         }
       ],
       "frases": {
+        "1242": [
+          "Dezena no quarto prêmio!<br>com o palpite 1242",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 1242",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 1242"
+        ],
+        "1244": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 1244",
+          "Dezena no oitavo prêmio!<br>com o palpite 1244",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 1244"
+        ],
         "3242": [
           "Dezena no quarto prêmio!<br>com o palpite 3242",
           "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3242",
           "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 3242"
         ],
-        "0242": [
-          "Dezena no quarto prêmio!<br>com o palpite 0242",
-          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 0242",
-          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 0242"
+        "3244": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3244",
+          "Dezena no oitavo prêmio!<br>com o palpite 3244",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 3244"
+        ],
+        "7242": [
+          "Dezena no quarto prêmio!<br>com o palpite 7242",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7242",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 7242"
+        ],
+        "7244": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7244",
+          "Dezena no oitavo prêmio!<br>com o palpite 7244",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 7244"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 6,
         "Grupo": [
           "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0242, 3242"
+      "resumo": "Palpites dados para esta extração: 1242, 1244, 1252, 1254, 3242, 3244, 3252, 3254, 7242, 7244, 7252, 7254"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -454,14 +512,52 @@
           "Bicho": "Elefante"
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "1252": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1252"
+        ],
+        "1254": [
+          "Dezena no quarto prêmio!<br>com o palpite 1254",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 1254",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 1254",
+          "Dezena no sétimo prêmio!<br>com o palpite 1254",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 1254",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 1254"
+        ],
+        "3252": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 3252"
+        ],
+        "3254": [
+          "Dezena no quarto prêmio!<br>com o palpite 3254",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 3254",
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 3254",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 3254",
+          "Dezena no sétimo prêmio!<br>com o palpite 3254",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 3254",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 3254"
+        ],
+        "7252": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 7252"
+        ],
+        "7254": [
+          "Dezena no quarto prêmio!<br>com o palpite 7254",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 7254",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 7254",
+          "Dezena no sétimo prêmio!<br>com o palpite 7254",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 7254",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 7254"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0242, 3242"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 3,
+        "Dezena": 6,
+        "Grupo": [
+          "🐓",
+          "🐈"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1242, 1244, 1252, 1254, 3242, 3244, 3252, 3254, 7242, 7244, 7252, 7254"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
