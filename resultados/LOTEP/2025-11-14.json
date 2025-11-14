@@ -223,6 +223,100 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3965",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1591",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5703",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9764",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4938",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3159",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "9577",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6906",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5134",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0737",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        }
+      ],
+      "frases": {
+        "2203": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2203",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 2203"
+        ],
+        "2303": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2303",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 2303"
+        ],
+        "2703": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 2703",
+          "Dezena no terceiro prêmio!<br>com o palpite 2703",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 2703"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 3,
+        "Grupo": [
+          "🪶"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2203, 2213, 2283, 2293, 2303, 2313, 2383, 2393, 2703, 2713, 2783, 2793"
+    },
+    "LOTEP - PB, 18h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
