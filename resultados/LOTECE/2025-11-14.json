@@ -69,14 +69,23 @@
           "Bicho": "Elefante"
         }
       ],
-      "frases": {},
+      "frases": {
+        "7318": [
+          "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 7318",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 7318",
+          "Dezena no oitavo prêmio!<br>com o palpite 7318",
+          "CACHORRO 🐕 no oitavo prêmio!<br>com o palpite 7318"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 1,
+        "Grupo": [
+          "🐕"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2128, 2198, 7128, 7198"
+      "resumo": "Palpites dados para esta extração: 7318, 7338, 7398"
     },
     "LOTECE - CE, 14:00 (tarde)": {
       "cabecalhos": [
@@ -154,7 +163,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2128, 2198, 7128, 7198"
+      "resumo": "Palpites dados para esta extração: 7318, 7338, 7398"
     },
     "LOTECE - CE, 15:45 (tarde II)": {
       "cabecalhos": [
@@ -226,22 +235,25 @@
         }
       ],
       "frases": {
-        "2198": [
-          "VACA 🐄 no décimo prêmio!<br>com o palpite 2198"
+        "7318": [
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 7318",
+          "Dezena no sexto prêmio!<br>com o palpite 7318",
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 7318"
         ],
-        "7198": [
-          "VACA 🐄 no décimo prêmio!<br>com o palpite 7198"
+        "7398": [
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 7398"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 1,
         "Grupo": [
+          "🐕",
           "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2128, 2198, 7128, 7198"
+      "resumo": "Palpites dados para esta extração: 7318, 7338, 7398"
     },
     "LOTECE - CE, 19:00 (noite)": {
       "cabecalhos": [
@@ -313,24 +325,29 @@
         }
       ],
       "frases": {
-        "2128": [
-          "Dezena no oitavo prêmio!<br>com o palpite 2128",
-          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 2128"
+        "7318": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 7318",
+          "Dezena no segundo prêmio!<br>com o palpite 7318",
+          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 7318",
+          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 7318"
         ],
-        "7128": [
-          "Dezena no oitavo prêmio!<br>com o palpite 7128",
-          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 7128"
+        "7338": [
+          "Dezena no quinto prêmio!<br>com o palpite 7338",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 7338",
+          "Dezena no sétimo prêmio!<br>com o palpite 7338",
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 7338"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 2,
+        "Centena": 1,
+        "Dezena": 3,
         "Grupo": [
-          "🐑"
+          "🐕",
+          "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2128, 2198, 7128, 7198"
+      "resumo": "Palpites dados para esta extração: 7318, 7338, 7398"
     }
   }
 }
