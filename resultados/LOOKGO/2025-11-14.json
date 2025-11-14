@@ -227,55 +227,90 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "2426",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "2594",
+          "Milhar": "8094",
           "Grupo": "24",
           "Bicho": "Veado"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "7444",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
           "Prêmio": "3º",
-          "Milhar": "3905",
+          "Milhar": "3806",
           "Grupo": "02",
           "Bicho": "Águia"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "4862",
+          "Milhar": "1862",
           "Grupo": "16",
           "Bicho": "Leão"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "3721",
+          "Milhar": "0321",
           "Grupo": "06",
           "Bicho": "Cabra"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "7508",
+          "Milhar": "1527",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "293",
+          "Milhar": "251",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "6051": [
+          "Dezena no sétimo prêmio!<br>com o palpite 6051",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 6051"
+        ],
+        "6351": [
+          "Dezena no sétimo prêmio!<br>com o palpite 6351",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 6351"
+        ],
+        "6851": [
+          "Dezena no sétimo prêmio!<br>com o palpite 6851",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 6851"
+        ],
+        "6951": [
+          "Dezena no sétimo prêmio!<br>com o palpite 6951",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 6951"
+        ],
+        "0051": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0051",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 0051"
+        ],
+        "0351": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0351",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 0351"
+        ],
+        "0851": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0851",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 0851"
+        ],
+        "0951": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0951",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 0951"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 8,
+        "Grupo": [
+          "🐓"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 8635, 8636, 8638"
+      "resumo": "Palpites dados para esta extração: 0051, 0055, 0057, 0058, 0351, 0355, 0357, 0358, 0851, 0855, 0857, 0858, 0951, 0955, 0957, 0958, 6051, 6055, 6057, 6058, 6351, 6355, 6357, 6358, 6851, 6855, 6857, 6858, 6951, 6955, 6957, 6958"
     },
     "LOOK - GOIÁS, 14h": {
       "cabecalhos": [
@@ -914,82 +949,73 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "2426",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "2594",
+          "Milhar": "8094",
           "Grupo": "24",
           "Bicho": "Veado"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "7444",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
           "Prêmio": "3º",
-          "Milhar": "3905",
+          "Milhar": "3806",
           "Grupo": "02",
           "Bicho": "Águia"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "4862",
+          "Milhar": "1862",
           "Grupo": "16",
           "Bicho": "Leão"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "3721",
+          "Milhar": "0321",
           "Grupo": "06",
           "Bicho": "Cabra"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "2234",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "8731",
+          "Grupo": "08",
+          "Bicho": "Camelo"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "4598",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "0488",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "2906",
+          "Milhar": "9406",
           "Grupo": "02",
           "Bicho": "Águia"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "6452",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "4462",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "3698",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "4614",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
         }
       ],
-      "frases": {
-        "8635": [
-          "COBRA 🐍 no sexto prêmio!<br>com o palpite 8635"
-        ],
-        "8636": [
-          "COBRA 🐍 no sexto prêmio!<br>com o palpite 8636"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐍"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8635, 8636, 8638"
+      "resumo": "Palpites dados para esta extração: 0051, 0055, 0057, 0058, 0351, 0355, 0357, 0358, 0851, 0855, 0857, 0858, 0951, 0955, 0957, 0958, 6051, 6055, 6057, 6058, 6351, 6355, 6357, 6358, 6851, 6855, 6857, 6858, 6951, 6955, 6957, 6958"
     },
     "LOOK - GOIÁS, 14h do 1º ao 10º": {
       "cabecalhos": [
