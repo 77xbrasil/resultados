@@ -208,6 +208,109 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3348",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7579",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9836",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3794",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4785",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9822",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3267",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "0195",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6093",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7919",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        }
+      ],
+      "frases": {
+        "4218": [
+          "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 4218"
+        ],
+        "4222": [
+          "Dezena no sexto prêmio!<br>com o palpite 4222",
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 4222"
+        ],
+        "7218": [
+          "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 7218"
+        ],
+        "7222": [
+          "Dezena no sexto prêmio!<br>com o palpite 7222",
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 7222"
+        ],
+        "0222": [
+          "Dezena no sexto prêmio!<br>com o palpite 0222",
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 0222"
+        ],
+        "0218": [
+          "CACHORRO 🐕 no décimo prêmio!<br>com o palpite 0218"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 3,
+        "Grupo": [
+          "🐐",
+          "🐕"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0212, 0218, 0222, 0228, 4212, 4218, 4222, 4228, 7212, 7218, 7222, 7228"
+    },
+    "19h - MALUCA - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
