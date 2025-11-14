@@ -69,20 +69,14 @@
           "Bicho": "Elefante"
         }
       ],
-      "frases": {
-        "2121": [
-          "CABRA 🐐 no sexto prêmio!<br>com o palpite 2121"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐐"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2121"
+      "resumo": "Palpites dados para esta extração: 2128, 2198, 7128, 7198"
     },
     "LOTECE - CE, 14:00 (tarde)": {
       "cabecalhos": [
@@ -160,7 +154,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2121"
+      "resumo": "Palpites dados para esta extração: 2128, 2198, 7128, 7198"
     },
     "LOTECE - CE, 15:45 (tarde II)": {
       "cabecalhos": [
@@ -232,21 +226,22 @@
         }
       ],
       "frases": {
-        "2121": [
-          "Dezena no primeiro prêmio!<br>com o palpite 2121",
-          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 2121",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 2121"
+        "2198": [
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 2198"
+        ],
+        "7198": [
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 7198"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 0,
         "Grupo": [
-          "🐐"
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2121"
+      "resumo": "Palpites dados para esta extração: 2128, 2198, 7128, 7198"
     },
     "LOTECE - CE, 19:00 (noite)": {
       "cabecalhos": [
@@ -317,14 +312,25 @@
           "Bicho": "Veado"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2128": [
+          "Dezena no oitavo prêmio!<br>com o palpite 2128",
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 2128"
+        ],
+        "7128": [
+          "Dezena no oitavo prêmio!<br>com o palpite 7128",
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 7128"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐑"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2121"
+      "resumo": "Palpites dados para esta extração: 2128, 2198, 7128, 7198"
     }
   }
 }
