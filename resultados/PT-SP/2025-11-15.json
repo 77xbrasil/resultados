@@ -112,6 +112,46 @@
         }
       ],
       "frases": {
+        "9001": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9001",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 9001"
+        ],
+        "9003": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9003",
+          "Dezena no sétimo prêmio!<br>com o palpite 9003",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 9003"
+        ],
+        "9004": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9004",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 9004"
+        ],
+        "9013": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 9013"
+        ],
+        "9014": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 9014"
+        ],
+        "9016": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 9016"
+        ],
+        "0013": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 0013"
+        ],
+        "0014": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 0014"
+        ],
+        "0016": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 0016"
+        ],
+        "0001": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0001",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0001"
+        ],
+        "0003": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0003",
+          "Dezena no sétimo prêmio!<br>com o palpite 0003",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0003"
+        ],
         "0004": [
           "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0004",
           "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0004"
@@ -120,12 +160,13 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 2,
         "Grupo": [
+          "🦋",
           "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 0064"
+      "resumo": "Palpites dados para esta extração: 0000, 0001, 0003, 0004, 0006, 0010, 0011, 0013, 0014, 0016, 0060, 0061, 0063, 0064, 0066, 9000, 9001, 9003, 9004, 9006, 9010, 9011, 9013, 9014, 9016, 9060, 9061, 9063, 9064, 9066"
     },
     "SP, 10hs - PTSP": {
       "cabecalhos": [
@@ -178,14 +219,51 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "9006": [
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 9006"
+        ],
+        "9010": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 9010",
+          "Dezena no sexto prêmio!<br>com o palpite 9010",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 9010"
+        ],
+        "9011": [
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 9011"
+        ],
+        "9066": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9066",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 9066",
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 9066"
+        ],
+        "0066": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0066",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 0066",
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 0066"
+        ],
+        "0006": [
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 0006"
+        ],
+        "0010": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 0010",
+          "Dezena no sexto prêmio!<br>com o palpite 0010",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 0010"
+        ],
+        "0011": [
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 0011"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 2,
+        "Dezena": 4,
+        "Grupo": [
+          "🐒",
+          "🦅",
+          "🐴"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 0064"
+      "resumo": "Palpites dados para esta extração: 0000, 0001, 0003, 0004, 0006, 0010, 0011, 0013, 0014, 0016, 0060, 0061, 0063, 0064, 0066, 9000, 9001, 9003, 9004, 9006, 9010, 9011, 9013, 9014, 9016, 9060, 9061, 9063, 9064, 9066"
     },
     "SP, 12:00 - PTSP": {
       "cabecalhos": [
@@ -238,14 +316,23 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "9066": [
+          "MACACO 🐒 no segundo prêmio!<br>com o palpite 9066"
+        ],
+        "0066": [
+          "MACACO 🐒 no segundo prêmio!<br>com o palpite 0066"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐒"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 0064"
+      "resumo": "Palpites dados para esta extração: 0000, 0001, 0003, 0004, 0006, 0010, 0011, 0013, 0014, 0016, 0060, 0061, 0063, 0064, 0066, 9000, 9001, 9003, 9004, 9006, 9010, 9011, 9013, 9014, 9016, 9060, 9061, 9063, 9064, 9066"
     },
     "SP, 13hs - PTSP": {
       "cabecalhos": [
@@ -298,14 +385,25 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "9066": [
+          "Dezena no segundo prêmio!<br>com o palpite 9066",
+          "MACACO 🐒 no segundo prêmio!<br>com o palpite 9066"
+        ],
+        "0066": [
+          "Dezena no segundo prêmio!<br>com o palpite 0066",
+          "MACACO 🐒 no segundo prêmio!<br>com o palpite 0066"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐒"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 0064"
+      "resumo": "Palpites dados para esta extração: 0000, 0001, 0003, 0004, 0006, 0010, 0011, 0013, 0014, 0016, 0060, 0061, 0063, 0064, 0066, 9000, 9001, 9003, 9004, 9006, 9010, 9011, 9013, 9014, 9016, 9060, 9061, 9063, 9064, 9066"
     },
     "SP, 17hs - PTSP": {
       "cabecalhos": [
@@ -358,14 +456,36 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "9000": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 9000"
+        ],
+        "9010": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 9010"
+        ],
+        "9011": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 9011"
+        ],
+        "0010": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 0010"
+        ],
+        "0011": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 0011"
+        ],
+        "0000": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 0000"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐴",
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 0064"
+      "resumo": "Palpites dados para esta extração: 0000, 0001, 0003, 0004, 0006, 0010, 0011, 0013, 0014, 0016, 0060, 0061, 0063, 0064, 0066, 9000, 9001, 9003, 9004, 9006, 9010, 9011, 9013, 9014, 9016, 9060, 9061, 9063, 9064, 9066"
     },
     "SP, 19hs - PTSP": {
       "cabecalhos": [
@@ -419,9 +539,53 @@
         }
       ],
       "frases": {
+        "9001": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9001",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 9001"
+        ],
+        "9003": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9003",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 9003"
+        ],
+        "9004": [
+          "Dezena no quarto prêmio!<br>com o palpite 9004",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9004",
+          "Dezena no sexto prêmio!<br>com o palpite 9004",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 9004"
+        ],
+        "9061": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 9061",
+          "Dezena no quinto prêmio!<br>com o palpite 9061",
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 9061"
+        ],
+        "9063": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 9063",
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 9063"
+        ],
+        "9064": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 9064",
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 9064"
+        ],
+        "0061": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 0061",
+          "Dezena no quinto prêmio!<br>com o palpite 0061",
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 0061"
+        ],
+        "0063": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 0063",
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 0063"
+        ],
         "0064": [
           "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 0064",
           "LEÃO 🦁 no quinto prêmio!<br>com o palpite 0064"
+        ],
+        "0001": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0001",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 0001"
+        ],
+        "0003": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0003",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 0003"
         ],
         "0004": [
           "Dezena no quarto prêmio!<br>com o palpite 0004",
@@ -433,13 +597,13 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 6,
         "Grupo": [
           "🦁",
           "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 0064"
+      "resumo": "Palpites dados para esta extração: 0000, 0001, 0003, 0004, 0006, 0010, 0011, 0013, 0014, 0016, 0060, 0061, 0063, 0064, 0066, 9000, 9001, 9003, 9004, 9006, 9010, 9011, 9013, 9014, 9016, 9060, 9061, 9063, 9064, 9066"
     },
     "SP, 18hs - PTSP": {
       "cabecalhos": [
@@ -638,24 +802,115 @@
         }
       ],
       "frases": {
+        "9001": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 9001",
+          "Dezena no sétimo prêmio!<br>com o palpite 9001",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 9001"
+        ],
+        "9003": [
+          "Dezena no segundo prêmio!<br>com o palpite 9003",
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 9003",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 9003"
+        ],
+        "9004": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 9004",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 9004"
+        ],
+        "9010": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 9010"
+        ],
+        "9011": [
+          "Dezena no terceiro prêmio!<br>com o palpite 9011",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 9011"
+        ],
+        "9013": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 9013",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 9013",
+          "Dezena no quarto prêmio!<br>com o palpite 9013",
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9013"
+        ],
+        "9014": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9014"
+        ],
+        "9016": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9016"
+        ],
+        "9060": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 9060",
+          "Dezena no primeiro prêmio!<br>com o palpite 9060",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 9060"
+        ],
+        "9061": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 9061"
+        ],
+        "9063": [
+          "Dezena no sexto prêmio!<br>com o palpite 9063",
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 9063"
+        ],
+        "9064": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 9064"
+        ],
+        "0060": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 0060",
+          "Dezena no primeiro prêmio!<br>com o palpite 0060",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 0060"
+        ],
+        "0001": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0001",
+          "Dezena no sétimo prêmio!<br>com o palpite 0001",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0001"
+        ],
+        "0003": [
+          "Dezena no segundo prêmio!<br>com o palpite 0003",
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0003",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0003"
+        ],
         "0004": [
           "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0004",
           "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0004"
+        ],
+        "0010": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 0010"
+        ],
+        "0011": [
+          "Dezena no terceiro prêmio!<br>com o palpite 0011",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 0011"
+        ],
+        "0013": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 0013",
+          "Dezena no quarto prêmio!<br>com o palpite 0013",
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 0013"
+        ],
+        "0014": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 0014"
+        ],
+        "0016": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 0016"
+        ],
+        "0061": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 0061"
+        ],
+        "0063": [
+          "Dezena no sexto prêmio!<br>com o palpite 0063",
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 0063"
         ],
         "0064": [
           "LEÃO 🦁 no sexto prêmio!<br>com o palpite 0064"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 12,
         "Grupo": [
+          "🐊",
           "🪶",
+          "🐴",
+          "🦋",
           "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 0064"
+      "resumo": "Palpites dados para esta extração: 0000, 0001, 0003, 0004, 0006, 0010, 0011, 0013, 0014, 0016, 0060, 0061, 0063, 0064, 0066, 9000, 9001, 9003, 9004, 9006, 9010, 9011, 9013, 9014, 9016, 9060, 9061, 9063, 9064, 9066"
     }
   },
   "1-10": {
@@ -859,19 +1114,68 @@
         }
       ],
       "frases": {
+        "9001": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9001"
+        ],
+        "9003": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9003"
+        ],
+        "9004": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9004"
+        ],
+        "9010": [
+          "Dezena no oitavo prêmio!<br>com o palpite 9010",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 9010"
+        ],
+        "9011": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 9011"
+        ],
+        "9013": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 9013"
+        ],
+        "9014": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 9014"
+        ],
+        "9016": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 9016"
+        ],
+        "0013": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 0013"
+        ],
+        "0014": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 0014"
+        ],
+        "0016": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 0016"
+        ],
+        "0001": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0001"
+        ],
+        "0003": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0003"
+        ],
         "0004": [
           "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0004"
+        ],
+        "0010": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0010",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 0010"
+        ],
+        "0011": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 0011"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 2,
         "Grupo": [
-          "🪶"
+          "🦋",
+          "🪶",
+          "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 0064"
+      "resumo": "Palpites dados para esta extração: 0000, 0001, 0003, 0004, 0006, 0010, 0011, 0013, 0014, 0016, 0060, 0061, 0063, 0064, 0066, 9000, 9001, 9003, 9004, 9006, 9010, 9011, 9013, 9014, 9016, 9060, 9061, 9063, 9064, 9066"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -943,21 +1247,69 @@
         }
       ],
       "frases": {
+        "9006": [
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 9006"
+        ],
+        "9060": [
+          "JACARÉ 🐊 no décimo prêmio!<br>com o palpite 9060"
+        ],
+        "9061": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 9061",
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 9061"
+        ],
+        "9063": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 9063",
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 9063"
+        ],
+        "9064": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 9064",
+          "Dezena no sétimo prêmio!<br>com o palpite 9064",
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 9064"
+        ],
+        "9066": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9066",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 9066",
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 9066",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 9066"
+        ],
+        "0066": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0066",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 0066",
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 0066",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 0066"
+        ],
+        "0006": [
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 0006"
+        ],
+        "0061": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 0061",
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 0061"
+        ],
+        "0063": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 0063",
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 0063"
+        ],
         "0064": [
           "LEÃO 🦁 no sexto prêmio!<br>com o palpite 0064",
           "Dezena no sétimo prêmio!<br>com o palpite 0064",
           "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 0064"
+        ],
+        "0060": [
+          "JACARÉ 🐊 no décimo prêmio!<br>com o palpite 0060"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 4,
         "Grupo": [
-          "🦁"
+          "🐒",
+          "🦅",
+          "🦁",
+          "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 0064"
+      "resumo": "Palpites dados para esta extração: 0000, 0001, 0003, 0004, 0006, 0010, 0011, 0013, 0014, 0016, 0060, 0061, 0063, 0064, 0066, 9000, 9001, 9003, 9004, 9006, 9010, 9011, 9013, 9014, 9016, 9060, 9061, 9063, 9064, 9066"
     },
     "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -1028,14 +1380,23 @@
           "Bicho": "Galo"
         }
       ],
-      "frases": {},
+      "frases": {
+        "9066": [
+          "MACACO 🐒 no segundo prêmio!<br>com o palpite 9066"
+        ],
+        "0066": [
+          "MACACO 🐒 no segundo prêmio!<br>com o palpite 0066"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐒"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 0064"
+      "resumo": "Palpites dados para esta extração: 0000, 0001, 0003, 0004, 0006, 0010, 0011, 0013, 0014, 0016, 0060, 0061, 0063, 0064, 0066, 9000, 9001, 9003, 9004, 9006, 9010, 9011, 9013, 9014, 9016, 9060, 9061, 9063, 9064, 9066"
     },
     "SP, 13hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -1107,6 +1468,31 @@
         }
       ],
       "frases": {
+        "9001": [
+          "Dezena no décimo prêmio!<br>com o palpite 9001",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 9001"
+        ],
+        "9003": [
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 9003"
+        ],
+        "9004": [
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 9004"
+        ],
+        "9066": [
+          "Dezena no segundo prêmio!<br>com o palpite 9066",
+          "MACACO 🐒 no segundo prêmio!<br>com o palpite 9066"
+        ],
+        "0066": [
+          "Dezena no segundo prêmio!<br>com o palpite 0066",
+          "MACACO 🐒 no segundo prêmio!<br>com o palpite 0066"
+        ],
+        "0001": [
+          "Dezena no décimo prêmio!<br>com o palpite 0001",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 0001"
+        ],
+        "0003": [
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 0003"
+        ],
         "0004": [
           "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 0004"
         ]
@@ -1114,12 +1500,13 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 4,
         "Grupo": [
+          "🐒",
           "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 0064"
+      "resumo": "Palpites dados para esta extração: 0000, 0001, 0003, 0004, 0006, 0010, 0011, 0013, 0014, 0016, 0060, 0061, 0063, 0064, 0066, 9000, 9001, 9003, 9004, 9006, 9010, 9011, 9013, 9014, 9016, 9060, 9061, 9063, 9064, 9066"
     },
     "SP, 17hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -1190,14 +1577,49 @@
           "Bicho": "Galo"
         }
       ],
-      "frases": {},
+      "frases": {
+        "9000": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 9000"
+        ],
+        "9010": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 9010",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 9010"
+        ],
+        "9011": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 9011",
+          "Dezena no sexto prêmio!<br>com o palpite 9011",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 9011"
+        ],
+        "9060": [
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 9060"
+        ],
+        "0010": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 0010",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 0010"
+        ],
+        "0011": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 0011",
+          "Dezena no sexto prêmio!<br>com o palpite 0011",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 0011"
+        ],
+        "0000": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 0000"
+        ],
+        "0060": [
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 0060"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐴",
+          "🐄",
+          "🐊"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 0064"
+      "resumo": "Palpites dados para esta extração: 0000, 0001, 0003, 0004, 0006, 0010, 0011, 0013, 0014, 0016, 0060, 0061, 0063, 0064, 0066, 9000, 9001, 9003, 9004, 9006, 9010, 9011, 9013, 9014, 9016, 9060, 9061, 9063, 9064, 9066"
     },
     "SP, 19hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -1269,9 +1691,73 @@
         }
       ],
       "frases": {
+        "9001": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9001",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 9001"
+        ],
+        "9003": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9003",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 9003"
+        ],
+        "9004": [
+          "Dezena no quarto prêmio!<br>com o palpite 9004",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9004",
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 9004",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 9004",
+          "Dezena no sétimo prêmio!<br>com o palpite 9004",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 9004"
+        ],
+        "9006": [
+          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 9006"
+        ],
+        "9013": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 9013"
+        ],
+        "9014": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 9014"
+        ],
+        "9016": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 9016",
+          "Dezena no sexto prêmio!<br>com o palpite 9016",
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 9016"
+        ],
+        "9060": [
+          "Dezena no oitavo prêmio!<br>com o palpite 9060",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 9060"
+        ],
+        "9061": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 9061",
+          "Dezena no quinto prêmio!<br>com o palpite 9061",
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 9061"
+        ],
+        "9063": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 9063",
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 9063"
+        ],
+        "9064": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 9064",
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 9064"
+        ],
+        "0061": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 0061",
+          "Dezena no quinto prêmio!<br>com o palpite 0061",
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 0061"
+        ],
+        "0063": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 0063",
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 0063"
+        ],
         "0064": [
           "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 0064",
           "LEÃO 🦁 no quinto prêmio!<br>com o palpite 0064"
+        ],
+        "0001": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0001",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0001"
+        ],
+        "0003": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0003",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0003"
         ],
         "0004": [
           "Dezena no quarto prêmio!<br>com o palpite 0004",
@@ -1279,18 +1765,40 @@
           "Centena e Dezena no sétimo prêmio!<br>com o palpite 0004",
           "Dezena no sétimo prêmio!<br>com o palpite 0004",
           "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0004"
+        ],
+        "0013": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 0013"
+        ],
+        "0014": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 0014"
+        ],
+        "0016": [
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 0016",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 0016",
+          "Dezena no sexto prêmio!<br>com o palpite 0016",
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 0016"
+        ],
+        "0060": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0060",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 0060"
+        ],
+        "0006": [
+          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 0006"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 2,
+        "Milhar": 2,
+        "Centena": 4,
+        "Dezena": 10,
         "Grupo": [
           "🦁",
-          "🪶"
+          "🪶",
+          "🦋",
+          "🐊",
+          "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 0064"
+      "resumo": "Palpites dados para esta extração: 0000, 0001, 0003, 0004, 0006, 0010, 0011, 0013, 0014, 0016, 0060, 0061, 0063, 0064, 0066, 9000, 9001, 9003, 9004, 9006, 9010, 9011, 9013, 9014, 9016, 9060, 9061, 9063, 9064, 9066"
     },
     "SP, 18hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -1538,19 +2046,118 @@
         }
       ],
       "frases": {
+        "9000": [
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 9000"
+        ],
+        "9001": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 9001"
+        ],
+        "9003": [
+          "Dezena no segundo prêmio!<br>com o palpite 9003",
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 9003"
+        ],
+        "9004": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 9004"
+        ],
+        "9006": [
+          "Dezena no décimo prêmio!<br>com o palpite 9006",
+          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 9006"
+        ],
+        "9010": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 9010",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 9010"
+        ],
+        "9011": [
+          "Dezena no terceiro prêmio!<br>com o palpite 9011",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 9011",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 9011",
+          "Dezena no oitavo prêmio!<br>com o palpite 9011",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 9011"
+        ],
+        "9013": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 9013",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 9013",
+          "Dezena no quarto prêmio!<br>com o palpite 9013",
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9013",
+          "Dezena no nono prêmio!<br>com o palpite 9013",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 9013"
+        ],
+        "9014": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9014",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 9014"
+        ],
+        "9016": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9016",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 9016"
+        ],
+        "9060": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 9060",
+          "Dezena no primeiro prêmio!<br>com o palpite 9060",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 9060"
+        ],
+        "0060": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 0060",
+          "Dezena no primeiro prêmio!<br>com o palpite 0060",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 0060"
+        ],
+        "0001": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0001"
+        ],
+        "0003": [
+          "Dezena no segundo prêmio!<br>com o palpite 0003",
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0003"
+        ],
         "0004": [
           "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 0004"
+        ],
+        "0010": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 0010",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 0010"
+        ],
+        "0011": [
+          "Dezena no terceiro prêmio!<br>com o palpite 0011",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 0011",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 0011",
+          "Dezena no oitavo prêmio!<br>com o palpite 0011",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 0011"
+        ],
+        "0013": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 0013",
+          "Dezena no quarto prêmio!<br>com o palpite 0013",
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 0013",
+          "Dezena no nono prêmio!<br>com o palpite 0013",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 0013"
+        ],
+        "0014": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 0014",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 0014"
+        ],
+        "0016": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 0016",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 0016"
+        ],
+        "0000": [
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 0000"
+        ],
+        "0006": [
+          "Dezena no décimo prêmio!<br>com o palpite 0006",
+          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 0006"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Milhar": 1,
+        "Centena": 6,
+        "Dezena": 14,
         "Grupo": [
-          "🪶"
+          "🐊",
+          "🪶",
+          "🐴",
+          "🦋",
+          "🐄",
+          "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 0064"
+      "resumo": "Palpites dados para esta extração: 0000, 0001, 0003, 0004, 0006, 0010, 0011, 0013, 0014, 0016, 0060, 0061, 0063, 0064, 0066, 9000, 9001, 9003, 9004, 9006, 9010, 9011, 9013, 9014, 9016, 9060, 9061, 9063, 9064, 9066"
     }
   }
 }
