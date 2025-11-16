@@ -172,55 +172,82 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "1230",
-          "Grupo": "08",
-          "Bicho": "Camelo"
+          "Milhar": "7881",
+          "Grupo": "21",
+          "Bicho": "Touro"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "1667",
-          "Grupo": "17",
-          "Bicho": "Macaco"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "7545",
-          "Grupo": "12",
-          "Bicho": "Elefante"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "2236",
-          "Grupo": "09",
-          "Bicho": "Cobra"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "7749",
+          "Milhar": "4351",
           "Grupo": "13",
           "Bicho": "Galo"
         },
         {
+          "Prêmio": "3º",
+          "Milhar": "5204",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2929",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1946",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
           "Prêmio": "6º [soma]",
-          "Milhar": "0427",
+          "Milhar": "2311",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "050",
+          "Milhar": "290",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3481": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3481",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 3481"
+        ],
+        "3981": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3981",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 3981"
+        ],
+        "8481": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8481",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8481"
+        ],
+        "8981": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8981",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8981"
+        ],
+        "0481": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0481",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 0481"
+        ],
+        "0981": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0981",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 0981"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 6,
+        "Grupo": [
+          "🐂"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 9013, 9313"
+      "resumo": "Palpites dados para esta extração: 0441, 0481, 0941, 0981, 3441, 3481, 3941, 3981, 8441, 8481, 8941, 8981"
     },
     "SP, 13hs - PTSP": {
       "cabecalhos": [
@@ -762,73 +789,119 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "1230",
+          "Milhar": "7881",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4351",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5204",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2929",
           "Grupo": "08",
           "Bicho": "Camelo"
         },
         {
-          "Prêmio": "2º",
-          "Milhar": "1667",
-          "Grupo": "17",
-          "Bicho": "Macaco"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "7545",
+          "Prêmio": "5º",
+          "Milhar": "1946",
           "Grupo": "12",
           "Bicho": "Elefante"
         },
         {
-          "Prêmio": "4º",
-          "Milhar": "2236",
-          "Grupo": "09",
-          "Bicho": "Cobra"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "7749",
+          "Prêmio": "6º",
+          "Milhar": "7452",
           "Grupo": "13",
           "Bicho": "Galo"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "1172",
-          "Grupo": "18",
-          "Bicho": "Porco"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "2652",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "8329",
+          "Grupo": "08",
+          "Bicho": "Camelo"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "3643",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
+          "Milhar": "8502",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "0756",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "1149",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "8650",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "7743",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
         }
       ],
-      "frases": {},
+      "frases": {
+        "3441": [
+          "CAVALO 🐎 no décimo prêmio!<br>com o palpite 3441"
+        ],
+        "3481": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3481",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 3481"
+        ],
+        "3941": [
+          "CAVALO 🐎 no décimo prêmio!<br>com o palpite 3941"
+        ],
+        "3981": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3981",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 3981"
+        ],
+        "8441": [
+          "CAVALO 🐎 no décimo prêmio!<br>com o palpite 8441"
+        ],
+        "8481": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8481",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8481"
+        ],
+        "8941": [
+          "CAVALO 🐎 no décimo prêmio!<br>com o palpite 8941"
+        ],
+        "8981": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8981",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8981"
+        ],
+        "0481": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0481",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 0481"
+        ],
+        "0981": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0981",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 0981"
+        ],
+        "0441": [
+          "CAVALO 🐎 no décimo prêmio!<br>com o palpite 0441"
+        ],
+        "0941": [
+          "CAVALO 🐎 no décimo prêmio!<br>com o palpite 0941"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 6,
+        "Grupo": [
+          "🐂",
+          "🐎"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 9013, 9313"
+      "resumo": "Palpites dados para esta extração: 0441, 0481, 0941, 0981, 3441, 3481, 3941, 3981, 8441, 8481, 8941, 8981"
     },
     "SP, 13hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
