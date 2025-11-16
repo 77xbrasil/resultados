@@ -210,6 +210,105 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0996",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3105",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3510",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5237",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8421",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9233",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2738",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7607",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "2328",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "4108",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        }
+      ],
+      "frases": {
+        "3512": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 3512"
+        ],
+        "3534": [
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 3534"
+        ],
+        "3536": [
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 3536"
+        ],
+        "3594": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3594"
+        ],
+        "3596": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3596",
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3596"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 1,
+        "Grupo": [
+          "🦌",
+          "🐴",
+          "🐍"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3512, 3514, 3516, 3532, 3534, 3536, 3592, 3594, 3596"
+    },
+    "19h FEDERAL - MALUCA - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
