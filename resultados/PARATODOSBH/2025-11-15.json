@@ -405,6 +405,137 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 7032, 7033, 7038, 7532, 7533, 7538, 7632, 7633, 7638"
+    },
+    "21h - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6804",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1197",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5239",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2268",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5249",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4082",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6659",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6575",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8133",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2600",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        }
+      ],
+      "frases": {
+        "7033": [
+          "Dezena no nono prêmio!<br>com o palpite 7033",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 7033"
+        ],
+        "7038": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 7038"
+        ],
+        "7533": [
+          "Dezena no nono prêmio!<br>com o palpite 7533",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 7533"
+        ],
+        "7538": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 7538"
+        ],
+        "7633": [
+          "Dezena no nono prêmio!<br>com o palpite 7633",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 7633"
+        ],
+        "7638": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 7638"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 3,
+        "Grupo": [
+          "🐇",
+          "🐍"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 7032, 7033, 7038, 7532, 7533, 7538, 7632, 7633, 7638"
+    },
+    "20h FEDERAL - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
