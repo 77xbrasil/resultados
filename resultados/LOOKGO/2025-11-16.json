@@ -10,72 +10,77 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "2599",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "1934",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "3745",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "9307",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "9287",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "2693",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "9777",
-          "Grupo": "20",
-          "Bicho": "Peru"
+          "Milhar": "4612",
+          "Grupo": "03",
+          "Bicho": "Burro"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "4903",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "9619",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "0311",
+          "Milhar": "8165",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "733",
+          "Milhar": "999",
           "Grupo": "",
           "Bicho": ""
         }
       ],
       "frases": {
         "4111": [
-          "Dezena no sexto prêmio!<br>com o palpite 4111",
-          "BURRO 🐴 no sexto prêmio!<br>com o palpite 4111"
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 4111"
+        ],
+        "4119": [
+          "Dezena no quinto prêmio!<br>com o palpite 4119",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 4119"
         ],
         "4133": [
-          "Dezena no sétimo prêmio!<br>com o palpite 4133",
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 4133"
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 4133"
         ],
         "5111": [
-          "Dezena no sexto prêmio!<br>com o palpite 5111",
-          "BURRO 🐴 no sexto prêmio!<br>com o palpite 5111"
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 5111"
+        ],
+        "5119": [
+          "Dezena no quinto prêmio!<br>com o palpite 5119",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 5119"
         ],
         "5133": [
-          "Dezena no sétimo prêmio!<br>com o palpite 5133",
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 5133"
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 5133"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 4,
+        "Dezena": 2,
         "Grupo": [
+          "🐍",
           "🐴",
-          "🐍"
+          "🐕"
         ]
       },
       "resumo": "Palpites dados para esta extração: 4111, 4113, 4119, 4131, 4133, 4139, 4161, 4163, 4169, 5111, 5113, 5119, 5131, 5133, 5139, 5161, 5163, 5169"
@@ -704,71 +709,103 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "2599",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "1934",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "3745",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "9307",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "9287",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "2693",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "9777",
-          "Grupo": "20",
-          "Bicho": "Peru"
+          "Milhar": "4612",
+          "Grupo": "03",
+          "Bicho": "Burro"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "4903",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "9619",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "2399",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "1924",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "5727",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
+          "Milhar": "9366",
+          "Grupo": "17",
+          "Bicho": "Macaco"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "9487",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "3091",
+          "Grupo": "23",
+          "Bicho": "Urso"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "9577",
-          "Grupo": "20",
-          "Bicho": "Peru"
+          "Milhar": "4732",
+          "Grupo": "08",
+          "Bicho": "Camelo"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "7501",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "7278",
+          "Grupo": "20",
+          "Bicho": "Peru"
         }
       ],
-      "frases": {},
+      "frases": {
+        "4111": [
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 4111"
+        ],
+        "4119": [
+          "Dezena no quinto prêmio!<br>com o palpite 4119",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 4119"
+        ],
+        "4131": [
+          "CAMELO 🐪 no nono prêmio!<br>com o palpite 4131"
+        ],
+        "4133": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 4133"
+        ],
+        "5111": [
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 5111"
+        ],
+        "5119": [
+          "Dezena no quinto prêmio!<br>com o palpite 5119",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 5119"
+        ],
+        "5131": [
+          "CAMELO 🐪 no nono prêmio!<br>com o palpite 5131"
+        ],
+        "5133": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 5133"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐍",
+          "🐴",
+          "🐕",
+          "🐪"
+        ]
       },
       "resumo": "Palpites dados para esta extração: 4111, 4113, 4119, 4131, 4133, 4139, 4161, 4163, 4169, 5111, 5113, 5119, 5131, 5133, 5139, 5161, 5163, 5169"
     },
