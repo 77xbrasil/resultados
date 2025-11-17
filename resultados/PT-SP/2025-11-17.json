@@ -216,66 +216,76 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "7881",
+          "Milhar": "9281",
           "Grupo": "21",
           "Bicho": "Touro"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "4351",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "6976",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "5204",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "3064",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "2929",
-          "Grupo": "08",
-          "Bicho": "Camelo"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "1946",
+          "Milhar": "9946",
           "Grupo": "12",
           "Bicho": "Elefante"
         },
         {
+          "Prêmio": "5º",
+          "Milhar": "9571",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
           "Prêmio": "6º [soma]",
-          "Milhar": "2311",
+          "Milhar": "8838",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "290",
+          "Milhar": "744",
           "Grupo": "",
           "Bicho": ""
         }
       ],
       "frases": {
-        "6581": [
-          "Dezena no primeiro prêmio!<br>com o palpite 6581",
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 6581"
+        "5462": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 5462"
         ],
-        "8581": [
-          "Dezena no primeiro prêmio!<br>com o palpite 8581",
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8581"
+        "5562": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 5562"
+        ],
+        "5762": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 5762"
+        ],
+        "9462": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 9462"
+        ],
+        "9562": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 9562"
+        ],
+        "9762": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 9762"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 0,
         "Grupo": [
-          "🐂"
+          "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6581, 8581"
+      "resumo": "Palpites dados para esta extração: 5422, 5432, 5452, 5462, 5522, 5532, 5552, 5562, 5722, 5732, 5752, 5762, 9422, 9432, 9452, 9462, 9522, 9532, 9552, 9562, 9722, 9732, 9752, 9762"
     },
     "SP, 13hs - PTSP": {
       "cabecalhos": [
@@ -900,84 +910,100 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "7881",
+          "Milhar": "9281",
           "Grupo": "21",
           "Bicho": "Touro"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "4351",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "6976",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "5204",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "3064",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "2929",
-          "Grupo": "08",
-          "Bicho": "Camelo"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "1946",
+          "Milhar": "9946",
           "Grupo": "12",
           "Bicho": "Elefante"
         },
         {
+          "Prêmio": "5º",
+          "Milhar": "9571",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
           "Prêmio": "6º",
-          "Milhar": "7452",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "9639",
+          "Grupo": "10",
+          "Bicho": "Coelho"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "8329",
-          "Grupo": "08",
-          "Bicho": "Camelo"
+          "Milhar": "2909",
+          "Grupo": "03",
+          "Bicho": "Burro"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "8502",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "8764",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "1149",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "1646",
+          "Grupo": "12",
+          "Bicho": "Elefante"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "7743",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
+          "Milhar": "1796",
+          "Grupo": "24",
+          "Bicho": "Veado"
         }
       ],
       "frases": {
-        "6581": [
-          "Dezena no primeiro prêmio!<br>com o palpite 6581",
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 6581"
+        "5462": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 5462",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 5462"
         ],
-        "8581": [
-          "Dezena no primeiro prêmio!<br>com o palpite 8581",
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8581"
+        "5562": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 5562",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 5562"
+        ],
+        "5762": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 5762",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 5762"
+        ],
+        "9462": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 9462",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 9462"
+        ],
+        "9562": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 9562",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 9562"
+        ],
+        "9762": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 9762",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 9762"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 0,
         "Grupo": [
-          "🐂"
+          "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6581, 8581"
+      "resumo": "Palpites dados para esta extração: 5422, 5432, 5452, 5462, 5522, 5532, 5552, 5562, 5722, 5732, 5752, 5762, 9422, 9432, 9452, 9462, 9522, 9532, 9552, 9562, 9722, 9732, 9752, 9762"
     },
     "SP, 13hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
