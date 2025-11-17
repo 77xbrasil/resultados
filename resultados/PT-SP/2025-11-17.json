@@ -115,64 +115,79 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "0948",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "5931",
+          "Grupo": "08",
+          "Bicho": "Camelo"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "5449",
+          "Milhar": "5407",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9365",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9622",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2550",
           "Grupo": "13",
           "Bicho": "Galo"
         },
         {
-          "Prêmio": "3º",
-          "Milhar": "3884",
-          "Grupo": "21",
-          "Bicho": "Touro"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "1661",
-          "Grupo": "16",
-          "Bicho": "Leão"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "8604",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
-        },
-        {
           "Prêmio": "6º [soma]",
-          "Milhar": "0546",
+          "Milhar": "2875",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "165",
+          "Milhar": "068",
           "Grupo": "",
           "Bicho": ""
         }
       ],
       "frases": {
-        "6581": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 6581"
+        "1068": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 1068",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 1068",
+          "Dezena no sétimo prêmio!<br>com o palpite 1068",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 1068"
         ],
-        "8581": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 8581"
+        "1268": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 1268",
+          "Dezena no sétimo prêmio!<br>com o palpite 1268",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 1268"
+        ],
+        "1568": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 1568",
+          "Dezena no sétimo prêmio!<br>com o palpite 1568",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 1568"
+        ],
+        "1968": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 1968",
+          "Dezena no sétimo prêmio!<br>com o palpite 1968",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 1968"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Centena": 1,
+        "Dezena": 4,
         "Grupo": [
-          "🐂"
+          "🐒"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6581, 8581"
+      "resumo": "Palpites dados para esta extração: 1063, 1064, 1068, 1263, 1264, 1268, 1563, 1564, 1568, 1963, 1964, 1968"
     },
     "SP, 12:00 - PTSP": {
       "cabecalhos": [
@@ -720,71 +735,101 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "0948",
-          "Grupo": "12",
-          "Bicho": "Elefante"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "5449",
-          "Grupo": "13",
-          "Bicho": "Galo"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "3884",
-          "Grupo": "21",
-          "Bicho": "Touro"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "1661",
-          "Grupo": "16",
-          "Bicho": "Leão"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "8604",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "0531",
+          "Milhar": "5931",
           "Grupo": "08",
           "Bicho": "Camelo"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "5407",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9365",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9622",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2550",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5599",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
           "Prêmio": "7º",
-          "Milhar": "9486",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "9436",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "4486",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "3062",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "8941",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
+          "Milhar": "1752",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "3990",
-          "Grupo": "23",
-          "Bicho": "Urso"
+          "Milhar": "2724",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         }
       ],
       "frases": {
-        "6581": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 6581"
+        "1063": [
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 1063"
         ],
-        "8581": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 8581"
+        "1064": [
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 1064"
+        ],
+        "1068": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 1068"
+        ],
+        "1263": [
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 1263"
+        ],
+        "1264": [
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 1264"
+        ],
+        "1268": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 1268"
+        ],
+        "1563": [
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 1563"
+        ],
+        "1564": [
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 1564"
+        ],
+        "1568": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 1568"
+        ],
+        "1963": [
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 1963"
+        ],
+        "1964": [
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 1964"
+        ],
+        "1968": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 1968"
         ]
       },
       "acertos": {
@@ -792,10 +837,11 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐂"
+          "🐒",
+          "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6581, 8581"
+      "resumo": "Palpites dados para esta extração: 1063, 1064, 1068, 1263, 1264, 1268, 1563, 1564, 1568, 1963, 1964, 1968"
     },
     "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
