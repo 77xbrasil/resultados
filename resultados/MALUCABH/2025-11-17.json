@@ -69,14 +69,382 @@
           "Bicho": "Leão"
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "2109": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 2109"
+        ],
+        "2127": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 2127"
+        ],
+        "2128": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 2128"
+        ],
+        "2129": [
+          "Dezena no quinto prêmio!<br>com o palpite 2129",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 2129"
+        ],
+        "2167": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2167",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 2167",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 2167"
+        ],
+        "2168": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 2168",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 2168"
+        ],
+        "2209": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 2209"
+        ],
+        "2227": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 2227"
+        ],
+        "2228": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 2228"
+        ],
+        "2229": [
+          "Dezena no quinto prêmio!<br>com o palpite 2229",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 2229"
+        ],
+        "2267": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2267",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 2267",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 2267"
+        ],
+        "2268": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 2268",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 2268"
+        ],
+        "2509": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 2509"
+        ],
+        "2527": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 2527"
+        ],
+        "2528": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 2528"
+        ],
+        "2529": [
+          "Dezena no quinto prêmio!<br>com o palpite 2529",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 2529"
+        ],
+        "2567": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2567",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 2567",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 2567"
+        ],
+        "2568": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 2568",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 2568"
+        ],
+        "2609": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 2609"
+        ],
+        "2627": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 2627"
+        ],
+        "2628": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 2628"
+        ],
+        "2629": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 2629",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 2629",
+          "Dezena no quinto prêmio!<br>com o palpite 2629",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 2629"
+        ],
+        "2667": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 2667",
+          "Dezena no primeiro prêmio!<br>com o palpite 2667",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 2667",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 2667"
+        ],
+        "2668": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 2668",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 2668"
+        ],
+        "7109": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 7109"
+        ],
+        "7127": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 7127"
+        ],
+        "7128": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 7128"
+        ],
+        "7129": [
+          "Dezena no quinto prêmio!<br>com o palpite 7129",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 7129"
+        ],
+        "7167": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7167",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 7167",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 7167"
+        ],
+        "7168": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 7168",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 7168"
+        ],
+        "7209": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 7209"
+        ],
+        "7227": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 7227"
+        ],
+        "7228": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 7228"
+        ],
+        "7229": [
+          "Dezena no quinto prêmio!<br>com o palpite 7229",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 7229"
+        ],
+        "7267": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7267",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 7267",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 7267"
+        ],
+        "7268": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 7268",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 7268"
+        ],
+        "7509": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 7509"
+        ],
+        "7527": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 7527"
+        ],
+        "7528": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 7528"
+        ],
+        "7529": [
+          "Dezena no quinto prêmio!<br>com o palpite 7529",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 7529"
+        ],
+        "7567": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7567",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 7567",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 7567"
+        ],
+        "7568": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 7568",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 7568"
+        ],
+        "7609": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 7609"
+        ],
+        "7627": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 7627"
+        ],
+        "7628": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 7628"
+        ],
+        "7629": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 7629",
+          "Dezena no quinto prêmio!<br>com o palpite 7629",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 7629"
+        ],
+        "7667": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 7667",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 7667",
+          "Dezena no primeiro prêmio!<br>com o palpite 7667",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 7667",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 7667"
+        ],
+        "7668": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 7668",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 7668"
+        ],
+        "8109": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 8109"
+        ],
+        "8127": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 8127"
+        ],
+        "8128": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 8128"
+        ],
+        "8129": [
+          "Dezena no quinto prêmio!<br>com o palpite 8129",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 8129"
+        ],
+        "8167": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8167",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 8167",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 8167"
+        ],
+        "8168": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 8168",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 8168"
+        ],
+        "8209": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 8209"
+        ],
+        "8227": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 8227"
+        ],
+        "8228": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 8228"
+        ],
+        "8229": [
+          "Dezena no quinto prêmio!<br>com o palpite 8229",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 8229"
+        ],
+        "8267": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8267",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 8267",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 8267"
+        ],
+        "8268": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 8268",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 8268"
+        ],
+        "8509": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 8509"
+        ],
+        "8527": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 8527"
+        ],
+        "8528": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 8528"
+        ],
+        "8529": [
+          "Dezena no quinto prêmio!<br>com o palpite 8529",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 8529"
+        ],
+        "8567": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8567",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 8567",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 8567"
+        ],
+        "8568": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 8568",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 8568"
+        ],
+        "8609": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 8609"
+        ],
+        "8627": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 8627"
+        ],
+        "8628": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 8628"
+        ],
+        "8629": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 8629",
+          "Dezena no quinto prêmio!<br>com o palpite 8629",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 8629"
+        ],
+        "8667": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 8667",
+          "Dezena no primeiro prêmio!<br>com o palpite 8667",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 8667",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 8667"
+        ],
+        "8668": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 8668",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 8668"
+        ],
+        "9109": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 9109"
+        ],
+        "9127": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 9127"
+        ],
+        "9128": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 9128"
+        ],
+        "9129": [
+          "Dezena no quinto prêmio!<br>com o palpite 9129",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 9129"
+        ],
+        "9167": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9167",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 9167",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 9167"
+        ],
+        "9168": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 9168",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 9168"
+        ],
+        "9209": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 9209"
+        ],
+        "9227": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 9227"
+        ],
+        "9228": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 9228"
+        ],
+        "9229": [
+          "Dezena no quinto prêmio!<br>com o palpite 9229",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 9229"
+        ],
+        "9267": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9267",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 9267",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 9267"
+        ],
+        "9268": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 9268",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 9268"
+        ],
+        "9509": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 9509"
+        ],
+        "9527": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 9527"
+        ],
+        "9528": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 9528"
+        ],
+        "9529": [
+          "Dezena no quinto prêmio!<br>com o palpite 9529",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 9529"
+        ],
+        "9567": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9567",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 9567",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 9567"
+        ],
+        "9568": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 9568",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 9568"
+        ],
+        "9609": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 9609"
+        ],
+        "9627": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 9627"
+        ],
+        "9628": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 9628"
+        ],
+        "9629": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 9629",
+          "Dezena no quinto prêmio!<br>com o palpite 9629",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 9629"
+        ],
+        "9667": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 9667",
+          "Dezena no primeiro prêmio!<br>com o palpite 9667",
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 9667",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 9667"
+        ],
+        "9668": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 9668",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 9668"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2108, 2138, 2208, 2238, 3108, 3138, 3208, 3238"
+      "acertos": {
+        "Milhar": 2,
+        "Centena": 8,
+        "Dezena": 32,
+        "Grupo": [
+          "🐒",
+          "🐪",
+          "🐴",
+          "🐑"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2107, 2108, 2109, 2127, 2128, 2129, 2137, 2138, 2139, 2167, 2168, 2169, 2207, 2208, 2209, 2227, 2228, 2229, 2237, 2238, 2239, 2267, 2268, 2269, 2507, 2508, 2509, 2527, 2528, 2529, 2537, 2538, 2539, 2567, 2568, 2569, 2607, 2608, 2609, 2627, 2628, 2629, 2637, 2638, 2639, 2667, 2668, 2669, 7107, 7108, 7109, 7127, 7128, 7129, 7137, 7138, 7139, 7167, 7168, 7169, 7207, 7208, 7209, 7227, 7228, 7229, 7237, 7238, 7239, 7267, 7268, 7269, 7507, 7508, 7509, 7527, 7528, 7529, 7537, 7538, 7539, 7567, 7568, 7569, 7607, 7608, 7609, 7627, 7628, 7629, 7637, 7638, 7639, 7667, 7668, 7669, 8107, 8108, 8109, 8127, 8128, 8129, 8137, 8138, 8139, 8167, 8168, 8169, 8207, 8208, 8209, 8227, 8228, 8229, 8237, 8238, 8239, 8267, 8268, 8269, 8507, 8508, 8509, 8527, 8528, 8529, 8537, 8538, 8539, 8567, 8568, 8569, 8607, 8608, 8609, 8627, 8628, 8629, 8637, 8638, 8639, 8667, 8668, 8669, 9107, 9108, 9109, 9127, 9128, 9129, 9137, 9138, 9139, 9167, 9168, 9169, 9207, 9208, 9209, 9227, 9228, 9229, 9237, 9238, 9239, 9267, 9268, 9269, 9507, 9508, 9509, 9527, 9528, 9529, 9537, 9538, 9539, 9567, 9568, 9569, 9607, 9608, 9609, 9627, 9628, 9629, 9637, 9638, 9639, 9667, 9668, 9669"
     },
     "12h - MALUCA - BA": {
       "cabecalhos": [
