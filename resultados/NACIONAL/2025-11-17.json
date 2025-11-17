@@ -489,73 +489,95 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "2274",
-          "Grupo": "19",
-          "Bicho": "Pavão"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "5324",
-          "Grupo": "06",
-          "Bicho": "Cabra"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "4981",
-          "Grupo": "21",
-          "Bicho": "Touro"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "6689",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "1399",
+          "Milhar": "9698",
           "Grupo": "25",
           "Bicho": "Vaca"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "8663",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3135",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0438",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4430",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
           "Prêmio": "6º",
-          "Milhar": "2546",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "9830",
+          "Grupo": "08",
+          "Bicho": "Camelo"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "2396",
-          "Grupo": "24",
-          "Bicho": "Veado"
+          "Milhar": "6614",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "7288",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "9633",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "4419",
-          "Grupo": "05",
-          "Bicho": "Cachorro"
+          "Milhar": "8358",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "7316",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
+          "Milhar": "0799",
+          "Grupo": "25",
+          "Bicho": "Vaca"
         }
       ],
-      "frases": {},
+      "frases": {
+        "3330": [
+          "Dezena no quinto prêmio!<br>com o palpite 3330",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 3330",
+          "Dezena no sexto prêmio!<br>com o palpite 3330",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 3330"
+        ],
+        "3337": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 3337"
+        ],
+        "3530": [
+          "Dezena no quinto prêmio!<br>com o palpite 3530",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 3530",
+          "Dezena no sexto prêmio!<br>com o palpite 3530",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 3530"
+        ],
+        "3537": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 3537"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 4,
+        "Grupo": [
+          "🐇",
+          "🐪"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0080, 0180, 0280, 0880"
+      "resumo": "Palpites dados para esta extração: 3330, 3337, 3370, 3377, 3530, 3537, 3570, 3577"
     },
     "Nacional - LN 21:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -732,6 +754,34 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 0080, 0180, 0280, 0880"
+    },
+    "Nacional - LN 20:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   },
   "1-5": {
@@ -1080,49 +1130,67 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "2274",
-          "Grupo": "19",
-          "Bicho": "Pavão"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "5324",
-          "Grupo": "06",
-          "Bicho": "Cabra"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "4981",
-          "Grupo": "21",
-          "Bicho": "Touro"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "6689",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "1399",
+          "Milhar": "9698",
           "Grupo": "25",
           "Bicho": "Vaca"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "8663",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3135",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0438",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4430",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
           "Prêmio": "6º [soma]",
-          "Milhar": "0667",
+          "Milhar": "6364",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3330": [
+          "Dezena no quinto prêmio!<br>com o palpite 3330",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 3330"
+        ],
+        "3337": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 3337"
+        ],
+        "3530": [
+          "Dezena no quinto prêmio!<br>com o palpite 3530",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 3530"
+        ],
+        "3537": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 3537"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐇",
+          "🐪"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0080, 0180, 0280, 0880"
+      "resumo": "Palpites dados para esta extração: 3330, 3337, 3370, 3377, 3530, 3537, 3570, 3577"
     },
     "Nacional - LN 21:00": {
       "cabecalhos": [
@@ -1246,6 +1314,29 @@
         "Grupo": []
       },
       "resumo": "Palpites dados para esta extração: 0080, 0180, 0280, 0880"
+    },
+    "Nacional - LN 20:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
