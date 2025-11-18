@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0582, 0589, 0682, 0689, 1582, 1589, 1682, 1689, 4582, 4589, 4682, 4689, 8582, 8589, 8682, 8689, 9582, 9589, 9682, 9689"
+      "resumo": "Palpites dados para esta extração: 0639, 0689, 1639, 1689"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -118,7 +118,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0582, 0589, 0682, 0689, 1582, 1589, 1682, 1689, 4582, 4589, 4682, 4689, 8582, 8589, 8682, 8689, 9582, 9589, 9682, 9689"
+      "resumo": "Palpites dados para esta extração: 0639, 0689, 1639, 1689"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -172,32 +172,8 @@
         }
       ],
       "frases": {
-        "1589": [
-          "URSO 🐻 no terceiro prêmio!<br>com o palpite 1589"
-        ],
         "1689": [
           "URSO 🐻 no terceiro prêmio!<br>com o palpite 1689"
-        ],
-        "4589": [
-          "URSO 🐻 no terceiro prêmio!<br>com o palpite 4589"
-        ],
-        "4689": [
-          "URSO 🐻 no terceiro prêmio!<br>com o palpite 4689"
-        ],
-        "8589": [
-          "URSO 🐻 no terceiro prêmio!<br>com o palpite 8589"
-        ],
-        "8689": [
-          "URSO 🐻 no terceiro prêmio!<br>com o palpite 8689"
-        ],
-        "9589": [
-          "URSO 🐻 no terceiro prêmio!<br>com o palpite 9589"
-        ],
-        "9689": [
-          "URSO 🐻 no terceiro prêmio!<br>com o palpite 9689"
-        ],
-        "0589": [
-          "URSO 🐻 no terceiro prêmio!<br>com o palpite 0589"
         ],
         "0689": [
           "URSO 🐻 no terceiro prêmio!<br>com o palpite 0689"
@@ -211,7 +187,7 @@
           "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0582, 0589, 0682, 0689, 1582, 1589, 1682, 1689, 4582, 4589, 4682, 4689, 8582, 8589, 8682, 8689, 9582, 9589, 9682, 9689"
+      "resumo": "Palpites dados para esta extração: 0639, 0689, 1639, 1689"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -265,35 +241,19 @@
         }
       ],
       "frases": {
-        "1589": [
-          "URSO 🐻 no segundo prêmio!<br>com o palpite 1589"
+        "1639": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 1639",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 1639"
         ],
         "1689": [
           "URSO 🐻 no segundo prêmio!<br>com o palpite 1689"
         ],
-        "4589": [
-          "URSO 🐻 no segundo prêmio!<br>com o palpite 4589"
-        ],
-        "4689": [
-          "URSO 🐻 no segundo prêmio!<br>com o palpite 4689"
-        ],
-        "8589": [
-          "URSO 🐻 no segundo prêmio!<br>com o palpite 8589"
-        ],
-        "8689": [
-          "URSO 🐻 no segundo prêmio!<br>com o palpite 8689"
-        ],
-        "9589": [
-          "URSO 🐻 no segundo prêmio!<br>com o palpite 9589"
-        ],
-        "9689": [
-          "URSO 🐻 no segundo prêmio!<br>com o palpite 9689"
-        ],
-        "0589": [
-          "URSO 🐻 no segundo prêmio!<br>com o palpite 0589"
-        ],
         "0689": [
           "URSO 🐻 no segundo prêmio!<br>com o palpite 0689"
+        ],
+        "0639": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 0639",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 0639"
         ]
       },
       "acertos": {
@@ -301,10 +261,11 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐻"
+          "🐻",
+          "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0582, 0589, 0682, 0689, 1582, 1589, 1682, 1689, 4582, 4589, 4682, 4689, 8582, 8589, 8682, 8689, 9582, 9589, 9682, 9689"
+      "resumo": "Palpites dados para esta extração: 0639, 0689, 1639, 1689"
     },
     "PT-RIO, RJ, 18:20, PTN": {
       "cabecalhos": [
@@ -400,14 +361,23 @@
           "Bicho": "Veado"
         }
       ],
-      "frases": {},
+      "frases": {
+        "1639": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 1639"
+        ],
+        "0639": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 0639"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐇"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0582, 0589, 0682, 0689, 1582, 1589, 1682, 1689, 4582, 4589, 4682, 4689, 8582, 8589, 8682, 8689, 9582, 9589, 9682, 9689"
+      "resumo": "Palpites dados para esta extração: 0639, 0689, 1639, 1689"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -478,47 +448,14 @@
           "Bicho": "Leão"
         }
       ],
-      "frases": {
-        "1582": [
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 1582"
-        ],
-        "1682": [
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 1682"
-        ],
-        "4582": [
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 4582"
-        ],
-        "4682": [
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 4682"
-        ],
-        "8582": [
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 8582"
-        ],
-        "8682": [
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 8682"
-        ],
-        "9582": [
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 9582"
-        ],
-        "9682": [
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 9682"
-        ],
-        "0582": [
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 0582"
-        ],
-        "0682": [
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 0682"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐂"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0582, 0589, 0682, 0689, 1582, 1589, 1682, 1689, 4582, 4589, 4682, 4689, 8582, 8589, 8682, 8689, 9582, 9589, 9682, 9689"
+      "resumo": "Palpites dados para esta extração: 0639, 0689, 1639, 1689"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -590,32 +527,8 @@
         }
       ],
       "frases": {
-        "1589": [
-          "URSO 🐻 no terceiro prêmio!<br>com o palpite 1589"
-        ],
         "1689": [
           "URSO 🐻 no terceiro prêmio!<br>com o palpite 1689"
-        ],
-        "4589": [
-          "URSO 🐻 no terceiro prêmio!<br>com o palpite 4589"
-        ],
-        "4689": [
-          "URSO 🐻 no terceiro prêmio!<br>com o palpite 4689"
-        ],
-        "8589": [
-          "URSO 🐻 no terceiro prêmio!<br>com o palpite 8589"
-        ],
-        "8689": [
-          "URSO 🐻 no terceiro prêmio!<br>com o palpite 8689"
-        ],
-        "9589": [
-          "URSO 🐻 no terceiro prêmio!<br>com o palpite 9589"
-        ],
-        "9689": [
-          "URSO 🐻 no terceiro prêmio!<br>com o palpite 9689"
-        ],
-        "0589": [
-          "URSO 🐻 no terceiro prêmio!<br>com o palpite 0589"
         ],
         "0689": [
           "URSO 🐻 no terceiro prêmio!<br>com o palpite 0689"
@@ -629,7 +542,7 @@
           "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0582, 0589, 0682, 0689, 1582, 1589, 1682, 1689, 4582, 4589, 4682, 4689, 8582, 8589, 8682, 8689, 9582, 9589, 9682, 9689"
+      "resumo": "Palpites dados para esta extração: 0639, 0689, 1639, 1689"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
@@ -701,97 +614,35 @@
         }
       ],
       "frases": {
-        "1582": [
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 1582"
-        ],
-        "1589": [
-          "URSO 🐻 no segundo prêmio!<br>com o palpite 1589",
-          "Dezena no nono prêmio!<br>com o palpite 1589",
-          "URSO 🐻 no nono prêmio!<br>com o palpite 1589"
-        ],
-        "1682": [
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 1682"
+        "1639": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 1639",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 1639"
         ],
         "1689": [
           "URSO 🐻 no segundo prêmio!<br>com o palpite 1689",
           "Dezena no nono prêmio!<br>com o palpite 1689",
           "URSO 🐻 no nono prêmio!<br>com o palpite 1689"
         ],
-        "4582": [
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 4582"
-        ],
-        "4589": [
-          "URSO 🐻 no segundo prêmio!<br>com o palpite 4589",
-          "Dezena no nono prêmio!<br>com o palpite 4589",
-          "URSO 🐻 no nono prêmio!<br>com o palpite 4589"
-        ],
-        "4682": [
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 4682"
-        ],
-        "4689": [
-          "URSO 🐻 no segundo prêmio!<br>com o palpite 4689",
-          "Dezena no nono prêmio!<br>com o palpite 4689",
-          "URSO 🐻 no nono prêmio!<br>com o palpite 4689"
-        ],
-        "8582": [
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 8582"
-        ],
-        "8589": [
-          "URSO 🐻 no segundo prêmio!<br>com o palpite 8589",
-          "Dezena no nono prêmio!<br>com o palpite 8589",
-          "URSO 🐻 no nono prêmio!<br>com o palpite 8589"
-        ],
-        "8682": [
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 8682"
-        ],
-        "8689": [
-          "URSO 🐻 no segundo prêmio!<br>com o palpite 8689",
-          "Dezena no nono prêmio!<br>com o palpite 8689",
-          "URSO 🐻 no nono prêmio!<br>com o palpite 8689"
-        ],
-        "9582": [
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 9582"
-        ],
-        "9589": [
-          "URSO 🐻 no segundo prêmio!<br>com o palpite 9589",
-          "Dezena no nono prêmio!<br>com o palpite 9589",
-          "URSO 🐻 no nono prêmio!<br>com o palpite 9589"
-        ],
-        "9682": [
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 9682"
-        ],
-        "9689": [
-          "URSO 🐻 no segundo prêmio!<br>com o palpite 9689",
-          "Dezena no nono prêmio!<br>com o palpite 9689",
-          "URSO 🐻 no nono prêmio!<br>com o palpite 9689"
-        ],
-        "0589": [
-          "URSO 🐻 no segundo prêmio!<br>com o palpite 0589",
-          "Dezena no nono prêmio!<br>com o palpite 0589",
-          "URSO 🐻 no nono prêmio!<br>com o palpite 0589"
-        ],
         "0689": [
           "URSO 🐻 no segundo prêmio!<br>com o palpite 0689",
           "Dezena no nono prêmio!<br>com o palpite 0689",
           "URSO 🐻 no nono prêmio!<br>com o palpite 0689"
         ],
-        "0582": [
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 0582"
-        ],
-        "0682": [
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 0682"
+        "0639": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 0639",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 0639"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 10,
+        "Dezena": 2,
         "Grupo": [
           "🐻",
-          "🐂"
+          "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0582, 0589, 0682, 0689, 1582, 1589, 1682, 1689, 4582, 4589, 4682, 4689, 8582, 8589, 8682, 8689, 9582, 9589, 9682, 9689"
+      "resumo": "Palpites dados para esta extração: 0639, 0689, 1639, 1689"
     },
     "PT-RIO, RJ, 18:20, PTN do 1º ao 10º": {
       "cabecalhos": [
