@@ -52,22 +52,30 @@
         }
       ],
       "frases": {
-        "2009": [
-          "BURRO 🐴 no sexto prêmio!<br>com o palpite 2009"
+        "2062": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2062",
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 2062"
         ],
-        "2109": [
-          "BURRO 🐴 no sexto prêmio!<br>com o palpite 2109"
+        "2063": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 2063"
+        ],
+        "2162": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2162",
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 2162"
+        ],
+        "2163": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 2163"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 2,
         "Grupo": [
-          "🐴"
+          "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2000, 2002, 2009, 2100, 2102, 2109"
+      "resumo": "Palpites dados para esta extração: 2000, 2002, 2003, 2006, 2060, 2062, 2063, 2066, 2100, 2102, 2103, 2106, 2160, 2162, 2163, 2166"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -163,14 +171,47 @@
           "Bicho": "Veado"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2060": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2060",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 2060"
+        ],
+        "2062": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2062",
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 2062"
+        ],
+        "2063": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 2063"
+        ],
+        "2066": [
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 2066"
+        ],
+        "2160": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2160",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 2160"
+        ],
+        "2162": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2162",
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 2162"
+        ],
+        "2163": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 2163"
+        ],
+        "2166": [
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 2166"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 4,
+        "Grupo": [
+          "🦁",
+          "🐊",
+          "🐒"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2000, 2002, 2009, 2100, 2102, 2109"
+      "resumo": "Palpites dados para esta extração: 2000, 2002, 2003, 2006, 2060, 2062, 2063, 2066, 2100, 2102, 2103, 2106, 2160, 2162, 2163, 2166"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
