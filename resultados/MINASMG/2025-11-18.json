@@ -51,14 +51,29 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "5699": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 5699"
+        ],
+        "5799": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 5799"
+        ],
+        "5899": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 5899"
+        ],
+        "5999": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 5999"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5591, 5691, 5791, 5891, 5991"
+      "resumo": "Palpites dados para esta extração: 5691, 5699, 5791, 5799, 5891, 5899, 5991, 5999"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
@@ -112,12 +127,6 @@
         }
       ],
       "frases": {
-        "5591": [
-          "Dezena no primeiro prêmio!<br>com o palpite 5591",
-          "URSO 🐻 no primeiro prêmio!<br>com o palpite 5591",
-          "Dezena no quinto prêmio!<br>com o palpite 5591",
-          "URSO 🐻 no quinto prêmio!<br>com o palpite 5591"
-        ],
         "5691": [
           "Dezena no primeiro prêmio!<br>com o palpite 5691",
           "URSO 🐻 no primeiro prêmio!<br>com o palpite 5691",
@@ -125,6 +134,11 @@
           "Centena e Dezena no quinto prêmio!<br>com o palpite 5691",
           "Dezena no quinto prêmio!<br>com o palpite 5691",
           "URSO 🐻 no quinto prêmio!<br>com o palpite 5691"
+        ],
+        "5699": [
+          "Dezena no quarto prêmio!<br>com o palpite 5699",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 5699",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 5699"
         ],
         "5791": [
           "Milhar e Centena no primeiro prêmio!<br>com o palpite 5791",
@@ -134,28 +148,44 @@
           "Dezena no quinto prêmio!<br>com o palpite 5791",
           "URSO 🐻 no quinto prêmio!<br>com o palpite 5791"
         ],
+        "5799": [
+          "Dezena no quarto prêmio!<br>com o palpite 5799",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 5799",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 5799"
+        ],
         "5891": [
           "Dezena no primeiro prêmio!<br>com o palpite 5891",
           "URSO 🐻 no primeiro prêmio!<br>com o palpite 5891",
           "Dezena no quinto prêmio!<br>com o palpite 5891",
           "URSO 🐻 no quinto prêmio!<br>com o palpite 5891"
         ],
+        "5899": [
+          "Dezena no quarto prêmio!<br>com o palpite 5899",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 5899",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 5899"
+        ],
         "5991": [
           "Dezena no primeiro prêmio!<br>com o palpite 5991",
           "URSO 🐻 no primeiro prêmio!<br>com o palpite 5991",
           "Dezena no quinto prêmio!<br>com o palpite 5991",
           "URSO 🐻 no quinto prêmio!<br>com o palpite 5991"
+        ],
+        "5999": [
+          "Dezena no quarto prêmio!<br>com o palpite 5999",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 5999",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 5999"
         ]
       },
       "acertos": {
         "Milhar": 2,
         "Centena": 2,
-        "Dezena": 10,
+        "Dezena": 12,
         "Grupo": [
-          "🐻"
+          "🐻",
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5591, 5691, 5791, 5891, 5991"
+      "resumo": "Palpites dados para esta extração: 5691, 5699, 5791, 5799, 5891, 5899, 5991, 5999"
     },
     "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
@@ -215,7 +245,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5591, 5691, 5791, 5891, 5991"
+      "resumo": "Palpites dados para esta extração: 5691, 5699, 5791, 5799, 5891, 5899, 5991, 5999"
     },
     "PREFERIDA - MG, 21h": {
       "cabecalhos": [
