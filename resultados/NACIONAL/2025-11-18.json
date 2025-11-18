@@ -10,37 +10,37 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5547",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "5885",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "0742",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "6882",
-          "Grupo": "21",
-          "Bicho": "Touro"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "2395",
-          "Grupo": "24",
-          "Bicho": "Veado"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "0148",
+          "Milhar": "7948",
           "Grupo": "12",
           "Bicho": "Elefante"
         },
         {
+          "Prêmio": "3º",
+          "Milhar": "5413",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7919",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6621",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
           "Prêmio": "6º [soma]",
-          "Milhar": "5714",
+          "Milhar": "3786",
           "Grupo": "",
           "Bicho": ""
         }
@@ -64,37 +64,37 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "4947",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "0430",
+          "Grupo": "08",
+          "Bicho": "Camelo"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "1140",
-          "Grupo": "10",
-          "Bicho": "Coelho"
+          "Milhar": "4805",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "0543",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
+          "Milhar": "7459",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "1810",
-          "Grupo": "03",
-          "Bicho": "Burro"
+          "Milhar": "2652",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "4825",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
+          "Milhar": "4198",
+          "Grupo": "25",
+          "Bicho": "Vaca"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "3265",
+          "Milhar": "9544",
           "Grupo": "",
           "Bicho": ""
         }
@@ -118,47 +118,55 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "0135",
+          "Milhar": "2334",
           "Grupo": "09",
           "Bicho": "Cobra"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "6213",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
+          "Milhar": "8161",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "3268",
+          "Milhar": "8968",
           "Grupo": "17",
           "Bicho": "Macaco"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "9234",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "9146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "7179",
-          "Grupo": "20",
-          "Bicho": "Peru"
+          "Milhar": "3072",
+          "Grupo": "18",
+          "Bicho": "Porco"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "6029",
+          "Milhar": "1681",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3161": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 3161",
+          "Dezena no segundo prêmio!<br>com o palpite 3161",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3161"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 1,
+        "Grupo": [
+          "🦁"
+        ]
       },
       "resumo": "Palpites dados para esta extração: 3161"
     },
