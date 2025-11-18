@@ -69,14 +69,29 @@
           "Bicho": "Carneiro"
         }
       ],
-      "frases": {},
+      "frases": {
+        "1991": [
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 1991"
+        ],
+        "2991": [
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 2991"
+        ],
+        "5991": [
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 5991"
+        ],
+        "8991": [
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 8991"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐻"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5937, 5997"
+      "resumo": "Palpites dados para esta extração: 1931, 1933, 1937, 1938, 1991, 1993, 1997, 1998, 2931, 2933, 2937, 2938, 2991, 2993, 2997, 2998, 5931, 5933, 5937, 5938, 5991, 5993, 5997, 5998, 8931, 8933, 8937, 8938, 8991, 8993, 8997, 8998"
     },
     "LOTECE - CE, 14:00 (tarde)": {
       "cabecalhos": [
@@ -154,7 +169,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5937, 5997"
+      "resumo": "Palpites dados para esta extração: 1931, 1933, 1937, 1938, 1991, 1993, 1997, 1998, 2931, 2933, 2937, 2938, 2991, 2993, 2997, 2998, 5931, 5933, 5937, 5938, 5991, 5993, 5997, 5998, 8931, 8933, 8937, 8938, 8991, 8993, 8997, 8998"
     },
     "LOTECE - CE, 15:45 (tarde II)": {
       "cabecalhos": [
@@ -226,24 +241,103 @@
         }
       ],
       "frases": {
+        "1933": [
+          "Dezena no segundo prêmio!<br>com o palpite 1933",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 1933"
+        ],
+        "1937": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1937",
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 1937"
+        ],
+        "1938": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 1938"
+        ],
+        "1991": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 1991"
+        ],
+        "1997": [
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 1997"
+        ],
+        "1998": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1998",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 1998"
+        ],
+        "2933": [
+          "Dezena no segundo prêmio!<br>com o palpite 2933",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 2933"
+        ],
+        "2937": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2937",
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 2937"
+        ],
+        "2938": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 2938"
+        ],
+        "2991": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 2991"
+        ],
+        "2997": [
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 2997"
+        ],
+        "2998": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2998",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 2998"
+        ],
+        "5933": [
+          "Dezena no segundo prêmio!<br>com o palpite 5933",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 5933"
+        ],
         "5937": [
           "Dezena no terceiro prêmio!<br>com o palpite 5937",
           "COELHO 🐇 no terceiro prêmio!<br>com o palpite 5937"
         ],
+        "5938": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 5938"
+        ],
+        "5991": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 5991"
+        ],
         "5997": [
           "VACA 🐄 no sétimo prêmio!<br>com o palpite 5997"
+        ],
+        "5998": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5998",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 5998"
+        ],
+        "8933": [
+          "Dezena no segundo prêmio!<br>com o palpite 8933",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 8933"
+        ],
+        "8937": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8937",
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 8937"
+        ],
+        "8938": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 8938"
+        ],
+        "8991": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 8991"
+        ],
+        "8997": [
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 8997"
+        ],
+        "8998": [
+          "Dezena no sétimo prêmio!<br>com o palpite 8998",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 8998"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 12,
         "Grupo": [
+          "🐍",
           "🐇",
+          "🐻",
           "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5937, 5997"
+      "resumo": "Palpites dados para esta extração: 1931, 1933, 1937, 1938, 1991, 1993, 1997, 1998, 2931, 2933, 2937, 2938, 2991, 2993, 2997, 2998, 5931, 5933, 5937, 5938, 5991, 5993, 5997, 5998, 8931, 8933, 8937, 8938, 8991, 8993, 8997, 8998"
     },
     "LOTECE - CE, 19:00 (noite)": {
       "cabecalhos": [
@@ -315,20 +409,69 @@
         }
       ],
       "frases": {
+        "1937": [
+          "Dezena no sexto prêmio!<br>com o palpite 1937",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 1937"
+        ],
+        "1938": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 1938"
+        ],
+        "1991": [
+          "Dezena no quarto prêmio!<br>com o palpite 1991",
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 1991",
+          "Dezena no oitavo prêmio!<br>com o palpite 1991",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 1991"
+        ],
+        "2937": [
+          "Dezena no sexto prêmio!<br>com o palpite 2937",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 2937"
+        ],
+        "2938": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 2938"
+        ],
+        "2991": [
+          "Dezena no quarto prêmio!<br>com o palpite 2991",
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 2991",
+          "Dezena no oitavo prêmio!<br>com o palpite 2991",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 2991"
+        ],
         "5937": [
           "Dezena no sexto prêmio!<br>com o palpite 5937",
           "COELHO 🐇 no sexto prêmio!<br>com o palpite 5937"
+        ],
+        "5938": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 5938"
+        ],
+        "5991": [
+          "Dezena no quarto prêmio!<br>com o palpite 5991",
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 5991",
+          "Dezena no oitavo prêmio!<br>com o palpite 5991",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 5991"
+        ],
+        "8937": [
+          "Dezena no sexto prêmio!<br>com o palpite 8937",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 8937"
+        ],
+        "8938": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 8938"
+        ],
+        "8991": [
+          "Dezena no quarto prêmio!<br>com o palpite 8991",
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 8991",
+          "Dezena no oitavo prêmio!<br>com o palpite 8991",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 8991"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 12,
         "Grupo": [
+          "🐻",
           "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5937, 5997"
+      "resumo": "Palpites dados para esta extração: 1931, 1933, 1937, 1938, 1991, 1993, 1997, 1998, 2931, 2933, 2937, 2938, 2991, 2993, 2997, 2998, 5931, 5933, 5937, 5938, 5991, 5993, 5997, 5998, 8931, 8933, 8937, 8938, 8991, 8993, 8997, 8998"
     }
   }
 }
