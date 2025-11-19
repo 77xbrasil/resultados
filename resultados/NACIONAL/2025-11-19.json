@@ -1784,25 +1784,132 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "2441",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9426",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2524",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8384",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2797",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2928",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4453",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "4228",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1644",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8825",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "1221": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1221"
+        ],
+        "1225": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1225",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 1225",
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 1225",
+          "Dezena no décimo prêmio!<br>com o palpite 1225",
+          "CARNEIRO 🐑 no décimo prêmio!<br>com o palpite 1225"
+        ],
+        "1255": [
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 1255"
+        ],
+        "1921": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1921"
+        ],
+        "1925": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1925",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 1925",
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 1925",
+          "Dezena no décimo prêmio!<br>com o palpite 1925",
+          "CARNEIRO 🐑 no décimo prêmio!<br>com o palpite 1925"
+        ],
+        "1955": [
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 1955"
+        ],
+        "4221": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 4221"
+        ],
+        "4225": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 4225",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 4225",
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 4225",
+          "Dezena no décimo prêmio!<br>com o palpite 4225",
+          "CARNEIRO 🐑 no décimo prêmio!<br>com o palpite 4225"
+        ],
+        "4255": [
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 4255"
+        ],
+        "4921": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 4921"
+        ],
+        "4925": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 4925",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 4925",
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 4925",
+          "Dezena no décimo prêmio!<br>com o palpite 4925",
+          "CARNEIRO 🐑 no décimo prêmio!<br>com o palpite 4925"
+        ],
+        "4955": [
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 4955"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 4,
+        "Grupo": [
+          "🐑",
+          "🐐",
+          "🐈"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 1221, 1225, 1231, 1235, 1251, 1255, 1271, 1275, 1921, 1925, 1931, 1935, 1951, 1955, 1971, 1975, 4221, 4225, 4231, 4235, 4251, 4255, 4271, 4275, 4921, 4925, 4931, 4935, 4951, 4955, 4971, 4975"
     },
     "Nacional - LN 20:00 do 1º ao 10º": {
       "cabecalhos": [
