@@ -88,55 +88,64 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5791",
-          "Grupo": "23",
-          "Bicho": "Urso"
+          "Milhar": "9951",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "5864",
+          "Milhar": "2959",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4046",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1063",
           "Grupo": "16",
           "Bicho": "Leão"
         },
         {
-          "Prêmio": "3º",
-          "Milhar": "1955",
-          "Grupo": "14",
-          "Bicho": "Gato"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "2599",
-          "Grupo": "25",
-          "Bicho": "Vaca"
-        },
-        {
           "Prêmio": "5º",
-          "Milhar": "5691",
-          "Grupo": "23",
-          "Bicho": "Urso"
+          "Milhar": "1849",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "21900",
+          "Milhar": "19868",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "958",
+          "Milhar": "445",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3064": [
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 3064"
+        ],
+        "6064": [
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 6064"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦁"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0734, 1734, 6734, 8734, 9734"
+      "resumo": "Palpites dados para esta extração: 3064, 6064"
     },
     "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
@@ -280,6 +289,29 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 0734, 1734, 6734, 8734, 9734"
+    },
+    "MINAS FEDERAL - MG": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
