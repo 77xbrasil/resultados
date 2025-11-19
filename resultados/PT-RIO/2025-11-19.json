@@ -92,6 +92,93 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7171",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5035",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7809",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3968",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8505",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2488",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "105",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2506": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2506",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 2506"
+        ],
+        "2508": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2508",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 2508"
+        ],
+        "5506": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 5506",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 5506"
+        ],
+        "5508": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 5508",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 5508"
+        ],
+        "0506": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 0506",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 0506"
+        ],
+        "0508": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 0508",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 0508"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🦅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0501, 0503, 0506, 0508, 2501, 2503, 2506, 2508, 5501, 5503, 5506, 5508"
+    },
+    "PT-RIO, RJ, 14:20, PT": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
@@ -243,6 +330,114 @@
       "resumo": "Palpites dados para esta extração: 0501, 0503, 0506, 0508, 2501, 2503, 2506, 2508, 5501, 5503, 5506, 5508"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7171",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5035",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7809",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3968",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8505",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7573",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "1089",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7306",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1598",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0054",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        }
+      ],
+      "frases": {
+        "2506": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2506",
+          "Dezena no oitavo prêmio!<br>com o palpite 2506",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 2506"
+        ],
+        "2508": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2508",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 2508"
+        ],
+        "5506": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 5506",
+          "Dezena no oitavo prêmio!<br>com o palpite 5506",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 5506"
+        ],
+        "5508": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 5508",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 5508"
+        ],
+        "0506": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 0506",
+          "Dezena no oitavo prêmio!<br>com o palpite 0506",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 0506"
+        ],
+        "0508": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 0508",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 0508"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 3,
+        "Grupo": [
+          "🦅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0501, 0503, 0506, 0508, 2501, 2503, 2506, 2508, 5501, 5503, 5506, 5508"
+    },
+    "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
