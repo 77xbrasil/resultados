@@ -70,6 +70,51 @@
         }
       ],
       "frases": {
+        "1929": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1929",
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 1929"
+        ],
+        "1949": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1949",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 1949"
+        ],
+        "1959": [
+          "Dezena no décimo prêmio!<br>com o palpite 1959",
+          "JACARÉ 🐊 no décimo prêmio!<br>com o palpite 1959"
+        ],
+        "1969": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 1969",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 1969",
+          "Dezena no quinto prêmio!<br>com o palpite 1969",
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 1969",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 1969"
+        ],
+        "4929": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4929",
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 4929"
+        ],
+        "4949": [
+          "Dezena no sétimo prêmio!<br>com o palpite 4949",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 4949"
+        ],
+        "4959": [
+          "Dezena no décimo prêmio!<br>com o palpite 4959",
+          "JACARÉ 🐊 no décimo prêmio!<br>com o palpite 4959"
+        ],
+        "4969": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 4969",
+          "Dezena no quinto prêmio!<br>com o palpite 4969",
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 4969",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 4969"
+        ],
+        "5929": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5929",
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 5929"
+        ],
+        "5949": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5949",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 5949"
+        ],
         "5959": [
           "Dezena no décimo prêmio!<br>com o palpite 5959",
           "JACARÉ 🐊 no décimo prêmio!<br>com o palpite 5959"
@@ -82,15 +127,17 @@
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 2,
+        "Milhar": 1,
+        "Centena": 3,
+        "Dezena": 12,
         "Grupo": [
+          "🐪",
           "🐖",
+          "🐓",
           "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5959, 5969"
+      "resumo": "Palpites dados para esta extração: 1909, 1919, 1929, 1949, 1959, 1969, 1979, 1999, 4909, 4919, 4929, 4949, 4959, 4969, 4979, 4999, 5909, 5919, 5929, 5949, 5959, 5969, 5979, 5999"
     },
     "LOTECE - CE, 14:00 (tarde)": {
       "cabecalhos": [
@@ -162,6 +209,33 @@
         }
       ],
       "frases": {
+        "1909": [
+          "BURRO 🐴 no nono prêmio!<br>com o palpite 1909"
+        ],
+        "1929": [
+          "Dezena no décimo prêmio!<br>com o palpite 1929",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 1929"
+        ],
+        "1969": [
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 1969"
+        ],
+        "4909": [
+          "BURRO 🐴 no nono prêmio!<br>com o palpite 4909"
+        ],
+        "4929": [
+          "Dezena no décimo prêmio!<br>com o palpite 4929",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 4929"
+        ],
+        "4969": [
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 4969"
+        ],
+        "5909": [
+          "BURRO 🐴 no nono prêmio!<br>com o palpite 5909"
+        ],
+        "5929": [
+          "Dezena no décimo prêmio!<br>com o palpite 5929",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 5929"
+        ],
         "5969": [
           "PORCO 🐖 no quinto prêmio!<br>com o palpite 5969"
         ]
@@ -169,12 +243,14 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 3,
         "Grupo": [
-          "🐖"
+          "🐖",
+          "🐴",
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5959, 5969"
+      "resumo": "Palpites dados para esta extração: 1909, 1919, 1929, 1949, 1959, 1969, 1979, 1999, 4909, 4919, 4929, 4949, 4959, 4969, 4979, 4999, 5909, 5919, 5929, 5949, 5959, 5969, 5979, 5999"
     },
     "LOTECE - CE, 15:45 (tarde II)": {
       "cabecalhos": [
