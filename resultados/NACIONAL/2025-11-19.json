@@ -675,20 +675,98 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "2441",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9426",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2524",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8384",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2797",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "5572",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "688",
+          "Grupo": "",
+          "Bicho": ""
+        }
       ],
-      "frases": {},
+      "frases": {
+        "1221": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1221"
+        ],
+        "1225": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1225"
+        ],
+        "1271": [
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 1271"
+        ],
+        "1921": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1921"
+        ],
+        "1925": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1925"
+        ],
+        "1971": [
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 1971"
+        ],
+        "4221": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 4221"
+        ],
+        "4225": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 4225"
+        ],
+        "4271": [
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 4271"
+        ],
+        "4921": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 4921"
+        ],
+        "4925": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 4925"
+        ],
+        "4971": [
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 4971"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐑",
+          "🐐",
+          "🐖"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 1221, 1225, 1231, 1235, 1251, 1255, 1271, 1275, 1921, 1925, 1931, 1935, 1951, 1955, 1971, 1975, 4221, 4225, 4231, 4235, 4251, 4255, 4271, 4275, 4921, 4925, 4931, 4935, 4951, 4955, 4971, 4975"
     },
     "Nacional - LN 20:00": {
       "cabecalhos": [
