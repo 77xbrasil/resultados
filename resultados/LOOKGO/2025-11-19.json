@@ -825,20 +825,96 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "2441",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9426",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2524",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8384",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2797",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "5572",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "688",
+          "Grupo": "",
+          "Bicho": ""
+        }
       ],
-      "frases": {},
+      "frases": {
+        "2100": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 2100"
+        ],
+        "2500": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 2500"
+        ],
+        "2700": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 2700"
+        ],
+        "2900": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 2900"
+        ],
+        "3100": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 3100"
+        ],
+        "3500": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 3500"
+        ],
+        "3700": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 3700"
+        ],
+        "3900": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 3900"
+        ],
+        "6100": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 6100"
+        ],
+        "6500": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 6500"
+        ],
+        "6700": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 6700"
+        ],
+        "6900": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 6900"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐄"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 2100, 2103, 2108, 2500, 2503, 2508, 2700, 2703, 2708, 2900, 2903, 2908, 3100, 3103, 3108, 3500, 3503, 3508, 3700, 3703, 3708, 3900, 3903, 3908, 6100, 6103, 6108, 6500, 6503, 6508, 6700, 6703, 6708, 6900, 6903, 6908"
     }
   },
   "1-10": {
@@ -1882,25 +1958,114 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "2441",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9426",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2524",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8384",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2797",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2928",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4453",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "4228",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1644",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8825",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "2100": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 2100"
+        ],
+        "2500": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 2500"
+        ],
+        "2700": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 2700"
+        ],
+        "2900": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 2900"
+        ],
+        "3100": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 3100"
+        ],
+        "3500": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 3500"
+        ],
+        "3700": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 3700"
+        ],
+        "3900": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 3900"
+        ],
+        "6100": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 6100"
+        ],
+        "6500": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 6500"
+        ],
+        "6700": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 6700"
+        ],
+        "6900": [
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 6900"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐄"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 2100, 2103, 2108, 2500, 2503, 2508, 2700, 2703, 2708, 2900, 2903, 2908, 3100, 3103, 3108, 3500, 3503, 3508, 3700, 3703, 3708, 3900, 3903, 3908, 6100, 6103, 6108, 6500, 6503, 6508, 6700, 6703, 6708, 6900, 6903, 6908"
     }
   }
 }
