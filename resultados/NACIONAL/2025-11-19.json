@@ -452,6 +452,75 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 7007, 7307, 7907"
+    },
+    "Nacional - LN 23:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6288",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2364",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6818",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5406",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2129",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "3005",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "7007": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 7007",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 7007"
+        ],
+        "7307": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 7307",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 7307"
+        ],
+        "7907": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 7907",
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 7907"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🦅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 7007, 7307, 7907"
     }
   },
   "1-10": {
@@ -1100,6 +1169,96 @@
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 3,
+        "Grupo": [
+          "🦅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 7007, 7307, 7907"
+    },
+    "Nacional - LN 23:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6288",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2364",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6818",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5406",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2129",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "6265",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2384",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8610",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8486",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8750",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        }
+      ],
+      "frases": {
+        "7007": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 7007"
+        ],
+        "7307": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 7307"
+        ],
+        "7907": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 7907"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
         "Grupo": [
           "🦅"
         ]
