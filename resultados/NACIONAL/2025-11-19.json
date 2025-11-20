@@ -569,49 +569,64 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "6314",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "1116",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "9277",
-          "Grupo": "20",
-          "Bicho": "Peru"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "4559",
+          "Milhar": "7057",
           "Grupo": "15",
           "Bicho": "Jacaré"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "0348",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8902",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9207",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
           "Prêmio": "5º",
-          "Milhar": "7670",
-          "Grupo": "18",
-          "Bicho": "Porco"
+          "Milhar": "5719",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "8936",
+          "Milhar": "1233",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1235": [
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 1235"
+        ],
+        "1935": [
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 1935"
+        ],
+        "4235": [
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 4235"
+        ],
+        "4935": [
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 4935"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐍"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7402, 7432, 7502, 7532, 7802, 7832"
+      "resumo": "Palpites dados para esta extração: 1221, 1225, 1231, 1235, 1251, 1255, 1271, 1275, 1921, 1925, 1931, 1935, 1951, 1955, 1971, 1975, 4221, 4225, 4231, 4235, 4251, 4255, 4271, 4275, 4921, 4925, 4931, 4935, 4951, 4955, 4971, 4975"
     },
     "Nacional - LN 23:00": {
       "cabecalhos": [
@@ -1615,73 +1630,88 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "6314",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "1116",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "9277",
-          "Grupo": "20",
-          "Bicho": "Peru"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "4559",
+          "Milhar": "7057",
           "Grupo": "15",
           "Bicho": "Jacaré"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "0348",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8902",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9207",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
           "Prêmio": "5º",
-          "Milhar": "7670",
-          "Grupo": "18",
-          "Bicho": "Porco"
+          "Milhar": "5719",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "6194",
-          "Grupo": "24",
-          "Bicho": "Veado"
+          "Milhar": "7089",
+          "Grupo": "23",
+          "Bicho": "Urso"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "3125",
+          "Milhar": "0392",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5400",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "7827",
           "Grupo": "07",
           "Bicho": "Carneiro"
         },
         {
-          "Prêmio": "8º",
-          "Milhar": "1175",
-          "Grupo": "19",
-          "Bicho": "Pavão"
-        },
-        {
-          "Prêmio": "9º",
-          "Milhar": "4679",
-          "Grupo": "20",
-          "Bicho": "Peru"
-        },
-        {
           "Prêmio": "10º",
-          "Milhar": "4109",
-          "Grupo": "03",
-          "Bicho": "Burro"
+          "Milhar": "1941",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
         }
       ],
-      "frases": {},
+      "frases": {
+        "1225": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 1225"
+        ],
+        "1925": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 1925"
+        ],
+        "4225": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 4225"
+        ],
+        "4925": [
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 4925"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐑"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7402, 7432, 7502, 7532, 7802, 7832"
+      "resumo": "Palpites dados para esta extração: 1221, 1225, 1231, 1235, 1251, 1255, 1271, 1275, 1921, 1925, 1931, 1935, 1951, 1955, 1971, 1975, 4221, 4225, 4231, 4235, 4251, 4255, 4271, 4275, 4921, 4925, 4931, 4935, 4951, 4955, 4971, 4975"
     },
     "Nacional - LN 23:00 do 1º ao 10º": {
       "cabecalhos": [
