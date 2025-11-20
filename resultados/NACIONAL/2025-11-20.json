@@ -467,49 +467,55 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "4975",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Milhar": "4589",
+          "Grupo": "23",
+          "Bicho": "Urso"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "0822",
-          "Grupo": "06",
-          "Bicho": "Cabra"
+          "Milhar": "1035",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "3253",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "6320",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "1571",
-          "Grupo": "18",
-          "Bicho": "Porco"
+          "Milhar": "9780",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "1995",
-          "Grupo": "24",
-          "Bicho": "Veado"
+          "Milhar": "9002",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "2616",
+          "Milhar": "0726",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "5233": [
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 5233"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐍"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2280, 2284, 2286, 2288, 2380, 2384, 2386, 2388, 2480, 2484, 2486, 2488, 6280, 6284, 6286, 6288, 6380, 6384, 6386, 6388, 6480, 6484, 6486, 6488, 8280, 8284, 8286, 8288, 8380, 8384, 8386, 8388, 8480, 8484, 8486, 8488"
+      "resumo": "Palpites dados para esta extração: 5223, 5233, 5293"
     },
     "Nacional - LN 21:00": {
       "cabecalhos": [
@@ -688,6 +694,29 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 2280, 2284, 2286, 2288, 2380, 2384, 2386, 2388, 2480, 2484, 2486, 2488, 6280, 6284, 6286, 6288, 6380, 6384, 6386, 6388, 6480, 6484, 6486, 6488, 8280, 8284, 8286, 8288, 8380, 8384, 8386, 8388, 8480, 8484, 8486, 8488"
+    },
+    "Nacional - LN 20:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   },
   "1-10": {
@@ -1263,73 +1292,79 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "4975",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Milhar": "4589",
+          "Grupo": "23",
+          "Bicho": "Urso"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "0822",
-          "Grupo": "06",
-          "Bicho": "Cabra"
+          "Milhar": "1035",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "3253",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "6320",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "1571",
+          "Milhar": "9780",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9002",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4169",
           "Grupo": "18",
           "Bicho": "Porco"
         },
         {
-          "Prêmio": "5º",
-          "Milhar": "1995",
-          "Grupo": "24",
-          "Bicho": "Veado"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "4031",
-          "Grupo": "08",
-          "Bicho": "Camelo"
-        },
-        {
           "Prêmio": "7º",
-          "Milhar": "9825",
+          "Milhar": "5037",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8328",
           "Grupo": "07",
           "Bicho": "Carneiro"
         },
         {
-          "Prêmio": "8º",
-          "Milhar": "7257",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
-        },
-        {
           "Prêmio": "9º",
-          "Milhar": "5231",
-          "Grupo": "08",
-          "Bicho": "Camelo"
+          "Milhar": "9500",
+          "Grupo": "25",
+          "Bicho": "Vaca"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "8960",
+          "Milhar": "7760",
           "Grupo": "15",
           "Bicho": "Jacaré"
         }
       ],
-      "frases": {},
+      "frases": {
+        "5233": [
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 5233"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐍"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2280, 2284, 2286, 2288, 2380, 2384, 2386, 2388, 2480, 2484, 2486, 2488, 6280, 6284, 6286, 6288, 6380, 6384, 6386, 6388, 6480, 6484, 6486, 6488, 8280, 8284, 8286, 8288, 8380, 8384, 8386, 8388, 8480, 8484, 8486, 8488"
+      "resumo": "Palpites dados para esta extração: 5223, 5233, 5293"
     },
     "Nacional - LN 21:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1628,6 +1663,34 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 2280, 2284, 2286, 2288, 2380, 2384, 2386, 2388, 2480, 2484, 2486, 2488, 6280, 6284, 6286, 6288, 6380, 6384, 6386, 6388, 6480, 6484, 6486, 6488, 8280, 8284, 8286, 8288, 8380, 8384, 8386, 8388, 8480, 8484, 8486, 8488"
+    },
+    "Nacional - LN 20:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
