@@ -219,7 +219,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2212, 2213, 2214, 2232, 2233, 2234, 9212, 9213, 9214, 9232, 9233, 9234"
+      "resumo": "Palpites dados para esta extração: 2232, 2237"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -266,38 +266,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "2212": [
-          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 2212"
-        ],
-        "2233": [
-          "Dezena no quinto prêmio!<br>com o palpite 2233",
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 2233"
-        ],
-        "2234": [
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 2234"
-        ],
-        "9212": [
-          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 9212"
-        ],
-        "9233": [
-          "Dezena no quinto prêmio!<br>com o palpite 9233",
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 9233"
-        ],
-        "9234": [
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 9234"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
-        "Grupo": [
-          "🐴",
-          "🐍"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2212, 2213, 2214, 2232, 2233, 2234, 9212, 9213, 9214, 9232, 9233, 9234"
+      "resumo": "Palpites dados para esta extração: 2232, 2237"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -345,33 +321,26 @@
         }
       ],
       "frases": {
-        "2212": [
-          "Dezena no sexto prêmio!<br>com o palpite 2212",
-          "BURRO 🐴 no sexto prêmio!<br>com o palpite 2212"
-        ],
         "2232": [
           "Dezena no terceiro prêmio!<br>com o palpite 2232",
           "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 2232"
         ],
-        "9212": [
-          "Dezena no sexto prêmio!<br>com o palpite 9212",
-          "BURRO 🐴 no sexto prêmio!<br>com o palpite 9212"
-        ],
-        "9232": [
-          "Dezena no terceiro prêmio!<br>com o palpite 9232",
-          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 9232"
+        "2237": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 2237",
+          "Dezena no quarto prêmio!<br>com o palpite 2237",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 2237"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 4,
+        "Centena": 1,
+        "Dezena": 2,
         "Grupo": [
           "🐪",
-          "🐴"
+          "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2212, 2213, 2214, 2232, 2233, 2234, 9212, 9213, 9214, 9232, 9233, 9234"
+      "resumo": "Palpites dados para esta extração: 2232, 2237"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -1017,7 +986,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2212, 2213, 2214, 2232, 2233, 2234, 9212, 9213, 9214, 9232, 9233, 9234"
+      "resumo": "Palpites dados para esta extração: 2232, 2237"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1088,51 +1057,14 @@
           "Bicho": "Avestruz"
         }
       ],
-      "frases": {
-        "2212": [
-          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 2212"
-        ],
-        "2213": [
-          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 2213"
-        ],
-        "2214": [
-          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 2214"
-        ],
-        "2233": [
-          "Dezena no quinto prêmio!<br>com o palpite 2233",
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 2233"
-        ],
-        "2234": [
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 2234"
-        ],
-        "9212": [
-          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 9212"
-        ],
-        "9213": [
-          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 9213"
-        ],
-        "9214": [
-          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 9214"
-        ],
-        "9233": [
-          "Dezena no quinto prêmio!<br>com o palpite 9233",
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 9233"
-        ],
-        "9234": [
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 9234"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
-        "Grupo": [
-          "🐴",
-          "🐍",
-          "🦋"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2212, 2213, 2214, 2232, 2233, 2234, 9212, 9213, 9214, 9232, 9233, 9234"
+      "resumo": "Palpites dados para esta extração: 2232, 2237"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1204,54 +1136,26 @@
         }
       ],
       "frases": {
-        "2213": [
-          "Dezena no décimo prêmio!<br>com o palpite 2213",
-          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 2213"
-        ],
-        "2214": [
-          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 2214"
-        ],
         "2232": [
           "Dezena no terceiro prêmio!<br>com o palpite 2232",
           "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 2232"
         ],
-        "2233": [
-          "Dezena no oitavo prêmio!<br>com o palpite 2233",
-          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 2233"
-        ],
-        "2234": [
-          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 2234"
-        ],
-        "9213": [
-          "Dezena no décimo prêmio!<br>com o palpite 9213",
-          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 9213"
-        ],
-        "9214": [
-          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 9214"
-        ],
-        "9232": [
-          "Dezena no terceiro prêmio!<br>com o palpite 9232",
-          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 9232"
-        ],
-        "9233": [
-          "Dezena no oitavo prêmio!<br>com o palpite 9233",
-          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 9233"
-        ],
-        "9234": [
-          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 9234"
+        "2237": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 2237",
+          "Dezena no quarto prêmio!<br>com o palpite 2237",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 2237"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 6,
+        "Centena": 1,
+        "Dezena": 2,
         "Grupo": [
           "🐪",
-          "🐍",
-          "🦋"
+          "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2212, 2213, 2214, 2232, 2233, 2234, 9212, 9213, 9214, 9232, 9233, 9234"
+      "resumo": "Palpites dados para esta extração: 2232, 2237"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
