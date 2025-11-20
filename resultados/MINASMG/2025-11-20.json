@@ -325,14 +325,25 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1614": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1614",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 1614"
+        ],
+        "9614": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9614",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 9614"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🦋"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0619, 1619, 2619, 4619, 5619, 7619, 9619"
+      "resumo": "Palpites dados para esta extração: 1614, 1617, 1618, 1619, 9614, 9617, 9618, 9619"
     }
   }
 }
