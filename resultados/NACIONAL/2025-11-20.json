@@ -177,47 +177,113 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "0627",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
+          "Milhar": "5588",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "7011",
-          "Grupo": "03",
-          "Bicho": "Burro"
+          "Milhar": "2496",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "9992",
-          "Grupo": "23",
-          "Bicho": "Urso"
+          "Milhar": "2562",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "0143",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
+          "Milhar": "3364",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "5251",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "1618",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "3024",
+          "Milhar": "5628",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2286": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 2286"
+        ],
+        "2288": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2288",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 2288"
+        ],
+        "2386": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 2386"
+        ],
+        "2388": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2388",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 2388"
+        ],
+        "2486": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 2486"
+        ],
+        "2488": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2488",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 2488"
+        ],
+        "6286": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6286"
+        ],
+        "6288": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6288",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6288"
+        ],
+        "6386": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6386"
+        ],
+        "6388": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6388",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6388"
+        ],
+        "6486": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6486"
+        ],
+        "6488": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6488",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6488"
+        ],
+        "8286": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8286"
+        ],
+        "8288": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8288",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8288"
+        ],
+        "8386": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8386"
+        ],
+        "8388": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8388",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8388"
+        ],
+        "8486": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8486"
+        ],
+        "8488": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8488",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8488"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 9,
+        "Grupo": [
+          "🐅"
+        ]
       },
       "resumo": "Palpites dados para esta extração: 2280, 2284, 2286, 2288, 2380, 2384, 2386, 2388, 2480, 2484, 2486, 2488, 6280, 6284, 6286, 6288, 6380, 6384, 6386, 6388, 6480, 6484, 6486, 6488, 8280, 8284, 8286, 8288, 8380, 8384, 8386, 8388, 8480, 8484, 8486, 8488"
     },
@@ -976,71 +1042,137 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "0627",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
+          "Milhar": "5588",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "7011",
-          "Grupo": "03",
-          "Bicho": "Burro"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "9992",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "0143",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "5251",
-          "Grupo": "13",
-          "Bicho": "Galo"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "0790",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "6091",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
-          "Prêmio": "8º",
-          "Milhar": "2194",
+          "Milhar": "2496",
           "Grupo": "24",
           "Bicho": "Veado"
         },
         {
+          "Prêmio": "3º",
+          "Milhar": "2562",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3364",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1618",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5223",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "5453",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8966",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
           "Prêmio": "9º",
-          "Milhar": "7123",
+          "Milhar": "8624",
           "Grupo": "06",
           "Bicho": "Cabra"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "9222",
-          "Grupo": "06",
-          "Bicho": "Cabra"
+          "Milhar": "3894",
+          "Grupo": "24",
+          "Bicho": "Veado"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2286": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 2286"
+        ],
+        "2288": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2288",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 2288"
+        ],
+        "2386": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 2386"
+        ],
+        "2388": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2388",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 2388"
+        ],
+        "2486": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 2486"
+        ],
+        "2488": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2488",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 2488"
+        ],
+        "6286": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6286"
+        ],
+        "6288": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6288",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6288"
+        ],
+        "6386": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6386"
+        ],
+        "6388": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6388",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6388"
+        ],
+        "6486": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6486"
+        ],
+        "6488": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6488",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6488"
+        ],
+        "8286": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8286"
+        ],
+        "8288": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8288",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8288"
+        ],
+        "8386": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8386"
+        ],
+        "8388": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8388",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8388"
+        ],
+        "8486": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8486"
+        ],
+        "8488": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8488",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8488"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 9,
+        "Grupo": [
+          "🐅"
+        ]
       },
       "resumo": "Palpites dados para esta extração: 2280, 2284, 2286, 2288, 2380, 2384, 2386, 2388, 2480, 2484, 2486, 2488, 6280, 6284, 6286, 6288, 6380, 6384, 6386, 6388, 6480, 6484, 6486, 6488, 8280, 8284, 8286, 8288, 8380, 8384, 8386, 8388, 8480, 8484, 8486, 8488"
     },
