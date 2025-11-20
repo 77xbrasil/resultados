@@ -179,84 +179,79 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "8343",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
+          "Milhar": "5036",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "9985",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "2677",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "5255",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "5692",
+          "Grupo": "23",
+          "Bicho": "Urso"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "9387",
-          "Grupo": "22",
-          "Bicho": "Tigre"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "7795",
+          "Milhar": "4796",
           "Grupo": "24",
           "Bicho": "Veado"
         },
         {
+          "Prêmio": "5º",
+          "Milhar": "9087",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
           "Prêmio": "6º",
-          "Milhar": "4944",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
+          "Milhar": "3140",
+          "Grupo": "10",
+          "Bicho": "Coelho"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "0106",
-          "Grupo": "02",
-          "Bicho": "Águia"
+          "Milhar": "3340",
+          "Grupo": "10",
+          "Bicho": "Coelho"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "8870",
-          "Grupo": "18",
-          "Bicho": "Porco"
-        },
-        {
-          "Prêmio": "9º",
-          "Milhar": "3366",
+          "Milhar": "1267",
           "Grupo": "17",
           "Bicho": "Macaco"
         },
         {
+          "Prêmio": "9º",
+          "Milhar": "6197",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
           "Prêmio": "10º",
-          "Milhar": "5707",
-          "Grupo": "02",
-          "Bicho": "Águia"
+          "Milhar": "3474",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         }
       ],
       "frases": {
-        "1395": [
-          "Dezena no quinto prêmio!<br>com o palpite 1395",
-          "VEADO 🦌 no quinto prêmio!<br>com o palpite 1395"
-        ],
-        "6395": [
-          "Dezena no quinto prêmio!<br>com o palpite 6395",
-          "VEADO 🦌 no quinto prêmio!<br>com o palpite 6395"
+        "8190": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 8190"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 0,
         "Grupo": [
-          "🦌"
+          "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1395, 6395"
+      "resumo": "Palpites dados para esta extração: 8190"
     },
     "20h FEDERAL - BA": {
       "cabecalhos": [
@@ -422,6 +417,34 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 1395, 6395"
+    },
+    "19h - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
