@@ -1,5 +1,65 @@
 {
   "1-5": {
+    "A FEDERAL DO BRASIL": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2441",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9426",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2524",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8384",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2797",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "5572",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "688",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 7007, 7307, 7907"
+    },
     "Nacional - LN 02:00": {
       "cabecalhos": [
         "Prêmio",
@@ -392,62 +452,10 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 7007, 7307, 7907"
-    },
-    "Nacional - LN 23:00": {
-      "cabecalhos": [
-        "Prêmio",
-        "Milhar",
-        "Grupo",
-        "Bicho"
-      ],
-      "dados": [
-        {
-          "Prêmio": "1º",
-          "Milhar": "0472",
-          "Grupo": "18",
-          "Bicho": "Porco"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "7855",
-          "Grupo": "14",
-          "Bicho": "Gato"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "3208",
-          "Grupo": "02",
-          "Bicho": "Águia"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "3390",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "6462",
-          "Grupo": "16",
-          "Bicho": "Leão"
-        },
-        {
-          "Prêmio": "6º [soma]",
-          "Milhar": "1387",
-          "Grupo": "",
-          "Bicho": ""
-        }
-      ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
-      },
-      "resumo": "Palpites dados para esta extração: 7402, 7432, 7502, 7532, 7802, 7832"
-    },
-    "A FEDERAL DO BRASIL": {
+    }
+  },
+  "1-10": {
+    "A FEDERAL DO BRASIL do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -486,16 +494,34 @@
           "Bicho": "Vaca"
         },
         {
-          "Prêmio": "6º [soma]",
-          "Milhar": "5572",
-          "Grupo": "",
-          "Bicho": ""
+          "Prêmio": "6º",
+          "Milhar": "2928",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
         },
         {
-          "Prêmio": "7º [mult]",
-          "Milhar": "688",
-          "Grupo": "",
-          "Bicho": ""
+          "Prêmio": "7º",
+          "Milhar": "4453",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "4228",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1644",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8825",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
         }
       ],
       "frases": {},
@@ -507,31 +533,6 @@
       },
       "resumo": "Palpites dados para esta extração: 7007, 7307, 7907"
     },
-    "Nacional - LN 20:00": {
-      "cabecalhos": [
-        "Prêmio",
-        "Milhar",
-        "Grupo",
-        "Bicho"
-      ],
-      "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
-      },
-      "resumo": ""
-    }
-  },
-  "1-10": {
     "Nacional - LN 02:00 do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
@@ -1104,205 +1105,6 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 7007, 7307, 7907"
-    },
-    "Nacional - LN 23:00 do 1º ao 10º": {
-      "cabecalhos": [
-        "Prêmio",
-        "Milhar",
-        "Grupo",
-        "Bicho"
-      ],
-      "dados": [
-        {
-          "Prêmio": "1º",
-          "Milhar": "0472",
-          "Grupo": "18",
-          "Bicho": "Porco"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "7855",
-          "Grupo": "14",
-          "Bicho": "Gato"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "3208",
-          "Grupo": "02",
-          "Bicho": "Águia"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "3390",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "6462",
-          "Grupo": "16",
-          "Bicho": "Leão"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "0733",
-          "Grupo": "09",
-          "Bicho": "Cobra"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "4823",
-          "Grupo": "06",
-          "Bicho": "Cabra"
-        },
-        {
-          "Prêmio": "8º",
-          "Milhar": "7509",
-          "Grupo": "03",
-          "Bicho": "Burro"
-        },
-        {
-          "Prêmio": "9º",
-          "Milhar": "2580",
-          "Grupo": "20",
-          "Bicho": "Peru"
-        },
-        {
-          "Prêmio": "10º",
-          "Milhar": "7032",
-          "Grupo": "08",
-          "Bicho": "Camelo"
-        }
-      ],
-      "frases": {
-        "7432": [
-          "Dezena no décimo prêmio!<br>com o palpite 7432",
-          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 7432"
-        ],
-        "7532": [
-          "Dezena no décimo prêmio!<br>com o palpite 7532",
-          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 7532"
-        ],
-        "7832": [
-          "Dezena no décimo prêmio!<br>com o palpite 7832",
-          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 7832"
-        ]
-      },
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 3,
-        "Grupo": [
-          "🐪"
-        ]
-      },
-      "resumo": "Palpites dados para esta extração: 7402, 7432, 7502, 7532, 7802, 7832"
-    },
-    "A FEDERAL DO BRASIL do 1º ao 10º": {
-      "cabecalhos": [
-        "Prêmio",
-        "Milhar",
-        "Grupo",
-        "Bicho"
-      ],
-      "dados": [
-        {
-          "Prêmio": "1º",
-          "Milhar": "2441",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "9426",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "2524",
-          "Grupo": "06",
-          "Bicho": "Cabra"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "8384",
-          "Grupo": "21",
-          "Bicho": "Touro"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "2797",
-          "Grupo": "25",
-          "Bicho": "Vaca"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "2928",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "4453",
-          "Grupo": "14",
-          "Bicho": "Gato"
-        },
-        {
-          "Prêmio": "8º",
-          "Milhar": "4228",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
-        },
-        {
-          "Prêmio": "9º",
-          "Milhar": "1644",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
-        },
-        {
-          "Prêmio": "10º",
-          "Milhar": "8825",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
-        }
-      ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
-      },
-      "resumo": "Palpites dados para esta extração: 7007, 7307, 7907"
-    },
-    "Nacional - LN 20:00 do 1º ao 10º": {
-      "cabecalhos": [
-        "Prêmio",
-        "Milhar",
-        "Grupo",
-        "Bicho"
-      ],
-      "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
-      },
-      "resumo": ""
     }
   }
 }
