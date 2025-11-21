@@ -76,7 +76,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3535"
+      "resumo": "Palpites dados para esta extração: 2522, 2525, 2532, 2535, 2622, 2625, 2632, 2635, 3522, 3525, 3532, 3535, 3622, 3625, 3632, 3635, 6522, 6525, 6532, 6535, 6622, 6625, 6632, 6635"
     },
     "LOTEP - PB, 12:45": {
       "cabecalhos": [
@@ -147,14 +147,41 @@
           "Bicho": "Águia"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2522": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 2522",
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 2522"
+        ],
+        "2622": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 2622",
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 2622"
+        ],
+        "3522": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 3522",
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 3522"
+        ],
+        "3622": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 3622",
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 3622"
+        ],
+        "6522": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 6522",
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 6522"
+        ],
+        "6622": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 6622",
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 6622"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐐"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3535"
+      "resumo": "Palpites dados para esta extração: 2522, 2525, 2532, 2535, 2622, 2625, 2632, 2635, 3522, 3525, 3532, 3535, 3622, 3625, 3632, 3635, 6522, 6525, 6532, 6535, 6622, 6625, 6632, 6635"
     },
     "LOTEP - PB, 15:45h": {
       "cabecalhos": [
@@ -226,21 +253,83 @@
         }
       ],
       "frases": {
+        "2532": [
+          "Dezena no sexto prêmio!<br>com o palpite 2532",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 2532",
+          "Dezena no oitavo prêmio!<br>com o palpite 2532",
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 2532"
+        ],
+        "2535": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 2535",
+          "Dezena no terceiro prêmio!<br>com o palpite 2535",
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 2535"
+        ],
+        "2632": [
+          "Dezena no sexto prêmio!<br>com o palpite 2632",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 2632",
+          "Dezena no oitavo prêmio!<br>com o palpite 2632",
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 2632"
+        ],
+        "2635": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 2635",
+          "Dezena no terceiro prêmio!<br>com o palpite 2635",
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 2635"
+        ],
+        "3532": [
+          "Dezena no sexto prêmio!<br>com o palpite 3532",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 3532",
+          "Dezena no oitavo prêmio!<br>com o palpite 3532",
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 3532"
+        ],
         "3535": [
           "COBRA 🐍 no primeiro prêmio!<br>com o palpite 3535",
           "Dezena no terceiro prêmio!<br>com o palpite 3535",
           "COBRA 🐍 no terceiro prêmio!<br>com o palpite 3535"
+        ],
+        "3632": [
+          "Dezena no sexto prêmio!<br>com o palpite 3632",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 3632",
+          "Dezena no oitavo prêmio!<br>com o palpite 3632",
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 3632"
+        ],
+        "3635": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 3635",
+          "Dezena no terceiro prêmio!<br>com o palpite 3635",
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 3635"
+        ],
+        "6532": [
+          "Dezena no sexto prêmio!<br>com o palpite 6532",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 6532",
+          "Dezena no oitavo prêmio!<br>com o palpite 6532",
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 6532"
+        ],
+        "6535": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 6535",
+          "Dezena no terceiro prêmio!<br>com o palpite 6535",
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 6535"
+        ],
+        "6632": [
+          "Dezena no sexto prêmio!<br>com o palpite 6632",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 6632",
+          "Dezena no oitavo prêmio!<br>com o palpite 6632",
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 6632"
+        ],
+        "6635": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 6635",
+          "Dezena no terceiro prêmio!<br>com o palpite 6635",
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 6635"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 18,
         "Grupo": [
-          "🐍"
+          "🐍",
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3535"
+      "resumo": "Palpites dados para esta extração: 2522, 2525, 2532, 2535, 2622, 2625, 2632, 2635, 3522, 3525, 3532, 3535, 3622, 3625, 3632, 3635, 6522, 6525, 6532, 6535, 6622, 6625, 6632, 6635"
     },
     "LOTEP - PB, 18h": {
       "cabecalhos": [
@@ -311,14 +400,72 @@
           "Bicho": "Tigre"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2525": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 2525"
+        ],
+        "2532": [
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 2532",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 2532",
+          "Dezena no sexto prêmio!<br>com o palpite 2532",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 2532"
+        ],
+        "2625": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 2625"
+        ],
+        "2632": [
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 2632",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 2632",
+          "Dezena no sexto prêmio!<br>com o palpite 2632",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 2632"
+        ],
+        "3525": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 3525"
+        ],
+        "3532": [
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 3532",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 3532",
+          "Dezena no sexto prêmio!<br>com o palpite 3532",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 3532"
+        ],
+        "3625": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 3625"
+        ],
+        "3632": [
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 3632",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 3632",
+          "Dezena no sexto prêmio!<br>com o palpite 3632",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 3632"
+        ],
+        "6525": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 6525"
+        ],
+        "6532": [
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 6532",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 6532",
+          "Dezena no sexto prêmio!<br>com o palpite 6532",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 6532"
+        ],
+        "6625": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 6625"
+        ],
+        "6632": [
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 6632",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 6632",
+          "Dezena no sexto prêmio!<br>com o palpite 6632",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 6632"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 6,
+        "Grupo": [
+          "🐪",
+          "🐑"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3535"
+      "resumo": "Palpites dados para esta extração: 2522, 2525, 2532, 2535, 2622, 2625, 2632, 2635, 3522, 3525, 3532, 3535, 3622, 3625, 3632, 3635, 6522, 6525, 6532, 6535, 6622, 6625, 6632, 6635"
     },
     "PB - FEDERAL": {
       "cabecalhos": [
