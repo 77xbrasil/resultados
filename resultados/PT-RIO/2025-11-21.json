@@ -51,14 +51,26 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "9086": [
+          "Dezena no quarto prêmio!<br>com o palpite 9086",
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 9086"
+        ],
+        "9186": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 9186",
+          "Dezena no quarto prêmio!<br>com o palpite 9186",
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 9186"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🐅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3111, 3113, 3116, 3118, 3411, 3413, 3416, 3418, 9111, 9113, 9116, 9118, 9411, 9413, 9416, 9418"
+      "resumo": "Palpites dados para esta extração: 9086, 9186"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -155,40 +167,27 @@
         }
       ],
       "frases": {
-        "3113": [
-          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 3113"
+        "9086": [
+          "Dezena no quarto prêmio!<br>com o palpite 9086",
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 9086",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 9086"
         ],
-        "3116": [
-          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 3116"
-        ],
-        "3413": [
-          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 3413"
-        ],
-        "3416": [
-          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 3416"
-        ],
-        "9113": [
-          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 9113"
-        ],
-        "9116": [
-          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 9116"
-        ],
-        "9413": [
-          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 9413"
-        ],
-        "9416": [
-          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 9416"
+        "9186": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 9186",
+          "Dezena no quarto prêmio!<br>com o palpite 9186",
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 9186",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 9186"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Centena": 1,
+        "Dezena": 2,
         "Grupo": [
-          "🦋"
+          "🐅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3111, 3113, 3116, 3118, 3411, 3413, 3416, 3418, 9111, 9113, 9116, 9118, 9411, 9413, 9416, 9418"
+      "resumo": "Palpites dados para esta extração: 9086, 9186"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
