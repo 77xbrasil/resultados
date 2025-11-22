@@ -445,92 +445,61 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5391",
-          "Grupo": "23",
-          "Bicho": "Urso"
+          "Milhar": "1237",
+          "Grupo": "10",
+          "Bicho": "Coelho"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "1846",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "1488",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "3651",
+          "Milhar": "3707",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4480",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8652",
           "Grupo": "13",
           "Bicho": "Galo"
         },
         {
-          "Prêmio": "4º",
-          "Milhar": "7454",
-          "Grupo": "14",
-          "Bicho": "Gato"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "4789",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
           "Prêmio": "6º [soma]",
-          "Milhar": "3131",
+          "Milhar": "9564",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "951",
+          "Milhar": "840",
           "Grupo": "",
           "Bicho": ""
         }
       ],
       "frases": {
-        "3451": [
-          "Dezena no terceiro prêmio!<br>com o palpite 3451",
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 3451",
-          "Dezena no sétimo prêmio!<br>com o palpite 3451",
-          "GALO 🐓 no sétimo prêmio!<br>com o palpite 3451"
-        ],
-        "3454": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 3454",
-          "Dezena no quarto prêmio!<br>com o palpite 3454",
-          "GATO 🐈 no quarto prêmio!<br>com o palpite 3454"
-        ],
-        "3651": [
-          "Milhar e Centena no terceiro prêmio!<br>com o palpite 3651",
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 3651",
-          "Dezena no terceiro prêmio!<br>com o palpite 3651",
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 3651",
-          "Dezena no sétimo prêmio!<br>com o palpite 3651",
-          "GALO 🐓 no sétimo prêmio!<br>com o palpite 3651"
-        ],
-        "3654": [
-          "Dezena no quarto prêmio!<br>com o palpite 3654",
-          "GATO 🐈 no quarto prêmio!<br>com o palpite 3654"
-        ],
-        "3851": [
-          "Dezena no terceiro prêmio!<br>com o palpite 3851",
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 3851",
-          "Dezena no sétimo prêmio!<br>com o palpite 3851",
-          "GALO 🐓 no sétimo prêmio!<br>com o palpite 3851"
-        ],
-        "3854": [
-          "Dezena no quarto prêmio!<br>com o palpite 3854",
-          "GATO 🐈 no quarto prêmio!<br>com o palpite 3854"
+        "9885": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 9885"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 2,
-        "Dezena": 9,
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
         "Grupo": [
-          "🐓",
-          "🐈"
+          "🐅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3451, 3454, 3651, 3654, 3851, 3854"
+      "resumo": "Palpites dados para esta extração: 9885"
     },
     "FEDERAL": {
       "cabecalhos": [
@@ -1134,107 +1103,79 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5391",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "1846",
-          "Grupo": "12",
-          "Bicho": "Elefante"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "3651",
-          "Grupo": "13",
-          "Bicho": "Galo"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "7454",
-          "Grupo": "14",
-          "Bicho": "Gato"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "4789",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "5137",
+          "Milhar": "1237",
           "Grupo": "10",
           "Bicho": "Coelho"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "1488",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3707",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4480",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8652",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1134",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
           "Prêmio": "7º",
-          "Milhar": "3864",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "2474",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "9455",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "3808",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "1614",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
+          "Milhar": "7870",
+          "Grupo": "18",
+          "Bicho": "Porco"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "3201",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "4850",
+          "Grupo": "13",
+          "Bicho": "Galo"
         }
       ],
       "frases": {
-        "3451": [
-          "Dezena no terceiro prêmio!<br>com o palpite 3451",
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 3451"
-        ],
-        "3454": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 3454",
-          "Dezena no quarto prêmio!<br>com o palpite 3454",
-          "GATO 🐈 no quarto prêmio!<br>com o palpite 3454",
-          "GATO 🐈 no oitavo prêmio!<br>com o palpite 3454"
-        ],
-        "3651": [
-          "Milhar e Centena no terceiro prêmio!<br>com o palpite 3651",
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 3651",
-          "Dezena no terceiro prêmio!<br>com o palpite 3651",
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 3651"
-        ],
-        "3654": [
-          "Dezena no quarto prêmio!<br>com o palpite 3654",
-          "GATO 🐈 no quarto prêmio!<br>com o palpite 3654",
-          "GATO 🐈 no oitavo prêmio!<br>com o palpite 3654"
-        ],
-        "3851": [
-          "Dezena no terceiro prêmio!<br>com o palpite 3851",
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 3851"
-        ],
-        "3854": [
-          "Dezena no quarto prêmio!<br>com o palpite 3854",
-          "GATO 🐈 no quarto prêmio!<br>com o palpite 3854",
-          "GATO 🐈 no oitavo prêmio!<br>com o palpite 3854"
+        "9885": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 9885"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 2,
-        "Dezena": 6,
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
         "Grupo": [
-          "🐓",
-          "🐈"
+          "🐅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3451, 3454, 3651, 3654, 3851, 3854"
+      "resumo": "Palpites dados para esta extração: 9885"
     },
     "FEDERAL do 1º ao 10º": {
       "cabecalhos": [
