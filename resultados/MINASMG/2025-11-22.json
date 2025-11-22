@@ -90,43 +90,43 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5126",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
+          "Milhar": "2859",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "4424",
-          "Grupo": "06",
-          "Bicho": "Cabra"
+          "Milhar": "7854",
+          "Grupo": "14",
+          "Bicho": "Gato"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "9134",
+          "Milhar": "3635",
           "Grupo": "09",
           "Bicho": "Cobra"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "4427",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
+          "Milhar": "1253",
+          "Grupo": "14",
+          "Bicho": "Gato"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "3374",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Milhar": "7058",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "26485",
+          "Milhar": "22659",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "677",
+          "Milhar": "454",
           "Grupo": "",
           "Bicho": ""
         }
@@ -138,7 +138,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2951, 2953, 2955, 2957, 2959, 2961, 2963, 2965, 2967, 2969, 5951, 5953, 5955, 5957, 5959, 5961, 5963, 5965, 5967, 5969"
+      "resumo": "Palpites dados para esta extração: 3184, 3187, 5184, 5187"
     },
     "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
@@ -362,6 +362,29 @@
       "resumo": "Palpites dados para esta extração: 2951, 2953, 2955, 2957, 2959, 2961, 2963, 2965, 2967, 2969, 5951, 5953, 5955, 5957, 5959, 5961, 5963, 5965, 5967, 5969"
     },
     "Salvação - MG, 13h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    },
+    "MINAS FEDERAL - MG": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
