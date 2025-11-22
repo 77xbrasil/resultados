@@ -401,6 +401,106 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0436",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8591",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5124",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8105",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0783",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4023",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "9768",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5269",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8810",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6741",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        }
+      ],
+      "frases": {
+        "7006": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 7006"
+        ],
+        "7066": [
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 7066"
+        ],
+        "7706": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 7706"
+        ],
+        "7766": [
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 7766"
+        ],
+        "7906": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 7906"
+        ],
+        "7966": [
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 7966"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🦅",
+          "🐒"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 7006, 7026, 7066, 7076, 7706, 7726, 7766, 7776, 7906, 7926, 7966, 7976"
+    },
+    "20h FEDERAL - MALUCA - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
