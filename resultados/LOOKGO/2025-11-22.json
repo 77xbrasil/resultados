@@ -353,53 +353,74 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5168",
-          "Grupo": "17",
-          "Bicho": "Macaco"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "4161",
+          "Milhar": "8063",
           "Grupo": "16",
           "Bicho": "Leão"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "1202",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
           "Prêmio": "3º",
-          "Milhar": "9346",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "7925",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "0697",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "2435",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "9544",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
+          "Milhar": "6521",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "8916",
+          "Milhar": "6146",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "504",
+          "Milhar": "691",
           "Grupo": "",
           "Bicho": ""
         }
       ],
       "frases": {
-        "1400": [
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 1400"
+        "3045": [
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 3045"
         ],
-        "1800": [
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 1800"
+        "3445": [
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 3445"
+        ],
+        "3645": [
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 3645"
+        ],
+        "8045": [
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 8045"
+        ],
+        "8445": [
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 8445"
+        ],
+        "8645": [
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 8645"
+        ],
+        "0045": [
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 0045"
+        ],
+        "0445": [
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 0445"
+        ],
+        "0645": [
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 0645"
         ]
       },
       "acertos": {
@@ -407,10 +428,10 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐄"
+          "🐘"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1400, 1430, 1450, 1470, 1480, 1800, 1830, 1850, 1870, 1880"
+      "resumo": "Palpites dados para esta extração: 0045, 0445, 0645, 3045, 3445, 3645, 8045, 8445, 8645"
     },
     "LOOK - GOIÁS, 21h": {
       "cabecalhos": [
@@ -559,6 +580,29 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 1400, 1430, 1450, 1470, 1480, 1800, 1830, 1850, 1870, 1880"
+    },
+    "FEDERAL": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   },
   "1-10": {
@@ -1023,89 +1067,73 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5168",
-          "Grupo": "17",
-          "Bicho": "Macaco"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "4161",
+          "Milhar": "8063",
           "Grupo": "16",
           "Bicho": "Leão"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "1202",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
           "Prêmio": "3º",
-          "Milhar": "9346",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "7925",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "0697",
-          "Grupo": "25",
-          "Bicho": "Vaca"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "9544",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "5490",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "1136",
+          "Milhar": "2435",
           "Grupo": "09",
           "Bicho": "Cobra"
         },
         {
+          "Prêmio": "5º",
+          "Milhar": "6521",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "8172",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0294",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
           "Prêmio": "8º",
-          "Milhar": "6649",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "6023",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "8167",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "3255",
+          "Grupo": "14",
+          "Bicho": "Gato"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "0358",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
+          "Milhar": "3890",
+          "Grupo": "23",
+          "Bicho": "Urso"
         }
       ],
-      "frases": {
-        "1400": [
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 1400"
-        ],
-        "1450": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1450"
-        ],
-        "1800": [
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 1800"
-        ],
-        "1850": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1850"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐄",
-          "🐓"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1400, 1430, 1450, 1470, 1480, 1800, 1830, 1850, 1870, 1880"
+      "resumo": "Palpites dados para esta extração: 0045, 0445, 0645, 3045, 3445, 3645, 8045, 8445, 8645"
     },
     "LOOK - GOIÁS, 21h do 1º ao 10º": {
       "cabecalhos": [
@@ -1312,6 +1340,34 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 1400, 1430, 1450, 1470, 1480, 1800, 1830, 1850, 1870, 1880"
+    },
+    "FEDERAL do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
