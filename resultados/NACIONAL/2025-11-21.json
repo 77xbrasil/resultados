@@ -346,70 +346,49 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "8087",
-          "Grupo": "22",
-          "Bicho": "Tigre"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "4659",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "8376",
+          "Milhar": "2474",
           "Grupo": "19",
           "Bicho": "Pavão"
         },
         {
-          "Prêmio": "4º",
-          "Milhar": "1735",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Prêmio": "2º",
+          "Milhar": "3508",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
-          "Prêmio": "5º",
-          "Milhar": "7993",
+          "Prêmio": "3º",
+          "Milhar": "3093",
           "Grupo": "24",
           "Bicho": "Veado"
         },
         {
+          "Prêmio": "4º",
+          "Milhar": "3592",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6089",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
           "Prêmio": "6º [soma]",
-          "Milhar": "0850",
+          "Milhar": "8756",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {
-        "7533": [
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 7533"
-        ],
-        "7536": [
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 7536"
-        ],
-        "7586": [
-          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 7586"
-        ],
-        "7593": [
-          "Dezena no quinto prêmio!<br>com o palpite 7593",
-          "VEADO 🦌 no quinto prêmio!<br>com o palpite 7593"
-        ],
-        "7596": [
-          "VEADO 🦌 no quinto prêmio!<br>com o palpite 7596"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
-        "Grupo": [
-          "🐅",
-          "🐍",
-          "🦌"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 7531, 7533, 7536, 7581, 7583, 7586, 7591, 7593, 7596"
+      "resumo": "Palpites dados para esta extração: 1420, 1423"
     },
     "Nacional - LN 23:00": {
       "cabecalhos": [
@@ -495,6 +474,29 @@
       "resumo": "Palpites dados para esta extração: 7531, 7533, 7536, 7581, 7583, 7586, 7591, 7593, 7596"
     },
     "Nacional - LN 20:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    },
+    "A FEDERAL DO BRASIL": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -1011,102 +1013,73 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "8087",
-          "Grupo": "22",
-          "Bicho": "Tigre"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "4659",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "8376",
+          "Milhar": "2474",
           "Grupo": "19",
           "Bicho": "Pavão"
         },
         {
-          "Prêmio": "4º",
-          "Milhar": "1735",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Prêmio": "2º",
+          "Milhar": "3508",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
-          "Prêmio": "5º",
-          "Milhar": "7993",
+          "Prêmio": "3º",
+          "Milhar": "3093",
           "Grupo": "24",
           "Bicho": "Veado"
         },
         {
+          "Prêmio": "4º",
+          "Milhar": "3592",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6089",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
           "Prêmio": "6º",
-          "Milhar": "8481",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "2333",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "0637",
-          "Grupo": "10",
-          "Bicho": "Coelho"
+          "Milhar": "4505",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "8573",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Milhar": "7099",
+          "Grupo": "25",
+          "Bicho": "Vaca"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "7965",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "4832",
+          "Grupo": "08",
+          "Bicho": "Camelo"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "6506",
-          "Grupo": "02",
-          "Bicho": "Águia"
+          "Milhar": "7525",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
         }
       ],
-      "frases": {
-        "7533": [
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 7533"
-        ],
-        "7536": [
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 7536"
-        ],
-        "7581": [
-          "Dezena no sexto prêmio!<br>com o palpite 7581",
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 7581"
-        ],
-        "7583": [
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 7583"
-        ],
-        "7586": [
-          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 7586"
-        ],
-        "7593": [
-          "Dezena no quinto prêmio!<br>com o palpite 7593",
-          "VEADO 🦌 no quinto prêmio!<br>com o palpite 7593"
-        ],
-        "7596": [
-          "VEADO 🦌 no quinto prêmio!<br>com o palpite 7596"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
-        "Grupo": [
-          "🐅",
-          "🐍",
-          "🦌",
-          "🐂"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 7531, 7533, 7536, 7581, 7583, 7586, 7591, 7593, 7596"
+      "resumo": "Palpites dados para esta extração: 1420, 1423"
     },
     "Nacional - LN 23:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1215,6 +1188,34 @@
       "resumo": "Palpites dados para esta extração: 7531, 7533, 7536, 7581, 7583, 7586, 7591, 7593, 7596"
     },
     "Nacional - LN 20:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    },
+    "A FEDERAL DO BRASIL do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
