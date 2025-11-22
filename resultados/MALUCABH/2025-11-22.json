@@ -189,6 +189,142 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2699",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6819",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4800",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0237",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3818",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "6806",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4280",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3352",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6748",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8338",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        }
+      ],
+      "frases": {
+        "1137": [
+          "Dezena no quarto prêmio!<br>com o palpite 1137",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 1137",
+          "COELHO 🐇 no décimo prêmio!<br>com o palpite 1137"
+        ],
+        "1139": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 1139",
+          "COELHO 🐇 no décimo prêmio!<br>com o palpite 1139"
+        ],
+        "1197": [
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1197",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 1197"
+        ],
+        "1199": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1199",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1199",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 1199"
+        ],
+        "5137": [
+          "Dezena no quarto prêmio!<br>com o palpite 5137",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 5137",
+          "COELHO 🐇 no décimo prêmio!<br>com o palpite 5137"
+        ],
+        "5139": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 5139",
+          "COELHO 🐇 no décimo prêmio!<br>com o palpite 5139"
+        ],
+        "5197": [
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 5197",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5197"
+        ],
+        "5199": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5199",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 5199",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5199"
+        ],
+        "6137": [
+          "Dezena no quarto prêmio!<br>com o palpite 6137",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 6137",
+          "COELHO 🐇 no décimo prêmio!<br>com o palpite 6137"
+        ],
+        "6139": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 6139",
+          "COELHO 🐇 no décimo prêmio!<br>com o palpite 6139"
+        ],
+        "6197": [
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 6197",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 6197"
+        ],
+        "6199": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6199",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 6199",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 6199"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 6,
+        "Grupo": [
+          "🐄",
+          "🐇"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1134, 1137, 1139, 1154, 1157, 1159, 1194, 1197, 1199, 5134, 5137, 5139, 5154, 5157, 5159, 5194, 5197, 5199, 6134, 6137, 6139, 6154, 6157, 6159, 6194, 6197, 6199"
+    },
+    "15h - MALUCA - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
