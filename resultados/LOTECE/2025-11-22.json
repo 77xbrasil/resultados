@@ -451,6 +451,106 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6552",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3567",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9473",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1376",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3768",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3631",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4939",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6994",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4987",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "5967",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        }
+      ],
+      "frases": {
+        "1730": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 1730"
+        ],
+        "1750": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1750"
+        ],
+        "2730": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 2730"
+        ],
+        "2750": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 2750"
+        ],
+        "4730": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 4730"
+        ],
+        "4750": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 4750"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐓",
+          "🐪"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1700, 1720, 1730, 1750, 2700, 2720, 2730, 2750, 4700, 4720, 4730, 4750"
+    },
+    "A FEDERAL DO BRASIL CE - Ceará Federal": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
