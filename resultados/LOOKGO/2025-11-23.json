@@ -429,55 +429,94 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "8413",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "0678",
-          "Grupo": "20",
-          "Bicho": "Peru"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "0445",
-          "Grupo": "12",
-          "Bicho": "Elefante"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "7055",
+          "Milhar": "5554",
           "Grupo": "14",
           "Bicho": "Gato"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "9046",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5368",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3998",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
           "Prêmio": "5º",
-          "Milhar": "9136",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "8473",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "5727",
+          "Milhar": "2439",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "704",
+          "Milhar": "241",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3054": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3054",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 3054"
+        ],
+        "3254": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3254",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 3254"
+        ],
+        "3854": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3854",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 3854"
+        ],
+        "4054": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4054",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 4054"
+        ],
+        "4254": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4254",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 4254"
+        ],
+        "4854": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4854",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 4854"
+        ],
+        "8054": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8054",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 8054"
+        ],
+        "8254": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8254",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 8254"
+        ],
+        "8854": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8854",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 8854"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 9,
+        "Grupo": [
+          "🐈"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1806"
+      "resumo": "Palpites dados para esta extração: 3054, 3084, 3094, 3254, 3284, 3294, 3854, 3884, 3894, 4054, 4084, 4094, 4254, 4284, 4294, 4854, 4884, 4894, 8054, 8084, 8094, 8254, 8284, 8294, 8854, 8884, 8894"
     },
     "LOOK - GOIÁS, 18h": {
       "cabecalhos": [
@@ -1209,79 +1248,121 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "8413",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "0678",
-          "Grupo": "20",
-          "Bicho": "Peru"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "0445",
-          "Grupo": "12",
-          "Bicho": "Elefante"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "7055",
+          "Milhar": "5554",
           "Grupo": "14",
           "Bicho": "Gato"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "9046",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5368",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3998",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
           "Prêmio": "5º",
-          "Milhar": "9136",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "8473",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "8007",
-          "Grupo": "02",
-          "Bicho": "Águia"
+          "Milhar": "5953",
+          "Grupo": "14",
+          "Bicho": "Gato"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "4640",
+          "Milhar": "5039",
           "Grupo": "10",
           "Bicho": "Coelho"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "1745",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "5469",
+          "Grupo": "18",
+          "Bicho": "Porco"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "3855",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "4688",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "3974",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Milhar": "3588",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         }
       ],
       "frases": {
-        "1806": [
-          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 1806"
+        "3054": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3054",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 3054",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 3054"
+        ],
+        "3254": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3254",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 3254",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 3254"
+        ],
+        "3854": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3854",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 3854",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 3854"
+        ],
+        "4054": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4054",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 4054",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 4054"
+        ],
+        "4254": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4254",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 4254",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 4254"
+        ],
+        "4854": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4854",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 4854",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 4854"
+        ],
+        "8054": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8054",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 8054",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 8054"
+        ],
+        "8254": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8254",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 8254",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 8254"
+        ],
+        "8854": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8854",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 8854",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 8854"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 9,
         "Grupo": [
-          "🦅"
+          "🐈"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1806"
+      "resumo": "Palpites dados para esta extração: 3054, 3084, 3094, 3254, 3284, 3294, 3854, 3884, 3894, 4054, 4084, 4094, 4254, 4284, 4294, 4854, 4884, 4894, 8054, 8084, 8094, 8254, 8284, 8294, 8854, 8884, 8894"
     },
     "LOOK - GOIÁS, 18h do 1º ao 10º": {
       "cabecalhos": [
