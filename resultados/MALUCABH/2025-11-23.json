@@ -219,6 +219,140 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3258",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0005",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7141",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9807",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0998",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4822",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4104",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "9073",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "7243",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0575",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        }
+      ],
+      "frases": {
+        "3258": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 3258",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 3258",
+          "Dezena no primeiro prêmio!<br>com o palpite 3258",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 3258"
+        ],
+        "3458": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3458",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 3458"
+        ],
+        "3958": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3958",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 3958"
+        ],
+        "5258": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 5258",
+          "Dezena no primeiro prêmio!<br>com o palpite 5258",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 5258"
+        ],
+        "5458": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5458",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 5458"
+        ],
+        "5958": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5958",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 5958"
+        ],
+        "7258": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 7258",
+          "Dezena no primeiro prêmio!<br>com o palpite 7258",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 7258"
+        ],
+        "7458": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7458",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 7458"
+        ],
+        "7958": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7958",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 7958"
+        ],
+        "9258": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 9258",
+          "Dezena no primeiro prêmio!<br>com o palpite 9258",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 9258"
+        ],
+        "9458": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9458",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 9458"
+        ],
+        "9958": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9958",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 9958"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 12,
+        "Grupo": [
+          "🐊"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3254, 3256, 3258, 3454, 3456, 3458, 3954, 3956, 3958, 5254, 5256, 5258, 5454, 5456, 5458, 5954, 5956, 5958, 7254, 7256, 7258, 7454, 7456, 7458, 7954, 7956, 7958, 9254, 9256, 9258, 9454, 9456, 9458, 9954, 9956, 9958"
+    },
+    "15h - MALUCA - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
