@@ -129,14 +129,23 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "9314": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9314"
+        ],
+        "9814": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9814"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦋"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 9344, 9346, 9347, 9354, 9356, 9357"
+      "resumo": "Palpites dados para esta extração: 9314, 9344, 9814, 9844"
     },
     "SP, 10hs - PTSP": {
       "cabecalhos": [
@@ -194,23 +203,20 @@
           "Dezena no quarto prêmio!<br>com o palpite 9344",
           "CAVALO 🐎 no quarto prêmio!<br>com o palpite 9344"
         ],
-        "9354": [
-          "GATO 🐈 no segundo prêmio!<br>com o palpite 9354"
-        ],
-        "9356": [
-          "GATO 🐈 no segundo prêmio!<br>com o palpite 9356"
+        "9844": [
+          "Dezena no quarto prêmio!<br>com o palpite 9844",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 9844"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 2,
         "Grupo": [
-          "🐈",
           "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9344, 9346, 9347, 9354, 9356, 9357"
+      "resumo": "Palpites dados para esta extração: 9314, 9344, 9814, 9844"
     },
     "SP, 12:00 - PTSP": {
       "cabecalhos": [
@@ -263,20 +269,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "9357": [
-          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 9357"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐊"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 9344, 9346, 9347, 9354, 9356, 9357"
+      "resumo": "Palpites dados para esta extração: 9314, 9344, 9814, 9844"
     },
     "SP, 13hs - PTSP": {
       "cabecalhos": [
@@ -329,24 +329,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "9346": [
-          "Dezena no sétimo prêmio!<br>com o palpite 9346",
-          "ELEFANTE 🐘 no sétimo prêmio!<br>com o palpite 9346"
-        ],
-        "9347": [
-          "ELEFANTE 🐘 no sétimo prêmio!<br>com o palpite 9347"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
-        "Grupo": [
-          "🐘"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 9344, 9346, 9347, 9354, 9356, 9357"
+      "resumo": "Palpites dados para esta extração: 9314, 9344, 9814, 9844"
     },
     "SP, 17hs - PTSP": {
       "cabecalhos": [
@@ -403,24 +393,19 @@
         "9344": [
           "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 9344"
         ],
-        "9354": [
-          "Dezena no sexto prêmio!<br>com o palpite 9354",
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 9354"
-        ],
-        "9356": [
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 9356"
+        "9844": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 9844"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 0,
         "Grupo": [
-          "🐎",
-          "🐈"
+          "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9344, 9346, 9347, 9354, 9356, 9357"
+      "resumo": "Palpites dados para esta extração: 9314, 9344, 9814, 9844"
     },
     "SP, 18hs - PTSP": {
       "cabecalhos": [
@@ -474,8 +459,19 @@
         }
       ],
       "frases": {
+        "9314": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 9314",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 9314"
+        ],
         "9344": [
           "CAVALO 🐎 no primeiro prêmio!<br>com o palpite 9344"
+        ],
+        "9814": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 9814",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 9814"
+        ],
+        "9844": [
+          "CAVALO 🐎 no primeiro prêmio!<br>com o palpite 9844"
         ]
       },
       "acertos": {
@@ -483,10 +479,11 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐎"
+          "🐎",
+          "🦋"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9344, 9346, 9347, 9354, 9356, 9357"
+      "resumo": "Palpites dados para esta extração: 9314, 9344, 9814, 9844"
     },
     "SP, 19hs - PTSP": {
       "cabecalhos": [
@@ -776,23 +773,22 @@
         }
       ],
       "frases": {
-        "9354": [
-          "GATO 🐈 no nono prêmio!<br>com o palpite 9354"
+        "9314": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9314"
         ],
-        "9356": [
-          "Dezena no nono prêmio!<br>com o palpite 9356",
-          "GATO 🐈 no nono prêmio!<br>com o palpite 9356"
+        "9814": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9814"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 0,
         "Grupo": [
-          "🐈"
+          "🦋"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9344, 9346, 9347, 9354, 9356, 9357"
+      "resumo": "Palpites dados para esta extração: 9314, 9344, 9814, 9844"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -868,23 +864,20 @@
           "Dezena no quarto prêmio!<br>com o palpite 9344",
           "CAVALO 🐎 no quarto prêmio!<br>com o palpite 9344"
         ],
-        "9354": [
-          "GATO 🐈 no segundo prêmio!<br>com o palpite 9354"
-        ],
-        "9356": [
-          "GATO 🐈 no segundo prêmio!<br>com o palpite 9356"
+        "9844": [
+          "Dezena no quarto prêmio!<br>com o palpite 9844",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 9844"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 2,
         "Grupo": [
-          "🐈",
           "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9344, 9346, 9347, 9354, 9356, 9357"
+      "resumo": "Palpites dados para esta extração: 9314, 9344, 9814, 9844"
     },
     "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -955,20 +948,14 @@
           "Bicho": "Macaco"
         }
       ],
-      "frases": {
-        "9357": [
-          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 9357"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐊"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 9344, 9346, 9347, 9354, 9356, 9357"
+      "resumo": "Palpites dados para esta extração: 9314, 9344, 9814, 9844"
     },
     "SP, 13hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -1046,7 +1033,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 9344, 9346, 9347, 9354, 9356, 9357"
+      "resumo": "Palpites dados para esta extração: 9314, 9344, 9814, 9844"
     },
     "SP, 17hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -1121,30 +1108,19 @@
         "9344": [
           "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 9344"
         ],
-        "9354": [
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 9354"
-        ],
-        "9356": [
-          "Dezena no sexto prêmio!<br>com o palpite 9356",
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 9356"
-        ],
-        "9357": [
-          "Centena e Dezena no décimo prêmio!<br>com o palpite 9357",
-          "Dezena no décimo prêmio!<br>com o palpite 9357",
-          "JACARÉ 🐊 no décimo prêmio!<br>com o palpite 9357"
+        "9844": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 9844"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 2,
+        "Centena": 0,
+        "Dezena": 0,
         "Grupo": [
-          "🐎",
-          "🐈",
-          "🐊"
+          "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9344, 9346, 9347, 9354, 9356, 9357"
+      "resumo": "Palpites dados para esta extração: 9314, 9344, 9814, 9844"
     },
     "SP, 18hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -1216,14 +1192,21 @@
         }
       ],
       "frases": {
+        "9314": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 9314",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 9314",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 9314"
+        ],
         "9344": [
           "CAVALO 🐎 no primeiro prêmio!<br>com o palpite 9344"
         ],
-        "9346": [
-          "ELEFANTE 🐘 no décimo prêmio!<br>com o palpite 9346"
+        "9814": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 9814",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 9814",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 9814"
         ],
-        "9347": [
-          "ELEFANTE 🐘 no décimo prêmio!<br>com o palpite 9347"
+        "9844": [
+          "CAVALO 🐎 no primeiro prêmio!<br>com o palpite 9844"
         ]
       },
       "acertos": {
@@ -1232,10 +1215,10 @@
         "Dezena": 0,
         "Grupo": [
           "🐎",
-          "🐘"
+          "🦋"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9344, 9346, 9347, 9354, 9356, 9357"
+      "resumo": "Palpites dados para esta extração: 9314, 9344, 9814, 9844"
     },
     "SP, 19hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
