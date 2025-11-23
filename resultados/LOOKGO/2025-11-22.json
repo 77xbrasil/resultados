@@ -397,64 +397,70 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "9099",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "4825",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "8288",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "4015",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "1860",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
+          "Milhar": "0064",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "0455",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "7847",
+          "Grupo": "12",
+          "Bicho": "Elefante"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "8785",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "8335",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "8487",
+          "Milhar": "5086",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "412",
+          "Milhar": "372",
           "Grupo": "",
           "Bicho": ""
         }
       ],
       "frases": {
-        "1400": [
-          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1400"
+        "3225": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3225",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 3225"
         ],
-        "1800": [
-          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1800"
+        "6225": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6225",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 6225"
+        ],
+        "8225": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8225",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 8225"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 3,
         "Grupo": [
-          "🐄"
+          "🐑"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1400, 1430, 1450, 1470, 1480, 1800, 1830, 1850, 1870, 1880"
+      "resumo": "Palpites dados para esta extração: 3225, 6225, 8225"
     },
     "LOOK - GOIÁS, 23h": {
       "cabecalhos": [
@@ -1108,89 +1114,88 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "9099",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "4825",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "8288",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "4015",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "1860",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
+          "Milhar": "0064",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "0455",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "7847",
+          "Grupo": "12",
+          "Bicho": "Elefante"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "8785",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "8335",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "9810",
-          "Grupo": "03",
-          "Bicho": "Burro"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "0284",
-          "Grupo": "21",
-          "Bicho": "Touro"
-        },
-        {
-          "Prêmio": "8º",
-          "Milhar": "9865",
-          "Grupo": "17",
-          "Bicho": "Macaco"
-        },
-        {
-          "Prêmio": "9º",
-          "Milhar": "9805",
+          "Milhar": "4407",
           "Grupo": "02",
           "Bicho": "Águia"
         },
         {
+          "Prêmio": "7º",
+          "Milhar": "8008",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2164",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5547",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
           "Prêmio": "10º",
-          "Milhar": "8251",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "5212",
+          "Grupo": "03",
+          "Bicho": "Burro"
         }
       ],
       "frases": {
-        "1400": [
-          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1400"
+        "3225": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3225",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 3225"
         ],
-        "1450": [
-          "GALO 🐓 no décimo prêmio!<br>com o palpite 1450"
+        "6225": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6225",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 6225"
         ],
-        "1800": [
-          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1800"
-        ],
-        "1850": [
-          "GALO 🐓 no décimo prêmio!<br>com o palpite 1850"
+        "8225": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8225",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 8225"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 3,
         "Grupo": [
-          "🐄",
-          "🐓"
+          "🐑"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1400, 1430, 1450, 1470, 1480, 1800, 1830, 1850, 1870, 1880"
+      "resumo": "Palpites dados para esta extração: 3225, 6225, 8225"
     },
     "LOOK - GOIÁS, 23h do 1º ao 10º": {
       "cabecalhos": [
