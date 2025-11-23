@@ -52,22 +52,37 @@
         }
       ],
       "frases": {
-        "9262": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9262"
+        "0162": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 0162"
         ],
         "0262": [
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 0262"
+        ],
+        "0125": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 0125"
+        ],
+        "0128": [
+          "Dezena no quarto prêmio!<br>com o palpite 0128",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 0128"
+        ],
+        "0225": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 0225"
+        ],
+        "0228": [
+          "Dezena no quarto prêmio!<br>com o palpite 0228",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 0228"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 2,
         "Grupo": [
-          "🦁"
+          "🦁",
+          "🐑"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0262, 0267, 9262, 9267"
+      "resumo": "Palpites dados para esta extração: 0122, 0125, 0128, 0162, 0165, 0168, 0222, 0225, 0228, 0262, 0265, 0268"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -127,7 +142,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0262, 0267, 9262, 9267"
+      "resumo": "Palpites dados para esta extração: 0122, 0125, 0128, 0162, 0165, 0168, 0222, 0225, 0228, 0262, 0265, 0268"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -180,14 +195,39 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "0125": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 0125",
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0125"
+        ],
+        "0128": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 0128",
+          "Dezena no segundo prêmio!<br>com o palpite 0128",
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 0128",
+          "Dezena no terceiro prêmio!<br>com o palpite 0128",
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0128"
+        ],
+        "0225": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 0225",
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0225"
+        ],
+        "0228": [
+          "Dezena no segundo prêmio!<br>com o palpite 0228",
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 0228",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 0228",
+          "Dezena no terceiro prêmio!<br>com o palpite 0228",
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0228"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 2,
+        "Dezena": 4,
+        "Grupo": [
+          "🐑"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0262, 0267, 9262, 9267"
+      "resumo": "Palpites dados para esta extração: 0122, 0125, 0128, 0162, 0165, 0168, 0222, 0225, 0228, 0262, 0265, 0268"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -284,29 +324,52 @@
         }
       ],
       "frases": {
-        "9262": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9262"
-        ],
-        "9267": [
-          "MACACO 🐒 no décimo prêmio!<br>com o palpite 9267"
+        "0162": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 0162"
         ],
         "0262": [
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 0262"
         ],
-        "0267": [
-          "MACACO 🐒 no décimo prêmio!<br>com o palpite 0267"
+        "0125": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 0125"
+        ],
+        "0128": [
+          "Dezena no quarto prêmio!<br>com o palpite 0128",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 0128"
+        ],
+        "0225": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 0225"
+        ],
+        "0228": [
+          "Dezena no quarto prêmio!<br>com o palpite 0228",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 0228"
+        ],
+        "0165": [
+          "Dezena no décimo prêmio!<br>com o palpite 0165",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 0165"
+        ],
+        "0168": [
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 0168"
+        ],
+        "0265": [
+          "Dezena no décimo prêmio!<br>com o palpite 0265",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 0265"
+        ],
+        "0268": [
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 0268"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 4,
         "Grupo": [
           "🦁",
+          "🐑",
           "🐒"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0262, 0267, 9262, 9267"
+      "resumo": "Palpites dados para esta extração: 0122, 0125, 0128, 0162, 0165, 0168, 0222, 0225, 0228, 0262, 0265, 0268"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -378,24 +441,48 @@
         }
       ],
       "frases": {
-        "9267": [
-          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 9267",
-          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 9267"
+        "0165": [
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 0165",
+          "Milhar e Centena no oitavo prêmio!<br>com o palpite 0165",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 0165",
+          "Dezena no oitavo prêmio!<br>com o palpite 0165",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 0165"
         ],
-        "0267": [
-          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 0267",
-          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 0267"
+        "0168": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0168",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 0168",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 0168"
+        ],
+        "0265": [
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 0265",
+          "Dezena no oitavo prêmio!<br>com o palpite 0265",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 0265"
+        ],
+        "0268": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0268",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 0268",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 0268"
+        ],
+        "0122": [
+          "Dezena no décimo prêmio!<br>com o palpite 0122",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 0122"
+        ],
+        "0222": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 0222",
+          "Dezena no décimo prêmio!<br>com o palpite 0222",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 0222"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 6,
         "Grupo": [
-          "🐒"
+          "🐒",
+          "🐐"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0262, 0267, 9262, 9267"
+      "resumo": "Palpites dados para esta extração: 0122, 0125, 0128, 0162, 0165, 0168, 0222, 0225, 0228, 0262, 0265, 0268"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -466,14 +553,53 @@
           "Bicho": "Camelo"
         }
       ],
-      "frases": {},
+      "frases": {
+        "0125": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 0125",
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0125",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 0125",
+          "Dezena no sétimo prêmio!<br>com o palpite 0125",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 0125"
+        ],
+        "0128": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 0128",
+          "Dezena no segundo prêmio!<br>com o palpite 0128",
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 0128",
+          "Dezena no terceiro prêmio!<br>com o palpite 0128",
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0128",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 0128"
+        ],
+        "0225": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 0225",
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0225",
+          "Dezena no sétimo prêmio!<br>com o palpite 0225",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 0225"
+        ],
+        "0228": [
+          "Dezena no segundo prêmio!<br>com o palpite 0228",
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 0228",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 0228",
+          "Dezena no terceiro prêmio!<br>com o palpite 0228",
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0228",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 0228"
+        ],
+        "0122": [
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 0122"
+        ],
+        "0222": [
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 0222"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 3,
+        "Dezena": 6,
+        "Grupo": [
+          "🐑",
+          "🐐"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0262, 0267, 9262, 9267"
+      "resumo": "Palpites dados para esta extração: 0122, 0125, 0128, 0162, 0165, 0168, 0222, 0225, 0228, 0262, 0265, 0268"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
