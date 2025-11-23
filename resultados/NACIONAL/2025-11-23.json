@@ -118,7 +118,7 @@
           "🐖"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5971"
+      "resumo": "Palpites dados para esta extração: 5971, 5973, 5977"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -172,7 +172,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5971"
+      "resumo": "Palpites dados para esta extração: 5971, 5973, 5977"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -219,14 +219,20 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "5977": [
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 5977"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦃"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5971"
+      "resumo": "Palpites dados para esta extração: 5971, 5973, 5977"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -273,14 +279,20 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "5973": [
+          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 5973"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦚"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5971"
+      "resumo": "Palpites dados para esta extração: 5971, 5973, 5977"
     },
     "Nacional - LN 15:00": {
       "cabecalhos": [
@@ -327,14 +339,20 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "5977": [
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 5977"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦃"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5971"
+      "resumo": "Palpites dados para esta extração: 5971, 5973, 5977"
     },
     "Nacional - LN 17:00": {
       "cabecalhos": [
@@ -381,14 +399,25 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "5973": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5973",
+          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 5973"
+        ],
+        "5977": [
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 5977"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🦚",
+          "🦃"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5971"
+      "resumo": "Palpites dados para esta extração: 5971, 5973, 5977"
     },
     "Nacional - LN 21:00": {
       "cabecalhos": [
@@ -711,7 +740,7 @@
           "🐖"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5971"
+      "resumo": "Palpites dados para esta extração: 5971, 5973, 5977"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -789,7 +818,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5971"
+      "resumo": "Palpites dados para esta extração: 5971, 5973, 5977"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -860,14 +889,24 @@
           "Bicho": "Urso"
         }
       ],
-      "frases": {},
+      "frases": {
+        "5973": [
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 5973"
+        ],
+        "5977": [
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 5977"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦃",
+          "🦚"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5971"
+      "resumo": "Palpites dados para esta extração: 5971, 5973, 5977"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -938,14 +977,25 @@
           "Bicho": "Jacaré"
         }
       ],
-      "frases": {},
+      "frases": {
+        "5973": [
+          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 5973"
+        ],
+        "5977": [
+          "Dezena no sexto prêmio!<br>com o palpite 5977",
+          "PERU 🦃 no sexto prêmio!<br>com o palpite 5977"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🦚",
+          "🦃"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5971"
+      "resumo": "Palpites dados para esta extração: 5971, 5973, 5977"
     },
     "Nacional - LN 15:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1020,6 +1070,13 @@
         "5971": [
           "Dezena no oitavo prêmio!<br>com o palpite 5971",
           "PORCO 🐖 no oitavo prêmio!<br>com o palpite 5971"
+        ],
+        "5973": [
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 5973",
+          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 5973"
+        ],
+        "5977": [
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 5977"
         ]
       },
       "acertos": {
@@ -1027,10 +1084,12 @@
         "Centena": 0,
         "Dezena": 1,
         "Grupo": [
+          "🦃",
+          "🦚",
           "🐖"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5971"
+      "resumo": "Palpites dados para esta extração: 5971, 5973, 5977"
     },
     "Nacional - LN 17:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1101,14 +1160,27 @@
           "Bicho": "Borboleta"
         }
       ],
-      "frases": {},
+      "frases": {
+        "5973": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5973",
+          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 5973"
+        ],
+        "5977": [
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 5977",
+          "Dezena no oitavo prêmio!<br>com o palpite 5977",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 5977"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🦚",
+          "🦃"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5971"
+      "resumo": "Palpites dados para esta extração: 5971, 5973, 5977"
     },
     "Nacional - LN 21:00 do 1º ao 10º": {
       "cabecalhos": [
