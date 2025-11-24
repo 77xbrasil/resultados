@@ -438,6 +438,103 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 1461, 1761, 7461, 7761"
+    },
+    "LOTECE - CE, 11:00 (manhã)": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9083",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8861",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9067",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6044",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3440",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2401",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "5850",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "9907",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "2791",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2406",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        }
+      ],
+      "frases": {
+        "1461": [
+          "Dezena no segundo prêmio!<br>com o palpite 1461",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 1461"
+        ],
+        "1761": [
+          "Dezena no segundo prêmio!<br>com o palpite 1761",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 1761"
+        ],
+        "7461": [
+          "Dezena no segundo prêmio!<br>com o palpite 7461",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 7461"
+        ],
+        "7761": [
+          "Dezena no segundo prêmio!<br>com o palpite 7761",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 7761"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 4,
+        "Grupo": [
+          "🦁"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1461, 1761, 7461, 7761"
     }
   }
 }
