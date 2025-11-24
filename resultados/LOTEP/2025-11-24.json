@@ -193,6 +193,104 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9486",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4241",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0191",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5202",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0484",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9405",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4212",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8490",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6112",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7823",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        }
+      ],
+      "frases": {
+        "9002": [
+          "Dezena no quarto prêmio!<br>com o palpite 9002",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9002"
+        ],
+        "9102": [
+          "Dezena no quarto prêmio!<br>com o palpite 9102",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9102"
+        ],
+        "9202": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 9202",
+          "Dezena no quarto prêmio!<br>com o palpite 9202",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9202"
+        ],
+        "9702": [
+          "Dezena no quarto prêmio!<br>com o palpite 9702",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9702"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 4,
+        "Grupo": [
+          "🪶"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 9000, 9002, 9100, 9102, 9200, 9202, 9700, 9702"
+    },
+    "LOTEP - PB, 18h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
