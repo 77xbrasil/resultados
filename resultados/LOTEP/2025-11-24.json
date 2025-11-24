@@ -69,14 +69,47 @@
           "Bicho": "Urso"
         }
       ],
-      "frases": {},
+      "frases": {
+        "9192": [
+          "Dezena no nono prêmio!<br>com o palpite 9192",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 9192",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 9192"
+        ],
+        "9292": [
+          "Dezena no nono prêmio!<br>com o palpite 9292",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 9292",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 9292"
+        ],
+        "9492": [
+          "Dezena no nono prêmio!<br>com o palpite 9492",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 9492",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 9492"
+        ],
+        "0192": [
+          "Dezena no nono prêmio!<br>com o palpite 0192",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 0192",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 0192"
+        ],
+        "0292": [
+          "Dezena no nono prêmio!<br>com o palpite 0292",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 0292",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 0292"
+        ],
+        "0492": [
+          "Dezena no nono prêmio!<br>com o palpite 0492",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 0492",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 0492"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 6,
+        "Grupo": [
+          "🐻"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 9000, 9002, 9100, 9102, 9200, 9202, 9700, 9702"
+      "resumo": "Palpites dados para esta extração: 0102, 0192, 0202, 0292, 0402, 0492, 9102, 9192, 9202, 9292, 9402, 9492"
     },
     "LOTEP - PB, 12:45": {
       "cabecalhos": [
@@ -148,18 +181,15 @@
         }
       ],
       "frases": {
-        "9002": [
-          "Dezena no quarto prêmio!<br>com o palpite 9002",
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9002",
-          "Dezena no sétimo prêmio!<br>com o palpite 9002",
-          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 9002"
-        ],
         "9102": [
           "Dezena no quarto prêmio!<br>com o palpite 9102",
           "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9102",
           "Centena e Dezena no sétimo prêmio!<br>com o palpite 9102",
           "Dezena no sétimo prêmio!<br>com o palpite 9102",
           "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 9102"
+        ],
+        "9192": [
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 9192"
         ],
         "9202": [
           "Centena e Dezena no quarto prêmio!<br>com o palpite 9202",
@@ -168,22 +198,59 @@
           "Dezena no sétimo prêmio!<br>com o palpite 9202",
           "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 9202"
         ],
-        "9702": [
-          "Dezena no quarto prêmio!<br>com o palpite 9702",
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9702",
-          "Dezena no sétimo prêmio!<br>com o palpite 9702",
-          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 9702"
+        "9292": [
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 9292"
+        ],
+        "9402": [
+          "Dezena no quarto prêmio!<br>com o palpite 9402",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9402",
+          "Dezena no sétimo prêmio!<br>com o palpite 9402",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 9402"
+        ],
+        "9492": [
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 9492"
+        ],
+        "0102": [
+          "Dezena no quarto prêmio!<br>com o palpite 0102",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0102",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 0102",
+          "Dezena no sétimo prêmio!<br>com o palpite 0102",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0102"
+        ],
+        "0202": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 0202",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 0202",
+          "Dezena no quarto prêmio!<br>com o palpite 0202",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0202",
+          "Dezena no sétimo prêmio!<br>com o palpite 0202",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0202"
+        ],
+        "0402": [
+          "Dezena no quarto prêmio!<br>com o palpite 0402",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0402",
+          "Dezena no sétimo prêmio!<br>com o palpite 0402",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0402"
+        ],
+        "0192": [
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 0192"
+        ],
+        "0292": [
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 0292"
+        ],
+        "0492": [
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 0492"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 2,
-        "Dezena": 8,
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 12,
         "Grupo": [
-          "🪶"
+          "🪶",
+          "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9000, 9002, 9100, 9102, 9200, 9202, 9700, 9702"
+      "resumo": "Palpites dados para esta extração: 0102, 0192, 0202, 0292, 0402, 0492, 9102, 9192, 9202, 9292, 9402, 9492"
     },
     "LOTEP - PB, 15:45h": {
       "cabecalhos": [
@@ -255,33 +322,67 @@
         }
       ],
       "frases": {
-        "9002": [
-          "Dezena no quarto prêmio!<br>com o palpite 9002",
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9002"
-        ],
         "9102": [
           "Dezena no quarto prêmio!<br>com o palpite 9102",
           "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9102"
+        ],
+        "9192": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 9192",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 9192"
         ],
         "9202": [
           "Centena e Dezena no quarto prêmio!<br>com o palpite 9202",
           "Dezena no quarto prêmio!<br>com o palpite 9202",
           "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9202"
         ],
-        "9702": [
-          "Dezena no quarto prêmio!<br>com o palpite 9702",
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9702"
+        "9292": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 9292",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 9292"
+        ],
+        "9402": [
+          "Dezena no quarto prêmio!<br>com o palpite 9402",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9402"
+        ],
+        "9492": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 9492",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 9492"
+        ],
+        "0192": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 0192",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 0192"
+        ],
+        "0292": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 0292",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 0292"
+        ],
+        "0492": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 0492",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 0492"
+        ],
+        "0102": [
+          "Dezena no quarto prêmio!<br>com o palpite 0102",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0102"
+        ],
+        "0202": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 0202",
+          "Dezena no quarto prêmio!<br>com o palpite 0202",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0202"
+        ],
+        "0402": [
+          "Dezena no quarto prêmio!<br>com o palpite 0402",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0402"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 4,
+        "Centena": 2,
+        "Dezena": 6,
         "Grupo": [
+          "🐻",
           "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9000, 9002, 9100, 9102, 9200, 9202, 9700, 9702"
+      "resumo": "Palpites dados para esta extração: 0102, 0192, 0202, 0292, 0402, 0492, 9102, 9192, 9202, 9292, 9402, 9492"
     },
     "LOTEP - PB, 18h": {
       "cabecalhos": [
