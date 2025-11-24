@@ -228,6 +228,112 @@
         "Grupo": []
       },
       "resumo": ""
+    },
+    "ALVORADA - MG, 12h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7596",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2264",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0637",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7842",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3840",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "22179",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "197",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1539": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 1539",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 1539"
+        ],
+        "2539": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 2539",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 2539"
+        ],
+        "4539": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 4539",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 4539"
+        ],
+        "5539": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 5539",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 5539"
+        ],
+        "9539": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 9539",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 9539"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐇"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1516, 1519, 1526, 1529, 1536, 1539, 1556, 1559, 1586, 1589, 2516, 2519, 2526, 2529, 2536, 2539, 2556, 2559, 2586, 2589, 4516, 4519, 4526, 4529, 4536, 4539, 4556, 4559, 4586, 4589, 5516, 5519, 5526, 5529, 5536, 5539, 5556, 5559, 5586, 5589, 9516, 9519, 9526, 9529, 9536, 9539, 9556, 9559, 9586, 9589"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
