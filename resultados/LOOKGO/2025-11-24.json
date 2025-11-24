@@ -271,55 +271,76 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5554",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "5108",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "9046",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "7585",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "5368",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "9740",
+          "Grupo": "10",
+          "Bicho": "Coelho"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "3998",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "6107",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "8473",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Milhar": "0057",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "2439",
+          "Milhar": "8597",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "241",
+          "Milhar": "744",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1260": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 1260"
+        ],
+        "1560": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 1560"
+        ],
+        "1860": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 1860"
+        ],
+        "7260": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 7260"
+        ],
+        "7560": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 7560"
+        ],
+        "7860": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 7860"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐊"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0488, 0888, 2488, 2888, 3488, 3888"
+      "resumo": "Palpites dados para esta extração: 1260, 1263, 1264, 1560, 1563, 1564, 1860, 1863, 1864, 7260, 7263, 7264, 7560, 7563, 7564, 7860, 7863, 7864"
     },
     "LOOK - GOIÁS, 18h": {
       "cabecalhos": [
@@ -1051,112 +1072,94 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5554",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "5108",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "9046",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "7585",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "5368",
-          "Grupo": "17",
-          "Bicho": "Macaco"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "3998",
-          "Grupo": "25",
-          "Bicho": "Vaca"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "8473",
-          "Grupo": "19",
-          "Bicho": "Pavão"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "5953",
-          "Grupo": "14",
-          "Bicho": "Gato"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "5039",
+          "Milhar": "9740",
           "Grupo": "10",
           "Bicho": "Coelho"
         },
         {
-          "Prêmio": "8º",
-          "Milhar": "5469",
+          "Prêmio": "4º",
+          "Milhar": "6107",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0057",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5796",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "1571",
           "Grupo": "18",
           "Bicho": "Porco"
         },
         {
+          "Prêmio": "8º",
+          "Milhar": "0840",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
           "Prêmio": "9º",
-          "Milhar": "4688",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "8507",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "3588",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "5311",
+          "Grupo": "03",
+          "Bicho": "Burro"
         }
       ],
       "frases": {
-        "2488": [
-          "Dezena no nono prêmio!<br>com o palpite 2488",
-          "TIGRE 🐅 no nono prêmio!<br>com o palpite 2488",
-          "Dezena no décimo prêmio!<br>com o palpite 2488",
-          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 2488"
+        "1260": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 1260"
         ],
-        "2888": [
-          "Dezena no nono prêmio!<br>com o palpite 2888",
-          "TIGRE 🐅 no nono prêmio!<br>com o palpite 2888",
-          "Dezena no décimo prêmio!<br>com o palpite 2888",
-          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 2888"
+        "1560": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 1560"
         ],
-        "3488": [
-          "Dezena no nono prêmio!<br>com o palpite 3488",
-          "TIGRE 🐅 no nono prêmio!<br>com o palpite 3488",
-          "Dezena no décimo prêmio!<br>com o palpite 3488",
-          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 3488"
+        "1860": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 1860"
         ],
-        "3888": [
-          "Dezena no nono prêmio!<br>com o palpite 3888",
-          "TIGRE 🐅 no nono prêmio!<br>com o palpite 3888",
-          "Dezena no décimo prêmio!<br>com o palpite 3888",
-          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 3888"
+        "7260": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 7260"
         ],
-        "0488": [
-          "Dezena no nono prêmio!<br>com o palpite 0488",
-          "TIGRE 🐅 no nono prêmio!<br>com o palpite 0488",
-          "Dezena no décimo prêmio!<br>com o palpite 0488",
-          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 0488"
+        "7560": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 7560"
         ],
-        "0888": [
-          "Dezena no nono prêmio!<br>com o palpite 0888",
-          "TIGRE 🐅 no nono prêmio!<br>com o palpite 0888",
-          "Dezena no décimo prêmio!<br>com o palpite 0888",
-          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 0888"
+        "7860": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 7860"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 12,
+        "Dezena": 0,
         "Grupo": [
-          "🐅"
+          "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0488, 0888, 2488, 2888, 3488, 3888"
+      "resumo": "Palpites dados para esta extração: 1260, 1263, 1264, 1560, 1563, 1564, 1860, 1863, 1864, 7260, 7263, 7264, 7560, 7563, 7564, 7860, 7863, 7864"
     },
     "LOOK - GOIÁS, 18h do 1º ao 10º": {
       "cabecalhos": [
