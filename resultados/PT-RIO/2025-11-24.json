@@ -52,22 +52,36 @@
         }
       ],
       "frases": {
-        "6283": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 6283"
+        "6230": [
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 6230"
         ],
-        "6683": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 6683"
+        "6260": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6260",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 6260",
+          "Dezena no quarto prêmio!<br>com o palpite 6260",
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 6260"
+        ],
+        "6730": [
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 6730"
+        ],
+        "6760": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6760",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 6760",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 6760",
+          "Dezena no quarto prêmio!<br>com o palpite 6760",
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 6760"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Centena": 1,
+        "Dezena": 4,
         "Grupo": [
-          "🐂"
+          "🐊",
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6280, 6283, 6286, 6680, 6683, 6686"
+      "resumo": "Palpites dados para esta extração: 6200, 6220, 6230, 6240, 6250, 6260, 6280, 6700, 6720, 6730, 6740, 6750, 6760, 6780"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -163,14 +177,39 @@
           "Bicho": "Elefante"
         }
       ],
-      "frases": {},
+      "frases": {
+        "6230": [
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 6230",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 6230"
+        ],
+        "6260": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6260",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 6260",
+          "Dezena no quarto prêmio!<br>com o palpite 6260",
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 6260"
+        ],
+        "6730": [
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 6730",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 6730"
+        ],
+        "6760": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6760",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 6760",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 6760",
+          "Dezena no quarto prêmio!<br>com o palpite 6760",
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 6760"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 4,
+        "Grupo": [
+          "🐊",
+          "🐪"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 6280, 6283, 6286, 6680, 6683, 6686"
+      "resumo": "Palpites dados para esta extração: 6200, 6220, 6230, 6240, 6250, 6260, 6280, 6700, 6720, 6730, 6740, 6750, 6760, 6780"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
