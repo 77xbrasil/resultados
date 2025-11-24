@@ -69,14 +69,25 @@
           "Bicho": "Peru"
         }
       ],
-      "frases": {},
+      "frases": {
+        "5900": [
+          "Dezena no quinto prêmio!<br>com o palpite 5900",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 5900"
+        ],
+        "5990": [
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 5990"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🐻",
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2903, 2904, 2905, 2963, 2964, 2965, 2993, 2994, 2995, 8903, 8904, 8905, 8963, 8964, 8965, 8993, 8994, 8995, 9903, 9904, 9905, 9963, 9964, 9965, 9993, 9994, 9995"
+      "resumo": "Palpites dados para esta extração: 5900, 5903, 5960, 5963, 5990, 5993"
     },
     "12h - BA": {
       "cabecalhos": [
@@ -148,23 +159,14 @@
         }
       ],
       "frases": {
-        "2963": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2963"
+        "5960": [
+          "JACARÉ 🐊 no nono prêmio!<br>com o palpite 5960"
         ],
-        "2964": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2964"
+        "5963": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 5963"
         ],
-        "8963": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 8963"
-        ],
-        "8964": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 8964"
-        ],
-        "9963": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9963"
-        ],
-        "9964": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9964"
+        "5990": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 5990"
         ]
       },
       "acertos": {
@@ -172,10 +174,12 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🦁"
+          "🦁",
+          "🐻",
+          "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2903, 2904, 2905, 2963, 2964, 2965, 2993, 2994, 2995, 8903, 8904, 8905, 8963, 8964, 8965, 8993, 8994, 8995, 9903, 9904, 9905, 9963, 9964, 9965, 9993, 9994, 9995"
+      "resumo": "Palpites dados para esta extração: 5900, 5903, 5960, 5963, 5990, 5993"
     },
     "15h - BA": {
       "cabecalhos": [
@@ -247,112 +251,34 @@
         }
       ],
       "frases": {
-        "2903": [
-          "Dezena no primeiro prêmio!<br>com o palpite 2903",
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 2903"
+        "5900": [
+          "VACA 🐄 no nono prêmio!<br>com o palpite 5900"
         ],
-        "2904": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 2904"
+        "5903": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5903",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 5903"
         ],
-        "2905": [
-          "Centena e Dezena no sexto prêmio!<br>com o palpite 2905",
-          "Dezena no sexto prêmio!<br>com o palpite 2905",
-          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 2905"
+        "5963": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 5963",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 5963"
         ],
-        "2963": [
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 2963",
-          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 2963"
-        ],
-        "2964": [
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 2964",
-          "Dezena no oitavo prêmio!<br>com o palpite 2964",
-          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 2964"
-        ],
-        "2993": [
-          "Dezena no décimo prêmio!<br>com o palpite 2993",
-          "VEADO 🦌 no décimo prêmio!<br>com o palpite 2993"
-        ],
-        "2994": [
-          "VEADO 🦌 no décimo prêmio!<br>com o palpite 2994"
-        ],
-        "2995": [
-          "VEADO 🦌 no décimo prêmio!<br>com o palpite 2995"
-        ],
-        "8903": [
-          "Dezena no primeiro prêmio!<br>com o palpite 8903",
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 8903"
-        ],
-        "8904": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 8904"
-        ],
-        "8905": [
-          "Centena e Dezena no sexto prêmio!<br>com o palpite 8905",
-          "Dezena no sexto prêmio!<br>com o palpite 8905",
-          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 8905"
-        ],
-        "8963": [
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 8963",
-          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 8963"
-        ],
-        "8964": [
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 8964",
-          "Dezena no oitavo prêmio!<br>com o palpite 8964",
-          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 8964"
-        ],
-        "8993": [
-          "Dezena no décimo prêmio!<br>com o palpite 8993",
-          "VEADO 🦌 no décimo prêmio!<br>com o palpite 8993"
-        ],
-        "8994": [
-          "VEADO 🦌 no décimo prêmio!<br>com o palpite 8994"
-        ],
-        "8995": [
-          "VEADO 🦌 no décimo prêmio!<br>com o palpite 8995"
-        ],
-        "9903": [
-          "Dezena no primeiro prêmio!<br>com o palpite 9903",
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 9903"
-        ],
-        "9904": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 9904"
-        ],
-        "9905": [
-          "Centena e Dezena no sexto prêmio!<br>com o palpite 9905",
-          "Dezena no sexto prêmio!<br>com o palpite 9905",
-          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 9905"
-        ],
-        "9963": [
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 9963",
-          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 9963"
-        ],
-        "9964": [
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 9964",
-          "Dezena no oitavo prêmio!<br>com o palpite 9964",
-          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 9964"
-        ],
-        "9993": [
-          "Dezena no décimo prêmio!<br>com o palpite 9993",
-          "VEADO 🦌 no décimo prêmio!<br>com o palpite 9993"
-        ],
-        "9994": [
-          "VEADO 🦌 no décimo prêmio!<br>com o palpite 9994"
-        ],
-        "9995": [
-          "VEADO 🦌 no décimo prêmio!<br>com o palpite 9995"
+        "5993": [
+          "Dezena no décimo prêmio!<br>com o palpite 5993",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 5993"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 3,
-        "Dezena": 12,
+        "Centena": 0,
+        "Dezena": 2,
         "Grupo": [
           "🪶",
           "🦁",
-          "🦅",
+          "🐄",
           "🦌"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2903, 2904, 2905, 2963, 2964, 2965, 2993, 2994, 2995, 8903, 8904, 8905, 8963, 8964, 8965, 8993, 8994, 8995, 9903, 9904, 9905, 9963, 9964, 9965, 9993, 9994, 9995"
+      "resumo": "Palpites dados para esta extração: 5900, 5903, 5960, 5963, 5990, 5993"
     },
     "19h - BA": {
       "cabecalhos": [
@@ -424,68 +350,14 @@
         }
       ],
       "frases": {
-        "2903": [
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 2903"
+        "5900": [
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 5900"
         ],
-        "2904": [
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 2904"
+        "5903": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 5903"
         ],
-        "2905": [
-          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2905"
-        ],
-        "2965": [
-          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 2965"
-        ],
-        "2993": [
-          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 2993"
-        ],
-        "2994": [
-          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 2994"
-        ],
-        "2995": [
-          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 2995"
-        ],
-        "8903": [
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 8903"
-        ],
-        "8904": [
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 8904"
-        ],
-        "8905": [
-          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 8905"
-        ],
-        "8965": [
-          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 8965"
-        ],
-        "8993": [
-          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 8993"
-        ],
-        "8994": [
-          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 8994"
-        ],
-        "8995": [
-          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 8995"
-        ],
-        "9903": [
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9903"
-        ],
-        "9904": [
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9904"
-        ],
-        "9905": [
-          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 9905"
-        ],
-        "9965": [
-          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 9965"
-        ],
-        "9993": [
-          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 9993"
-        ],
-        "9994": [
-          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 9994"
-        ],
-        "9995": [
-          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 9995"
+        "5993": [
+          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 5993"
         ]
       },
       "acertos": {
@@ -493,13 +365,12 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐒",
           "🪶",
-          "🦅",
-          "🦌"
+          "🦌",
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2903, 2904, 2905, 2963, 2964, 2965, 2993, 2994, 2995, 8903, 8904, 8905, 8963, 8964, 8965, 8993, 8994, 8995, 9903, 9904, 9905, 9963, 9964, 9965, 9993, 9994, 9995"
+      "resumo": "Palpites dados para esta extração: 5900, 5903, 5960, 5963, 5990, 5993"
     },
     "21h - BA": {
       "cabecalhos": [
