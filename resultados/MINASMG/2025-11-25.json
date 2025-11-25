@@ -10,65 +10,53 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "7596",
-          "Grupo": "24",
-          "Bicho": "Veado"
+          "Milhar": "8080",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "2264",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "1674",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "0637",
-          "Grupo": "10",
-          "Bicho": "Coelho"
+          "Milhar": "0747",
+          "Grupo": "12",
+          "Bicho": "Elefante"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "7842",
+          "Milhar": "9445",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9344",
           "Grupo": "11",
           "Bicho": "Cavalo"
         },
         {
-          "Prêmio": "5º",
-          "Milhar": "3840",
-          "Grupo": "10",
-          "Bicho": "Coelho"
-        },
-        {
           "Prêmio": "6º [soma]",
-          "Milhar": "22179",
+          "Milhar": "29290",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "197",
+          "Milhar": "525",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {
-        "2337": [
-          "Dezena no terceiro prêmio!<br>com o palpite 2337",
-          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 2337",
-          "COELHO 🐇 no quinto prêmio!<br>com o palpite 2337"
-        ],
-        "2339": [
-          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 2339",
-          "COELHO 🐇 no quinto prêmio!<br>com o palpite 2339"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
-        "Grupo": [
-          "🐇"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
       "resumo": "Palpites dados para esta extração: 2331, 2333, 2335, 2337, 2339"
     },
