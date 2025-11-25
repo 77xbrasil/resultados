@@ -52,7 +52,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 9891"
+      "resumo": "Palpites dados para esta extração: 9001, 9051, 9061, 9091, 9101, 9151, 9161, 9191, 9501, 9551, 9561, 9591, 9801, 9851, 9861, 9891"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -99,14 +99,34 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "9051": [
+          "Dezena no quarto prêmio!<br>com o palpite 9051",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9051"
+        ],
+        "9151": [
+          "Dezena no quarto prêmio!<br>com o palpite 9151",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9151"
+        ],
+        "9551": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 9551",
+          "Dezena no quarto prêmio!<br>com o palpite 9551",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9551"
+        ],
+        "9851": [
+          "Dezena no quarto prêmio!<br>com o palpite 9851",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9851"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 4,
+        "Grupo": [
+          "🐓"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 9891"
+      "resumo": "Palpites dados para esta extração: 9001, 9051, 9061, 9091, 9101, 9151, 9161, 9191, 9501, 9551, 9561, 9591, 9801, 9851, 9861, 9891"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -545,14 +565,29 @@
           "Bicho": "Cabra"
         }
       ],
-      "frases": {},
+      "frases": {
+        "9051": [
+          "GALO 🐓 no nono prêmio!<br>com o palpite 9051"
+        ],
+        "9151": [
+          "GALO 🐓 no nono prêmio!<br>com o palpite 9151"
+        ],
+        "9551": [
+          "GALO 🐓 no nono prêmio!<br>com o palpite 9551"
+        ],
+        "9851": [
+          "GALO 🐓 no nono prêmio!<br>com o palpite 9851"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐓"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 9891"
+      "resumo": "Palpites dados para esta extração: 9001, 9051, 9061, 9091, 9101, 9151, 9161, 9191, 9501, 9551, 9561, 9591, 9801, 9851, 9861, 9891"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -623,14 +658,51 @@
           "Bicho": "Macaco"
         }
       ],
-      "frases": {},
+      "frases": {
+        "9051": [
+          "Dezena no quarto prêmio!<br>com o palpite 9051",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9051"
+        ],
+        "9061": [
+          "Dezena no nono prêmio!<br>com o palpite 9061",
+          "LEÃO 🦁 no nono prêmio!<br>com o palpite 9061"
+        ],
+        "9151": [
+          "Dezena no quarto prêmio!<br>com o palpite 9151",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9151"
+        ],
+        "9161": [
+          "Dezena no nono prêmio!<br>com o palpite 9161",
+          "LEÃO 🦁 no nono prêmio!<br>com o palpite 9161"
+        ],
+        "9551": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 9551",
+          "Dezena no quarto prêmio!<br>com o palpite 9551",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9551"
+        ],
+        "9561": [
+          "Dezena no nono prêmio!<br>com o palpite 9561",
+          "LEÃO 🦁 no nono prêmio!<br>com o palpite 9561"
+        ],
+        "9851": [
+          "Dezena no quarto prêmio!<br>com o palpite 9851",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9851"
+        ],
+        "9861": [
+          "Dezena no nono prêmio!<br>com o palpite 9861",
+          "LEÃO 🦁 no nono prêmio!<br>com o palpite 9861"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 8,
+        "Grupo": [
+          "🐓",
+          "🦁"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 9891"
+      "resumo": "Palpites dados para esta extração: 9001, 9051, 9061, 9091, 9101, 9151, 9161, 9191, 9501, 9551, 9561, 9591, 9801, 9851, 9861, 9891"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
