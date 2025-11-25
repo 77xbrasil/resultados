@@ -281,6 +281,11 @@
         }
       ],
       "frases": {
+        "2337": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2337",
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 2337",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 2337"
+        ],
         "2339": [
           "COELHO 🐇 no terceiro prêmio!<br>com o palpite 2339",
           "COELHO 🐇 no quinto prêmio!<br>com o palpite 2339"
@@ -289,12 +294,12 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 1,
         "Grupo": [
           "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2339"
+      "resumo": "Palpites dados para esta extração: 2331, 2333, 2335, 2337, 2339"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
@@ -347,14 +352,20 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2331": [
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 2331"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐪"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2339"
+      "resumo": "Palpites dados para esta extração: 2331, 2333, 2335, 2337, 2339"
     },
     "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
@@ -407,14 +418,25 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2333": [
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 2333"
+        ],
+        "2335": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 2335",
+          "Dezena no sétimo prêmio!<br>com o palpite 2335",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 2335"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 1,
+        "Grupo": [
+          "🐍"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2339"
+      "resumo": "Palpites dados para esta extração: 2331, 2333, 2335, 2337, 2339"
     },
     "PREFERIDA - MG, 21h": {
       "cabecalhos": [
@@ -467,14 +489,32 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "2331": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 2331",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 2331",
+          "Dezena no quarto prêmio!<br>com o palpite 2331",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 2331"
+        ],
+        "2333": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 2333",
+          "Dezena no segundo prêmio!<br>com o palpite 2333",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 2333"
+        ],
+        "2335": [
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 2335"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2339"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 2,
+        "Grupo": [
+          "🐍",
+          "🐪"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2331, 2333, 2335, 2337, 2339"
     }
   }
 }
