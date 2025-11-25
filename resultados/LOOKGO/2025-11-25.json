@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 7294"
+      "resumo": "Palpites dados para esta extração: 5020, 5090, 5220, 5290, 7020, 7090, 7220, 7290"
     },
     "LOOK - GOIÁS, 09h": {
       "cabecalhos": [
@@ -118,7 +118,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 7294"
+      "resumo": "Palpites dados para esta extração: 5020, 5090, 5220, 5290, 7020, 7090, 7220, 7290"
     },
     "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
@@ -667,20 +667,14 @@
           "Bicho": "Gato"
         }
       ],
-      "frases": {
-        "7294": [
-          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 7294"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🦌"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 7294"
+      "resumo": "Palpites dados para esta extração: 5020, 5090, 5220, 5290, 7020, 7090, 7220, 7290"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
       "cabecalhos": [
@@ -751,14 +745,36 @@
           "Bicho": "Elefante"
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "5090": [
+          "Dezena no oitavo prêmio!<br>com o palpite 5090",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 5090"
+        ],
+        "5290": [
+          "Milhar e Centena no oitavo prêmio!<br>com o palpite 5290",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 5290",
+          "Dezena no oitavo prêmio!<br>com o palpite 5290",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 5290"
+        ],
+        "7090": [
+          "Dezena no oitavo prêmio!<br>com o palpite 7090",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 7090"
+        ],
+        "7290": [
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 7290",
+          "Dezena no oitavo prêmio!<br>com o palpite 7290",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 7290"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7294"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 4,
+        "Grupo": [
+          "🐻"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5020, 5090, 5220, 5290, 7020, 7090, 7220, 7290"
     },
     "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
