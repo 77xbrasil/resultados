@@ -313,48 +313,48 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "4505",
+          "Milhar": "9205",
           "Grupo": "02",
           "Bicho": "Águia"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "1555",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "7085",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "4346",
-          "Grupo": "12",
-          "Bicho": "Elefante"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "3836",
-          "Grupo": "09",
-          "Bicho": "Cobra"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "5897",
+          "Milhar": "2899",
           "Grupo": "25",
           "Bicho": "Vaca"
         },
         {
+          "Prêmio": "4º",
+          "Milhar": "8710",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3915",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
           "Prêmio": "6º [soma]",
-          "Milhar": "0139",
+          "Milhar": "1814",
           "Grupo": "",
           "Bicho": ""
         }
       ],
       "frases": {
-        "3336": [
-          "Dezena no quarto prêmio!<br>com o palpite 3336",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3336"
+        "3300": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 3300"
         ],
-        "3337": [
-          "COELHO 🐇 no sexto prêmio!<br>com o palpite 3337"
+        "3305": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3305",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3305"
         ]
       },
       "acertos": {
@@ -362,11 +362,11 @@
         "Centena": 0,
         "Dezena": 1,
         "Grupo": [
-          "🐍",
-          "🐇"
+          "🦅",
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3336, 3337, 3376, 3377"
+      "resumo": "Palpites dados para esta extração: 3300, 3301, 3304, 3305"
     },
     "Nacional - LN 21:00": {
       "cabecalhos": [
@@ -492,6 +492,29 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 3336, 3337, 3376, 3377"
+    },
+    "Nacional - LN 20:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   },
   "1-10": {
@@ -945,72 +968,72 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "4505",
+          "Milhar": "9205",
           "Grupo": "02",
           "Bicho": "Águia"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "1555",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "7085",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "4346",
-          "Grupo": "12",
-          "Bicho": "Elefante"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "3836",
-          "Grupo": "09",
-          "Bicho": "Cobra"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "5897",
+          "Milhar": "2899",
           "Grupo": "25",
           "Bicho": "Vaca"
         },
         {
+          "Prêmio": "4º",
+          "Milhar": "8710",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3915",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
           "Prêmio": "6º",
-          "Milhar": "4143",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
+          "Milhar": "9728",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "5538",
-          "Grupo": "10",
-          "Bicho": "Coelho"
+          "Milhar": "2087",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "0543",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
+          "Milhar": "0891",
+          "Grupo": "23",
+          "Bicho": "Urso"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "5566",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "5590",
+          "Grupo": "23",
+          "Bicho": "Urso"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "5929",
-          "Grupo": "08",
-          "Bicho": "Camelo"
+          "Milhar": "0110",
+          "Grupo": "03",
+          "Bicho": "Burro"
         }
       ],
       "frases": {
-        "3336": [
-          "Dezena no quarto prêmio!<br>com o palpite 3336",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3336"
+        "3300": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 3300"
         ],
-        "3337": [
-          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 3337"
+        "3305": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3305",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3305"
         ]
       },
       "acertos": {
@@ -1018,11 +1041,11 @@
         "Centena": 0,
         "Dezena": 1,
         "Grupo": [
-          "🐍",
-          "🐇"
+          "🦅",
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3336, 3337, 3376, 3377"
+      "resumo": "Palpites dados para esta extração: 3300, 3301, 3304, 3305"
     },
     "Nacional - LN 21:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1203,6 +1226,34 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 3336, 3337, 3376, 3377"
+    },
+    "Nacional - LN 20:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
