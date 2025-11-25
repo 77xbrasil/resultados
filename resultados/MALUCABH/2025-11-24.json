@@ -494,25 +494,93 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "5165",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9245",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0732",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9458",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0144",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2952",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4239",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "9580",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4323",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2411",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "7030": [
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 7030"
+        ],
+        "7130": [
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 7130"
+        ],
+        "7230": [
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 7230"
+        ],
+        "7630": [
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 7630"
+        ],
+        "7930": [
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 7930"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐪"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 7030, 7035, 7090, 7095, 7130, 7135, 7190, 7195, 7230, 7235, 7290, 7295, 7630, 7635, 7690, 7695, 7930, 7935, 7990, 7995"
     }
   }
 }
