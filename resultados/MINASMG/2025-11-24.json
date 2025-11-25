@@ -280,14 +280,27 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2179": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 2179",
+          "Dezena no sexto prêmio!<br>com o palpite 2179",
+          "PERU 🦃 no sexto prêmio!<br>com o palpite 2179"
+        ],
+        "4179": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 4179",
+          "Dezena no sexto prêmio!<br>com o palpite 4179",
+          "PERU 🦃 no sexto prêmio!<br>com o palpite 4179"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 2,
+        "Dezena": 2,
+        "Grupo": [
+          "🦃"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5912, 5918"
+      "resumo": "Palpites dados para esta extração: 2179, 4179"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
@@ -340,25 +353,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "5912": [
-          "BURRO 🐴 no quinto prêmio!<br>com o palpite 5912"
-        ],
-        "5918": [
-          "Dezena no terceiro prêmio!<br>com o palpite 5918",
-          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 5918"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
-        "Grupo": [
-          "🐕",
-          "🐴"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5912, 5918"
+      "resumo": "Palpites dados para esta extração: 2179, 4179"
     },
     "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
@@ -412,19 +414,34 @@
         }
       ],
       "frases": {
-        "5918": [
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 5918"
+        "2179": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 2179",
+          "Dezena no primeiro prêmio!<br>com o palpite 2179",
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 2179",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 2179",
+          "Dezena no terceiro prêmio!<br>com o palpite 2179",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 2179",
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 2179"
+        ],
+        "4179": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 4179",
+          "Dezena no primeiro prêmio!<br>com o palpite 4179",
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 4179",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 4179",
+          "Dezena no terceiro prêmio!<br>com o palpite 4179",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 4179",
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 4179"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Centena": 4,
+        "Dezena": 4,
         "Grupo": [
-          "🐕"
+          "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5912, 5918"
+      "resumo": "Palpites dados para esta extração: 2179, 4179"
     },
     "PREFERIDA - MG, 21h": {
       "cabecalhos": [
@@ -484,7 +501,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5912, 5918"
+      "resumo": "Palpites dados para esta extração: 2179, 4179"
     }
   }
 }
