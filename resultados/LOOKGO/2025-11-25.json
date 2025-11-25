@@ -51,22 +51,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "5000": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5000",
-          "Dezena no quinto prêmio!<br>com o palpite 5000",
-          "VACA 🐄 no quinto prêmio!<br>com o palpite 5000"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
-        "Grupo": [
-          "🐄"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5000, 5020, 5090"
+      "resumo": "Palpites dados para esta extração: 2090, 2093, 2095, 5090, 5093, 5095"
     },
     "LOOK - GOIÁS, 09h": {
       "cabecalhos": [
@@ -119,23 +111,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "5000": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5000",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 5000",
-          "Dezena no quarto prêmio!<br>com o palpite 5000",
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 5000"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 1,
-        "Grupo": [
-          "🐄"
-        ]
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5000, 5020, 5090"
+      "resumo": "Palpites dados para esta extração: 2090, 2093, 2095, 5090, 5093, 5095"
     },
     "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
@@ -189,23 +172,37 @@
         }
       ],
       "frases": {
-        "5000": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5000"
+        "2090": [
+          "URSO 🐻 no sétimo prêmio!<br>com o palpite 2090"
+        ],
+        "2093": [
+          "Dezena no segundo prêmio!<br>com o palpite 2093",
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 2093"
+        ],
+        "2095": [
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 2095"
         ],
         "5090": [
           "URSO 🐻 no sétimo prêmio!<br>com o palpite 5090"
+        ],
+        "5093": [
+          "Dezena no segundo prêmio!<br>com o palpite 5093",
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 5093"
+        ],
+        "5095": [
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 5095"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 2,
         "Grupo": [
-          "🐄",
+          "🦌",
           "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5000, 5020, 5090"
+      "resumo": "Palpites dados para esta extração: 2090, 2093, 2095, 5090, 5093, 5095"
     },
     "LOOK - GOIÁS, 14h": {
       "cabecalhos": [
@@ -665,22 +662,28 @@
         }
       ],
       "frases": {
-        "5000": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5000",
-          "Dezena no quinto prêmio!<br>com o palpite 5000",
-          "VACA 🐄 no quinto prêmio!<br>com o palpite 5000",
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 5000"
+        "2093": [
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 2093"
+        ],
+        "2095": [
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 2095"
+        ],
+        "5093": [
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 5093"
+        ],
+        "5095": [
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 5095"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 0,
         "Grupo": [
-          "🐄"
+          "🦌"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5000, 5020, 5090"
+      "resumo": "Palpites dados para esta extração: 2090, 2093, 2095, 5090, 5093, 5095"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
       "cabecalhos": [
@@ -752,14 +755,9 @@
         }
       ],
       "frases": {
-        "5000": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5000",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 5000",
-          "Dezena no quarto prêmio!<br>com o palpite 5000",
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 5000",
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 5000",
-          "Dezena no sétimo prêmio!<br>com o palpite 5000",
-          "VACA 🐄 no sétimo prêmio!<br>com o palpite 5000"
+        "2090": [
+          "Dezena no oitavo prêmio!<br>com o palpite 2090",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 2090"
         ],
         "5090": [
           "Dezena no oitavo prêmio!<br>com o palpite 5090",
@@ -768,14 +766,13 @@
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 2,
-        "Dezena": 3,
+        "Centena": 0,
+        "Dezena": 2,
         "Grupo": [
-          "🐄",
           "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5000, 5020, 5090"
+      "resumo": "Palpites dados para esta extração: 2090, 2093, 2095, 5090, 5093, 5095"
     },
     "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
@@ -847,19 +844,42 @@
         }
       ],
       "frases": {
-        "5000": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5000"
+        "2093": [
+          "Dezena no segundo prêmio!<br>com o palpite 2093",
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 2093",
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 2093",
+          "Dezena no oitavo prêmio!<br>com o palpite 2093",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 2093"
+        ],
+        "2095": [
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 2095",
+          "Dezena no sexto prêmio!<br>com o palpite 2095",
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 2095",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 2095"
+        ],
+        "5093": [
+          "Dezena no segundo prêmio!<br>com o palpite 5093",
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 5093",
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 5093",
+          "Dezena no oitavo prêmio!<br>com o palpite 5093",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 5093"
+        ],
+        "5095": [
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 5095",
+          "Dezena no sexto prêmio!<br>com o palpite 5095",
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 5095",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 5095"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 6,
         "Grupo": [
-          "🐄"
+          "🦌"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5000, 5020, 5090"
+      "resumo": "Palpites dados para esta extração: 2090, 2093, 2095, 5090, 5093, 5095"
     },
     "LOOK - GOIÁS, 14h do 1º ao 10º": {
       "cabecalhos": [
