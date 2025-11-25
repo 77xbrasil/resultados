@@ -51,14 +51,49 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "4111": [
+          "BURRO 🐴 no segundo prêmio!<br>com o palpite 4111"
+        ],
+        "4167": [
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 4167"
+        ],
+        "4168": [
+          "Dezena no quarto prêmio!<br>com o palpite 4168",
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 4168"
+        ],
+        "4611": [
+          "BURRO 🐴 no segundo prêmio!<br>com o palpite 4611"
+        ],
+        "4667": [
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 4667"
+        ],
+        "4668": [
+          "Dezena no quarto prêmio!<br>com o palpite 4668",
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 4668"
+        ],
+        "4711": [
+          "BURRO 🐴 no segundo prêmio!<br>com o palpite 4711"
+        ],
+        "4767": [
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 4767"
+        ],
+        "4768": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 4768",
+          "Dezena no quarto prêmio!<br>com o palpite 4768",
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 4768"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 3,
+        "Grupo": [
+          "🐴",
+          "🐒"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1631, 1637"
+      "resumo": "Palpites dados para esta extração: 4111, 4117, 4118, 4131, 4137, 4138, 4161, 4167, 4168, 4171, 4177, 4178, 4611, 4617, 4618, 4631, 4637, 4638, 4661, 4667, 4668, 4671, 4677, 4678, 4711, 4717, 4718, 4731, 4737, 4738, 4761, 4767, 4768, 4771, 4777, 4778"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -154,14 +189,80 @@
           "Bicho": "Macaco"
         }
       ],
-      "frases": {},
+      "frases": {
+        "4111": [
+          "BURRO 🐴 no segundo prêmio!<br>com o palpite 4111"
+        ],
+        "4117": [
+          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 4117"
+        ],
+        "4118": [
+          "Dezena no nono prêmio!<br>com o palpite 4118",
+          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 4118"
+        ],
+        "4167": [
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 4167",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 4167"
+        ],
+        "4168": [
+          "Dezena no quarto prêmio!<br>com o palpite 4168",
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 4168",
+          "Dezena no décimo prêmio!<br>com o palpite 4168",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 4168"
+        ],
+        "4611": [
+          "BURRO 🐴 no segundo prêmio!<br>com o palpite 4611"
+        ],
+        "4617": [
+          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 4617"
+        ],
+        "4618": [
+          "Dezena no nono prêmio!<br>com o palpite 4618",
+          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 4618"
+        ],
+        "4667": [
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 4667",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 4667"
+        ],
+        "4668": [
+          "Dezena no quarto prêmio!<br>com o palpite 4668",
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 4668",
+          "Dezena no décimo prêmio!<br>com o palpite 4668",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 4668"
+        ],
+        "4711": [
+          "BURRO 🐴 no segundo prêmio!<br>com o palpite 4711"
+        ],
+        "4717": [
+          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 4717"
+        ],
+        "4718": [
+          "Dezena no nono prêmio!<br>com o palpite 4718",
+          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 4718"
+        ],
+        "4767": [
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 4767",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 4767"
+        ],
+        "4768": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 4768",
+          "Dezena no quarto prêmio!<br>com o palpite 4768",
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 4768",
+          "Dezena no décimo prêmio!<br>com o palpite 4768",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 4768"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 9,
+        "Grupo": [
+          "🐴",
+          "🐒",
+          "🐕"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1631, 1637"
+      "resumo": "Palpites dados para esta extração: 4111, 4117, 4118, 4131, 4137, 4138, 4161, 4167, 4168, 4171, 4177, 4178, 4611, 4617, 4618, 4631, 4637, 4638, 4661, 4667, 4668, 4671, 4677, 4678, 4711, 4717, 4718, 4731, 4737, 4738, 4761, 4767, 4768, 4771, 4777, 4778"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
