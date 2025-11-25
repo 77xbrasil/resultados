@@ -219,6 +219,66 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7768",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5758",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9339",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5537",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6250",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "4652",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "728",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1410, 1412, 1413, 1430, 1432, 1433, 1810, 1812, 1813, 1830, 1832, 1833, 6410, 6412, 6413, 6430, 6432, 6433, 6810, 6812, 6813, 6830, 6832, 6833, 7410, 7412, 7413, 7430, 7432, 7433, 7810, 7812, 7813, 7830, 7832, 7833"
+    },
+    "SP, 13hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
@@ -607,6 +667,163 @@
       "resumo": "Palpites dados para esta extração: 1410, 1412, 1413, 1430, 1432, 1433, 1810, 1812, 1813, 1830, 1832, 1833, 6410, 6412, 6413, 6430, 6432, 6433, 6810, 6812, 6813, 6830, 6832, 6833, 7410, 7412, 7413, 7430, 7432, 7433, 7810, 7812, 7813, 7830, 7832, 7833"
     },
     "SP, 12:00 - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7768",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5758",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9339",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5537",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6250",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7595",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "7735",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6533",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8897",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "5412",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        }
+      ],
+      "frases": {
+        "1410": [
+          "BURRO 🐴 no décimo prêmio!<br>com o palpite 1410"
+        ],
+        "1412": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 1412",
+          "Dezena no décimo prêmio!<br>com o palpite 1412",
+          "BURRO 🐴 no décimo prêmio!<br>com o palpite 1412"
+        ],
+        "1433": [
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 1433",
+          "Dezena no oitavo prêmio!<br>com o palpite 1433",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 1433"
+        ],
+        "1810": [
+          "BURRO 🐴 no décimo prêmio!<br>com o palpite 1810"
+        ],
+        "1812": [
+          "Dezena no décimo prêmio!<br>com o palpite 1812",
+          "BURRO 🐴 no décimo prêmio!<br>com o palpite 1812"
+        ],
+        "1833": [
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 1833",
+          "Dezena no oitavo prêmio!<br>com o palpite 1833",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 1833"
+        ],
+        "6410": [
+          "BURRO 🐴 no décimo prêmio!<br>com o palpite 6410"
+        ],
+        "6412": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 6412",
+          "Dezena no décimo prêmio!<br>com o palpite 6412",
+          "BURRO 🐴 no décimo prêmio!<br>com o palpite 6412"
+        ],
+        "6433": [
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 6433",
+          "Dezena no oitavo prêmio!<br>com o palpite 6433",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 6433"
+        ],
+        "6810": [
+          "BURRO 🐴 no décimo prêmio!<br>com o palpite 6810"
+        ],
+        "6812": [
+          "Dezena no décimo prêmio!<br>com o palpite 6812",
+          "BURRO 🐴 no décimo prêmio!<br>com o palpite 6812"
+        ],
+        "6833": [
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 6833",
+          "Dezena no oitavo prêmio!<br>com o palpite 6833",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 6833"
+        ],
+        "7410": [
+          "BURRO 🐴 no décimo prêmio!<br>com o palpite 7410"
+        ],
+        "7412": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 7412",
+          "Dezena no décimo prêmio!<br>com o palpite 7412",
+          "BURRO 🐴 no décimo prêmio!<br>com o palpite 7412"
+        ],
+        "7433": [
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 7433",
+          "Dezena no oitavo prêmio!<br>com o palpite 7433",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 7433"
+        ],
+        "7810": [
+          "BURRO 🐴 no décimo prêmio!<br>com o palpite 7810"
+        ],
+        "7812": [
+          "Dezena no décimo prêmio!<br>com o palpite 7812",
+          "BURRO 🐴 no décimo prêmio!<br>com o palpite 7812"
+        ],
+        "7833": [
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 7833",
+          "Dezena no oitavo prêmio!<br>com o palpite 7833",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 7833"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 3,
+        "Dezena": 12,
+        "Grupo": [
+          "🐍",
+          "🐴"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1410, 1412, 1413, 1430, 1432, 1433, 1810, 1812, 1813, 1830, 1832, 1833, 6410, 6412, 6413, 6430, 6432, 6433, 6810, 6812, 6813, 6830, 6832, 6833, 7410, 7412, 7413, 7430, 7432, 7433, 7810, 7812, 7813, 7830, 7832, 7833"
+    },
+    "SP, 13hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
