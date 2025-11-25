@@ -341,82 +341,49 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "9869",
-          "Grupo": "18",
-          "Bicho": "Porco"
+          "Milhar": "4295",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "9198",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "2173",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "7953",
-          "Grupo": "14",
-          "Bicho": "Gato"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "7315",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "5138",
+          "Milhar": "2838",
           "Grupo": "10",
           "Bicho": "Coelho"
         },
         {
+          "Prêmio": "4º",
+          "Milhar": "7875",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2991",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
           "Prêmio": "6º [soma]",
-          "Milhar": "9473",
+          "Milhar": "0172",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {
-        "8213": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 8213"
-        ],
-        "8313": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 8313"
-        ],
-        "8513": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 8513"
-        ],
-        "8813": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 8813"
-        ],
-        "8913": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 8913"
-        ],
-        "9213": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9213"
-        ],
-        "9313": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9313"
-        ],
-        "9513": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9513"
-        ],
-        "9813": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9813"
-        ],
-        "9913": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9913"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🦋"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8213, 8313, 8513, 8813, 8913, 9213, 9313, 9513, 9813, 9913"
+      "resumo": "Palpites dados para esta extração: 5546"
     },
     "Nacional - LN 23:00": {
       "cabecalhos": [
@@ -988,106 +955,73 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "9869",
-          "Grupo": "18",
-          "Bicho": "Porco"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "9198",
-          "Grupo": "25",
-          "Bicho": "Vaca"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "7953",
-          "Grupo": "14",
-          "Bicho": "Gato"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "7315",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "5138",
-          "Grupo": "10",
-          "Bicho": "Coelho"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "9977",
-          "Grupo": "20",
-          "Bicho": "Peru"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "8193",
+          "Milhar": "4295",
           "Grupo": "24",
           "Bicho": "Veado"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "2173",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2838",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7875",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2991",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4227",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2188",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
           "Prêmio": "8º",
-          "Milhar": "6951",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "9737",
+          "Grupo": "10",
+          "Bicho": "Coelho"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "9835",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "5385",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "4429",
-          "Grupo": "08",
-          "Bicho": "Camelo"
+          "Milhar": "1709",
+          "Grupo": "03",
+          "Bicho": "Burro"
         }
       ],
-      "frases": {
-        "8213": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 8213"
-        ],
-        "8313": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 8313"
-        ],
-        "8513": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 8513"
-        ],
-        "8813": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 8813"
-        ],
-        "8913": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 8913"
-        ],
-        "9213": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9213"
-        ],
-        "9313": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9313"
-        ],
-        "9513": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9513"
-        ],
-        "9813": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9813"
-        ],
-        "9913": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9913"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🦋"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8213, 8313, 8513, 8813, 8913, 9213, 9313, 9513, 9813, 9913"
+      "resumo": "Palpites dados para esta extração: 5546"
     },
     "Nacional - LN 23:00 do 1º ao 10º": {
       "cabecalhos": [
