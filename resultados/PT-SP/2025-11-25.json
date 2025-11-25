@@ -86,6 +86,96 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7611",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5824",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4139",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2023",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6736",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "6333",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "326",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "3921": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 3921",
+          "CABRA 🐐 no quarto prêmio!<br>com o palpite 3921"
+        ],
+        "3923": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 3923",
+          "Dezena no quarto prêmio!<br>com o palpite 3923",
+          "CABRA 🐐 no quarto prêmio!<br>com o palpite 3923"
+        ],
+        "3928": [
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 3928"
+        ],
+        "3933": [
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 3933",
+          "Dezena no sexto prêmio!<br>com o palpite 3933",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 3933"
+        ],
+        "3938": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 3938"
+        ],
+        "3939": [
+          "Dezena no terceiro prêmio!<br>com o palpite 3939",
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 3939"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 3,
+        "Grupo": [
+          "🐐",
+          "🐇",
+          "🐍",
+          "🐑"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3921, 3923, 3928, 3929, 3931, 3933, 3938, 3939"
+    },
+    "SP, 12:00 - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
@@ -220,6 +310,115 @@
       "resumo": "Palpites dados para esta extração: 3921, 3923, 3928, 3929, 3931, 3933, 3938, 3939"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7611",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5824",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4139",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2023",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6736",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7542",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6810",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1232",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1493",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "3410",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        }
+      ],
+      "frases": {
+        "3921": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 3921",
+          "CABRA 🐐 no quarto prêmio!<br>com o palpite 3921"
+        ],
+        "3923": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 3923",
+          "Dezena no quarto prêmio!<br>com o palpite 3923",
+          "CABRA 🐐 no quarto prêmio!<br>com o palpite 3923"
+        ],
+        "3929": [
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 3929"
+        ],
+        "3931": [
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 3931"
+        ],
+        "3933": [
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 3933"
+        ],
+        "3938": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 3938"
+        ],
+        "3939": [
+          "Dezena no terceiro prêmio!<br>com o palpite 3939",
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 3939"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐐",
+          "🐇",
+          "🐍",
+          "🐪"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3921, 3923, 3928, 3929, 3931, 3933, 3938, 3939"
+    },
+    "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
