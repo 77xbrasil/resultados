@@ -51,14 +51,23 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1176": [
+          "PAVÃO 🦚 no segundo prêmio!<br>com o palpite 1176"
+        ],
+        "2176": [
+          "PAVÃO 🦚 no segundo prêmio!<br>com o palpite 2176"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦚"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1112, 1172, 2112, 2172"
+      "resumo": "Palpites dados para esta extração: 1112, 1116, 1172, 1176, 2112, 2116, 2172, 2176"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
@@ -116,17 +125,29 @@
           "Dezena no quinto prêmio!<br>com o palpite 1112",
           "BURRO 🐴 no quinto prêmio!<br>com o palpite 1112"
         ],
+        "1116": [
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 1116"
+        ],
         "1172": [
           "Dezena no primeiro prêmio!<br>com o palpite 1172",
           "PORCO 🐖 no primeiro prêmio!<br>com o palpite 1172"
+        ],
+        "1176": [
+          "PAVÃO 🦚 no segundo prêmio!<br>com o palpite 1176"
         ],
         "2112": [
           "Dezena no quinto prêmio!<br>com o palpite 2112",
           "BURRO 🐴 no quinto prêmio!<br>com o palpite 2112"
         ],
+        "2116": [
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 2116"
+        ],
         "2172": [
           "Dezena no primeiro prêmio!<br>com o palpite 2172",
           "PORCO 🐖 no primeiro prêmio!<br>com o palpite 2172"
+        ],
+        "2176": [
+          "PAVÃO 🦚 no segundo prêmio!<br>com o palpite 2176"
         ]
       },
       "acertos": {
@@ -135,10 +156,12 @@
         "Dezena": 4,
         "Grupo": [
           "🐖",
+          "🦚",
+          "🦋",
           "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1112, 1172, 2112, 2172"
+      "resumo": "Palpites dados para esta extração: 1112, 1116, 1172, 1176, 2112, 2116, 2172, 2176"
     },
     "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
@@ -192,8 +215,16 @@
         }
       ],
       "frases": {
+        "1116": [
+          "Dezena no segundo prêmio!<br>com o palpite 1116",
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 1116"
+        ],
         "1172": [
           "PORCO 🐖 no terceiro prêmio!<br>com o palpite 1172"
+        ],
+        "2116": [
+          "Dezena no segundo prêmio!<br>com o palpite 2116",
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 2116"
         ],
         "2172": [
           "PORCO 🐖 no terceiro prêmio!<br>com o palpite 2172"
@@ -202,12 +233,13 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 2,
         "Grupo": [
+          "🦋",
           "🐖"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1112, 1172, 2112, 2172"
+      "resumo": "Palpites dados para esta extração: 1112, 1116, 1172, 1176, 2112, 2116, 2172, 2176"
     },
     "PREFERIDA - MG, 21h": {
       "cabecalhos": [
