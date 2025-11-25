@@ -478,25 +478,97 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "9095",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4721",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5346",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8255",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4410",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4942",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3529",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2835",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3092",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1142",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "5190": [
+          "URSO 🐻 no nono prêmio!<br>com o palpite 5190"
+        ],
+        "5193": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 5193"
+        ],
+        "5790": [
+          "URSO 🐻 no nono prêmio!<br>com o palpite 5790"
+        ],
+        "5793": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 5793"
+        ],
+        "5990": [
+          "URSO 🐻 no nono prêmio!<br>com o palpite 5990"
+        ],
+        "5993": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 5993"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦌",
+          "🐻"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 5100, 5103, 5107, 5190, 5193, 5197, 5700, 5703, 5707, 5790, 5793, 5797, 5900, 5903, 5907, 5990, 5993, 5997"
     }
   }
 }
