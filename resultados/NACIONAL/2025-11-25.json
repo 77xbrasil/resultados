@@ -647,60 +647,116 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "4295",
-          "Grupo": "24",
-          "Bicho": "Veado"
+          "Milhar": "7160",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "2173",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Milhar": "5202",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "2838",
+          "Milhar": "7840",
           "Grupo": "10",
           "Bicho": "Coelho"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "7875",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Milhar": "4701",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "2991",
+          "Milhar": "6990",
           "Grupo": "23",
           "Bicho": "Urso"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "0172",
+          "Milhar": "1893",
           "Grupo": "",
           "Bicho": ""
         }
       ],
       "frases": {
-        "3337": [
-          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 3337"
+        "2090": [
+          "Dezena no quinto prêmio!<br>com o palpite 2090",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 2090"
         ],
-        "3376": [
-          "PAVÃO 🦚 no segundo prêmio!<br>com o palpite 3376",
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 3376"
+        "2095": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 2095"
+        ],
+        "2790": [
+          "Dezena no quinto prêmio!<br>com o palpite 2790",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 2790"
+        ],
+        "2795": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 2795"
+        ],
+        "2890": [
+          "Dezena no quinto prêmio!<br>com o palpite 2890",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 2890"
+        ],
+        "2895": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 2895"
+        ],
+        "9090": [
+          "Dezena no quinto prêmio!<br>com o palpite 9090",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 9090"
+        ],
+        "9095": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 9095"
+        ],
+        "9790": [
+          "Dezena no quinto prêmio!<br>com o palpite 9790",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 9790"
+        ],
+        "9795": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 9795"
+        ],
+        "9890": [
+          "Dezena no quinto prêmio!<br>com o palpite 9890",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 9890"
+        ],
+        "9895": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 9895"
+        ],
+        "0090": [
+          "Dezena no quinto prêmio!<br>com o palpite 0090",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 0090"
+        ],
+        "0790": [
+          "Dezena no quinto prêmio!<br>com o palpite 0790",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 0790"
+        ],
+        "0890": [
+          "Dezena no quinto prêmio!<br>com o palpite 0890",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 0890"
+        ],
+        "0095": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 0095"
+        ],
+        "0795": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 0795"
+        ],
+        "0895": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 0895"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 9,
         "Grupo": [
-          "🦚",
-          "🐇"
+          "🐻",
+          "🦌"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3336, 3337, 3376, 3377"
+      "resumo": "Palpites dados para esta extração: 0010, 0015, 0090, 0095, 0710, 0715, 0790, 0795, 0810, 0815, 0890, 0895, 2010, 2015, 2090, 2095, 2710, 2715, 2790, 2795, 2810, 2815, 2890, 2895, 9010, 9015, 9090, 9095, 9710, 9715, 9790, 9795, 9810, 9815, 9890, 9895"
     },
     "Nacional - LN 23:00": {
       "cabecalhos": [
@@ -1691,86 +1747,149 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "4295",
-          "Grupo": "24",
-          "Bicho": "Veado"
+          "Milhar": "7160",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "2173",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Milhar": "5202",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "2838",
+          "Milhar": "7840",
           "Grupo": "10",
           "Bicho": "Coelho"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "7875",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Milhar": "4701",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "2991",
+          "Milhar": "6990",
           "Grupo": "23",
           "Bicho": "Urso"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "4227",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
+          "Milhar": "7574",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "2188",
+          "Milhar": "1287",
           "Grupo": "22",
           "Bicho": "Tigre"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "9737",
+          "Milhar": "6040",
           "Grupo": "10",
           "Bicho": "Coelho"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "5385",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "0201",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "1709",
-          "Grupo": "03",
-          "Bicho": "Burro"
+          "Milhar": "6995",
+          "Grupo": "24",
+          "Bicho": "Veado"
         }
       ],
       "frases": {
-        "3337": [
-          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 3337",
-          "Dezena no oitavo prêmio!<br>com o palpite 3337",
-          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 3337"
+        "2090": [
+          "Dezena no quinto prêmio!<br>com o palpite 2090",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 2090"
         ],
-        "3376": [
-          "PAVÃO 🦚 no segundo prêmio!<br>com o palpite 3376",
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 3376"
+        "2095": [
+          "Dezena no décimo prêmio!<br>com o palpite 2095",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 2095"
+        ],
+        "2790": [
+          "Dezena no quinto prêmio!<br>com o palpite 2790",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 2790"
+        ],
+        "2795": [
+          "Dezena no décimo prêmio!<br>com o palpite 2795",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 2795"
+        ],
+        "2890": [
+          "Dezena no quinto prêmio!<br>com o palpite 2890",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 2890"
+        ],
+        "2895": [
+          "Dezena no décimo prêmio!<br>com o palpite 2895",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 2895"
+        ],
+        "9090": [
+          "Dezena no quinto prêmio!<br>com o palpite 9090",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 9090"
+        ],
+        "9095": [
+          "Dezena no décimo prêmio!<br>com o palpite 9095",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 9095"
+        ],
+        "9790": [
+          "Dezena no quinto prêmio!<br>com o palpite 9790",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 9790"
+        ],
+        "9795": [
+          "Dezena no décimo prêmio!<br>com o palpite 9795",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 9795"
+        ],
+        "9890": [
+          "Dezena no quinto prêmio!<br>com o palpite 9890",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 9890"
+        ],
+        "9895": [
+          "Dezena no décimo prêmio!<br>com o palpite 9895",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 9895"
+        ],
+        "0090": [
+          "Dezena no quinto prêmio!<br>com o palpite 0090",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 0090"
+        ],
+        "0790": [
+          "Dezena no quinto prêmio!<br>com o palpite 0790",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 0790"
+        ],
+        "0890": [
+          "Dezena no quinto prêmio!<br>com o palpite 0890",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 0890"
+        ],
+        "0095": [
+          "Dezena no décimo prêmio!<br>com o palpite 0095",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 0095"
+        ],
+        "0795": [
+          "Dezena no décimo prêmio!<br>com o palpite 0795",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 0795"
+        ],
+        "0895": [
+          "Dezena no décimo prêmio!<br>com o palpite 0895",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 0895"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 18,
         "Grupo": [
-          "🦚",
-          "🐇"
+          "🐻",
+          "🦌"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3336, 3337, 3376, 3377"
+      "resumo": "Palpites dados para esta extração: 0010, 0015, 0090, 0095, 0710, 0715, 0790, 0795, 0810, 0815, 0890, 0895, 2010, 2015, 2090, 2095, 2710, 2715, 2790, 2795, 2810, 2815, 2890, 2895, 9010, 9015, 9090, 9095, 9710, 9715, 9790, 9795, 9810, 9815, 9890, 9895"
     },
     "Nacional - LN 23:00 do 1º ao 10º": {
       "cabecalhos": [
