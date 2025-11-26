@@ -52,41 +52,17 @@
         }
       ],
       "frases": {
-        "1726": [
-          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 1726"
+        "8566": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 8566"
         ],
-        "1766": [
-          "MACACO 🐒 no quinto prêmio!<br>com o palpite 1766"
-        ],
-        "3726": [
-          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 3726"
-        ],
-        "3766": [
-          "MACACO 🐒 no quinto prêmio!<br>com o palpite 3766"
-        ],
-        "6726": [
-          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 6726"
-        ],
-        "6766": [
-          "MACACO 🐒 no quinto prêmio!<br>com o palpite 6766"
-        ],
-        "7726": [
-          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 7726"
-        ],
-        "7766": [
-          "MACACO 🐒 no quinto prêmio!<br>com o palpite 7766"
-        ],
-        "8726": [
-          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 8726"
+        "8596": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 8596"
         ],
         "8766": [
           "MACACO 🐒 no quinto prêmio!<br>com o palpite 8766"
         ],
-        "9726": [
-          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 9726"
-        ],
-        "9766": [
-          "MACACO 🐒 no quinto prêmio!<br>com o palpite 9766"
+        "8796": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 8796"
         ]
       },
       "acertos": {
@@ -94,13 +70,82 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐒",
-          "🐑"
+          "🦌",
+          "🐒"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1716, 1726, 1766, 1776, 1786, 3716, 3726, 3766, 3776, 3786, 6716, 6726, 6766, 6776, 6786, 7716, 7726, 7766, 7776, 7786, 8716, 8726, 8766, 8776, 8786, 9716, 9726, 9766, 9776, 9786"
+      "resumo": "Palpites dados para esta extração: 8516, 8566, 8596, 8716, 8766, 8796"
     },
     "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2942",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1244",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9379",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9841",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6362",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "29768",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "659",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "8566": [
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 8566"
+        ],
+        "8766": [
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 8766"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐒"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 8516, 8566, 8596, 8716, 8766, 8796"
+    },
+    "MINAS FEDERAL - MG": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
