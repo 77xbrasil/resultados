@@ -52,57 +52,34 @@
         }
       ],
       "frases": {
-        "7481": [
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 7481"
-        ],
-        "7484": [
-          "Dezena no primeiro prêmio!<br>com o palpite 7484",
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 7484"
-        ],
-        "7489": [
-          "URSO 🐻 no quarto prêmio!<br>com o palpite 7489"
-        ],
-        "7681": [
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 7681"
-        ],
-        "7684": [
-          "Dezena no primeiro prêmio!<br>com o palpite 7684",
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 7684"
+        "7589": [
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 7589"
         ],
         "7689": [
           "URSO 🐻 no quarto prêmio!<br>com o palpite 7689"
         ],
-        "8481": [
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8481"
+        "7789": [
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 7789"
         ],
-        "8484": [
-          "Dezena no primeiro prêmio!<br>com o palpite 8484",
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8484"
-        ],
-        "8489": [
-          "URSO 🐻 no quarto prêmio!<br>com o palpite 8489"
-        ],
-        "8681": [
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8681"
-        ],
-        "8684": [
-          "Dezena no primeiro prêmio!<br>com o palpite 8684",
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8684"
+        "8589": [
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 8589"
         ],
         "8689": [
           "URSO 🐻 no quarto prêmio!<br>com o palpite 8689"
+        ],
+        "8789": [
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 8789"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 4,
+        "Dezena": 0,
         "Grupo": [
-          "🐂",
           "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7481, 7484, 7489, 7681, 7684, 7689, 8481, 8484, 8489, 8681, 8684, 8689"
+      "resumo": "Palpites dados para esta extração: 7549, 7589, 7649, 7689, 7749, 7789, 8549, 8589, 8649, 8689, 8749, 8789"
     },
     "LOOK - GOIÁS, 09h": {
       "cabecalhos": [
@@ -155,16 +132,118 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "7549": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 7549"
+        ],
+        "7649": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 7649"
+        ],
+        "7749": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 7749"
+        ],
+        "8549": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 8549"
+        ],
+        "8649": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 8649"
+        ],
+        "8749": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 8749"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐓"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7481, 7484, 7489, 7681, 7684, 7689, 8481, 8484, 8489, 8681, 8684, 8689"
+      "resumo": "Palpites dados para esta extração: 7549, 7589, 7649, 7689, 7749, 7789, 8549, 8589, 8649, 8689, 8749, 8789"
     },
     "LOOK - GOIÁS, 11h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4024",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9486",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7694",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7804",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4651",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "3659",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "171",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "7549": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7549"
+        ],
+        "7649": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7649"
+        ],
+        "7749": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7749"
+        ],
+        "8549": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 8549"
+        ],
+        "8649": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 8649"
+        ],
+        "8749": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 8749"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐓"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 7549, 7589, 7649, 7689, 7749, 7789, 8549, 8589, 8649, 8689, 8749, 8789"
+    },
+    "LOOK - GOIÁS, 14h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -259,24 +338,10 @@
         }
       ],
       "frases": {
-        "7481": [
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 7481"
-        ],
-        "7484": [
-          "Dezena no primeiro prêmio!<br>com o palpite 7484",
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 7484"
-        ],
-        "7489": [
-          "URSO 🐻 no quarto prêmio!<br>com o palpite 7489",
-          "Dezena no sexto prêmio!<br>com o palpite 7489",
-          "URSO 🐻 no sexto prêmio!<br>com o palpite 7489"
-        ],
-        "7681": [
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 7681"
-        ],
-        "7684": [
-          "Dezena no primeiro prêmio!<br>com o palpite 7684",
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 7684"
+        "7589": [
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 7589",
+          "Dezena no sexto prêmio!<br>com o palpite 7589",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 7589"
         ],
         "7689": [
           "URSO 🐻 no quarto prêmio!<br>com o palpite 7689",
@@ -284,24 +349,15 @@
           "Dezena no sexto prêmio!<br>com o palpite 7689",
           "URSO 🐻 no sexto prêmio!<br>com o palpite 7689"
         ],
-        "8481": [
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8481"
+        "7789": [
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 7789",
+          "Dezena no sexto prêmio!<br>com o palpite 7789",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 7789"
         ],
-        "8484": [
-          "Dezena no primeiro prêmio!<br>com o palpite 8484",
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8484"
-        ],
-        "8489": [
-          "URSO 🐻 no quarto prêmio!<br>com o palpite 8489",
-          "Dezena no sexto prêmio!<br>com o palpite 8489",
-          "URSO 🐻 no sexto prêmio!<br>com o palpite 8489"
-        ],
-        "8681": [
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8681"
-        ],
-        "8684": [
-          "Dezena no primeiro prêmio!<br>com o palpite 8684",
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8684"
+        "8589": [
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 8589",
+          "Dezena no sexto prêmio!<br>com o palpite 8589",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 8589"
         ],
         "8689": [
           "URSO 🐻 no quarto prêmio!<br>com o palpite 8689",
@@ -309,18 +365,22 @@
           "Centena e Dezena no sexto prêmio!<br>com o palpite 8689",
           "Dezena no sexto prêmio!<br>com o palpite 8689",
           "URSO 🐻 no sexto prêmio!<br>com o palpite 8689"
+        ],
+        "8789": [
+          "URSO 🐻 no quarto prêmio!<br>com o palpite 8789",
+          "Dezena no sexto prêmio!<br>com o palpite 8789",
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 8789"
         ]
       },
       "acertos": {
         "Milhar": 1,
         "Centena": 2,
-        "Dezena": 8,
+        "Dezena": 6,
         "Grupo": [
-          "🐂",
           "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7481, 7484, 7489, 7681, 7684, 7689, 8481, 8484, 8489, 8681, 8684, 8689"
+      "resumo": "Palpites dados para esta extração: 7549, 7589, 7649, 7689, 7749, 7789, 8549, 8589, 8649, 8689, 8749, 8789"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
       "cabecalhos": [
@@ -391,16 +451,167 @@
           "Bicho": "Coelho"
         }
       ],
-      "frases": {},
+      "frases": {
+        "7549": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 7549",
+          "Dezena no oitavo prêmio!<br>com o palpite 7549",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 7549"
+        ],
+        "7649": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 7649",
+          "Dezena no oitavo prêmio!<br>com o palpite 7649",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 7649"
+        ],
+        "7749": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 7749",
+          "Dezena no oitavo prêmio!<br>com o palpite 7749",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 7749"
+        ],
+        "8549": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 8549",
+          "Dezena no oitavo prêmio!<br>com o palpite 8549",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 8549"
+        ],
+        "8649": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 8649",
+          "Dezena no oitavo prêmio!<br>com o palpite 8649",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 8649"
+        ],
+        "8749": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 8749",
+          "Dezena no oitavo prêmio!<br>com o palpite 8749",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 8749"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 6,
+        "Grupo": [
+          "🐓"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 7549, 7589, 7649, 7689, 7749, 7789, 8549, 8589, 8649, 8689, 8749, 8789"
+    },
+    "LOOK - GOIÁS, 11h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4024",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9486",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7694",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7804",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4651",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4977",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0468",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2890",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4644",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6638",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        }
+      ],
+      "frases": {
+        "7549": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7549"
+        ],
+        "7589": [
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 7589"
+        ],
+        "7649": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7649"
+        ],
+        "7689": [
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 7689"
+        ],
+        "7749": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7749"
+        ],
+        "7789": [
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 7789"
+        ],
+        "8549": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 8549"
+        ],
+        "8589": [
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 8589"
+        ],
+        "8649": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 8649"
+        ],
+        "8689": [
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 8689"
+        ],
+        "8749": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 8749"
+        ],
+        "8789": [
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 8789"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐓",
+          "🐻"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7481, 7484, 7489, 7681, 7684, 7689, 8481, 8484, 8489, 8681, 8684, 8689"
+      "resumo": "Palpites dados para esta extração: 7549, 7589, 7649, 7689, 7749, 7789, 8549, 8589, 8649, 8689, 8749, 8789"
     },
-    "LOOK - GOIÁS, 11h do 1º ao 10º": {
+    "LOOK - GOIÁS, 14h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
