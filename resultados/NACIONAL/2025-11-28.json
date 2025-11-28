@@ -46,8 +46,42 @@
         }
       ],
       "frases": {
+        "3603": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3603",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 3603"
+        ],
+        "3613": [
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 3613"
+        ],
+        "3653": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 3653"
+        ],
+        "4603": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4603",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 4603"
+        ],
+        "4613": [
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 4613"
+        ],
+        "4653": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 4653"
+        ],
+        "6603": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6603",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 6603"
+        ],
+        "6613": [
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 6613"
+        ],
         "6653": [
           "GATO 🐈 no sexto prêmio!<br>com o palpite 6653"
+        ],
+        "7603": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7603",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 7603"
+        ],
+        "7613": [
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 7613"
         ],
         "7653": [
           "GATO 🐈 no sexto prêmio!<br>com o palpite 7653"
@@ -56,12 +90,14 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 4,
         "Grupo": [
+          "🪶",
+          "🦋",
           "🐈"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6643, 6653, 6693, 7643, 7653, 7693"
+      "resumo": "Palpites dados para esta extração: 3603, 3613, 3633, 3643, 3653, 3683, 3693, 4603, 4613, 4633, 4643, 4653, 4683, 4693, 6603, 6613, 6633, 6643, 6653, 6683, 6693, 7603, 7613, 7633, 7643, 7653, 7683, 7693"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -108,14 +144,55 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3603": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3603"
+        ],
+        "3633": [
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 3633"
+        ],
+        "3683": [
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 3683"
+        ],
+        "4603": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 4603"
+        ],
+        "4633": [
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 4633"
+        ],
+        "4683": [
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4683"
+        ],
+        "6603": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 6603"
+        ],
+        "6633": [
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 6633"
+        ],
+        "6683": [
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 6683"
+        ],
+        "7603": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 7603"
+        ],
+        "7633": [
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 7633"
+        ],
+        "7683": [
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 7683"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐍",
+          "🪶",
+          "🐂"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 6643, 6653, 6693, 7643, 7653, 7693"
+      "resumo": "Palpites dados para esta extração: 3603, 3613, 3633, 3643, 3653, 3683, 3693, 4603, 4613, 4633, 4643, 4653, 4683, 4693, 6603, 6613, 6633, 6643, 6653, 6683, 6693, 7603, 7613, 7633, 7643, 7653, 7683, 7693"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -162,14 +239,29 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3613": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 3613"
+        ],
+        "4613": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 4613"
+        ],
+        "6613": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 6613"
+        ],
+        "7613": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 7613"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦋"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 6643, 6653, 6693, 7643, 7653, 7693"
+      "resumo": "Palpites dados para esta extração: 3603, 3613, 3633, 3643, 3653, 3683, 3693, 4603, 4613, 4633, 4643, 4653, 4683, 4693, 6603, 6613, 6633, 6643, 6653, 6683, 6693, 7603, 7613, 7633, 7643, 7653, 7683, 7693"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -217,22 +309,54 @@
         }
       ],
       "frases": {
+        "3683": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 3683",
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 3683",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 3683",
+          "Dezena no sexto prêmio!<br>com o palpite 3683",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 3683"
+        ],
+        "3693": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 3693"
+        ],
+        "4683": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 4683",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 4683",
+          "Dezena no sexto prêmio!<br>com o palpite 4683",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 4683"
+        ],
+        "4693": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 4693"
+        ],
+        "6683": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 6683",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 6683",
+          "Dezena no sexto prêmio!<br>com o palpite 6683",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 6683"
+        ],
         "6693": [
           "VEADO 🦌 no terceiro prêmio!<br>com o palpite 6693"
+        ],
+        "7683": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 7683",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 7683",
+          "Dezena no sexto prêmio!<br>com o palpite 7683",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 7683"
         ],
         "7693": [
           "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7693"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 4,
         "Grupo": [
+          "🐂",
           "🦌"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6643, 6653, 6693, 7643, 7653, 7693"
+      "resumo": "Palpites dados para esta extração: 3603, 3613, 3633, 3643, 3653, 3683, 3693, 4603, 4613, 4633, 4643, 4653, 4683, 4693, 6603, 6613, 6633, 6643, 6653, 6683, 6693, 7603, 7613, 7633, 7643, 7653, 7683, 7693"
     },
     "Nacional - LN 15:00": {
       "cabecalhos": [
@@ -279,14 +403,29 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3633": [
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 3633"
+        ],
+        "4633": [
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 4633"
+        ],
+        "6633": [
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 6633"
+        ],
+        "7633": [
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 7633"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐍"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 6643, 6653, 6693, 7643, 7653, 7693"
+      "resumo": "Palpites dados para esta extração: 3603, 3613, 3633, 3643, 3653, 3683, 3693, 4603, 4613, 4633, 4643, 4653, 4683, 4693, 6603, 6613, 6633, 6643, 6653, 6683, 6693, 7603, 7613, 7633, 7643, 7653, 7683, 7693"
     },
     "Nacional - LN 17:00": {
       "cabecalhos": [
@@ -382,14 +521,63 @@
           "Bicho": "Carneiro"
         }
       ],
-      "frases": {},
+      "frases": {
+        "3603": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3603",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 3603"
+        ],
+        "3613": [
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 3613"
+        ],
+        "3633": [
+          "Dezena no sétimo prêmio!<br>com o palpite 3633",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 3633"
+        ],
+        "4603": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4603",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 4603"
+        ],
+        "4613": [
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 4613"
+        ],
+        "4633": [
+          "Dezena no sétimo prêmio!<br>com o palpite 4633",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 4633"
+        ],
+        "6603": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6603",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 6603"
+        ],
+        "6613": [
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 6613"
+        ],
+        "6633": [
+          "Dezena no sétimo prêmio!<br>com o palpite 6633",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 6633"
+        ],
+        "7603": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7603",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 7603"
+        ],
+        "7613": [
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 7613"
+        ],
+        "7633": [
+          "Dezena no sétimo prêmio!<br>com o palpite 7633",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 7633"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 8,
+        "Grupo": [
+          "🪶",
+          "🦋",
+          "🐍"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 6643, 6653, 6693, 7643, 7653, 7693"
+      "resumo": "Palpites dados para esta extração: 3603, 3613, 3633, 3643, 3653, 3683, 3693, 4603, 4613, 4633, 4643, 4653, 4683, 4693, 6603, 6613, 6633, 6643, 6653, 6683, 6693, 7603, 7613, 7633, 7643, 7653, 7683, 7693"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -461,22 +649,75 @@
         }
       ],
       "frases": {
+        "3603": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3603",
+          "Dezena no oitavo prêmio!<br>com o palpite 3603",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3603"
+        ],
+        "3633": [
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 3633"
+        ],
+        "3643": [
+          "CAVALO 🐎 no décimo prêmio!<br>com o palpite 3643"
+        ],
+        "3683": [
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 3683"
+        ],
+        "4603": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 4603",
+          "Dezena no oitavo prêmio!<br>com o palpite 4603",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 4603"
+        ],
+        "4633": [
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 4633"
+        ],
+        "4643": [
+          "CAVALO 🐎 no décimo prêmio!<br>com o palpite 4643"
+        ],
+        "4683": [
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4683"
+        ],
+        "6603": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 6603",
+          "Dezena no oitavo prêmio!<br>com o palpite 6603",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 6603"
+        ],
+        "6633": [
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 6633"
+        ],
         "6643": [
           "CAVALO 🐎 no décimo prêmio!<br>com o palpite 6643"
         ],
+        "6683": [
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 6683"
+        ],
+        "7603": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 7603",
+          "Dezena no oitavo prêmio!<br>com o palpite 7603",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 7603"
+        ],
+        "7633": [
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 7633"
+        ],
         "7643": [
           "CAVALO 🐎 no décimo prêmio!<br>com o palpite 7643"
+        ],
+        "7683": [
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 7683"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 4,
         "Grupo": [
+          "🐍",
+          "🪶",
+          "🐂",
           "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6643, 6653, 6693, 7643, 7653, 7693"
+      "resumo": "Palpites dados para esta extração: 3603, 3613, 3633, 3643, 3653, 3683, 3693, 4603, 4613, 4633, 4643, 4653, 4683, 4693, 6603, 6613, 6633, 6643, 6653, 6683, 6693, 7603, 7613, 7633, 7643, 7653, 7683, 7693"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -547,14 +788,29 @@
           "Bicho": "Urso"
         }
       ],
-      "frases": {},
+      "frases": {
+        "3613": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 3613"
+        ],
+        "4613": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 4613"
+        ],
+        "6613": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 6613"
+        ],
+        "7613": [
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 7613"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦋"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 6643, 6653, 6693, 7643, 7653, 7693"
+      "resumo": "Palpites dados para esta extração: 3603, 3613, 3633, 3643, 3653, 3683, 3693, 4603, 4613, 4633, 4643, 4653, 4683, 4693, 6603, 6613, 6633, 6643, 6653, 6683, 6693, 7603, 7613, 7633, 7643, 7653, 7683, 7693"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -626,10 +882,39 @@
         }
       ],
       "frases": {
+        "3653": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 3653",
+          "Dezena no sétimo prêmio!<br>com o palpite 3653",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 3653"
+        ],
+        "3683": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 3683"
+        ],
+        "3693": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 3693",
+          "Dezena no oitavo prêmio!<br>com o palpite 3693",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 3693"
+        ],
+        "4653": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 4653",
+          "Dezena no sétimo prêmio!<br>com o palpite 4653",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 4653"
+        ],
+        "4683": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 4683"
+        ],
+        "4693": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 4693",
+          "Dezena no oitavo prêmio!<br>com o palpite 4693",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 4693"
+        ],
         "6653": [
           "Centena e Dezena no sétimo prêmio!<br>com o palpite 6653",
           "Dezena no sétimo prêmio!<br>com o palpite 6653",
           "GATO 🐈 no sétimo prêmio!<br>com o palpite 6653"
+        ],
+        "6683": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 6683"
         ],
         "6693": [
           "VEADO 🦌 no terceiro prêmio!<br>com o palpite 6693",
@@ -641,6 +926,9 @@
           "Dezena no sétimo prêmio!<br>com o palpite 7653",
           "GATO 🐈 no sétimo prêmio!<br>com o palpite 7653"
         ],
+        "7683": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 7683"
+        ],
         "7693": [
           "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7693",
           "Dezena no oitavo prêmio!<br>com o palpite 7693",
@@ -649,14 +937,15 @@
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 2,
-        "Dezena": 4,
+        "Centena": 4,
+        "Dezena": 8,
         "Grupo": [
+          "🐂",
           "🦌",
           "🐈"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6643, 6653, 6693, 7643, 7653, 7693"
+      "resumo": "Palpites dados para esta extração: 3603, 3613, 3633, 3643, 3653, 3683, 3693, 4603, 4613, 4633, 4643, 4653, 4683, 4693, 6603, 6613, 6633, 6643, 6653, 6683, 6693, 7603, 7613, 7633, 7643, 7653, 7683, 7693"
     },
     "Nacional - LN 15:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -728,9 +1017,45 @@
         }
       ],
       "frases": {
+        "3603": [
+          "Dezena no décimo prêmio!<br>com o palpite 3603",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 3603"
+        ],
+        "3633": [
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 3633"
+        ],
+        "3653": [
+          "Dezena no sétimo prêmio!<br>com o palpite 3653",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 3653"
+        ],
+        "4603": [
+          "Dezena no décimo prêmio!<br>com o palpite 4603",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 4603"
+        ],
+        "4633": [
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 4633"
+        ],
+        "4653": [
+          "Dezena no sétimo prêmio!<br>com o palpite 4653",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 4653"
+        ],
+        "6603": [
+          "Dezena no décimo prêmio!<br>com o palpite 6603",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 6603"
+        ],
+        "6633": [
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 6633"
+        ],
         "6653": [
           "Dezena no sétimo prêmio!<br>com o palpite 6653",
           "GATO 🐈 no sétimo prêmio!<br>com o palpite 6653"
+        ],
+        "7603": [
+          "Dezena no décimo prêmio!<br>com o palpite 7603",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 7603"
+        ],
+        "7633": [
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 7633"
         ],
         "7653": [
           "Dezena no sétimo prêmio!<br>com o palpite 7653",
@@ -740,12 +1065,14 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 8,
         "Grupo": [
-          "🐈"
+          "🐍",
+          "🐈",
+          "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6643, 6653, 6693, 7643, 7653, 7693"
+      "resumo": "Palpites dados para esta extração: 3603, 3613, 3633, 3643, 3653, 3683, 3693, 4603, 4613, 4633, 4643, 4653, 4683, 4693, 6603, 6613, 6633, 6643, 6653, 6683, 6693, 7603, 7613, 7633, 7643, 7653, 7683, 7693"
     },
     "Nacional - LN 17:00 do 1º ao 10º": {
       "cabecalhos": [
