@@ -51,16 +51,119 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1377": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 1377",
+          "Dezena no quarto prêmio!<br>com o palpite 1377",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 1377"
+        ],
+        "1379": [
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 1379"
+        ],
+        "1385": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 1385"
+        ],
+        "1386": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 1386"
+        ],
+        "1387": [
+          "Dezena no segundo prêmio!<br>com o palpite 1387",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 1387"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🐅",
+          "🦃"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1315, 1316, 1317, 1319, 1375, 1376, 1377, 1379, 1385, 1386, 1387, 1389"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8324",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9560",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3075",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2646",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9079",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "32684",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "577",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1375": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1375",
+          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 1375"
+        ],
+        "1376": [
+          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 1376"
+        ],
+        "1377": [
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 1377",
+          "Dezena no sétimo prêmio!<br>com o palpite 1377",
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 1377"
+        ],
+        "1379": [
+          "Dezena no quinto prêmio!<br>com o palpite 1379",
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 1379",
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 1379"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 3,
+        "Grupo": [
+          "🦚",
+          "🦃"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1005, 1015, 1025, 1035, 1045, 1065, 1075, 1095, 1105, 1115, 1125, 1135, 1145, 1165, 1175, 1195, 1305, 1315, 1325, 1335, 1345, 1365, 1375, 1395, 1905, 1915, 1925, 1935, 1945, 1965, 1975, 1995, 7005, 7015, 7025, 7035, 7045, 7065, 7075, 7095, 7105, 7115, 7125, 7135, 7145, 7165, 7175, 7195, 7305, 7315, 7325, 7335, 7345, 7365, 7375, 7395, 7905, 7915, 7925, 7935, 7945, 7965, 7975, 7995"
+      "resumo": "Palpites dados para esta extração: 1315, 1316, 1317, 1319, 1375, 1376, 1377, 1379, 1385, 1386, 1387, 1389"
     },
-    "MINAS DIA - MG, 15h": {
+    "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
