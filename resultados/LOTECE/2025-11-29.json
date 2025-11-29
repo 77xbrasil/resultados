@@ -70,31 +70,227 @@
         }
       ],
       "frases": {
+        "3306": [
+          "Dezena no nono prêmio!<br>com o palpite 3306",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 3306"
+        ],
+        "3346": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3346",
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 3346",
+          "Dezena no décimo prêmio!<br>com o palpite 3346",
+          "ELEFANTE 🐘 no décimo prêmio!<br>com o palpite 3346"
+        ],
         "3366": [
           "MACACO 🐒 no quarto prêmio!<br>com o palpite 3366"
         ],
-        "3369": [
-          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 3369"
+        "3386": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 3386"
+        ],
+        "3706": [
+          "Dezena no nono prêmio!<br>com o palpite 3706",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 3706"
+        ],
+        "3746": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3746",
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 3746",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 3746",
+          "Dezena no décimo prêmio!<br>com o palpite 3746",
+          "ELEFANTE 🐘 no décimo prêmio!<br>com o palpite 3746"
+        ],
+        "3766": [
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 3766"
+        ],
+        "3786": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 3786"
+        ],
+        "9306": [
+          "Dezena no nono prêmio!<br>com o palpite 9306",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 9306"
+        ],
+        "9346": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9346",
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 9346",
+          "Dezena no décimo prêmio!<br>com o palpite 9346",
+          "ELEFANTE 🐘 no décimo prêmio!<br>com o palpite 9346"
         ],
         "9366": [
           "MACACO 🐒 no quarto prêmio!<br>com o palpite 9366"
         ],
-        "9369": [
-          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 9369"
+        "9386": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 9386"
+        ],
+        "9706": [
+          "Dezena no nono prêmio!<br>com o palpite 9706",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 9706"
+        ],
+        "9746": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9746",
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 9746",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 9746",
+          "Dezena no décimo prêmio!<br>com o palpite 9746",
+          "ELEFANTE 🐘 no décimo prêmio!<br>com o palpite 9746"
+        ],
+        "9766": [
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 9766"
+        ],
+        "9786": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 9786"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Centena": 2,
+        "Dezena": 12,
         "Grupo": [
+          "🐘",
+          "🐅",
           "🐒",
-          "🐖"
+          "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3364, 3366, 3369, 9364, 9366, 9369"
+      "resumo": "Palpites dados para esta extração: 3306, 3346, 3366, 3386, 3706, 3746, 3766, 3786, 9306, 9346, 9366, 9386, 9706, 9746, 9766, 9786"
     },
     "A FEDERAL DO BRASIL CE - Ceará Federal": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    },
+    "LOTECE - CE, 14:00 (tarde)": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1386",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1383",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2743",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8063",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9325",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9380",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0959",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3137",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0220",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "4707",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        }
+      ],
+      "frases": {
+        "3306": [
+          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 3306"
+        ],
+        "3386": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 3386",
+          "Dezena no primeiro prêmio!<br>com o palpite 3386",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 3386"
+        ],
+        "3706": [
+          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 3706"
+        ],
+        "3786": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3786",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 3786"
+        ],
+        "9306": [
+          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 9306"
+        ],
+        "9386": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 9386",
+          "Dezena no primeiro prêmio!<br>com o palpite 9386",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 9386"
+        ],
+        "9706": [
+          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 9706"
+        ],
+        "9786": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9786",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 9786"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 2,
+        "Dezena": 4,
+        "Grupo": [
+          "🐅",
+          "🦅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3306, 3346, 3366, 3386, 3706, 3746, 3766, 3786, 9306, 9346, 9366, 9386, 9706, 9746, 9766, 9786"
+    },
+    "LOTECE - CE, 15:45 (tarde II)": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
