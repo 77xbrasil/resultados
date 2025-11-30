@@ -112,7 +112,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0090, 0099, 0790, 0799"
+      "resumo": "Palpites dados para esta extração: 0099, 9099"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -160,11 +160,11 @@
         }
       ],
       "frases": {
+        "9099": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 9099"
+        ],
         "0099": [
           "VACA 🐄 no quarto prêmio!<br>com o palpite 0099"
-        ],
-        "0799": [
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 0799"
         ]
       },
       "acertos": {
@@ -175,7 +175,7 @@
           "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0090, 0099, 0790, 0799"
+      "resumo": "Palpites dados para esta extração: 0099, 9099"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -223,17 +223,17 @@
         }
       ],
       "frases": {
+        "9099": [
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 9099",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 9099",
+          "Dezena no quarto prêmio!<br>com o palpite 9099",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 9099"
+        ],
         "0099": [
           "VACA 🐄 no primeiro prêmio!<br>com o palpite 0099",
           "VACA 🐄 no terceiro prêmio!<br>com o palpite 0099",
           "Dezena no quarto prêmio!<br>com o palpite 0099",
           "VACA 🐄 no quarto prêmio!<br>com o palpite 0099"
-        ],
-        "0799": [
-          "VACA 🐄 no primeiro prêmio!<br>com o palpite 0799",
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 0799",
-          "Dezena no quarto prêmio!<br>com o palpite 0799",
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 0799"
         ]
       },
       "acertos": {
@@ -244,7 +244,7 @@
           "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0090, 0099, 0790, 0799"
+      "resumo": "Palpites dados para esta extração: 0099, 9099"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -707,7 +707,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0090, 0099, 0790, 0799"
+      "resumo": "Palpites dados para esta extração: 0099, 9099"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -779,32 +779,22 @@
         }
       ],
       "frases": {
+        "9099": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 9099"
+        ],
         "0099": [
           "VACA 🐄 no quarto prêmio!<br>com o palpite 0099"
-        ],
-        "0799": [
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 0799"
-        ],
-        "0090": [
-          "Centena e Dezena no nono prêmio!<br>com o palpite 0090",
-          "Dezena no nono prêmio!<br>com o palpite 0090",
-          "URSO 🐻 no nono prêmio!<br>com o palpite 0090"
-        ],
-        "0790": [
-          "Dezena no nono prêmio!<br>com o palpite 0790",
-          "URSO 🐻 no nono prêmio!<br>com o palpite 0790"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 2,
+        "Centena": 0,
+        "Dezena": 0,
         "Grupo": [
-          "🐄",
-          "🐻"
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0090, 0099, 0790, 0799"
+      "resumo": "Palpites dados para esta extração: 0099, 9099"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -876,6 +866,14 @@
         }
       ],
       "frases": {
+        "9099": [
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 9099",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 9099",
+          "Dezena no quarto prêmio!<br>com o palpite 9099",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 9099",
+          "Dezena no oitavo prêmio!<br>com o palpite 9099",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 9099"
+        ],
         "0099": [
           "VACA 🐄 no primeiro prêmio!<br>com o palpite 0099",
           "VACA 🐄 no terceiro prêmio!<br>com o palpite 0099",
@@ -883,14 +881,6 @@
           "VACA 🐄 no quarto prêmio!<br>com o palpite 0099",
           "Dezena no oitavo prêmio!<br>com o palpite 0099",
           "VACA 🐄 no oitavo prêmio!<br>com o palpite 0099"
-        ],
-        "0799": [
-          "VACA 🐄 no primeiro prêmio!<br>com o palpite 0799",
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 0799",
-          "Dezena no quarto prêmio!<br>com o palpite 0799",
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 0799",
-          "Dezena no oitavo prêmio!<br>com o palpite 0799",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 0799"
         ]
       },
       "acertos": {
@@ -901,7 +891,7 @@
           "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0090, 0099, 0790, 0799"
+      "resumo": "Palpites dados para esta extração: 0099, 9099"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
