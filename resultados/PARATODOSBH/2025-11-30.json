@@ -114,6 +114,132 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 3710, 3713, 3717, 3720, 3723, 3727, 3810, 3813, 3817, 3820, 3823, 3827"
+    },
+    "12h - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4037",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8410",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7812",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1878",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4157",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9740",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2680",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6308",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4669",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "3814",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        }
+      ],
+      "frases": {
+        "3710": [
+          "Dezena no segundo prêmio!<br>com o palpite 3710",
+          "BURRO 🐴 no segundo prêmio!<br>com o palpite 3710",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 3710"
+        ],
+        "3713": [
+          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 3713"
+        ],
+        "3810": [
+          "Dezena no segundo prêmio!<br>com o palpite 3810",
+          "BURRO 🐴 no segundo prêmio!<br>com o palpite 3810",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 3810"
+        ],
+        "3813": [
+          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 3813"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐴",
+          "🦋"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3710, 3713, 3717, 3720, 3723, 3727, 3810, 3813, 3817, 3820, 3823, 3827"
+    },
+    "15h - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
