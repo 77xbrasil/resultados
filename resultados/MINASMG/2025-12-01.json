@@ -142,23 +142,9 @@
         }
       ],
       "frases": {
-        "8138": [
-          "Dezena no segundo prêmio!<br>com o palpite 8138",
-          "COELHO 🐇 no segundo prêmio!<br>com o palpite 8138",
-          "Dezena no sexto prêmio!<br>com o palpite 8138",
-          "COELHO 🐇 no sexto prêmio!<br>com o palpite 8138"
-        ],
-        "8185": [
-          "Dezena no primeiro prêmio!<br>com o palpite 8185",
-          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8185",
-          "Milhar e Centena no quinto prêmio!<br>com o palpite 8185",
-          "Centena e Dezena no quinto prêmio!<br>com o palpite 8185",
-          "Dezena no quinto prêmio!<br>com o palpite 8185",
-          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 8185"
-        ],
-        "8188": [
-          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8188",
-          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 8188"
+        "8232": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8232",
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 8232"
         ],
         "8238": [
           "Dezena no segundo prêmio!<br>com o palpite 8238",
@@ -177,21 +163,9 @@
           "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8288",
           "TIGRE 🐅 no quinto prêmio!<br>com o palpite 8288"
         ],
-        "8338": [
-          "Dezena no segundo prêmio!<br>com o palpite 8338",
-          "COELHO 🐇 no segundo prêmio!<br>com o palpite 8338",
-          "Dezena no sexto prêmio!<br>com o palpite 8338",
-          "COELHO 🐇 no sexto prêmio!<br>com o palpite 8338"
-        ],
-        "8385": [
-          "Dezena no primeiro prêmio!<br>com o palpite 8385",
-          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8385",
-          "Dezena no quinto prêmio!<br>com o palpite 8385",
-          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 8385"
-        ],
-        "8388": [
-          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8388",
-          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 8388"
+        "8532": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8532",
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 8532"
         ],
         "8538": [
           "Centena e Dezena no segundo prêmio!<br>com o palpite 8538",
@@ -209,6 +183,10 @@
         "8588": [
           "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8588",
           "TIGRE 🐅 no quinto prêmio!<br>com o palpite 8588"
+        ],
+        "8832": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8832",
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 8832"
         ],
         "8838": [
           "Dezena no segundo prêmio!<br>com o palpite 8838",
@@ -230,15 +208,16 @@
         ]
       },
       "acertos": {
-        "Milhar": 2,
-        "Centena": 4,
-        "Dezena": 20,
+        "Milhar": 1,
+        "Centena": 3,
+        "Dezena": 15,
         "Grupo": [
           "🐅",
-          "🐇"
+          "🐇",
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8135, 8138, 8185, 8188, 8235, 8238, 8285, 8288, 8335, 8338, 8385, 8388, 8535, 8538, 8585, 8588, 8835, 8838, 8885, 8888"
+      "resumo": "Palpites dados para esta extração: 8232, 8235, 8238, 8282, 8285, 8288, 8532, 8535, 8538, 8582, 8585, 8588, 8832, 8835, 8838, 8882, 8885, 8888"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
@@ -291,14 +270,26 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "8282": [
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 8282"
+        ],
+        "8582": [
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 8582"
+        ],
+        "8882": [
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 8882"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐂"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 8135, 8138, 8185, 8188, 8235, 8238, 8285, 8288, 8335, 8338, 8385, 8388, 8535, 8538, 8585, 8588, 8835, 8838, 8885, 8888"
+      "resumo": "Palpites dados para esta extração: 8232, 8235, 8238, 8282, 8285, 8288, 8532, 8535, 8538, 8582, 8585, 8588, 8832, 8835, 8838, 8882, 8885, 8888"
     },
     "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
