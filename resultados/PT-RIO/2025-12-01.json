@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0364, 0384, 8364, 8384"
+      "resumo": "Palpites dados para esta extração: 0562, 0564, 0565, 2562, 2564, 2565, 6562, 6564, 6565, 8562, 8564, 8565"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -118,7 +118,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0364, 0384, 8364, 8384"
+      "resumo": "Palpites dados para esta extração: 0562, 0564, 0565, 2562, 2564, 2565, 6562, 6564, 6565, 8562, 8564, 8565"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -178,7 +178,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0364, 0384, 8364, 8384"
+      "resumo": "Palpites dados para esta extração: 0562, 0564, 0565, 2562, 2564, 2565, 6562, 6564, 6565, 8562, 8564, 8565"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -232,24 +232,28 @@
         }
       ],
       "frases": {
-        "8384": [
-          "Dezena no quinto prêmio!<br>com o palpite 8384",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 8384"
+        "2565": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 2565"
         ],
-        "0384": [
-          "Dezena no quinto prêmio!<br>com o palpite 0384",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 0384"
+        "6565": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 6565"
+        ],
+        "8565": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 8565"
+        ],
+        "0565": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 0565"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 0,
         "Grupo": [
-          "🐂"
+          "🐒"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0364, 0384, 8364, 8384"
+      "resumo": "Palpites dados para esta extração: 0562, 0564, 0565, 2562, 2564, 2565, 6562, 6564, 6565, 8562, 8564, 8565"
     },
     "PT-RIO, RJ, 18:20, PTN": {
       "cabecalhos": [
@@ -302,14 +306,29 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2565": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 2565"
+        ],
+        "6565": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 6565"
+        ],
+        "8565": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 8565"
+        ],
+        "0565": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 0565"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐒"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0364, 0384, 8364, 8384"
+      "resumo": "Palpites dados para esta extração: 0562, 0564, 0565, 2562, 2564, 2565, 6562, 6564, 6565, 8562, 8564, 8565"
     },
     "PT-RIO, RJ, 21:20, CORUJA": {
       "cabecalhos": [
@@ -412,7 +431,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0364, 0384, 8364, 8384"
+      "resumo": "Palpites dados para esta extração: 0562, 0564, 0565, 2562, 2564, 2565, 6562, 6564, 6565, 8562, 8564, 8565"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -490,7 +509,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0364, 0384, 8364, 8384"
+      "resumo": "Palpites dados para esta extração: 0562, 0564, 0565, 2562, 2564, 2565, 6562, 6564, 6565, 8562, 8564, 8565"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -568,7 +587,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0364, 0384, 8364, 8384"
+      "resumo": "Palpites dados para esta extração: 0562, 0564, 0565, 2562, 2564, 2565, 6562, 6564, 6565, 8562, 8564, 8565"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
@@ -640,37 +659,62 @@
         }
       ],
       "frases": {
-        "8364": [
-          "Dezena no oitavo prêmio!<br>com o palpite 8364",
-          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 8364"
+        "2562": [
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 2562"
         ],
-        "8384": [
-          "Dezena no quinto prêmio!<br>com o palpite 8384",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 8384",
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 8384",
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 8384"
+        "2564": [
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 2564",
+          "Dezena no oitavo prêmio!<br>com o palpite 2564",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 2564"
         ],
-        "0384": [
-          "Dezena no quinto prêmio!<br>com o palpite 0384",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 0384",
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 0384",
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 0384"
+        "2565": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 2565"
         ],
-        "0364": [
-          "Dezena no oitavo prêmio!<br>com o palpite 0364",
-          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 0364"
+        "6562": [
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 6562"
+        ],
+        "6564": [
+          "Milhar e Centena no oitavo prêmio!<br>com o palpite 6564",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 6564",
+          "Dezena no oitavo prêmio!<br>com o palpite 6564",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 6564"
+        ],
+        "6565": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 6565"
+        ],
+        "8562": [
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 8562"
+        ],
+        "8564": [
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 8564",
+          "Dezena no oitavo prêmio!<br>com o palpite 8564",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 8564"
+        ],
+        "8565": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 8565"
+        ],
+        "0565": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 0565"
+        ],
+        "0562": [
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 0562"
+        ],
+        "0564": [
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 0564",
+          "Dezena no oitavo prêmio!<br>com o palpite 0564",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 0564"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
+        "Milhar": 1,
+        "Centena": 4,
         "Dezena": 4,
         "Grupo": [
-          "🐂",
+          "🐒",
           "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0364, 0384, 8364, 8384"
+      "resumo": "Palpites dados para esta extração: 0562, 0564, 0565, 2562, 2564, 2565, 6562, 6564, 6565, 8562, 8564, 8565"
     },
     "PT-RIO, RJ, 18:20, PTN do 1º ao 10º": {
       "cabecalhos": [
@@ -741,14 +785,37 @@
           "Bicho": "Macaco"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2565": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 2565",
+          "Dezena no décimo prêmio!<br>com o palpite 2565",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 2565"
+        ],
+        "6565": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 6565",
+          "Dezena no décimo prêmio!<br>com o palpite 6565",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 6565"
+        ],
+        "8565": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 8565",
+          "Dezena no décimo prêmio!<br>com o palpite 8565",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 8565"
+        ],
+        "0565": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 0565",
+          "Dezena no décimo prêmio!<br>com o palpite 0565",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 0565"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 4,
+        "Grupo": [
+          "🐒"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0364, 0384, 8364, 8384"
+      "resumo": "Palpites dados para esta extração: 0562, 0564, 0565, 2562, 2564, 2565, 6562, 6564, 6565, 8562, 8564, 8565"
     },
     "PT-RIO, RJ, 21:20, CORUJA do 1º ao 10º": {
       "cabecalhos": [
