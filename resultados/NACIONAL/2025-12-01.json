@@ -490,49 +490,88 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "8786",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "1351",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "4945",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "2624",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "1217",
-          "Grupo": "05",
-          "Bicho": "Cachorro"
+          "Milhar": "0782",
+          "Grupo": "21",
+          "Bicho": "Touro"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "0985",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "4651",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "6241",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
+          "Milhar": "8557",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "2174",
+          "Milhar": "7965",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1049": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1049",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 1049"
+        ],
+        "1149": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1149",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 1149"
+        ],
+        "1449": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1449",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 1449"
+        ],
+        "3049": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 3049",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 3049"
+        ],
+        "3149": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 3149",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 3149"
+        ],
+        "3449": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 3449",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 3449"
+        ],
+        "0049": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 0049",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0049"
+        ],
+        "0149": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 0149",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0149"
+        ],
+        "0449": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 0449",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0449"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐓"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0113, 0123, 0193, 0613, 0623, 0693, 0913, 0923, 0993, 2113, 2123, 2193, 2613, 2623, 2693, 2913, 2923, 2993, 3113, 3123, 3193, 3613, 3623, 3693, 3913, 3923, 3993"
+      "resumo": "Palpites dados para esta extração: 0047, 0048, 0049, 0147, 0148, 0149, 0447, 0448, 0449, 1047, 1048, 1049, 1147, 1148, 1149, 1447, 1448, 1449, 3047, 3048, 3049, 3147, 3148, 3149, 3447, 3448, 3449"
     },
     "Nacional - LN 21:00": {
       "cabecalhos": [
@@ -739,6 +778,29 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 0113, 0123, 0193, 0613, 0623, 0693, 0913, 0923, 0993, 2113, 2123, 2193, 2613, 2623, 2693, 2913, 2923, 2993, 3113, 3123, 3193, 3613, 3623, 3693, 3913, 3923, 3993"
+    },
+    "Nacional - LN 20:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   },
   "1-10": {
@@ -1465,73 +1527,121 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "8786",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "1351",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "4945",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "2624",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "1217",
-          "Grupo": "05",
-          "Bicho": "Cachorro"
+          "Milhar": "0782",
+          "Grupo": "21",
+          "Bicho": "Touro"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "0985",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "4651",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "6241",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
+          "Milhar": "8557",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "8410",
-          "Grupo": "03",
-          "Bicho": "Burro"
+          "Milhar": "1204",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "7929",
-          "Grupo": "08",
-          "Bicho": "Camelo"
-        },
-        {
-          "Prêmio": "8º",
-          "Milhar": "8418",
-          "Grupo": "05",
-          "Bicho": "Cachorro"
-        },
-        {
-          "Prêmio": "9º",
-          "Milhar": "6575",
+          "Milhar": "3676",
           "Grupo": "19",
           "Bicho": "Pavão"
         },
         {
+          "Prêmio": "8º",
+          "Milhar": "5285",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1421",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
           "Prêmio": "10º",
-          "Milhar": "3506",
-          "Grupo": "02",
-          "Bicho": "Águia"
+          "Milhar": "9551",
+          "Grupo": "13",
+          "Bicho": "Galo"
         }
       ],
-      "frases": {},
+      "frases": {
+        "1049": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1049",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 1049",
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 1049"
+        ],
+        "1149": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1149",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 1149",
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 1149"
+        ],
+        "1449": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1449",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 1449",
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 1449"
+        ],
+        "3049": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 3049",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 3049",
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 3049"
+        ],
+        "3149": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 3149",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 3149",
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 3149"
+        ],
+        "3449": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 3449",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 3449",
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 3449"
+        ],
+        "0049": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 0049",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0049",
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 0049"
+        ],
+        "0149": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 0149",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0149",
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 0149"
+        ],
+        "0449": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 0449",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0449",
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 0449"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐓"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0113, 0123, 0193, 0613, 0623, 0693, 0913, 0923, 0993, 2113, 2123, 2193, 2613, 2623, 2693, 2913, 2923, 2993, 3113, 3123, 3193, 3613, 3623, 3693, 3913, 3923, 3993"
+      "resumo": "Palpites dados para esta extração: 0047, 0048, 0049, 0147, 0148, 0149, 0447, 0448, 0449, 1047, 1048, 1049, 1147, 1148, 1149, 1447, 1448, 1449, 3047, 3048, 3049, 3147, 3148, 3149, 3447, 3448, 3449"
     },
     "Nacional - LN 21:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1825,6 +1935,34 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 0113, 0123, 0193, 0613, 0623, 0693, 0913, 0923, 0993, 2113, 2123, 2193, 2613, 2623, 2693, 2913, 2923, 2993, 3113, 3123, 3193, 3613, 3623, 3693, 3913, 3923, 3993"
+    },
+    "Nacional - LN 20:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
