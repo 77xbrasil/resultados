@@ -512,6 +512,78 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0014",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1551",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5722",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2174",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1243",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "0704",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "021",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2275": [
+          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 2275"
+        ],
+        "3275": [
+          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 3275"
+        ],
+        "0275": [
+          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 0275"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🦚"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0275, 0277, 0278, 2275, 2277, 2278, 3275, 3277, 3278"
+    },
+    "FEDERAL": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
@@ -1194,6 +1266,118 @@
       "resumo": "Palpites dados para esta extração: 0275, 0277, 0278, 2275, 2277, 2278, 3275, 3277, 3278"
     },
     "LOOK - GOIÁS, 23h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0014",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1551",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5722",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2174",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1243",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0152",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0571",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1527",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4124",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7078",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        }
+      ],
+      "frases": {
+        "2275": [
+          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 2275"
+        ],
+        "2277": [
+          "PERU 🦃 no décimo prêmio!<br>com o palpite 2277"
+        ],
+        "2278": [
+          "Dezena no décimo prêmio!<br>com o palpite 2278",
+          "PERU 🦃 no décimo prêmio!<br>com o palpite 2278"
+        ],
+        "3275": [
+          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 3275"
+        ],
+        "3277": [
+          "PERU 🦃 no décimo prêmio!<br>com o palpite 3277"
+        ],
+        "3278": [
+          "Dezena no décimo prêmio!<br>com o palpite 3278",
+          "PERU 🦃 no décimo prêmio!<br>com o palpite 3278"
+        ],
+        "0275": [
+          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 0275"
+        ],
+        "0277": [
+          "PERU 🦃 no décimo prêmio!<br>com o palpite 0277"
+        ],
+        "0278": [
+          "Dezena no décimo prêmio!<br>com o palpite 0278",
+          "PERU 🦃 no décimo prêmio!<br>com o palpite 0278"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 3,
+        "Grupo": [
+          "🦚",
+          "🦃"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0275, 0277, 0278, 2275, 2277, 2278, 3275, 3277, 3278"
+    },
+    "FEDERAL do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
