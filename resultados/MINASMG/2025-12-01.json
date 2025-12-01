@@ -141,14 +141,35 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1238": [
+          "Dezena no segundo prêmio!<br>com o palpite 1238",
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 1238",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 1238",
+          "Dezena no sexto prêmio!<br>com o palpite 1238",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 1238"
+        ],
+        "1288": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 1288",
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 1288"
+        ],
+        "1298": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 1298",
+          "Dezena no quarto prêmio!<br>com o palpite 1298",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 1298"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 2,
+        "Dezena": 3,
+        "Grupo": [
+          "🐅",
+          "🐇",
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1210, 1218"
+      "resumo": "Palpites dados para esta extração: 1218, 1238, 1288, 1298"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
