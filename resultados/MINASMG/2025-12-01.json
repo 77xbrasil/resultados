@@ -321,11 +321,48 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "5855",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5229",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3125",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9152",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7681",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "31042",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "615",
+          "Grupo": "",
+          "Bicho": ""
+        }
       ],
       "frases": {},
       "acertos": {
@@ -334,7 +371,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 4022, 4122, 4222, 4322, 4722, 9022, 9122, 9222, 9322, 9722"
     }
   }
 }
