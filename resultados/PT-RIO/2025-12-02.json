@@ -51,14 +51,25 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "9718": [
+          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 9718"
+        ],
+        "9798": [
+          "Dezena no quinto prêmio!<br>com o palpite 9798",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 9798"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🐕",
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 9515, 9715"
+      "resumo": "Palpites dados para esta extração: 9718, 9758, 9798"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -154,14 +165,29 @@
           "Bicho": "Vaca"
         }
       ],
-      "frases": {},
+      "frases": {
+        "9718": [
+          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 9718"
+        ],
+        "9798": [
+          "Dezena no quinto prêmio!<br>com o palpite 9798",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 9798",
+          "Dezena no sexto prêmio!<br>com o palpite 9798",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 9798",
+          "Dezena no décimo prêmio!<br>com o palpite 9798",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 9798"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 3,
+        "Grupo": [
+          "🐕",
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 9515, 9715"
+      "resumo": "Palpites dados para esta extração: 9718, 9758, 9798"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
