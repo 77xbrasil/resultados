@@ -52,26 +52,99 @@
         }
       ],
       "frases": {
-        "4155": [
-          "Dezena no sexto prêmio!<br>com o palpite 4155",
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 4155"
+        "0053": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 0053"
         ],
-        "0155": [
-          "Dezena no sexto prêmio!<br>com o palpite 0155",
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 0155"
+        "0153": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 0153"
+        ],
+        "0353": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 0353"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 0,
         "Grupo": [
           "🐈"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0115, 0155, 4115, 4155"
+      "resumo": "Palpites dados para esta extração: 0010, 0013, 0050, 0053, 0110, 0113, 0150, 0153, 0310, 0313, 0350, 0353"
     },
     "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0932",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6381",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7980",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8512",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7889",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "31694",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "947",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "0010": [
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 0010"
+        ],
+        "0110": [
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 0110"
+        ],
+        "0310": [
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 0310"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐴"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0010, 0013, 0050, 0053, 0110, 0113, 0150, 0153, 0310, 0313, 0350, 0353"
+    },
+    "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
