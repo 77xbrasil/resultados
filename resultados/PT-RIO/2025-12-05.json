@@ -1,0 +1,299 @@
+{
+  "1-5": {
+    "PT-RIO, RJ, 09:20, PT": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0489",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1272",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0546",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6668",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1456",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "0431",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "622",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "0290": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 0290"
+        ],
+        "0292": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 0292"
+        ],
+        "0390": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 0390"
+        ],
+        "0392": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 0392"
+        ],
+        "0990": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 0990"
+        ],
+        "0992": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 0992"
+        ],
+        "0270": [
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0270"
+        ],
+        "0272": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 0272",
+          "Dezena no segundo prêmio!<br>com o palpite 0272",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0272"
+        ],
+        "0370": [
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0370"
+        ],
+        "0372": [
+          "Dezena no segundo prêmio!<br>com o palpite 0372",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0372"
+        ],
+        "0970": [
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0970"
+        ],
+        "0972": [
+          "Dezena no segundo prêmio!<br>com o palpite 0972",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0972"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 3,
+        "Grupo": [
+          "🐻",
+          "🐖"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0200, 0202, 0204, 0207, 0270, 0272, 0274, 0277, 0290, 0292, 0294, 0297, 0300, 0302, 0304, 0307, 0370, 0372, 0374, 0377, 0390, 0392, 0394, 0397, 0900, 0902, 0904, 0907, 0970, 0972, 0974, 0977, 0990, 0992, 0994, 0997"
+    },
+    "PT-RIO, RJ, 11:00, PTM": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    }
+  },
+  "1-10": {
+    "PT-RIO, RJ, 09:20, PT do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0489",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1272",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0546",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6668",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1456",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0106",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4256",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8746",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9268",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2807",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        }
+      ],
+      "frases": {
+        "0290": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 0290"
+        ],
+        "0292": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 0292"
+        ],
+        "0390": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 0390"
+        ],
+        "0392": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 0392"
+        ],
+        "0990": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 0990"
+        ],
+        "0992": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 0992"
+        ],
+        "0270": [
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0270"
+        ],
+        "0272": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 0272",
+          "Dezena no segundo prêmio!<br>com o palpite 0272",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0272"
+        ],
+        "0370": [
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0370"
+        ],
+        "0372": [
+          "Dezena no segundo prêmio!<br>com o palpite 0372",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0372"
+        ],
+        "0970": [
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0970"
+        ],
+        "0972": [
+          "Dezena no segundo prêmio!<br>com o palpite 0972",
+          "PORCO 🐖 no segundo prêmio!<br>com o palpite 0972"
+        ],
+        "0207": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 0207",
+          "Dezena no décimo prêmio!<br>com o palpite 0207",
+          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 0207"
+        ],
+        "0307": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 0307",
+          "Dezena no décimo prêmio!<br>com o palpite 0307",
+          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 0307"
+        ],
+        "0907": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 0907",
+          "Dezena no décimo prêmio!<br>com o palpite 0907",
+          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 0907"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 6,
+        "Grupo": [
+          "🐻",
+          "🐖",
+          "🦅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0200, 0202, 0204, 0207, 0270, 0272, 0274, 0277, 0290, 0292, 0294, 0297, 0300, 0302, 0304, 0307, 0370, 0372, 0374, 0377, 0390, 0392, 0394, 0397, 0900, 0902, 0904, 0907, 0970, 0972, 0974, 0977, 0990, 0992, 0994, 0997"
+    },
+    "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    }
+  }
+}
