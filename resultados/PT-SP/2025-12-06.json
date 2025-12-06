@@ -51,23 +51,131 @@
           "Bicho": ""
         }
       ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1416, 1516, 1716, 2416, 2516, 2716, 5416, 5516, 5716, 7416, 7516, 7716"
+    },
+    "SP, 10hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3289",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0522",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1383",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4396",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4460",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "4050",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "716",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
       "frases": {
-        "5117": [
-          "Dezena no primeiro prêmio!<br>com o palpite 5117",
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 5117"
+        "1416": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1416",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 1416"
+        ],
+        "1516": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1516",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 1516"
+        ],
+        "1716": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 1716",
+          "Dezena no sétimo prêmio!<br>com o palpite 1716",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 1716"
+        ],
+        "2416": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2416",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 2416"
+        ],
+        "2516": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2516",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 2516"
+        ],
+        "2716": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 2716",
+          "Dezena no sétimo prêmio!<br>com o palpite 2716",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 2716"
+        ],
+        "5416": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5416",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 5416"
+        ],
+        "5516": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5516",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 5516"
+        ],
+        "5716": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 5716",
+          "Dezena no sétimo prêmio!<br>com o palpite 5716",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 5716"
+        ],
+        "7416": [
+          "Dezena no sétimo prêmio!<br>com o palpite 7416",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 7416"
+        ],
+        "7516": [
+          "Dezena no sétimo prêmio!<br>com o palpite 7516",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 7516"
+        ],
+        "7716": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 7716",
+          "Dezena no sétimo prêmio!<br>com o palpite 7716",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 7716"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 1,
+        "Centena": 4,
+        "Dezena": 12,
         "Grupo": [
-          "🐕"
+          "🦋"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5116, 5117"
+      "resumo": "Palpites dados para esta extração: 1416, 1516, 1716, 2416, 2516, 2716, 5416, 5516, 5716, 7416, 7516, 7716"
     },
-    "SP, 10hs - PTSP": {
+    "SP, 12:00 - PTSP": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -162,27 +270,188 @@
         }
       ],
       "frases": {
-        "5116": [
-          "Dezena no décimo prêmio!<br>com o palpite 5116",
-          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 5116"
+        "1416": [
+          "Dezena no décimo prêmio!<br>com o palpite 1416",
+          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 1416"
         ],
-        "5117": [
-          "Dezena no primeiro prêmio!<br>com o palpite 5117",
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 5117"
+        "1516": [
+          "Dezena no décimo prêmio!<br>com o palpite 1516",
+          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 1516"
+        ],
+        "1716": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 1716",
+          "Dezena no décimo prêmio!<br>com o palpite 1716",
+          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 1716"
+        ],
+        "2416": [
+          "Dezena no décimo prêmio!<br>com o palpite 2416",
+          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 2416"
+        ],
+        "2516": [
+          "Dezena no décimo prêmio!<br>com o palpite 2516",
+          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 2516"
+        ],
+        "2716": [
+          "Milhar e Centena no décimo prêmio!<br>com o palpite 2716",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 2716",
+          "Dezena no décimo prêmio!<br>com o palpite 2716",
+          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 2716"
+        ],
+        "5416": [
+          "Dezena no décimo prêmio!<br>com o palpite 5416",
+          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 5416"
+        ],
+        "5516": [
+          "Dezena no décimo prêmio!<br>com o palpite 5516",
+          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 5516"
+        ],
+        "5716": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 5716",
+          "Dezena no décimo prêmio!<br>com o palpite 5716",
+          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 5716"
+        ],
+        "7416": [
+          "Dezena no décimo prêmio!<br>com o palpite 7416",
+          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 7416"
+        ],
+        "7516": [
+          "Dezena no décimo prêmio!<br>com o palpite 7516",
+          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 7516"
+        ],
+        "7716": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 7716",
+          "Dezena no décimo prêmio!<br>com o palpite 7716",
+          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 7716"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 12,
+        "Grupo": [
+          "🦋"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1416, 1516, 1716, 2416, 2516, 2716, 5416, 5516, 5716, 7416, 7516, 7716"
+    },
+    "SP, 10hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3289",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0522",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1383",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4396",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4460",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3014",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2533",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8289",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9236",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7122",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        }
+      ],
+      "frases": {
+        "1416": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 1416"
+        ],
+        "1516": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 1516"
+        ],
+        "1716": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 1716"
+        ],
+        "2416": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 2416"
+        ],
+        "2516": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 2516"
+        ],
+        "2716": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 2716"
+        ],
+        "5416": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 5416"
+        ],
+        "5516": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 5516"
+        ],
+        "5716": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 5716"
+        ],
+        "7416": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 7416"
+        ],
+        "7516": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 7516"
+        ],
+        "7716": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 7716"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 0,
         "Grupo": [
-          "🐕",
           "🦋"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5116, 5117"
+      "resumo": "Palpites dados para esta extração: 1416, 1516, 1716, 2416, 2516, 2716, 5416, 5516, 5716, 7416, 7516, 7716"
     },
-    "SP, 10hs - PTSP do 1º ao 10º": {
+    "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
