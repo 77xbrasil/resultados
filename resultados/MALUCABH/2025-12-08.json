@@ -70,79 +70,514 @@
         }
       ],
       "frases": {
-        "2504": [
-          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 2504",
-          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 2504"
+        "1001": [
+          "Dezena no sexto prêmio!<br>com o palpite 1001",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1001",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1001"
         ],
-        "2514": [
-          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 2514"
+        "1003": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1003",
+          "Dezena no oitavo prêmio!<br>com o palpite 1003",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1003"
         ],
-        "2524": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 2524"
+        "1004": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1004",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1004"
         ],
-        "2538": [
-          "Dezena no nono prêmio!<br>com o palpite 2538",
-          "COELHO 🐇 no nono prêmio!<br>com o palpite 2538"
+        "1101": [
+          "Dezena no sexto prêmio!<br>com o palpite 1101",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1101",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1101"
         ],
-        "2539": [
-          "COELHO 🐇 no nono prêmio!<br>com o palpite 2539"
+        "1103": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1103",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 1103",
+          "Dezena no oitavo prêmio!<br>com o palpite 1103",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1103"
         ],
-        "2540": [
-          "COELHO 🐇 no nono prêmio!<br>com o palpite 2540"
+        "1104": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1104",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1104"
         ],
-        "2544": [
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 2544",
-          "Dezena no sétimo prêmio!<br>com o palpite 2544",
-          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 2544"
+        "1201": [
+          "Dezena no sexto prêmio!<br>com o palpite 1201",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1201",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1201"
         ],
-        "2548": [
-          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 2548"
+        "1203": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1203",
+          "Dezena no oitavo prêmio!<br>com o palpite 1203",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1203"
+        ],
+        "1204": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1204",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1204"
+        ],
+        "1501": [
+          "Dezena no sexto prêmio!<br>com o palpite 1501",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1501",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1501"
+        ],
+        "1503": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1503",
+          "Dezena no oitavo prêmio!<br>com o palpite 1503",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1503"
+        ],
+        "1504": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1504",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1504"
+        ],
+        "1601": [
+          "Dezena no sexto prêmio!<br>com o palpite 1601",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1601",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1601"
+        ],
+        "1603": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1603",
+          "Dezena no oitavo prêmio!<br>com o palpite 1603",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1603"
+        ],
+        "1604": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1604",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1604"
+        ],
+        "1701": [
+          "Dezena no sexto prêmio!<br>com o palpite 1701",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1701",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1701"
+        ],
+        "1703": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1703",
+          "Dezena no oitavo prêmio!<br>com o palpite 1703",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1703"
+        ],
+        "1704": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1704",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1704"
+        ],
+        "1801": [
+          "Dezena no sexto prêmio!<br>com o palpite 1801",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1801",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1801"
+        ],
+        "1803": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1803",
+          "Dezena no oitavo prêmio!<br>com o palpite 1803",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1803"
+        ],
+        "1804": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1804",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1804"
+        ],
+        "1901": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 1901",
+          "Dezena no sexto prêmio!<br>com o palpite 1901",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1901",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1901"
+        ],
+        "1903": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1903",
+          "Dezena no oitavo prêmio!<br>com o palpite 1903",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1903"
+        ],
+        "1904": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1904",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1904"
+        ],
+        "3001": [
+          "Dezena no sexto prêmio!<br>com o palpite 3001",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3001",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3001"
+        ],
+        "3003": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3003",
+          "Dezena no oitavo prêmio!<br>com o palpite 3003",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3003"
+        ],
+        "3004": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3004",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3004"
+        ],
+        "3101": [
+          "Dezena no sexto prêmio!<br>com o palpite 3101",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3101",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3101"
+        ],
+        "3103": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3103",
+          "Milhar e Centena no oitavo prêmio!<br>com o palpite 3103",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 3103",
+          "Dezena no oitavo prêmio!<br>com o palpite 3103",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3103"
+        ],
+        "3104": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3104",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3104"
+        ],
+        "3201": [
+          "Dezena no sexto prêmio!<br>com o palpite 3201",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3201",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3201"
+        ],
+        "3203": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3203",
+          "Dezena no oitavo prêmio!<br>com o palpite 3203",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3203"
+        ],
+        "3204": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3204",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3204"
+        ],
+        "3501": [
+          "Dezena no sexto prêmio!<br>com o palpite 3501",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3501",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3501"
+        ],
+        "3503": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3503",
+          "Dezena no oitavo prêmio!<br>com o palpite 3503",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3503"
         ],
         "3504": [
           "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3504",
           "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3504"
         ],
-        "3514": [
-          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3514"
+        "3601": [
+          "Dezena no sexto prêmio!<br>com o palpite 3601",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3601",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3601"
         ],
-        "3524": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 3524"
+        "3603": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3603",
+          "Dezena no oitavo prêmio!<br>com o palpite 3603",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3603"
         ],
-        "3538": [
-          "Dezena no nono prêmio!<br>com o palpite 3538",
-          "COELHO 🐇 no nono prêmio!<br>com o palpite 3538"
+        "3604": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3604",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3604"
         ],
-        "3539": [
-          "COELHO 🐇 no nono prêmio!<br>com o palpite 3539"
+        "3701": [
+          "Dezena no sexto prêmio!<br>com o palpite 3701",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3701",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3701"
         ],
-        "3540": [
-          "COELHO 🐇 no nono prêmio!<br>com o palpite 3540"
+        "3703": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3703",
+          "Dezena no oitavo prêmio!<br>com o palpite 3703",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3703"
         ],
-        "3544": [
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 3544",
-          "Dezena no sétimo prêmio!<br>com o palpite 3544",
-          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 3544"
+        "3704": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3704",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3704"
         ],
-        "3548": [
-          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 3548"
+        "3801": [
+          "Dezena no sexto prêmio!<br>com o palpite 3801",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3801",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3801"
+        ],
+        "3803": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3803",
+          "Dezena no oitavo prêmio!<br>com o palpite 3803",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3803"
+        ],
+        "3804": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3804",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3804"
+        ],
+        "3901": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 3901",
+          "Dezena no sexto prêmio!<br>com o palpite 3901",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3901",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3901"
+        ],
+        "3903": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3903",
+          "Dezena no oitavo prêmio!<br>com o palpite 3903",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3903"
+        ],
+        "3904": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3904",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 3904"
+        ],
+        "5001": [
+          "Dezena no sexto prêmio!<br>com o palpite 5001",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5001",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5001"
+        ],
+        "5003": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5003",
+          "Dezena no oitavo prêmio!<br>com o palpite 5003",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5003"
+        ],
+        "5004": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5004",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5004"
+        ],
+        "5101": [
+          "Dezena no sexto prêmio!<br>com o palpite 5101",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5101",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5101"
+        ],
+        "5103": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5103",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 5103",
+          "Dezena no oitavo prêmio!<br>com o palpite 5103",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5103"
+        ],
+        "5104": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5104",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5104"
+        ],
+        "5201": [
+          "Dezena no sexto prêmio!<br>com o palpite 5201",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5201",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5201"
+        ],
+        "5203": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5203",
+          "Dezena no oitavo prêmio!<br>com o palpite 5203",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5203"
+        ],
+        "5204": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5204",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5204"
+        ],
+        "5501": [
+          "Dezena no sexto prêmio!<br>com o palpite 5501",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5501",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5501"
+        ],
+        "5503": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5503",
+          "Dezena no oitavo prêmio!<br>com o palpite 5503",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5503"
+        ],
+        "5504": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5504",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5504"
+        ],
+        "5601": [
+          "Dezena no sexto prêmio!<br>com o palpite 5601",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5601",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5601"
+        ],
+        "5603": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5603",
+          "Dezena no oitavo prêmio!<br>com o palpite 5603",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5603"
+        ],
+        "5604": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5604",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5604"
+        ],
+        "5701": [
+          "Dezena no sexto prêmio!<br>com o palpite 5701",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5701",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5701"
+        ],
+        "5703": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5703",
+          "Dezena no oitavo prêmio!<br>com o palpite 5703",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5703"
+        ],
+        "5704": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5704",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5704"
+        ],
+        "5801": [
+          "Dezena no sexto prêmio!<br>com o palpite 5801",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5801",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5801"
+        ],
+        "5803": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5803",
+          "Dezena no oitavo prêmio!<br>com o palpite 5803",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5803"
+        ],
+        "5804": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5804",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5804"
+        ],
+        "5901": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 5901",
+          "Dezena no sexto prêmio!<br>com o palpite 5901",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5901",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5901"
+        ],
+        "5903": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5903",
+          "Dezena no oitavo prêmio!<br>com o palpite 5903",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5903"
+        ],
+        "5904": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5904",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5904"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 6,
+        "Dezena": 48,
+        "Grupo": [
+          "🪶"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1001, 1003, 1004, 1006, 1008, 1009, 1101, 1103, 1104, 1106, 1108, 1109, 1201, 1203, 1204, 1206, 1208, 1209, 1501, 1503, 1504, 1506, 1508, 1509, 1601, 1603, 1604, 1606, 1608, 1609, 1701, 1703, 1704, 1706, 1708, 1709, 1801, 1803, 1804, 1806, 1808, 1809, 1901, 1903, 1904, 1906, 1908, 1909, 3001, 3003, 3004, 3006, 3008, 3009, 3101, 3103, 3104, 3106, 3108, 3109, 3201, 3203, 3204, 3206, 3208, 3209, 3501, 3503, 3504, 3506, 3508, 3509, 3601, 3603, 3604, 3606, 3608, 3609, 3701, 3703, 3704, 3706, 3708, 3709, 3801, 3803, 3804, 3806, 3808, 3809, 3901, 3903, 3904, 3906, 3908, 3909, 5001, 5003, 5004, 5006, 5008, 5009, 5101, 5103, 5104, 5106, 5108, 5109, 5201, 5203, 5204, 5206, 5208, 5209, 5501, 5503, 5504, 5506, 5508, 5509, 5601, 5603, 5604, 5606, 5608, 5609, 5701, 5703, 5704, 5706, 5708, 5709, 5801, 5803, 5804, 5806, 5808, 5809, 5901, 5903, 5904, 5906, 5908, 5909"
+    },
+    "12h - MALUCA - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4376",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8434",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9881",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6895",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4366",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7773",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8376",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5411",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3057",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0281",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        }
+      ],
+      "frases": {
+        "1009": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1009"
+        ],
+        "1109": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1109"
+        ],
+        "1209": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1209"
+        ],
+        "1509": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1509"
+        ],
+        "1609": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1609"
+        ],
+        "1709": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1709"
+        ],
+        "1809": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1809"
+        ],
+        "1909": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1909"
+        ],
+        "3009": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 3009"
+        ],
+        "3109": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 3109"
+        ],
+        "3209": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 3209"
+        ],
+        "3509": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 3509"
+        ],
+        "3609": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 3609"
+        ],
+        "3709": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 3709"
+        ],
+        "3809": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 3809"
+        ],
+        "3909": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 3909"
+        ],
+        "5009": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 5009"
+        ],
+        "5109": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 5109"
+        ],
+        "5209": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 5209"
+        ],
+        "5509": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 5509"
+        ],
+        "5609": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 5609"
+        ],
+        "5709": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 5709"
+        ],
+        "5809": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 5809"
+        ],
+        "5909": [
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 5909"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 2,
-        "Dezena": 4,
+        "Centena": 0,
+        "Dezena": 0,
         "Grupo": [
-          "🐐",
-          "🦋",
-          "🐘",
-          "🪶",
-          "🐎",
-          "🐇"
+          "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2500, 2504, 2508, 2509, 2510, 2514, 2518, 2519, 2520, 2524, 2528, 2529, 2530, 2534, 2538, 2539, 2540, 2544, 2548, 2549, 2550, 2554, 2558, 2559, 2560, 2564, 2568, 2569, 2590, 2594, 2598, 2599, 3500, 3504, 3508, 3509, 3510, 3514, 3518, 3519, 3520, 3524, 3528, 3529, 3530, 3534, 3538, 3539, 3540, 3544, 3548, 3549, 3550, 3554, 3558, 3559, 3560, 3564, 3568, 3569, 3590, 3594, 3598, 3599"
+      "resumo": "Palpites dados para esta extração: 1001, 1003, 1004, 1006, 1008, 1009, 1101, 1103, 1104, 1106, 1108, 1109, 1201, 1203, 1204, 1206, 1208, 1209, 1501, 1503, 1504, 1506, 1508, 1509, 1601, 1603, 1604, 1606, 1608, 1609, 1701, 1703, 1704, 1706, 1708, 1709, 1801, 1803, 1804, 1806, 1808, 1809, 1901, 1903, 1904, 1906, 1908, 1909, 3001, 3003, 3004, 3006, 3008, 3009, 3101, 3103, 3104, 3106, 3108, 3109, 3201, 3203, 3204, 3206, 3208, 3209, 3501, 3503, 3504, 3506, 3508, 3509, 3601, 3603, 3604, 3606, 3608, 3609, 3701, 3703, 3704, 3706, 3708, 3709, 3801, 3803, 3804, 3806, 3808, 3809, 3901, 3903, 3904, 3906, 3908, 3909, 5001, 5003, 5004, 5006, 5008, 5009, 5101, 5103, 5104, 5106, 5108, 5109, 5201, 5203, 5204, 5206, 5208, 5209, 5501, 5503, 5504, 5506, 5508, 5509, 5601, 5603, 5604, 5606, 5608, 5609, 5701, 5703, 5704, 5706, 5708, 5709, 5801, 5803, 5804, 5806, 5808, 5809, 5901, 5903, 5904, 5906, 5908, 5909"
     },
-    "12h - MALUCA - BA": {
+    "15h - MALUCA - BA": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
