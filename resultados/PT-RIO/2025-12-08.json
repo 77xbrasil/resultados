@@ -55,14 +55,26 @@
         "1089": [
           "URSO 🐻 no sexto prêmio!<br>com o palpite 1089"
         ],
-        "1099": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 1099"
+        "1889": [
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 1889"
+        ],
+        "2089": [
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 2089"
+        ],
+        "2889": [
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 2889"
+        ],
+        "3089": [
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 3089"
+        ],
+        "3889": [
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 3889"
         ],
         "9089": [
           "URSO 🐻 no sexto prêmio!<br>com o palpite 9089"
         ],
-        "9099": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 9099"
+        "9889": [
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 9889"
         ]
       },
       "acertos": {
@@ -70,11 +82,10 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐄",
           "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1019, 1089, 1099, 9019, 9089, 9099"
+      "resumo": "Palpites dados para esta extração: 1089, 1889, 2089, 2889, 3089, 3889, 9089, 9889"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -127,28 +138,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "1099": [
-          "Milhar e Centena no quarto prêmio!<br>com o palpite 1099",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 1099",
-          "Dezena no quarto prêmio!<br>com o palpite 1099",
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 1099"
-        ],
-        "9099": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 9099",
-          "Dezena no quarto prêmio!<br>com o palpite 9099",
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 9099"
-        ]
-      },
+      "frases": {},
       "acertos": {
-        "Milhar": 1,
-        "Centena": 2,
-        "Dezena": 2,
-        "Grupo": [
-          "🐄"
-        ]
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1019, 1089, 1099, 9019, 9089, 9099"
+      "resumo": "Palpites dados para esta extração: 1089, 1889, 2089, 2889, 3089, 3889, 9089, 9889"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -201,27 +198,76 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "1099": [
-          "Dezena no sexto prêmio!<br>com o palpite 1099",
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 1099"
-        ],
-        "9099": [
-          "Dezena no sexto prêmio!<br>com o palpite 9099",
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 9099"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
-        "Grupo": [
-          "🐄"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1019, 1089, 1099, 9019, 9089, 9099"
+      "resumo": "Palpites dados para esta extração: 1089, 1889, 2089, 2889, 3089, 3889, 9089, 9889"
     },
     "PT-RIO, RJ, 16:00, PTV": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7668",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1120",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2517",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0457",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2058",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "3820",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "588",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1089, 1889, 2089, 2889, 3089, 3889, 9089, 9889"
+    },
+    "PT-RIO, RJ, 18:20, PTN": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -315,23 +361,14 @@
           "Bicho": "Borboleta"
         }
       ],
-      "frases": {
-        "1099": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 1099"
-        ],
-        "9099": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 9099"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐄"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1019, 1089, 1099, 9019, 9089, 9099"
+      "resumo": "Palpites dados para esta extração: 1089, 1889, 2089, 2889, 3089, 3889, 9089, 9889"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -402,37 +439,14 @@
           "Bicho": "Burro"
         }
       ],
-      "frases": {
-        "1019": [
-          "Dezena no nono prêmio!<br>com o palpite 1019",
-          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 1019"
-        ],
-        "1099": [
-          "Milhar e Centena no quarto prêmio!<br>com o palpite 1099",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 1099",
-          "Dezena no quarto prêmio!<br>com o palpite 1099",
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 1099"
-        ],
-        "9019": [
-          "Dezena no nono prêmio!<br>com o palpite 9019",
-          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 9019"
-        ],
-        "9099": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 9099",
-          "Dezena no quarto prêmio!<br>com o palpite 9099",
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 9099"
-        ]
-      },
+      "frases": {},
       "acertos": {
-        "Milhar": 1,
-        "Centena": 2,
-        "Dezena": 4,
-        "Grupo": [
-          "🐄",
-          "🐕"
-        ]
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1019, 1089, 1099, 9019, 9089, 9099"
+      "resumo": "Palpites dados para esta extração: 1089, 1889, 2089, 2889, 3089, 3889, 9089, 9889"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -510,9 +524,87 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1019, 1089, 1099, 9019, 9089, 9099"
+      "resumo": "Palpites dados para esta extração: 1089, 1889, 2089, 2889, 3089, 3889, 9089, 9889"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7668",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1120",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2517",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0457",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2058",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7120",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6154",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6215",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8077",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1386",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1089, 1889, 2089, 2889, 3089, 3889, 9089, 9889"
+    },
+    "PT-RIO, RJ, 18:20, PTN do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
