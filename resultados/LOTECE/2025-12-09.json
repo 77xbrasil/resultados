@@ -70,10 +70,6 @@
         }
       ],
       "frases": {
-        "2012": [
-          "Dezena no quarto prêmio!<br>com o palpite 2012",
-          "BURRO 🐴 no quarto prêmio!<br>com o palpite 2012"
-        ],
         "2312": [
           "Dezena no quarto prêmio!<br>com o palpite 2312",
           "BURRO 🐴 no quarto prêmio!<br>com o palpite 2312"
@@ -89,19 +85,129 @@
         "2812": [
           "Dezena no quarto prêmio!<br>com o palpite 2812",
           "BURRO 🐴 no quarto prêmio!<br>com o palpite 2812"
+        ],
+        "3312": [
+          "Dezena no quarto prêmio!<br>com o palpite 3312",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 3312"
+        ],
+        "3412": [
+          "Dezena no quarto prêmio!<br>com o palpite 3412",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 3412"
+        ],
+        "3512": [
+          "Dezena no quarto prêmio!<br>com o palpite 3512",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 3512"
+        ],
+        "3812": [
+          "Dezena no quarto prêmio!<br>com o palpite 3812",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 3812"
+        ],
+        "6312": [
+          "Dezena no quarto prêmio!<br>com o palpite 6312",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 6312"
+        ],
+        "6412": [
+          "Dezena no quarto prêmio!<br>com o palpite 6412",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 6412"
+        ],
+        "6512": [
+          "Dezena no quarto prêmio!<br>com o palpite 6512",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 6512"
+        ],
+        "6812": [
+          "Dezena no quarto prêmio!<br>com o palpite 6812",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 6812"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 5,
+        "Dezena": 12,
         "Grupo": [
           "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2012, 2014, 2015, 2072, 2074, 2075, 2312, 2314, 2315, 2372, 2374, 2375, 2412, 2414, 2415, 2472, 2474, 2475, 2512, 2514, 2515, 2572, 2574, 2575, 2812, 2814, 2815, 2872, 2874, 2875"
+      "resumo": "Palpites dados para esta extração: 2312, 2316, 2412, 2416, 2512, 2516, 2812, 2816, 3312, 3316, 3412, 3416, 3512, 3516, 3812, 3816, 6312, 6316, 6412, 6416, 6512, 6516, 6812, 6816"
     },
     "LOTECE - CE, 14:00 (tarde)": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6650",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6869",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1905",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0202",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2336",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1132",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "9355",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1450",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1901",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1102",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 2312, 2316, 2412, 2416, 2512, 2516, 2812, 2816, 3312, 3316, 3412, 3416, 3512, 3516, 3812, 3816, 6312, 6316, 6412, 6416, 6512, 6516, 6812, 6816"
+    },
+    "LOTECE - CE, 15:45 (tarde II)": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
