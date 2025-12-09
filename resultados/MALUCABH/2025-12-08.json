@@ -76,7 +76,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 7363, 8363"
+      "resumo": "Palpites dados para esta extração: 7363, 7663, 7763"
     },
     "12h - MALUCA - BA": {
       "cabecalhos": [
@@ -154,7 +154,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 7363, 8363"
+      "resumo": "Palpites dados para esta extração: 7363, 7663, 7763"
     },
     "15h - MALUCA - BA": {
       "cabecalhos": [
@@ -231,21 +231,28 @@
           "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 7363",
           "LEÃO 🦁 no sexto prêmio!<br>com o palpite 7363"
         ],
-        "8363": [
-          "Dezena no primeiro prêmio!<br>com o palpite 8363",
-          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 8363",
-          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 8363"
+        "7663": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 7663",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 7663",
+          "Dezena no primeiro prêmio!<br>com o palpite 7663",
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 7663",
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 7663"
+        ],
+        "7763": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7763",
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 7763",
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 7763"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 2,
+        "Milhar": 1,
+        "Centena": 1,
+        "Dezena": 3,
         "Grupo": [
           "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7363, 8363"
+      "resumo": "Palpites dados para esta extração: 7363, 7663, 7763"
     },
     "19h - MALUCA - BA": {
       "cabecalhos": [
@@ -320,8 +327,11 @@
         "7363": [
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 7363"
         ],
-        "8363": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 8363"
+        "7663": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 7663"
+        ],
+        "7763": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 7763"
         ]
       },
       "acertos": {
@@ -332,7 +342,7 @@
           "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7363, 8363"
+      "resumo": "Palpites dados para esta extração: 7363, 7663, 7763"
     },
     "21h - MALUCA - BA": {
       "cabecalhos": [
@@ -342,16 +352,66 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "7029",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8854",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1872",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4833",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9492",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0458",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6829",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1049",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8637",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6726",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        }
       ],
       "frases": {},
       "acertos": {
@@ -360,7 +420,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 7363, 7663, 7763"
     }
   }
 }
