@@ -52,8 +52,31 @@
         }
       ],
       "frases": {
+        "3200": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 3200",
+          "Dezena no primeiro prêmio!<br>com o palpite 3200",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 3200"
+        ],
+        "3219": [
+          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 3219"
+        ],
+        "3300": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3300",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 3300"
+        ],
+        "3319": [
+          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 3319"
+        ],
+        "3400": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3400",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 3400"
+        ],
         "3419": [
           "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 3419"
+        ],
+        "3600": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3600",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 3600"
         ],
         "3619": [
           "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 3619"
@@ -61,15 +84,134 @@
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Centena": 1,
+        "Dezena": 4,
         "Grupo": [
+          "🐄",
           "🐕"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3410, 3413, 3415, 3419, 3610, 3613, 3615, 3619"
+      "resumo": "Palpites dados para esta extração: 3200, 3204, 3209, 3210, 3214, 3219, 3280, 3284, 3289, 3300, 3304, 3309, 3310, 3314, 3319, 3380, 3384, 3389, 3400, 3404, 3409, 3410, 3414, 3419, 3480, 3484, 3489, 3600, 3604, 3609, 3610, 3614, 3619, 3680, 3684, 3689"
     },
     "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8860",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3900",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8679",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9113",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0891",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "31443",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "554",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "3200": [
+          "Dezena no segundo prêmio!<br>com o palpite 3200",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 3200"
+        ],
+        "3214": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 3214"
+        ],
+        "3280": [
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 3280"
+        ],
+        "3289": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 3289"
+        ],
+        "3300": [
+          "Dezena no segundo prêmio!<br>com o palpite 3300",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 3300"
+        ],
+        "3314": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 3314"
+        ],
+        "3380": [
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 3380"
+        ],
+        "3389": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 3389"
+        ],
+        "3400": [
+          "Dezena no segundo prêmio!<br>com o palpite 3400",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 3400"
+        ],
+        "3414": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 3414"
+        ],
+        "3480": [
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 3480"
+        ],
+        "3489": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 3489"
+        ],
+        "3600": [
+          "Dezena no segundo prêmio!<br>com o palpite 3600",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 3600"
+        ],
+        "3614": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 3614"
+        ],
+        "3680": [
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 3680"
+        ],
+        "3689": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 3689"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 4,
+        "Grupo": [
+          "🐄",
+          "🦃",
+          "🦋",
+          "🐻"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3200, 3204, 3209, 3210, 3214, 3219, 3280, 3284, 3289, 3300, 3304, 3309, 3310, 3314, 3319, 3380, 3384, 3389, 3400, 3404, 3409, 3410, 3414, 3419, 3480, 3484, 3489, 3600, 3604, 3609, 3610, 3614, 3619, 3680, 3684, 3689"
+    },
+    "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
