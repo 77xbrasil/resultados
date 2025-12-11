@@ -69,16 +69,128 @@
           "Bicho": "Veado"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2386": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 2386"
+        ],
+        "2396": [
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 2396"
+        ],
+        "2586": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 2586"
+        ],
+        "2596": [
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 2596"
+        ],
+        "2986": [
+          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 2986"
+        ],
+        "2996": [
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 2996"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐅",
+          "🦌"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5936, 7936"
+      "resumo": "Palpites dados para esta extração: 2326, 2336, 2386, 2396, 2526, 2536, 2586, 2596, 2926, 2936, 2986, 2996"
     },
     "LOTECE - CE, 14:00 (tarde)": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2247",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0043",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4255",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6556",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6391",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5185",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8912",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "4445",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5559",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6740",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        }
+      ],
+      "frases": {
+        "2386": [
+          "TIGRE 🐅 no sexto prêmio!<br>com o palpite 2386"
+        ],
+        "2586": [
+          "TIGRE 🐅 no sexto prêmio!<br>com o palpite 2586"
+        ],
+        "2986": [
+          "TIGRE 🐅 no sexto prêmio!<br>com o palpite 2986"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2326, 2336, 2386, 2396, 2526, 2536, 2586, 2596, 2926, 2936, 2986, 2996"
+    },
+    "LOTECE - CE, 15:45 (tarde II)": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
