@@ -52,6 +52,11 @@
         }
       ],
       "frases": {
+        "3257": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 3257",
+          "Dezena no quinto prêmio!<br>com o palpite 3257",
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 3257"
+        ],
         "3357": [
           "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 3357",
           "Dezena no quinto prêmio!<br>com o palpite 3357",
@@ -61,6 +66,16 @@
           "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 3657",
           "Dezena no quinto prêmio!<br>com o palpite 3657",
           "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 3657"
+        ],
+        "3957": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 3957",
+          "Dezena no quinto prêmio!<br>com o palpite 3957",
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 3957"
+        ],
+        "6257": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 6257",
+          "Dezena no quinto prêmio!<br>com o palpite 6257",
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 6257"
         ],
         "6357": [
           "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 6357",
@@ -72,15 +87,15 @@
           "Dezena no quinto prêmio!<br>com o palpite 6657",
           "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 6657"
         ],
-        "7357": [
-          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 7357",
-          "Dezena no quinto prêmio!<br>com o palpite 7357",
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 7357"
+        "6957": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 6957",
+          "Dezena no quinto prêmio!<br>com o palpite 6957",
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 6957"
         ],
-        "7657": [
-          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 7657",
-          "Dezena no quinto prêmio!<br>com o palpite 7657",
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 7657"
+        "8257": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 8257",
+          "Dezena no quinto prêmio!<br>com o palpite 8257",
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 8257"
         ],
         "8357": [
           "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 8357",
@@ -91,19 +106,135 @@
           "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 8657",
           "Dezena no quinto prêmio!<br>com o palpite 8657",
           "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 8657"
+        ],
+        "8957": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 8957",
+          "Dezena no quinto prêmio!<br>com o palpite 8957",
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 8957"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 8,
+        "Dezena": 12,
         "Grupo": [
           "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3352, 3355, 3357, 3652, 3655, 3657, 6352, 6355, 6357, 6652, 6655, 6657, 7352, 7355, 7357, 7652, 7655, 7657, 8352, 8355, 8357, 8652, 8655, 8657"
+      "resumo": "Palpites dados para esta extração: 3255, 3257, 3355, 3357, 3655, 3657, 3955, 3957, 6255, 6257, 6355, 6357, 6655, 6657, 6955, 6957, 8255, 8257, 8355, 8357, 8655, 8657, 8955, 8957"
     },
     "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0684",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6624",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2964",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0855",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9093",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "20220",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "530",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "3255": [
+          "Dezena no quarto prêmio!<br>com o palpite 3255",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 3255"
+        ],
+        "3355": [
+          "Dezena no quarto prêmio!<br>com o palpite 3355",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 3355"
+        ],
+        "3655": [
+          "Dezena no quarto prêmio!<br>com o palpite 3655",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 3655"
+        ],
+        "3955": [
+          "Dezena no quarto prêmio!<br>com o palpite 3955",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 3955"
+        ],
+        "6255": [
+          "Dezena no quarto prêmio!<br>com o palpite 6255",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 6255"
+        ],
+        "6355": [
+          "Dezena no quarto prêmio!<br>com o palpite 6355",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 6355"
+        ],
+        "6655": [
+          "Dezena no quarto prêmio!<br>com o palpite 6655",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 6655"
+        ],
+        "6955": [
+          "Dezena no quarto prêmio!<br>com o palpite 6955",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 6955"
+        ],
+        "8255": [
+          "Dezena no quarto prêmio!<br>com o palpite 8255",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 8255"
+        ],
+        "8355": [
+          "Dezena no quarto prêmio!<br>com o palpite 8355",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 8355"
+        ],
+        "8655": [
+          "Dezena no quarto prêmio!<br>com o palpite 8655",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 8655"
+        ],
+        "8955": [
+          "Dezena no quarto prêmio!<br>com o palpite 8955",
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 8955"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 12,
+        "Grupo": [
+          "🐈"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3255, 3257, 3355, 3357, 3655, 3657, 3955, 3957, 6255, 6257, 6355, 6357, 6655, 6657, 6955, 6957, 8255, 8257, 8355, 8357, 8655, 8657, 8955, 8957"
+    },
+    "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
