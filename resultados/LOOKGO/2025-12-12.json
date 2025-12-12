@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8303, 8333, 8383"
+      "resumo": "Palpites dados para esta extração: 2303, 2307, 6303, 6307"
     },
     "LOOK - GOIÁS, 09h": {
       "cabecalhos": [
@@ -111,20 +111,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "8333": [
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 8333"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐍"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8303, 8333, 8383"
+      "resumo": "Palpites dados para esta extração: 2303, 2307, 6303, 6307"
     },
     "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
@@ -178,8 +172,11 @@
         }
       ],
       "frases": {
-        "8303": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 8303"
+        "2303": [
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 2303"
+        ],
+        "6303": [
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 6303"
         ]
       },
       "acertos": {
@@ -190,7 +187,7 @@
           "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8303, 8333, 8383"
+      "resumo": "Palpites dados para esta extração: 2303, 2307, 6303, 6307"
     },
     "LOOK - GOIÁS, 14h": {
       "cabecalhos": [
@@ -243,21 +240,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "8383": [
-          "Dezena no terceiro prêmio!<br>com o palpite 8383",
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 8383"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
-        "Grupo": [
-          "🐂"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8303, 8333, 8383"
+      "resumo": "Palpites dados para esta extração: 2303, 2307, 6303, 6307"
     },
     "LOOK - GOIÁS, 16h": {
       "cabecalhos": [
@@ -311,26 +301,100 @@
         }
       ],
       "frases": {
-        "8303": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 8303"
+        "2303": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 2303"
         ],
-        "8383": [
-          "Dezena no quinto prêmio!<br>com o palpite 8383",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 8383"
+        "2307": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 2307"
+        ],
+        "6303": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 6303"
+        ],
+        "6307": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 6307"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 0,
         "Grupo": [
           "🪶",
-          "🐂"
+          "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8303, 8333, 8383"
+      "resumo": "Palpites dados para esta extração: 2303, 2307, 6303, 6307"
     },
     "LOOK - GOIÁS, 18h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6094",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3715",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8990",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1208",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3241",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "3248",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "639",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2307": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 2307"
+        ],
+        "6307": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 6307"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🦅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2303, 2307, 6303, 6307"
+    },
+    "LOOK - GOIÁS, 21h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -431,7 +495,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8303, 8333, 8383"
+      "resumo": "Palpites dados para esta extração: 2303, 2307, 6303, 6307"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
       "cabecalhos": [
@@ -509,7 +573,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8303, 8333, 8383"
+      "resumo": "Palpites dados para esta extração: 2303, 2307, 6303, 6307"
     },
     "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
@@ -581,28 +645,32 @@
         }
       ],
       "frases": {
-        "8303": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 8303",
-          "Dezena no sexto prêmio!<br>com o palpite 8303",
-          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 8303",
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 8303",
-          "Dezena no sétimo prêmio!<br>com o palpite 8303",
-          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 8303"
+        "2303": [
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 2303",
+          "Dezena no sexto prêmio!<br>com o palpite 2303",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 2303",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 2303",
+          "Dezena no sétimo prêmio!<br>com o palpite 2303",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 2303"
         ],
-        "8333": [
-          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 8333"
+        "6303": [
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 6303",
+          "Dezena no sexto prêmio!<br>com o palpite 6303",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 6303",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 6303",
+          "Dezena no sétimo prêmio!<br>com o palpite 6303",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 6303"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 2,
+        "Centena": 2,
+        "Dezena": 4,
         "Grupo": [
-          "🪶",
-          "🐍"
+          "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8303, 8333, 8383"
+      "resumo": "Palpites dados para esta extração: 2303, 2307, 6303, 6307"
     },
     "LOOK - GOIÁS, 14h do 1º ao 10º": {
       "cabecalhos": [
@@ -673,22 +741,14 @@
           "Bicho": "Urso"
         }
       ],
-      "frases": {
-        "8383": [
-          "Dezena no terceiro prêmio!<br>com o palpite 8383",
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 8383",
-          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 8383"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
-        "Grupo": [
-          "🐂"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8303, 8333, 8383"
+      "resumo": "Palpites dados para esta extração: 2303, 2307, 6303, 6307"
     },
     "LOOK - GOIÁS, 16h do 1º ao 10º": {
       "cabecalhos": [
@@ -760,26 +820,124 @@
         }
       ],
       "frases": {
-        "8303": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 8303"
+        "2303": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 2303"
         ],
-        "8383": [
-          "Dezena no quinto prêmio!<br>com o palpite 8383",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 8383"
+        "2307": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 2307",
+          "Dezena no oitavo prêmio!<br>com o palpite 2307",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 2307"
+        ],
+        "6303": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 6303"
+        ],
+        "6307": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 6307",
+          "Dezena no oitavo prêmio!<br>com o palpite 6307",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 6307"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 2,
         "Grupo": [
           "🪶",
-          "🐂"
+          "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8303, 8333, 8383"
+      "resumo": "Palpites dados para esta extração: 2303, 2307, 6303, 6307"
     },
     "LOOK - GOIÁS, 18h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6094",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3715",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8990",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1208",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3241",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "6381",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0792",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "9190",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4508",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "4119",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        }
+      ],
+      "frases": {
+        "2307": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 2307",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 2307"
+        ],
+        "6307": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 6307",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 6307"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🦅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2303, 2307, 6303, 6307"
+    },
+    "LOOK - GOIÁS, 21h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
