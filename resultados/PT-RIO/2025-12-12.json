@@ -51,14 +51,29 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1001": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1001"
+        ],
+        "1002": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1002"
+        ],
+        "8001": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 8001"
+        ],
+        "8002": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 8002"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🪶"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 8008, 8028, 8038, 8058, 9008, 9028, 9038, 9058"
+      "resumo": "Palpites dados para esta extração: 1001, 1002, 1008, 1031, 1032, 1038, 1051, 1052, 1058, 8001, 8002, 8008, 8031, 8032, 8038, 8051, 8052, 8058"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -118,7 +133,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8008, 8028, 8038, 8058, 9008, 9028, 9038, 9058"
+      "resumo": "Palpites dados para esta extração: 1001, 1002, 1008, 1031, 1032, 1038, 1051, 1052, 1058, 8001, 8002, 8008, 8031, 8032, 8038, 8051, 8052, 8058"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -172,11 +187,11 @@
         }
       ],
       "frases": {
+        "1008": [
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 1008"
+        ],
         "8008": [
           "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 8008"
-        ],
-        "9008": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 9008"
         ]
       },
       "acertos": {
@@ -187,7 +202,7 @@
           "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8008, 8028, 8038, 8058, 9008, 9028, 9038, 9058"
+      "resumo": "Palpites dados para esta extração: 1001, 1002, 1008, 1031, 1032, 1038, 1051, 1052, 1058, 8001, 8002, 8008, 8031, 8032, 8038, 8051, 8052, 8058"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -241,33 +256,42 @@
         }
       ],
       "frases": {
+        "1008": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 1008",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 1008",
+          "Dezena no segundo prêmio!<br>com o palpite 1008",
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 1008"
+        ],
+        "1051": [
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 1051"
+        ],
+        "1052": [
+          "Dezena no quarto prêmio!<br>com o palpite 1052",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 1052"
+        ],
         "8008": [
           "Centena e Dezena no segundo prêmio!<br>com o palpite 8008",
           "Dezena no segundo prêmio!<br>com o palpite 8008",
           "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 8008"
         ],
-        "8028": [
-          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 8028"
+        "8051": [
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 8051"
         ],
-        "9008": [
-          "Centena e Dezena no segundo prêmio!<br>com o palpite 9008",
-          "Dezena no segundo prêmio!<br>com o palpite 9008",
-          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 9008"
-        ],
-        "9028": [
-          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 9028"
+        "8052": [
+          "Dezena no quarto prêmio!<br>com o palpite 8052",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 8052"
         ]
       },
       "acertos": {
-        "Milhar": 0,
+        "Milhar": 1,
         "Centena": 2,
-        "Dezena": 2,
+        "Dezena": 4,
         "Grupo": [
           "🦅",
-          "🐑"
+          "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8008, 8028, 8038, 8058, 9008, 9028, 9038, 9058"
+      "resumo": "Palpites dados para esta extração: 1001, 1002, 1008, 1031, 1032, 1038, 1051, 1052, 1058, 8001, 8002, 8008, 8031, 8032, 8038, 8051, 8052, 8058"
     },
     "PT-RIO, RJ, 18:20, PTN": {
       "cabecalhos": [
@@ -321,11 +345,107 @@
         }
       ],
       "frases": {
+        "1008": [
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 1008"
+        ],
+        "1031": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1031",
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 1031"
+        ],
+        "1032": [
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 1032"
+        ],
         "8008": [
           "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 8008"
         ],
-        "9008": [
-          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 9008"
+        "8031": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8031",
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 8031"
+        ],
+        "8032": [
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 8032"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐪",
+          "🦅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1001, 1002, 1008, 1031, 1032, 1038, 1051, 1052, 1058, 8001, 8002, 8008, 8031, 8032, 8038, 8051, 8052, 8058"
+    },
+    "PT-RIO, RJ, 21:20, CORUJA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6149",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5096",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3135",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6657",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1599",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2636",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "335",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1051": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1051"
+        ],
+        "1052": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1052"
+        ],
+        "1058": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 1058"
+        ],
+        "8051": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 8051"
+        ],
+        "8052": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 8052"
+        ],
+        "8058": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 8058"
         ]
       },
       "acertos": {
@@ -333,12 +453,13 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🦅"
+          "🐓",
+          "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8008, 8028, 8038, 8058, 9008, 9028, 9038, 9058"
+      "resumo": "Palpites dados para esta extração: 1001, 1002, 1008, 1031, 1032, 1038, 1051, 1052, 1058, 8001, 8002, 8008, 8031, 8032, 8038, 8051, 8052, 8058"
     },
-    "PT-RIO, RJ, 21:20, CORUJA": {
+    "A FEDERAL DO BRASIL - RJ": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -433,24 +554,28 @@
         }
       ],
       "frases": {
-        "8028": [
-          "Dezena no sétimo prêmio!<br>com o palpite 8028",
-          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 8028"
+        "1001": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1001"
         ],
-        "9028": [
-          "Dezena no sétimo prêmio!<br>com o palpite 9028",
-          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 9028"
+        "1002": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1002"
+        ],
+        "8001": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 8001"
+        ],
+        "8002": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 8002"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 0,
         "Grupo": [
-          "🐑"
+          "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8008, 8028, 8038, 8058, 9008, 9028, 9038, 9058"
+      "resumo": "Palpites dados para esta extração: 1001, 1002, 1008, 1031, 1032, 1038, 1051, 1052, 1058, 8001, 8002, 8008, 8031, 8032, 8038, 8051, 8052, 8058"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -521,14 +646,44 @@
           "Bicho": "Cachorro"
         }
       ],
-      "frases": {},
+      "frases": {
+        "1001": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1001"
+        ],
+        "1002": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1002"
+        ],
+        "1031": [
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 1031"
+        ],
+        "1032": [
+          "Dezena no oitavo prêmio!<br>com o palpite 1032",
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 1032"
+        ],
+        "8001": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 8001"
+        ],
+        "8002": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 8002"
+        ],
+        "8031": [
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 8031"
+        ],
+        "8032": [
+          "Dezena no oitavo prêmio!<br>com o palpite 8032",
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 8032"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🪶",
+          "🐪"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 8008, 8028, 8038, 8058, 9008, 9028, 9038, 9058"
+      "resumo": "Palpites dados para esta extração: 1001, 1002, 1008, 1031, 1032, 1038, 1051, 1052, 1058, 8001, 8002, 8008, 8031, 8032, 8038, 8051, 8052, 8058"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -600,29 +755,23 @@
         }
       ],
       "frases": {
+        "1008": [
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 1008"
+        ],
+        "1038": [
+          "Dezena no oitavo prêmio!<br>com o palpite 1038",
+          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 1038",
+          "Dezena no nono prêmio!<br>com o palpite 1038",
+          "COELHO 🐇 no nono prêmio!<br>com o palpite 1038"
+        ],
         "8008": [
           "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 8008"
-        ],
-        "8028": [
-          "CARNEIRO 🐑 no décimo prêmio!<br>com o palpite 8028"
         ],
         "8038": [
           "Dezena no oitavo prêmio!<br>com o palpite 8038",
           "COELHO 🐇 no oitavo prêmio!<br>com o palpite 8038",
           "Dezena no nono prêmio!<br>com o palpite 8038",
           "COELHO 🐇 no nono prêmio!<br>com o palpite 8038"
-        ],
-        "9008": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 9008"
-        ],
-        "9028": [
-          "CARNEIRO 🐑 no décimo prêmio!<br>com o palpite 9028"
-        ],
-        "9038": [
-          "Dezena no oitavo prêmio!<br>com o palpite 9038",
-          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 9038",
-          "Dezena no nono prêmio!<br>com o palpite 9038",
-          "COELHO 🐇 no nono prêmio!<br>com o palpite 9038"
         ]
       },
       "acertos": {
@@ -631,11 +780,10 @@
         "Dezena": 4,
         "Grupo": [
           "🦅",
-          "🐇",
-          "🐑"
+          "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8008, 8028, 8038, 8058, 9008, 9028, 9038, 9058"
+      "resumo": "Palpites dados para esta extração: 1001, 1002, 1008, 1031, 1032, 1038, 1051, 1052, 1058, 8001, 8002, 8008, 8031, 8032, 8038, 8051, 8052, 8058"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
@@ -707,35 +855,42 @@
         }
       ],
       "frases": {
+        "1008": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 1008",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 1008",
+          "Dezena no segundo prêmio!<br>com o palpite 1008",
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 1008"
+        ],
+        "1051": [
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 1051"
+        ],
+        "1052": [
+          "Dezena no quarto prêmio!<br>com o palpite 1052",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 1052"
+        ],
         "8008": [
           "Centena e Dezena no segundo prêmio!<br>com o palpite 8008",
           "Dezena no segundo prêmio!<br>com o palpite 8008",
           "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 8008"
         ],
-        "8028": [
-          "Dezena no sexto prêmio!<br>com o palpite 8028",
-          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 8028"
+        "8051": [
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 8051"
         ],
-        "9008": [
-          "Centena e Dezena no segundo prêmio!<br>com o palpite 9008",
-          "Dezena no segundo prêmio!<br>com o palpite 9008",
-          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 9008"
-        ],
-        "9028": [
-          "Dezena no sexto prêmio!<br>com o palpite 9028",
-          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 9028"
+        "8052": [
+          "Dezena no quarto prêmio!<br>com o palpite 8052",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 8052"
         ]
       },
       "acertos": {
-        "Milhar": 0,
+        "Milhar": 1,
         "Centena": 2,
         "Dezena": 4,
         "Grupo": [
           "🦅",
-          "🐑"
+          "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8008, 8028, 8038, 8058, 9008, 9028, 9038, 9058"
+      "resumo": "Palpites dados para esta extração: 1001, 1002, 1008, 1031, 1032, 1038, 1051, 1052, 1058, 8001, 8002, 8008, 8031, 8032, 8038, 8051, 8052, 8058"
     },
     "PT-RIO, RJ, 18:20, PTN do 1º ao 10º": {
       "cabecalhos": [
@@ -807,11 +962,135 @@
         }
       ],
       "frases": {
+        "1008": [
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 1008"
+        ],
+        "1031": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1031",
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 1031",
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 1031"
+        ],
+        "1032": [
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 1032",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 1032",
+          "Dezena no oitavo prêmio!<br>com o palpite 1032",
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 1032"
+        ],
         "8008": [
           "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 8008"
         ],
-        "9008": [
-          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 9008"
+        "8031": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8031",
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 8031",
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 8031"
+        ],
+        "8032": [
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 8032",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 8032",
+          "Dezena no oitavo prêmio!<br>com o palpite 8032",
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 8032"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 2,
+        "Dezena": 4,
+        "Grupo": [
+          "🐪",
+          "🦅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1001, 1002, 1008, 1031, 1032, 1038, 1051, 1052, 1058, 8001, 8002, 8008, 8031, 8032, 8038, 8051, 8052, 8058"
+    },
+    "PT-RIO, RJ, 21:20, CORUJA do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6149",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5096",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3135",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6657",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1599",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "6536",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "1016",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "4935",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9657",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "4780",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        }
+      ],
+      "frases": {
+        "1051": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1051"
+        ],
+        "1052": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1052"
+        ],
+        "1058": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 1058",
+          "JACARÉ 🐊 no nono prêmio!<br>com o palpite 1058"
+        ],
+        "8051": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 8051"
+        ],
+        "8052": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 8052"
+        ],
+        "8058": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 8058",
+          "JACARÉ 🐊 no nono prêmio!<br>com o palpite 8058"
         ]
       },
       "acertos": {
@@ -819,12 +1098,13 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🦅"
+          "🐓",
+          "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8008, 8028, 8038, 8058, 9008, 9028, 9038, 9058"
+      "resumo": "Palpites dados para esta extração: 1001, 1002, 1008, 1031, 1032, 1038, 1051, 1052, 1058, 8001, 8002, 8008, 8031, 8032, 8038, 8051, 8052, 8058"
     },
-    "PT-RIO, RJ, 21:20, CORUJA do 1º ao 10º": {
+    "A FEDERAL DO BRASIL - RJ do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
