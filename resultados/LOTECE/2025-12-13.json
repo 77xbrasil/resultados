@@ -173,25 +173,85 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "6766",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7199",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3900",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2107",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6862",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9982",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "7904",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7551",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0893",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "5987",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "7051": [
+          "Dezena no oitavo prêmio!<br>com o palpite 7051",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 7051"
+        ],
+        "7052": [
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 7052"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🐓"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 7021, 7022, 7023, 7025, 7026, 7027, 7028, 7029, 7031, 7032, 7033, 7035, 7036, 7037, 7038, 7039, 7051, 7052, 7053, 7055, 7056, 7057, 7058, 7059, 7071, 7072, 7073, 7075, 7076, 7077, 7078, 7079"
     },
     "LOTECE - CE, 14:00 (tarde)": {
       "cabecalhos": [
@@ -263,37 +323,77 @@
         }
       ],
       "frases": {
-        "7109": [
-          "Dezena no quinto prêmio!<br>com o palpite 7109",
-          "BURRO 🐴 no quinto prêmio!<br>com o palpite 7109"
+        "7021": [
+          "Milhar e Centena no oitavo prêmio!<br>com o palpite 7021",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 7021",
+          "Dezena no oitavo prêmio!<br>com o palpite 7021",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 7021",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 7021"
         ],
-        "7180": [
-          "PERU 🦃 no primeiro prêmio!<br>com o palpite 7180",
-          "Dezena no sétimo prêmio!<br>com o palpite 7180",
-          "PERU 🦃 no sétimo prêmio!<br>com o palpite 7180",
-          "PERU 🦃 no nono prêmio!<br>com o palpite 7180"
+        "7022": [
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 7022",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 7022"
         ],
-        "7909": [
-          "Dezena no quinto prêmio!<br>com o palpite 7909",
-          "BURRO 🐴 no quinto prêmio!<br>com o palpite 7909"
+        "7023": [
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 7023",
+          "Dezena no décimo prêmio!<br>com o palpite 7023",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 7023"
         ],
-        "7980": [
-          "PERU 🦃 no primeiro prêmio!<br>com o palpite 7980",
-          "Dezena no sétimo prêmio!<br>com o palpite 7980",
-          "PERU 🦃 no sétimo prêmio!<br>com o palpite 7980",
-          "PERU 🦃 no nono prêmio!<br>com o palpite 7980"
+        "7037": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 7037",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 7037"
+        ],
+        "7038": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 7038",
+          "Dezena no quarto prêmio!<br>com o palpite 7038",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 7038"
+        ],
+        "7039": [
+          "Dezena no segundo prêmio!<br>com o palpite 7039",
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 7039",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 7039"
+        ],
+        "7053": [
+          "Dezena no sexto prêmio!<br>com o palpite 7053",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 7053"
+        ],
+        "7055": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 7055"
+        ],
+        "7056": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 7056"
+        ],
+        "7077": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7077",
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 7077",
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 7077",
+          "PERU 🦃 no nono prêmio!<br>com o palpite 7077"
+        ],
+        "7078": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 7078",
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 7078",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 7078",
+          "Dezena no nono prêmio!<br>com o palpite 7078",
+          "PERU 🦃 no nono prêmio!<br>com o palpite 7078"
+        ],
+        "7079": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 7079",
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 7079",
+          "PERU 🦃 no nono prêmio!<br>com o palpite 7079"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 4,
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 7,
         "Grupo": [
           "🦃",
-          "🐴"
+          "🐇",
+          "🐈",
+          "🐐"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7100, 7101, 7102, 7103, 7107, 7108, 7109, 7180, 7181, 7182, 7183, 7187, 7188, 7189, 7900, 7901, 7902, 7903, 7907, 7908, 7909, 7980, 7981, 7982, 7983, 7987, 7988, 7989"
+      "resumo": "Palpites dados para esta extração: 7021, 7022, 7023, 7025, 7026, 7027, 7028, 7029, 7031, 7032, 7033, 7035, 7036, 7037, 7038, 7039, 7051, 7052, 7053, 7055, 7056, 7057, 7058, 7059, 7071, 7072, 7073, 7075, 7076, 7077, 7078, 7079"
     },
     "LOTECE - CE, 15:45 (tarde II)": {
       "cabecalhos": [
@@ -364,14 +464,82 @@
           "Bicho": "Camelo"
         }
       ],
-      "frases": {},
+      "frases": {
+        "7025": [
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 7025"
+        ],
+        "7026": [
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 7026"
+        ],
+        "7027": [
+          "Dezena no sétimo prêmio!<br>com o palpite 7027",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 7027"
+        ],
+        "7028": [
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 7028"
+        ],
+        "7029": [
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 7029"
+        ],
+        "7031": [
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 7031"
+        ],
+        "7032": [
+          "Dezena no décimo prêmio!<br>com o palpite 7032",
+          "CAMELO 🐪 no décimo prêmio!<br>com o palpite 7032"
+        ],
+        "7037": [
+          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 7037"
+        ],
+        "7038": [
+          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 7038"
+        ],
+        "7039": [
+          "Dezena no oitavo prêmio!<br>com o palpite 7039",
+          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 7039"
+        ],
+        "7051": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 7051",
+          "Dezena no quarto prêmio!<br>com o palpite 7051",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 7051"
+        ],
+        "7052": [
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 7052"
+        ],
+        "7053": [
+          "GATO 🐈 no nono prêmio!<br>com o palpite 7053"
+        ],
+        "7055": [
+          "GATO 🐈 no nono prêmio!<br>com o palpite 7055"
+        ],
+        "7056": [
+          "GATO 🐈 no nono prêmio!<br>com o palpite 7056"
+        ],
+        "7073": [
+          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 7073"
+        ],
+        "7075": [
+          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 7075"
+        ],
+        "7076": [
+          "Dezena no quinto prêmio!<br>com o palpite 7076",
+          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 7076"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 5,
+        "Grupo": [
+          "🐓",
+          "🦚",
+          "🐑",
+          "🐇",
+          "🐈",
+          "🐪"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7100, 7101, 7102, 7103, 7107, 7108, 7109, 7180, 7181, 7182, 7183, 7187, 7188, 7189, 7900, 7901, 7902, 7903, 7907, 7908, 7909, 7980, 7981, 7982, 7983, 7987, 7988, 7989"
+      "resumo": "Palpites dados para esta extração: 7021, 7022, 7023, 7025, 7026, 7027, 7028, 7029, 7031, 7032, 7033, 7035, 7036, 7037, 7038, 7039, 7051, 7052, 7053, 7055, 7056, 7057, 7058, 7059, 7071, 7072, 7073, 7075, 7076, 7077, 7078, 7079"
     },
     "LOTECE - CE, 19:00 (noite)": {
       "cabecalhos": [
@@ -381,25 +549,141 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "7263",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6382",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3446",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5137",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1625",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7025",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6978",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6334",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0118",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7956",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "7025": [
+          "Dezena no quinto prêmio!<br>com o palpite 7025",
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 7025",
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 7025",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 7025",
+          "Dezena no sexto prêmio!<br>com o palpite 7025",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 7025"
+        ],
+        "7026": [
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 7026",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 7026"
+        ],
+        "7027": [
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 7027",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 7027"
+        ],
+        "7028": [
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 7028",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 7028"
+        ],
+        "7033": [
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 7033"
+        ],
+        "7035": [
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 7035"
+        ],
+        "7036": [
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 7036"
+        ],
+        "7037": [
+          "Dezena no quarto prêmio!<br>com o palpite 7037",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 7037"
+        ],
+        "7038": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 7038"
+        ],
+        "7039": [
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 7039"
+        ],
+        "7053": [
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 7053"
+        ],
+        "7055": [
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 7055"
+        ],
+        "7056": [
+          "Dezena no décimo prêmio!<br>com o palpite 7056",
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 7056"
+        ],
+        "7077": [
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 7077"
+        ],
+        "7078": [
+          "Dezena no sétimo prêmio!<br>com o palpite 7078",
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 7078"
+        ],
+        "7079": [
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 7079"
+        ]
       },
-      "resumo": ""
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 1,
+        "Dezena": 5,
+        "Grupo": [
+          "🐇",
+          "🐑",
+          "🦃",
+          "🐍",
+          "🐈"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 7021, 7022, 7023, 7025, 7026, 7027, 7028, 7029, 7031, 7032, 7033, 7035, 7036, 7037, 7038, 7039, 7051, 7052, 7053, 7055, 7056, 7057, 7058, 7059, 7071, 7072, 7073, 7075, 7076, 7077, 7078, 7079"
     }
   }
 }
