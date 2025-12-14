@@ -51,14 +51,25 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "5963": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 5963",
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 5963"
+        ],
+        "7963": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 7963",
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 7963"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦁"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1573, 1773, 1873, 1973, 3573, 3773, 3873, 3973, 5573, 5773, 5873, 5973"
+      "resumo": "Palpites dados para esta extração: 5963, 5973, 5993, 7963, 7973, 7993"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -112,70 +123,102 @@
         }
       ],
       "frases": {
-        "1573": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1573",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1573"
-        ],
-        "1773": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1773",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1773"
-        ],
-        "1873": [
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 1873",
-          "Dezena no primeiro prêmio!<br>com o palpite 1873",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1873"
-        ],
-        "1973": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1973",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1973"
-        ],
-        "3573": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3573",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 3573"
-        ],
-        "3773": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3773",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 3773"
-        ],
-        "3873": [
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 3873",
-          "Dezena no primeiro prêmio!<br>com o palpite 3873",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 3873"
-        ],
-        "3973": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3973",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 3973"
-        ],
-        "5573": [
-          "Dezena no primeiro prêmio!<br>com o palpite 5573",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 5573"
-        ],
-        "5773": [
-          "Dezena no primeiro prêmio!<br>com o palpite 5773",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 5773"
-        ],
-        "5873": [
-          "Milhar e Centena no primeiro prêmio!<br>com o palpite 5873",
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 5873",
-          "Dezena no primeiro prêmio!<br>com o palpite 5873",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 5873"
-        ],
         "5973": [
           "Dezena no primeiro prêmio!<br>com o palpite 5973",
           "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 5973"
+        ],
+        "5993": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 5993"
+        ],
+        "7973": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7973",
+          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 7973"
+        ],
+        "7993": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7993"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 3,
-        "Dezena": 12,
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
         "Grupo": [
-          "🦚"
+          "🦚",
+          "🦌"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1573, 1773, 1873, 1973, 3573, 3773, 3873, 3973, 5573, 5773, 5873, 5973"
+      "resumo": "Palpites dados para esta extração: 5963, 5973, 5993, 7963, 7973, 7993"
     },
     "PT-RIO, RJ, 14:20, PT": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8928",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0230",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0696",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6936",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5854",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2644",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "053",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "5993": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 5993"
+        ],
+        "7993": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7993"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🦌"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5963, 5973, 5993, 7963, 7973, 7993"
+    },
+    "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -270,68 +313,34 @@
         }
       ],
       "frases": {
-        "1573": [
-          "Dezena no sétimo prêmio!<br>com o palpite 1573",
-          "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 1573"
-        ],
-        "1773": [
-          "Dezena no sétimo prêmio!<br>com o palpite 1773",
-          "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 1773"
-        ],
-        "1873": [
-          "Dezena no sétimo prêmio!<br>com o palpite 1873",
-          "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 1873"
-        ],
-        "1973": [
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 1973",
-          "Dezena no sétimo prêmio!<br>com o palpite 1973",
-          "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 1973"
-        ],
-        "3573": [
-          "Dezena no sétimo prêmio!<br>com o palpite 3573",
-          "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 3573"
-        ],
-        "3773": [
-          "Dezena no sétimo prêmio!<br>com o palpite 3773",
-          "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 3773"
-        ],
-        "3873": [
-          "Dezena no sétimo prêmio!<br>com o palpite 3873",
-          "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 3873"
-        ],
-        "3973": [
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 3973",
-          "Dezena no sétimo prêmio!<br>com o palpite 3973",
-          "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 3973"
-        ],
-        "5573": [
-          "Dezena no sétimo prêmio!<br>com o palpite 5573",
-          "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 5573"
-        ],
-        "5773": [
-          "Dezena no sétimo prêmio!<br>com o palpite 5773",
-          "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 5773"
-        ],
-        "5873": [
-          "Dezena no sétimo prêmio!<br>com o palpite 5873",
-          "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 5873"
+        "5963": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 5963"
         ],
         "5973": [
           "Milhar e Centena no sétimo prêmio!<br>com o palpite 5973",
           "Centena e Dezena no sétimo prêmio!<br>com o palpite 5973",
           "Dezena no sétimo prêmio!<br>com o palpite 5973",
           "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 5973"
+        ],
+        "7963": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 7963"
+        ],
+        "7973": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 7973",
+          "Dezena no sétimo prêmio!<br>com o palpite 7973",
+          "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 7973"
         ]
       },
       "acertos": {
         "Milhar": 1,
-        "Centena": 3,
-        "Dezena": 12,
+        "Centena": 2,
+        "Dezena": 2,
         "Grupo": [
+          "🦁",
           "🦚"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1573, 1773, 1873, 1973, 3573, 3773, 3873, 3973, 5573, 5773, 5873, 5973"
+      "resumo": "Palpites dados para esta extração: 5963, 5973, 5993, 7963, 7973, 7993"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -403,70 +412,126 @@
         }
       ],
       "frases": {
-        "1573": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1573",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1573"
-        ],
-        "1773": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1773",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1773"
-        ],
-        "1873": [
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 1873",
-          "Dezena no primeiro prêmio!<br>com o palpite 1873",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1873"
-        ],
-        "1973": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1973",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1973"
-        ],
-        "3573": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3573",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 3573"
-        ],
-        "3773": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3773",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 3773"
-        ],
-        "3873": [
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 3873",
-          "Dezena no primeiro prêmio!<br>com o palpite 3873",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 3873"
-        ],
-        "3973": [
-          "Dezena no primeiro prêmio!<br>com o palpite 3973",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 3973"
-        ],
-        "5573": [
-          "Dezena no primeiro prêmio!<br>com o palpite 5573",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 5573"
-        ],
-        "5773": [
-          "Dezena no primeiro prêmio!<br>com o palpite 5773",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 5773"
-        ],
-        "5873": [
-          "Milhar e Centena no primeiro prêmio!<br>com o palpite 5873",
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 5873",
-          "Dezena no primeiro prêmio!<br>com o palpite 5873",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 5873"
-        ],
         "5973": [
           "Dezena no primeiro prêmio!<br>com o palpite 5973",
           "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 5973"
+        ],
+        "5993": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 5993",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 5993"
+        ],
+        "7973": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7973",
+          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 7973"
+        ],
+        "7993": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7993",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 7993"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 3,
-        "Dezena": 12,
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
         "Grupo": [
-          "🦚"
+          "🦚",
+          "🦌"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1573, 1773, 1873, 1973, 3573, 3773, 3873, 3973, 5573, 5773, 5873, 5973"
+      "resumo": "Palpites dados para esta extração: 5963, 5973, 5993, 7963, 7973, 7993"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8928",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0230",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0696",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6936",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5854",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "8006",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "9269",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2393",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8066",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0378",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        }
+      ],
+      "frases": {
+        "5993": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 5993",
+          "Dezena no oitavo prêmio!<br>com o palpite 5993",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 5993"
+        ],
+        "7993": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7993",
+          "Dezena no oitavo prêmio!<br>com o palpite 7993",
+          "VEADO 🦌 no oitavo prêmio!<br>com o palpite 7993"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🦌"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5963, 5973, 5993, 7963, 7973, 7993"
+    },
+    "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
