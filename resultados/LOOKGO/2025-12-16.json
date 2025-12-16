@@ -58,9 +58,69 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3224, 3724, 7224, 7724, 8224, 8724"
+      "resumo": "Palpites dados para esta extração: 0425, 0455, 0495, 6425, 6455, 6495, 7425, 7455, 7495, 9425, 9455, 9495"
     },
     "LOOK - GOIÁS, 09h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1035",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8874",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2748",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6475",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5041",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "4173",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "184",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0425, 0455, 0495, 6425, 6455, 6495, 7425, 7455, 7495, 9425, 9455, 9495"
+    },
+    "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -154,16 +214,132 @@
           "Bicho": "Cachorro"
         }
       ],
-      "frases": {},
+      "frases": {
+        "6455": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 6455",
+          "Dezena no sétimo prêmio!<br>com o palpite 6455",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 6455"
+        ],
+        "7455": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 7455",
+          "Dezena no sétimo prêmio!<br>com o palpite 7455",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 7455"
+        ],
+        "9455": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 9455",
+          "Dezena no sétimo prêmio!<br>com o palpite 9455",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 9455"
+        ],
+        "0455": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 0455",
+          "Dezena no sétimo prêmio!<br>com o palpite 0455",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 0455"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 4,
+        "Dezena": 4,
+        "Grupo": [
+          "🐈"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0425, 0455, 0495, 6425, 6455, 6495, 7425, 7455, 7495, 9425, 9455, 9495"
+    },
+    "LOOK - GOIÁS, 09h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1035",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8874",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2748",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6475",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5041",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1826",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0874",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3747",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5485",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6105",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        }
+      ],
+      "frases": {
+        "6425": [
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 6425"
+        ],
+        "7425": [
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 7425"
+        ],
+        "9425": [
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 9425"
+        ],
+        "0425": [
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 0425"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐑"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3224, 3724, 7224, 7724, 8224, 8724"
+      "resumo": "Palpites dados para esta extração: 0425, 0455, 0495, 6425, 6455, 6495, 7425, 7455, 7495, 9425, 9455, 9495"
     },
-    "LOOK - GOIÁS, 09h do 1º ao 10º": {
+    "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
