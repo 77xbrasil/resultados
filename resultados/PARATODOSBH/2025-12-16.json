@@ -70,56 +70,109 @@
         }
       ],
       "frases": {
-        "1101": [
-          "Dezena no nono prêmio!<br>com o palpite 1101",
-          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 1101"
-        ],
-        "1102": [
-          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 1102"
-        ],
-        "1104": [
-          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 1104"
-        ],
-        "1109": [
-          "Dezena no segundo prêmio!<br>com o palpite 1109",
-          "BURRO 🐴 no segundo prêmio!<br>com o palpite 1109",
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 1109",
-          "Dezena no oitavo prêmio!<br>com o palpite 1109",
-          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1109"
-        ],
-        "1170": [
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 1170",
-          "Dezena no primeiro prêmio!<br>com o palpite 1170",
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 1170"
-        ],
-        "1171": [
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 1171"
-        ],
-        "1172": [
-          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 1172"
-        ],
-        "1178": [
-          "PERU 🦃 no sétimo prêmio!<br>com o palpite 1178"
-        ],
-        "1179": [
-          "Dezena no sétimo prêmio!<br>com o palpite 1179",
-          "PERU 🦃 no sétimo prêmio!<br>com o palpite 1179"
+        "5109": [
+          "Dezena no segundo prêmio!<br>com o palpite 5109",
+          "BURRO 🐴 no segundo prêmio!<br>com o palpite 5109",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 5109",
+          "Dezena no oitavo prêmio!<br>com o palpite 5109",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 5109"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 2,
-        "Dezena": 5,
+        "Centena": 1,
+        "Dezena": 2,
         "Grupo": [
-          "🐖",
-          "🐴",
-          "🦃",
-          "🪶"
+          "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1100, 1101, 1102, 1104, 1105, 1108, 1109, 1170, 1171, 1172, 1174, 1175, 1178, 1179"
+      "resumo": "Palpites dados para esta extração: 5109"
     },
     "12h - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4988",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9883",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2538",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7011",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2514",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3961",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6241",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3273",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0455",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "9726",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        }
+      ],
+      "frases": {
+        "5109": [
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 5109"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐴"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5109"
+    },
+    "15h - BA": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
