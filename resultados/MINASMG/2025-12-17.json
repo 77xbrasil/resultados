@@ -51,68 +51,121 @@
           "Bicho": ""
         }
       ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1106, 1108, 1126, 1128, 1706, 1708, 1726, 1728, 6106, 6108, 6126, 6128, 6706, 6708, 6726, 6728, 9106, 9108, 9126, 9128, 9706, 9708, 9726, 9728"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4928",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5938",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5079",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7009",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8513",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "31467",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "262",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
       "frases": {
-        "1122": [
-          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 1122"
+        "1126": [
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 1126"
         ],
-        "1123": [
-          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 1123"
+        "1128": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1128",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 1128"
         ],
-        "1145": [
-          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 1145"
+        "1726": [
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 1726"
         ],
-        "1146": [
-          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 1146"
+        "1728": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1728",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 1728"
         ],
-        "1522": [
-          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 1522"
+        "6126": [
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 6126"
         ],
-        "1523": [
-          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 1523"
+        "6128": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6128",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 6128"
         ],
-        "1545": [
-          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 1545"
+        "6726": [
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 6726"
         ],
-        "1546": [
-          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 1546"
+        "6728": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6728",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 6728"
         ],
-        "1722": [
-          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 1722"
+        "9126": [
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 9126"
         ],
-        "1723": [
-          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 1723"
+        "9128": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9128",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 9128"
         ],
-        "1745": [
-          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 1745"
+        "9726": [
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 9726"
         ],
-        "1746": [
-          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 1746"
-        ],
-        "1922": [
-          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 1922"
-        ],
-        "1923": [
-          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 1923"
-        ],
-        "1945": [
-          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 1945"
-        ],
-        "1946": [
-          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 1946"
+        "9728": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9728",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 9728"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 6,
         "Grupo": [
-          "🐐",
-          "🐘"
+          "🐑"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1102, 1103, 1105, 1106, 1122, 1123, 1125, 1126, 1142, 1143, 1145, 1146, 1502, 1503, 1505, 1506, 1522, 1523, 1525, 1526, 1542, 1543, 1545, 1546, 1702, 1703, 1705, 1706, 1722, 1723, 1725, 1726, 1742, 1743, 1745, 1746, 1902, 1903, 1905, 1906, 1922, 1923, 1925, 1926, 1942, 1943, 1945, 1946"
+      "resumo": "Palpites dados para esta extração: 1106, 1108, 1126, 1128, 1706, 1708, 1726, 1728, 6106, 6108, 6126, 6128, 6706, 6708, 6726, 6728, 9106, 9108, 9126, 9128, 9706, 9708, 9726, 9728"
     },
-    "MINAS DIA - MG, 15h": {
+    "MINAS FEDERAL - MG": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
