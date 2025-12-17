@@ -184,20 +184,79 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "9015",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5794",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0550",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9017",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3549",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "7925",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "022",
+          "Grupo": "",
+          "Bicho": ""
+        }
       ],
-      "frases": {},
+      "frases": {
+        "5018": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 5018"
+        ],
+        "5019": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 5019"
+        ],
+        "5028": [
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 5028"
+        ],
+        "5918": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 5918"
+        ],
+        "5919": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 5919"
+        ],
+        "5928": [
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 5928"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐕",
+          "🐑"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 5008, 5009, 5018, 5019, 5028, 5029, 5038, 5039, 5078, 5079, 5908, 5909, 5918, 5919, 5928, 5929, 5938, 5939, 5978, 5979"
     }
   }
 }
