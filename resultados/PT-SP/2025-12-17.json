@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 6212, 6252, 7212, 7252, 9212, 9252"
+      "resumo": "Palpites dados para esta extração: 1212"
     },
     "SP, 10hs - PTSP": {
       "cabecalhos": [
@@ -118,7 +118,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 6212, 6252, 7212, 7252, 9212, 9252"
+      "resumo": "Palpites dados para esta extração: 1212"
     },
     "SP, 12:00 - PTSP": {
       "cabecalhos": [
@@ -172,41 +172,20 @@
         }
       ],
       "frases": {
-        "6212": [
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 6212",
-          "BURRO 🐴 no sexto prêmio!<br>com o palpite 6212"
-        ],
-        "6252": [
-          "Dezena no quarto prêmio!<br>com o palpite 6252",
-          "GALO 🐓 no quarto prêmio!<br>com o palpite 6252"
-        ],
-        "7212": [
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 7212",
-          "BURRO 🐴 no sexto prêmio!<br>com o palpite 7212"
-        ],
-        "7252": [
-          "Dezena no quarto prêmio!<br>com o palpite 7252",
-          "GALO 🐓 no quarto prêmio!<br>com o palpite 7252"
-        ],
-        "9212": [
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 9212",
-          "BURRO 🐴 no sexto prêmio!<br>com o palpite 9212"
-        ],
-        "9252": [
-          "Dezena no quarto prêmio!<br>com o palpite 9252",
-          "GALO 🐓 no quarto prêmio!<br>com o palpite 9252"
+        "1212": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 1212",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 1212"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
+        "Dezena": 0,
         "Grupo": [
-          "🐴",
-          "🐓"
+          "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6212, 6252, 7212, 7252, 9212, 9252"
+      "resumo": "Palpites dados para esta extração: 1212"
     },
     "SP, 13hs - PTSP": {
       "cabecalhos": [
@@ -266,7 +245,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 6212, 6252, 7212, 7252, 9212, 9252"
+      "resumo": "Palpites dados para esta extração: 1212"
     },
     "SP, 17hs - PTSP": {
       "cabecalhos": [
@@ -326,7 +305,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 6212, 6252, 7212, 7252, 9212, 9252"
+      "resumo": "Palpites dados para esta extração: 1212"
     },
     "SP, 19hs - PT FEDERAL": {
       "cabecalhos": [
@@ -402,26 +381,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "6252": [
-          "GALO 🐓 no quinto prêmio!<br>com o palpite 6252"
-        ],
-        "7252": [
-          "GALO 🐓 no quinto prêmio!<br>com o palpite 7252"
-        ],
-        "9252": [
-          "GALO 🐓 no quinto prêmio!<br>com o palpite 9252"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐓"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 6212, 6252, 7212, 7252, 9212, 9252"
+      "resumo": "Palpites dados para esta extração: 1212"
     },
     "SP, 20hs - PT FEDERAL": {
       "cabecalhos": [
@@ -431,11 +398,48 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "9015",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5794",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0550",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9017",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3549",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "7925",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "022",
+          "Grupo": "",
+          "Bicho": ""
+        }
       ],
       "frases": {},
       "acertos": {
@@ -444,7 +448,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 1212"
     },
     "SP, 19hs - PTSP": {
       "cabecalhos": [
@@ -498,14 +502,8 @@
         }
       ],
       "frases": {
-        "6212": [
-          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 6212"
-        ],
-        "7212": [
-          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 7212"
-        ],
-        "9212": [
-          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 9212"
+        "1212": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 1212"
         ]
       },
       "acertos": {
@@ -516,7 +514,7 @@
           "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6212, 6252, 7212, 7252, 9212, 9252"
+      "resumo": "Palpites dados para esta extração: 1212"
     }
   },
   "1-10": {
@@ -596,7 +594,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 6212, 6252, 7212, 7252, 9212, 9252"
+      "resumo": "Palpites dados para esta extração: 1212"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -674,7 +672,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 6212, 6252, 7212, 7252, 9212, 9252"
+      "resumo": "Palpites dados para esta extração: 1212"
     },
     "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -746,41 +744,19 @@
         }
       ],
       "frases": {
-        "6212": [
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 6212"
-        ],
-        "6252": [
-          "Dezena no quarto prêmio!<br>com o palpite 6252",
-          "GALO 🐓 no quarto prêmio!<br>com o palpite 6252",
-          "GALO 🐓 no sétimo prêmio!<br>com o palpite 6252"
-        ],
-        "7212": [
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 7212"
-        ],
-        "7252": [
-          "Dezena no quarto prêmio!<br>com o palpite 7252",
-          "GALO 🐓 no quarto prêmio!<br>com o palpite 7252",
-          "GALO 🐓 no sétimo prêmio!<br>com o palpite 7252"
-        ],
-        "9212": [
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 9212"
-        ],
-        "9252": [
-          "Dezena no quarto prêmio!<br>com o palpite 9252",
-          "GALO 🐓 no quarto prêmio!<br>com o palpite 9252",
-          "GALO 🐓 no sétimo prêmio!<br>com o palpite 9252"
+        "1212": [
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 1212"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
+        "Dezena": 0,
         "Grupo": [
-          "🐴",
-          "🐓"
+          "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6212, 6252, 7212, 7252, 9212, 9252"
+      "resumo": "Palpites dados para esta extração: 1212"
     },
     "SP, 13hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -851,26 +827,14 @@
           "Bicho": "Gato"
         }
       ],
-      "frases": {
-        "6252": [
-          "GALO 🐓 no nono prêmio!<br>com o palpite 6252"
-        ],
-        "7252": [
-          "GALO 🐓 no nono prêmio!<br>com o palpite 7252"
-        ],
-        "9252": [
-          "GALO 🐓 no nono prêmio!<br>com o palpite 9252"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐓"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 6212, 6252, 7212, 7252, 9212, 9252"
+      "resumo": "Palpites dados para esta extração: 1212"
     },
     "SP, 17hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -948,7 +912,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 6212, 6252, 7212, 7252, 9212, 9252"
+      "resumo": "Palpites dados para esta extração: 1212"
     },
     "SP, 19hs - PT FEDERAL do 1º ao 10º": {
       "cabecalhos": [
@@ -1048,54 +1012,23 @@
         }
       ],
       "frases": {
-        "6212": [
-          "Milhar e Centena no sétimo prêmio!<br>com o palpite 6212",
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 6212",
-          "Dezena no sétimo prêmio!<br>com o palpite 6212",
-          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 6212",
-          "Dezena no oitavo prêmio!<br>com o palpite 6212",
-          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 6212"
-        ],
-        "6252": [
-          "GALO 🐓 no quinto prêmio!<br>com o palpite 6252",
-          "Dezena no nono prêmio!<br>com o palpite 6252",
-          "GALO 🐓 no nono prêmio!<br>com o palpite 6252"
-        ],
-        "7212": [
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 7212",
-          "Dezena no sétimo prêmio!<br>com o palpite 7212",
-          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 7212",
-          "Dezena no oitavo prêmio!<br>com o palpite 7212",
-          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 7212"
-        ],
-        "7252": [
-          "GALO 🐓 no quinto prêmio!<br>com o palpite 7252",
-          "Dezena no nono prêmio!<br>com o palpite 7252",
-          "GALO 🐓 no nono prêmio!<br>com o palpite 7252"
-        ],
-        "9212": [
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 9212",
-          "Dezena no sétimo prêmio!<br>com o palpite 9212",
-          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 9212",
-          "Dezena no oitavo prêmio!<br>com o palpite 9212",
-          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 9212"
-        ],
-        "9252": [
-          "GALO 🐓 no quinto prêmio!<br>com o palpite 9252",
-          "Dezena no nono prêmio!<br>com o palpite 9252",
-          "GALO 🐓 no nono prêmio!<br>com o palpite 9252"
+        "1212": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 1212",
+          "Dezena no sétimo prêmio!<br>com o palpite 1212",
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 1212",
+          "Dezena no oitavo prêmio!<br>com o palpite 1212",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1212"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 3,
-        "Dezena": 9,
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 2,
         "Grupo": [
-          "🐓",
           "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6212, 6252, 7212, 7252, 9212, 9252"
+      "resumo": "Palpites dados para esta extração: 1212"
     },
     "SP, 20hs - PT FEDERAL do 1º ao 10º": {
       "cabecalhos": [
@@ -1105,25 +1038,81 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "9015",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5794",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0550",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9017",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3549",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9509",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0750",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1951",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5407",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "5542",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "1212": [
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 1212"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐴"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 1212"
     },
     "SP, 19hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -1195,14 +1184,8 @@
         }
       ],
       "frases": {
-        "6212": [
-          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 6212"
-        ],
-        "7212": [
-          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 7212"
-        ],
-        "9212": [
-          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 9212"
+        "1212": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 1212"
         ]
       },
       "acertos": {
@@ -1213,7 +1196,7 @@
           "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6212, 6252, 7212, 7252, 9212, 9252"
+      "resumo": "Palpites dados para esta extração: 1212"
     }
   }
 }
