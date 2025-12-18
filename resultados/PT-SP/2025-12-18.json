@@ -58,9 +58,99 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1018, 1038, 1118, 1138, 1518, 1538"
+      "resumo": "Palpites dados para esta extração: 1038, 1238, 1538, 2038, 2238, 2538, 5038, 5238, 5538"
     },
     "SP, 10hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8825",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0337",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6515",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2252",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9421",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "7350",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "974",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1038": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 1038"
+        ],
+        "1238": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 1238"
+        ],
+        "1538": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 1538"
+        ],
+        "2038": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 2038"
+        ],
+        "2238": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 2238"
+        ],
+        "2538": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 2538"
+        ],
+        "5038": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 5038"
+        ],
+        "5238": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 5238"
+        ],
+        "5538": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 5538"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐇"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1038, 1238, 1538, 2038, 2238, 2538, 5038, 5238, 5538"
+    },
+    "SP, 12:00 - PTSP": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -154,31 +244,124 @@
           "Bicho": "Camelo"
         }
       ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1038, 1238, 1538, 2038, 2238, 2538, 5038, 5238, 5538"
+    },
+    "SP, 10hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8825",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0337",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6515",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2252",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9421",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "8062",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8352",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2315",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5752",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1831",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        }
+      ],
       "frases": {
-        "1018": [
-          "Dezena no nono prêmio!<br>com o palpite 1018",
-          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 1018"
+        "1038": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 1038"
         ],
-        "1118": [
-          "Dezena no nono prêmio!<br>com o palpite 1118",
-          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 1118"
+        "1238": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 1238"
         ],
-        "1518": [
-          "Dezena no nono prêmio!<br>com o palpite 1518",
-          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 1518"
+        "1538": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 1538"
+        ],
+        "2038": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 2038"
+        ],
+        "2238": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 2238"
+        ],
+        "2538": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 2538"
+        ],
+        "5038": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 5038"
+        ],
+        "5238": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 5238"
+        ],
+        "5538": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 5538"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
+        "Dezena": 0,
         "Grupo": [
-          "🐕"
+          "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1018, 1038, 1118, 1138, 1518, 1538"
+      "resumo": "Palpites dados para esta extração: 1038, 1238, 1538, 2038, 2238, 2538, 5038, 5238, 5538"
     },
-    "SP, 10hs - PTSP do 1º ao 10º": {
+    "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
