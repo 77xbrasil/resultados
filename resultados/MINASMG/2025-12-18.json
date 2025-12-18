@@ -55,8 +55,140 @@
         "5008": [
           "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 5008"
         ],
+        "5023": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 5023",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 5023"
+        ],
+        "5033": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 5033",
+          "Dezena no primeiro prêmio!<br>com o palpite 5033",
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 5033"
+        ],
+        "5043": [
+          "Dezena no quarto prêmio!<br>com o palpite 5043",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 5043"
+        ],
+        "5063": [
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 5063"
+        ],
+        "5068": [
+          "Dezena no sexto prêmio!<br>com o palpite 5068",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 5068"
+        ],
         "5908": [
           "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 5908"
+        ],
+        "5923": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 5923",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 5923"
+        ],
+        "5933": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5933",
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 5933"
+        ],
+        "5943": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 5943",
+          "Dezena no quarto prêmio!<br>com o palpite 5943",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 5943"
+        ],
+        "5963": [
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 5963"
+        ],
+        "5968": [
+          "Dezena no sexto prêmio!<br>com o palpite 5968",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 5968"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 2,
+        "Dezena": 6,
+        "Grupo": [
+          "🐍",
+          "🦅",
+          "🐐",
+          "🐎",
+          "🦁",
+          "🐒"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5003, 5008, 5009, 5013, 5018, 5019, 5023, 5028, 5029, 5033, 5038, 5039, 5043, 5048, 5049, 5063, 5068, 5069, 5073, 5078, 5079, 5903, 5908, 5909, 5913, 5918, 5919, 5923, 5928, 5929, 5933, 5938, 5939, 5943, 5948, 5949, 5963, 5968, 5969, 5973, 5978, 5979"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9852",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4158",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9196",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8714",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0536",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "32456",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "964",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "5013": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 5013"
+        ],
+        "5033": [
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 5033"
+        ],
+        "5049": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 5049"
+        ],
+        "5063": [
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 5063"
+        ],
+        "5913": [
+          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 5913"
+        ],
+        "5933": [
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 5933"
+        ],
+        "5949": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 5949"
+        ],
+        "5963": [
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 5963"
         ]
       },
       "acertos": {
@@ -64,12 +196,15 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🦅"
+          "🐓",
+          "🦋",
+          "🐍",
+          "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5008, 5009, 5018, 5019, 5028, 5029, 5038, 5039, 5078, 5079, 5908, 5909, 5918, 5919, 5928, 5929, 5938, 5939, 5978, 5979"
+      "resumo": "Palpites dados para esta extração: 5003, 5008, 5009, 5013, 5018, 5019, 5023, 5028, 5029, 5033, 5038, 5039, 5043, 5048, 5049, 5063, 5068, 5069, 5073, 5078, 5079, 5903, 5908, 5909, 5913, 5918, 5919, 5923, 5928, 5929, 5933, 5938, 5939, 5943, 5948, 5949, 5963, 5968, 5969, 5973, 5978, 5979"
     },
-    "MINAS DIA - MG, 15h": {
+    "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
