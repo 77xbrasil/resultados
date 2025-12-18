@@ -70,13 +70,6 @@
         }
       ],
       "frases": {
-        "0021": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 0021"
-        ],
-        "0065": [
-          "Dezena no oitavo prêmio!<br>com o palpite 0065",
-          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 0065"
-        ],
         "0067": [
           "MACACO 🐒 no oitavo prêmio!<br>com o palpite 0067"
         ]
@@ -84,13 +77,12 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 0,
         "Grupo": [
-          "🐐",
           "🐒"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0001, 0005, 0007, 0021, 0025, 0027, 0061, 0065, 0067"
+      "resumo": "Palpites dados para esta extração: 0061, 0067, 0069"
     },
     "12h - MALUCA - BA": {
       "cabecalhos": [
@@ -166,41 +158,17 @@
           "Dezena no primeiro prêmio!<br>com o palpite 0061",
           "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 0061",
           "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 0061"
-        ],
-        "0005": [
-          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 0005",
-          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 0005"
-        ],
-        "0007": [
-          "Centena e Dezena no segundo prêmio!<br>com o palpite 0007",
-          "Dezena no segundo prêmio!<br>com o palpite 0007",
-          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 0007",
-          "Dezena no sexto prêmio!<br>com o palpite 0007",
-          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 0007"
-        ],
-        "0025": [
-          "Centena e Dezena no quinto prêmio!<br>com o palpite 0025",
-          "Dezena no quinto prêmio!<br>com o palpite 0025",
-          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 0025",
-          "Dezena no oitavo prêmio!<br>com o palpite 0025",
-          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 0025"
-        ],
-        "0027": [
-          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 0027",
-          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 0027"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 2,
-        "Dezena": 5,
+        "Centena": 0,
+        "Dezena": 1,
         "Grupo": [
-          "🦁",
-          "🦅",
-          "🐑"
+          "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0001, 0005, 0007, 0021, 0025, 0027, 0061, 0065, 0067"
+      "resumo": "Palpites dados para esta extração: 0061, 0067, 0069"
     },
     "15h - MALUCA - BA": {
       "cabecalhos": [
@@ -272,19 +240,6 @@
         }
       ],
       "frases": {
-        "0025": [
-          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 0025"
-        ],
-        "0027": [
-          "Dezena no segundo prêmio!<br>com o palpite 0027",
-          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 0027"
-        ],
-        "0065": [
-          "MACACO 🐒 no quarto prêmio!<br>com o palpite 0065",
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 0065",
-          "Dezena no sétimo prêmio!<br>com o palpite 0065",
-          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 0065"
-        ],
         "0067": [
           "Dezena no quarto prêmio!<br>com o palpite 0067",
           "MACACO 🐒 no quarto prêmio!<br>com o palpite 0067",
@@ -292,32 +247,98 @@
         ],
         "0061": [
           "LEÃO 🦁 no sexto prêmio!<br>com o palpite 0061"
-        ],
-        "0021": [
-          "Milhar e Centena no oitavo prêmio!<br>com o palpite 0021",
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 0021",
-          "Dezena no oitavo prêmio!<br>com o palpite 0021",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 0021"
-        ],
-        "0001": [
-          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 0001"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 2,
-        "Dezena": 4,
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 1,
         "Grupo": [
-          "🐑",
           "🐒",
-          "🦁",
-          "🐐",
-          "🪶"
+          "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0001, 0005, 0007, 0021, 0025, 0027, 0061, 0065, 0067"
+      "resumo": "Palpites dados para esta extração: 0061, 0067, 0069"
     },
     "19h - MALUCA - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3074",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5441",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6542",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9638",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9281",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9729",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6746",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "9598",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5687",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8388",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0061, 0067, 0069"
+    },
+    "21h - MALUCA - BA": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
