@@ -52,42 +52,99 @@
         }
       ],
       "frases": {
-        "3840": [
-          "Dezena no segundo prêmio!<br>com o palpite 3840",
-          "COELHO 🐇 no segundo prêmio!<br>com o palpite 3840",
-          "Dezena no quarto prêmio!<br>com o palpite 3840",
-          "COELHO 🐇 no quarto prêmio!<br>com o palpite 3840"
+        "6040": [
+          "Dezena no segundo prêmio!<br>com o palpite 6040",
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 6040",
+          "Dezena no quarto prêmio!<br>com o palpite 6040",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 6040"
         ],
-        "6840": [
-          "Dezena no segundo prêmio!<br>com o palpite 6840",
-          "COELHO 🐇 no segundo prêmio!<br>com o palpite 6840",
-          "Dezena no quarto prêmio!<br>com o palpite 6840",
-          "COELHO 🐇 no quarto prêmio!<br>com o palpite 6840"
-        ],
-        "7840": [
-          "Dezena no segundo prêmio!<br>com o palpite 7840",
-          "COELHO 🐇 no segundo prêmio!<br>com o palpite 7840",
-          "Dezena no quarto prêmio!<br>com o palpite 7840",
-          "COELHO 🐇 no quarto prêmio!<br>com o palpite 7840"
-        ],
-        "0840": [
-          "Dezena no segundo prêmio!<br>com o palpite 0840",
-          "COELHO 🐇 no segundo prêmio!<br>com o palpite 0840",
-          "Dezena no quarto prêmio!<br>com o palpite 0840",
-          "COELHO 🐇 no quarto prêmio!<br>com o palpite 0840"
+        "7040": [
+          "Dezena no segundo prêmio!<br>com o palpite 7040",
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 7040",
+          "Dezena no quarto prêmio!<br>com o palpite 7040",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 7040"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 8,
+        "Dezena": 4,
         "Grupo": [
           "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0840, 0845, 0848, 3840, 3845, 3848, 6840, 6845, 6848, 7840, 7845, 7848"
+      "resumo": "Palpites dados para esta extração: 6040, 7040"
     },
     "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3548",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8039",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7831",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3508",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6484",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "29410",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "522",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "6040": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 6040"
+        ],
+        "7040": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 7040"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐇"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 6040, 7040"
+    },
+    "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
