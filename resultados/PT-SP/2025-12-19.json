@@ -52,32 +52,108 @@
         }
       ],
       "frases": {
-        "5581": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 5581"
+        "6725": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 6725",
+          "Dezena no quarto prêmio!<br>com o palpite 6725",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 6725"
         ],
-        "5881": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 5881"
+        "6799": [
+          "Dezena no quinto prêmio!<br>com o palpite 6799",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 6799",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 6799"
         ],
-        "5981": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 5981"
+        "7725": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 7725",
+          "Dezena no quarto prêmio!<br>com o palpite 7725",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 7725"
         ],
-        "7581": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 7581"
+        "7799": [
+          "Dezena no quinto prêmio!<br>com o palpite 7799",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 7799",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 7799"
         ],
-        "7881": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 7881"
+        "9725": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 9725",
+          "Dezena no quarto prêmio!<br>com o palpite 9725",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 9725"
         ],
-        "7981": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 7981"
+        "9799": [
+          "Dezena no quinto prêmio!<br>com o palpite 9799",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 9799",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 9799"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 6,
+        "Grupo": [
+          "🐑",
+          "🐄"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 6725, 6729, 6785, 6789, 6795, 6799, 7725, 7729, 7785, 7789, 7795, 7799, 9725, 9729, 9785, 9789, 9795, 9799"
+    },
+    "SP, 10hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2040",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2919",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7841",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6018",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5494",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "4312",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "954",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "6795": [
+          "VEADO 🦌 no quinto prêmio!<br>com o palpite 6795"
         ],
-        "9581": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 9581"
+        "7795": [
+          "VEADO 🦌 no quinto prêmio!<br>com o palpite 7795"
         ],
-        "9881": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 9881"
-        ],
-        "9981": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 9981"
+        "9795": [
+          "VEADO 🦌 no quinto prêmio!<br>com o palpite 9795"
         ]
       },
       "acertos": {
@@ -85,12 +161,12 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐂"
+          "🦌"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5510, 5511, 5519, 5580, 5581, 5589, 5810, 5811, 5819, 5880, 5881, 5889, 5910, 5911, 5919, 5980, 5981, 5989, 7510, 7511, 7519, 7580, 7581, 7589, 7810, 7811, 7819, 7880, 7881, 7889, 7910, 7911, 7919, 7980, 7981, 7989, 9510, 9511, 9519, 9580, 9581, 9589, 9810, 9811, 9819, 9880, 9881, 9889, 9910, 9911, 9919, 9980, 9981, 9989"
+      "resumo": "Palpites dados para esta extração: 6725, 6729, 6785, 6789, 6795, 6799, 7725, 7729, 7785, 7789, 7795, 7799, 9725, 9729, 9785, 9789, 9795, 9799"
     },
-    "SP, 10hs - PTSP": {
+    "SP, 12:00 - PTSP": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -185,41 +261,135 @@
         }
       ],
       "frases": {
-        "5581": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 5581",
-          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 5581"
+        "6725": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 6725",
+          "Dezena no quarto prêmio!<br>com o palpite 6725",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 6725"
         ],
-        "5881": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 5881",
-          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 5881"
+        "6799": [
+          "Dezena no quinto prêmio!<br>com o palpite 6799",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 6799",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 6799"
         ],
-        "5981": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 5981",
-          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 5981"
+        "7725": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 7725",
+          "Dezena no quarto prêmio!<br>com o palpite 7725",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 7725"
         ],
-        "7581": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 7581",
-          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 7581"
+        "7799": [
+          "Dezena no quinto prêmio!<br>com o palpite 7799",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 7799",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 7799"
         ],
-        "7881": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 7881",
-          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 7881"
+        "9725": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 9725",
+          "Dezena no quarto prêmio!<br>com o palpite 9725",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 9725"
         ],
-        "7981": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 7981",
-          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 7981"
+        "9799": [
+          "Dezena no quinto prêmio!<br>com o palpite 9799",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 9799",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 9799"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 6,
+        "Grupo": [
+          "🐑",
+          "🐄"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 6725, 6729, 6785, 6789, 6795, 6799, 7725, 7729, 7785, 7789, 7795, 7799, 9725, 9729, 9785, 9789, 9795, 9799"
+    },
+    "SP, 10hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2040",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2919",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7841",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6018",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5494",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2276",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0980",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "4141",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0918",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2627",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        }
+      ],
+      "frases": {
+        "6725": [
+          "CARNEIRO 🐑 no décimo prêmio!<br>com o palpite 6725"
         ],
-        "9581": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 9581",
-          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 9581"
+        "6795": [
+          "VEADO 🦌 no quinto prêmio!<br>com o palpite 6795"
         ],
-        "9881": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 9881",
-          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 9881"
+        "7725": [
+          "CARNEIRO 🐑 no décimo prêmio!<br>com o palpite 7725"
         ],
-        "9981": [
-          "TOURO 🐂 no terceiro prêmio!<br>com o palpite 9981",
-          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 9981"
+        "7795": [
+          "VEADO 🦌 no quinto prêmio!<br>com o palpite 7795"
+        ],
+        "9725": [
+          "CARNEIRO 🐑 no décimo prêmio!<br>com o palpite 9725"
+        ],
+        "9795": [
+          "VEADO 🦌 no quinto prêmio!<br>com o palpite 9795"
         ]
       },
       "acertos": {
@@ -227,12 +397,13 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐂"
+          "🦌",
+          "🐑"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5510, 5511, 5519, 5580, 5581, 5589, 5810, 5811, 5819, 5880, 5881, 5889, 5910, 5911, 5919, 5980, 5981, 5989, 7510, 7511, 7519, 7580, 7581, 7589, 7810, 7811, 7819, 7880, 7881, 7889, 7910, 7911, 7919, 7980, 7981, 7989, 9510, 9511, 9519, 9580, 9581, 9589, 9810, 9811, 9819, 9880, 9881, 9889, 9910, 9911, 9919, 9980, 9981, 9989"
+      "resumo": "Palpites dados para esta extração: 6725, 6729, 6785, 6789, 6795, 6799, 7725, 7729, 7785, 7789, 7795, 7799, 9725, 9729, 9785, 9789, 9795, 9799"
     },
-    "SP, 10hs - PTSP do 1º ao 10º": {
+    "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
