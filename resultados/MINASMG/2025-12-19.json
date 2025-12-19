@@ -51,14 +51,41 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3840": [
+          "Dezena no segundo prêmio!<br>com o palpite 3840",
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 3840",
+          "Dezena no quarto prêmio!<br>com o palpite 3840",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 3840"
+        ],
+        "6840": [
+          "Dezena no segundo prêmio!<br>com o palpite 6840",
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 6840",
+          "Dezena no quarto prêmio!<br>com o palpite 6840",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 6840"
+        ],
+        "7840": [
+          "Dezena no segundo prêmio!<br>com o palpite 7840",
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 7840",
+          "Dezena no quarto prêmio!<br>com o palpite 7840",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 7840"
+        ],
+        "0840": [
+          "Dezena no segundo prêmio!<br>com o palpite 0840",
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 0840",
+          "Dezena no quarto prêmio!<br>com o palpite 0840",
+          "COELHO 🐇 no quarto prêmio!<br>com o palpite 0840"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 8,
+        "Grupo": [
+          "🐇"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0846, 0848"
+      "resumo": "Palpites dados para esta extração: 0840, 0845, 0848, 3840, 3845, 3848, 6840, 6845, 6848, 7840, 7845, 7848"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
