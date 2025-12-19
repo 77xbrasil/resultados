@@ -64,7 +64,7 @@
           "🐂"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2211, 2241, 2281"
+      "resumo": "Palpites dados para esta extração: 2281"
     },
     "SP, 10hs - PTSP": {
       "cabecalhos": [
@@ -117,25 +117,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "2211": [
-          "BURRO 🐴 no sexto prêmio!<br>com o palpite 2211"
-        ],
-        "2241": [
-          "Dezena no terceiro prêmio!<br>com o palpite 2241",
-          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 2241"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
-        "Grupo": [
-          "🐎",
-          "🐴"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2211, 2241, 2281"
+      "resumo": "Palpites dados para esta extração: 2281"
     },
     "SP, 12:00 - PTSP": {
       "cabecalhos": [
@@ -201,9 +190,69 @@
           "🐂"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2211, 2241, 2281"
+      "resumo": "Palpites dados para esta extração: 2281"
     },
     "SP, 13hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3623",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0246",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1097",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5486",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "7598",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "891",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 2281"
+    },
+    "SP, 17hs - PTSP": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -311,7 +360,7 @@
           "🐂"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2211, 2241, 2281"
+      "resumo": "Palpites dados para esta extração: 2281"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -382,23 +431,14 @@
           "Bicho": "Carneiro"
         }
       ],
-      "frases": {
-        "2241": [
-          "Dezena no terceiro prêmio!<br>com o palpite 2241",
-          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 2241",
-          "Dezena no oitavo prêmio!<br>com o palpite 2241",
-          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 2241"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
-        "Grupo": [
-          "🐎"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2211, 2241, 2281"
+      "resumo": "Palpites dados para esta extração: 2281"
     },
     "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -470,13 +510,6 @@
         }
       ],
       "frases": {
-        "2211": [
-          "Dezena no décimo prêmio!<br>com o palpite 2211",
-          "BURRO 🐴 no décimo prêmio!<br>com o palpite 2211"
-        ],
-        "2241": [
-          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 2241"
-        ],
         "2281": [
           "TOURO 🐂 no segundo prêmio!<br>com o palpite 2281",
           "Centena e Dezena no sexto prêmio!<br>com o palpite 2281",
@@ -487,16 +520,92 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 1,
-        "Dezena": 2,
+        "Dezena": 1,
         "Grupo": [
-          "🐂",
-          "🐎",
-          "🐴"
+          "🐂"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2211, 2241, 2281"
+      "resumo": "Palpites dados para esta extração: 2281"
     },
     "SP, 13hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3623",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0246",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1097",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5486",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3015",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6204",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2498",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3676",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2991",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 2281"
+    },
+    "SP, 17hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
