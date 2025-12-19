@@ -76,7 +76,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 7255"
+      "resumo": "Palpites dados para esta extração: 7055, 7155, 7255"
     },
     "12h - MALUCA - BA": {
       "cabecalhos": [
@@ -148,6 +148,16 @@
         }
       ],
       "frases": {
+        "7055": [
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 7055",
+          "Dezena no nono prêmio!<br>com o palpite 7055",
+          "GATO 🐈 no nono prêmio!<br>com o palpite 7055"
+        ],
+        "7155": [
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 7155",
+          "Dezena no nono prêmio!<br>com o palpite 7155",
+          "GATO 🐈 no nono prêmio!<br>com o palpite 7155"
+        ],
         "7255": [
           "GATO 🐈 no sétimo prêmio!<br>com o palpite 7255",
           "Dezena no nono prêmio!<br>com o palpite 7255",
@@ -157,12 +167,12 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 3,
         "Grupo": [
           "🐈"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7255"
+      "resumo": "Palpites dados para esta extração: 7055, 7155, 7255"
     },
     "15h - MALUCA - BA": {
       "cabecalhos": [
@@ -234,6 +244,16 @@
         }
       ],
       "frases": {
+        "7055": [
+          "Dezena no segundo prêmio!<br>com o palpite 7055",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 7055",
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7055"
+        ],
+        "7155": [
+          "Dezena no segundo prêmio!<br>com o palpite 7155",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 7155",
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 7155"
+        ],
         "7255": [
           "Dezena no segundo prêmio!<br>com o palpite 7255",
           "GATO 🐈 no segundo prêmio!<br>com o palpite 7255",
@@ -243,14 +263,92 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 3,
         "Grupo": [
           "🐈"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7255"
+      "resumo": "Palpites dados para esta extração: 7055, 7155, 7255"
     },
     "19h - MALUCA - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2257",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9515",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0428",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3019",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1086",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9939",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6903",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6706",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5738",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6613",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 7055, 7155, 7255"
+    },
+    "21h - MALUCA - BA": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
