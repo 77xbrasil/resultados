@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8051, 8052, 8053, 8081, 8082, 8083"
+      "resumo": "Palpites dados para esta extração: 2031, 2032, 2034, 2041, 2042, 2044, 2051, 2052, 2054, 2081, 2082, 2084, 8031, 8032, 8034, 8041, 8042, 8044, 8051, 8052, 8054, 8081, 8082, 8084"
     },
     "LOOK - GOIÁS, 09h": {
       "cabecalhos": [
@@ -112,6 +112,44 @@
         }
       ],
       "frases": {
+        "2041": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 2041"
+        ],
+        "2042": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 2042"
+        ],
+        "2044": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 2044"
+        ],
+        "2051": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 2051"
+        ],
+        "2052": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 2052"
+        ],
+        "2081": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 2081",
+          "Dezena no segundo prêmio!<br>com o palpite 2081",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 2081",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 2081"
+        ],
+        "2082": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 2082",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 2082"
+        ],
+        "2084": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 2084",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 2084"
+        ],
+        "8041": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 8041"
+        ],
+        "8042": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 8042"
+        ],
+        "8044": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 8044"
+        ],
         "8051": [
           "GALO 🐓 no quinto prêmio!<br>com o palpite 8051"
         ],
@@ -128,22 +166,22 @@
           "TOURO 🐂 no segundo prêmio!<br>com o palpite 8082",
           "TOURO 🐂 no sexto prêmio!<br>com o palpite 8082"
         ],
-        "8083": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 8083",
-          "Dezena no sexto prêmio!<br>com o palpite 8083",
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 8083"
+        "8084": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 8084",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 8084"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
+        "Centena": 2,
         "Dezena": 2,
         "Grupo": [
           "🐂",
+          "🐎",
           "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8051, 8052, 8053, 8081, 8082, 8083"
+      "resumo": "Palpites dados para esta extração: 2031, 2032, 2034, 2041, 2042, 2044, 2051, 2052, 2054, 2081, 2082, 2084, 8031, 8032, 8034, 8041, 8042, 8044, 8051, 8052, 8054, 8081, 8082, 8084"
     },
     "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
@@ -196,14 +234,29 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2031": [
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 2031"
+        ],
+        "2032": [
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 2032"
+        ],
+        "8031": [
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 8031"
+        ],
+        "8032": [
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 8032"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐪"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 8051, 8052, 8053, 8081, 8082, 8083"
+      "resumo": "Palpites dados para esta extração: 2031, 2032, 2034, 2041, 2042, 2044, 2051, 2052, 2054, 2081, 2082, 2084, 8031, 8032, 8034, 8041, 8042, 8044, 8051, 8052, 8054, 8081, 8082, 8084"
     },
     "LOOK - GOIÁS, 14h": {
       "cabecalhos": [
@@ -257,20 +310,22 @@
         }
       ],
       "frases": {
-        "8053": [
-          "Dezena no terceiro prêmio!<br>com o palpite 8053",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 8053"
+        "2054": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2054"
+        ],
+        "8054": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 8054"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 0,
         "Grupo": [
           "🐈"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8051, 8052, 8053, 8081, 8082, 8083"
+      "resumo": "Palpites dados para esta extração: 2031, 2032, 2034, 2041, 2042, 2044, 2051, 2052, 2054, 2081, 2082, 2084, 8031, 8032, 8034, 8041, 8042, 8044, 8051, 8052, 8054, 8081, 8082, 8084"
     },
     "LOOK - GOIÁS, 16h": {
       "cabecalhos": [
@@ -324,6 +379,32 @@
         }
       ],
       "frases": {
+        "2031": [
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 2031"
+        ],
+        "2032": [
+          "Dezena no quarto prêmio!<br>com o palpite 2032",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 2032"
+        ],
+        "2081": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 2081",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 2081"
+        ],
+        "2082": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 2082",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 2082"
+        ],
+        "2084": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 2084",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 2084"
+        ],
+        "8031": [
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 8031"
+        ],
+        "8032": [
+          "Dezena no quarto prêmio!<br>com o palpite 8032",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 8032"
+        ],
         "8081": [
           "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8081",
           "TOURO 🐂 no sexto prêmio!<br>com o palpite 8081"
@@ -332,11 +413,9 @@
           "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8082",
           "TOURO 🐂 no sexto prêmio!<br>com o palpite 8082"
         ],
-        "8083": [
-          "Dezena no primeiro prêmio!<br>com o palpite 8083",
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8083",
-          "Dezena no sexto prêmio!<br>com o palpite 8083",
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 8083"
+        "8084": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8084",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 8084"
         ]
       },
       "acertos": {
@@ -344,10 +423,11 @@
         "Centena": 0,
         "Dezena": 2,
         "Grupo": [
-          "🐂"
+          "🐂",
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8051, 8052, 8053, 8081, 8082, 8083"
+      "resumo": "Palpites dados para esta extração: 2031, 2032, 2034, 2041, 2042, 2044, 2051, 2052, 2054, 2081, 2082, 2084, 8031, 8032, 8034, 8041, 8042, 8044, 8051, 8052, 8054, 8081, 8082, 8084"
     },
     "LOOK - GOIÁS, 18h": {
       "cabecalhos": [
@@ -401,6 +481,19 @@
         }
       ],
       "frases": {
+        "2034": [
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 2034"
+        ],
+        "2051": [
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2051"
+        ],
+        "2052": [
+          "Dezena no quarto prêmio!<br>com o palpite 2052",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2052"
+        ],
+        "8034": [
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 8034"
+        ],
         "8051": [
           "GALO 🐓 no quarto prêmio!<br>com o palpite 8051"
         ],
@@ -412,12 +505,13 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 2,
         "Grupo": [
-          "🐓"
+          "🐓",
+          "🐍"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8051, 8052, 8053, 8081, 8082, 8083"
+      "resumo": "Palpites dados para esta extração: 2031, 2032, 2034, 2041, 2042, 2044, 2051, 2052, 2054, 2081, 2082, 2084, 8031, 8032, 8034, 8041, 8042, 8044, 8051, 8052, 8054, 8081, 8082, 8084"
     },
     "LOOK - GOIÁS, 21h": {
       "cabecalhos": [
@@ -471,6 +565,47 @@
         }
       ],
       "frases": {
+        "2034": [
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 2034",
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 2034"
+        ],
+        "2041": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 2041"
+        ],
+        "2042": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 2042"
+        ],
+        "2044": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 2044",
+          "Dezena no quarto prêmio!<br>com o palpite 2044",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 2044"
+        ],
+        "2081": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 2081"
+        ],
+        "2082": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 2082",
+          "Dezena no segundo prêmio!<br>com o palpite 2082",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 2082"
+        ],
+        "2084": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 2084"
+        ],
+        "8034": [
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 8034",
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 8034"
+        ],
+        "8041": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 8041"
+        ],
+        "8042": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 8042"
+        ],
+        "8044": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 8044",
+          "Dezena no quarto prêmio!<br>com o palpite 8044",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 8044"
+        ],
         "8081": [
           "TOURO 🐂 no segundo prêmio!<br>com o palpite 8081"
         ],
@@ -479,19 +614,21 @@
           "Dezena no segundo prêmio!<br>com o palpite 8082",
           "TOURO 🐂 no segundo prêmio!<br>com o palpite 8082"
         ],
-        "8083": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 8083"
+        "8084": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 8084"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 1,
+        "Centena": 4,
+        "Dezena": 4,
         "Grupo": [
-          "🐂"
+          "🐂",
+          "🐍",
+          "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8051, 8052, 8053, 8081, 8082, 8083"
+      "resumo": "Palpites dados para esta extração: 2031, 2032, 2034, 2041, 2042, 2044, 2051, 2052, 2054, 2081, 2082, 2084, 8031, 8032, 8034, 8041, 8042, 8044, 8051, 8052, 8054, 8081, 8082, 8084"
     },
     "LOOK - GOIÁS, 23h": {
       "cabecalhos": [
@@ -588,6 +725,32 @@
         }
       ],
       "frases": {
+        "2031": [
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 2031"
+        ],
+        "2032": [
+          "Dezena no oitavo prêmio!<br>com o palpite 2032",
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 2032"
+        ],
+        "2081": [
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 2081",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 2081",
+          "Dezena no sexto prêmio!<br>com o palpite 2081",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 2081"
+        ],
+        "2082": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 2082"
+        ],
+        "2084": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 2084"
+        ],
+        "8031": [
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 8031"
+        ],
+        "8032": [
+          "Dezena no oitavo prêmio!<br>com o palpite 8032",
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 8032"
+        ],
         "8081": [
           "Centena e Dezena no sexto prêmio!<br>com o palpite 8081",
           "Dezena no sexto prêmio!<br>com o palpite 8081",
@@ -596,19 +759,20 @@
         "8082": [
           "TOURO 🐂 no sexto prêmio!<br>com o palpite 8082"
         ],
-        "8083": [
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 8083"
+        "8084": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 8084"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 1,
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 4,
         "Grupo": [
-          "🐂"
+          "🐂",
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8051, 8052, 8053, 8081, 8082, 8083"
+      "resumo": "Palpites dados para esta extração: 2031, 2032, 2034, 2041, 2042, 2044, 2051, 2052, 2054, 2081, 2082, 2084, 8031, 8032, 8034, 8041, 8042, 8044, 8051, 8052, 8054, 8081, 8082, 8084"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
       "cabecalhos": [
@@ -680,6 +844,41 @@
         }
       ],
       "frases": {
+        "2041": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 2041"
+        ],
+        "2042": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 2042"
+        ],
+        "2044": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 2044"
+        ],
+        "2051": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 2051"
+        ],
+        "2052": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 2052"
+        ],
+        "2081": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 2081",
+          "Dezena no segundo prêmio!<br>com o palpite 2081",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 2081"
+        ],
+        "2082": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 2082"
+        ],
+        "2084": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 2084"
+        ],
+        "8041": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 8041"
+        ],
+        "8042": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 8042"
+        ],
+        "8044": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 8044"
+        ],
         "8051": [
           "GALO 🐓 no quinto prêmio!<br>com o palpite 8051"
         ],
@@ -694,20 +893,21 @@
         "8082": [
           "TOURO 🐂 no segundo prêmio!<br>com o palpite 8082"
         ],
-        "8083": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 8083"
+        "8084": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 8084"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 1,
+        "Centena": 2,
+        "Dezena": 2,
         "Grupo": [
           "🐂",
+          "🐎",
           "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8051, 8052, 8053, 8081, 8082, 8083"
+      "resumo": "Palpites dados para esta extração: 2031, 2032, 2034, 2041, 2042, 2044, 2051, 2052, 2054, 2081, 2082, 2084, 8031, 8032, 8034, 8041, 8042, 8044, 8051, 8052, 8054, 8081, 8082, 8084"
     },
     "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
@@ -785,7 +985,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8051, 8052, 8053, 8081, 8082, 8083"
+      "resumo": "Palpites dados para esta extração: 2031, 2032, 2034, 2041, 2042, 2044, 2051, 2052, 2054, 2081, 2082, 2084, 8031, 8032, 8034, 8041, 8042, 8044, 8051, 8052, 8054, 8081, 8082, 8084"
     },
     "LOOK - GOIÁS, 14h do 1º ao 10º": {
       "cabecalhos": [
@@ -857,20 +1057,22 @@
         }
       ],
       "frases": {
-        "8053": [
-          "Dezena no terceiro prêmio!<br>com o palpite 8053",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 8053"
+        "2054": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2054"
+        ],
+        "8054": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 8054"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 0,
         "Grupo": [
           "🐈"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8051, 8052, 8053, 8081, 8082, 8083"
+      "resumo": "Palpites dados para esta extração: 2031, 2032, 2034, 2041, 2042, 2044, 2051, 2052, 2054, 2081, 2082, 2084, 8031, 8032, 8034, 8041, 8042, 8044, 8051, 8052, 8054, 8081, 8082, 8084"
     },
     "LOOK - GOIÁS, 16h do 1º ao 10º": {
       "cabecalhos": [
@@ -942,6 +1144,40 @@
         }
       ],
       "frases": {
+        "2031": [
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 2031"
+        ],
+        "2032": [
+          "Dezena no quarto prêmio!<br>com o palpite 2032",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 2032"
+        ],
+        "2051": [
+          "GALO 🐓 no nono prêmio!<br>com o palpite 2051"
+        ],
+        "2052": [
+          "Dezena no nono prêmio!<br>com o palpite 2052",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 2052"
+        ],
+        "2054": [
+          "Dezena no sexto prêmio!<br>com o palpite 2054",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 2054"
+        ],
+        "2081": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 2081"
+        ],
+        "2082": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 2082"
+        ],
+        "2084": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 2084"
+        ],
+        "8031": [
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 8031"
+        ],
+        "8032": [
+          "Dezena no quarto prêmio!<br>com o palpite 8032",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 8032"
+        ],
         "8051": [
           "GALO 🐓 no nono prêmio!<br>com o palpite 8051"
         ],
@@ -949,8 +1185,9 @@
           "Dezena no nono prêmio!<br>com o palpite 8052",
           "GALO 🐓 no nono prêmio!<br>com o palpite 8052"
         ],
-        "8053": [
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 8053"
+        "8054": [
+          "Dezena no sexto prêmio!<br>com o palpite 8054",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 8054"
         ],
         "8081": [
           "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8081"
@@ -958,22 +1195,22 @@
         "8082": [
           "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8082"
         ],
-        "8083": [
-          "Dezena no primeiro prêmio!<br>com o palpite 8083",
-          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8083"
+        "8084": [
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 8084"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 6,
         "Grupo": [
           "🐂",
+          "🐪",
           "🐈",
           "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8051, 8052, 8053, 8081, 8082, 8083"
+      "resumo": "Palpites dados para esta extração: 2031, 2032, 2034, 2041, 2042, 2044, 2051, 2052, 2054, 2081, 2082, 2084, 8031, 8032, 8034, 8041, 8042, 8044, 8051, 8052, 8054, 8081, 8082, 8084"
     },
     "LOOK - GOIÁS, 18h do 1º ao 10º": {
       "cabecalhos": [
@@ -1045,6 +1282,37 @@
         }
       ],
       "frases": {
+        "2034": [
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 2034"
+        ],
+        "2051": [
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2051",
+          "Dezena no sexto prêmio!<br>com o palpite 2051",
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 2051"
+        ],
+        "2052": [
+          "Dezena no quarto prêmio!<br>com o palpite 2052",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2052",
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 2052"
+        ],
+        "2054": [
+          "Dezena no décimo prêmio!<br>com o palpite 2054",
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 2054"
+        ],
+        "2081": [
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 2081"
+        ],
+        "2082": [
+          "Centena e Dezena no nono prêmio!<br>com o palpite 2082",
+          "Dezena no nono prêmio!<br>com o palpite 2082",
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 2082"
+        ],
+        "2084": [
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 2084"
+        ],
+        "8034": [
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 8034"
+        ],
         "8051": [
           "GALO 🐓 no quarto prêmio!<br>com o palpite 8051",
           "Dezena no sexto prêmio!<br>com o palpite 8051",
@@ -1055,8 +1323,9 @@
           "GALO 🐓 no quarto prêmio!<br>com o palpite 8052",
           "GALO 🐓 no sexto prêmio!<br>com o palpite 8052"
         ],
-        "8053": [
-          "GATO 🐈 no décimo prêmio!<br>com o palpite 8053"
+        "8054": [
+          "Dezena no décimo prêmio!<br>com o palpite 8054",
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 8054"
         ],
         "8081": [
           "TOURO 🐂 no nono prêmio!<br>com o palpite 8081"
@@ -1066,21 +1335,22 @@
           "Dezena no nono prêmio!<br>com o palpite 8082",
           "TOURO 🐂 no nono prêmio!<br>com o palpite 8082"
         ],
-        "8083": [
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 8083"
+        "8084": [
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 8084"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 3,
+        "Centena": 2,
+        "Dezena": 8,
         "Grupo": [
           "🐓",
+          "🐍",
           "🐂",
           "🐈"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8051, 8052, 8053, 8081, 8082, 8083"
+      "resumo": "Palpites dados para esta extração: 2031, 2032, 2034, 2041, 2042, 2044, 2051, 2052, 2054, 2081, 2082, 2084, 8031, 8032, 8034, 8041, 8042, 8044, 8051, 8052, 8054, 8081, 8082, 8084"
     },
     "LOOK - GOIÁS, 21h do 1º ao 10º": {
       "cabecalhos": [
@@ -1152,6 +1422,54 @@
         }
       ],
       "frases": {
+        "2034": [
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 2034",
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 2034",
+          "Dezena no oitavo prêmio!<br>com o palpite 2034",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 2034"
+        ],
+        "2041": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 2041"
+        ],
+        "2042": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 2042"
+        ],
+        "2044": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 2044",
+          "Dezena no quarto prêmio!<br>com o palpite 2044",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 2044"
+        ],
+        "2081": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 2081",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 2081"
+        ],
+        "2082": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 2082",
+          "Dezena no segundo prêmio!<br>com o palpite 2082",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 2082",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 2082"
+        ],
+        "2084": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 2084",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 2084"
+        ],
+        "8034": [
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 8034",
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 8034",
+          "Dezena no oitavo prêmio!<br>com o palpite 8034",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 8034"
+        ],
+        "8041": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 8041"
+        ],
+        "8042": [
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 8042"
+        ],
+        "8044": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 8044",
+          "Dezena no quarto prêmio!<br>com o palpite 8044",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 8044"
+        ],
         "8081": [
           "TOURO 🐂 no segundo prêmio!<br>com o palpite 8081",
           "TOURO 🐂 no sexto prêmio!<br>com o palpite 8081"
@@ -1162,22 +1480,22 @@
           "TOURO 🐂 no segundo prêmio!<br>com o palpite 8082",
           "TOURO 🐂 no sexto prêmio!<br>com o palpite 8082"
         ],
-        "8083": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 8083",
-          "Centena e Dezena no sexto prêmio!<br>com o palpite 8083",
-          "Dezena no sexto prêmio!<br>com o palpite 8083",
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 8083"
+        "8084": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 8084",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 8084"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 2,
-        "Dezena": 2,
+        "Centena": 4,
+        "Dezena": 6,
         "Grupo": [
-          "🐂"
+          "🐂",
+          "🐍",
+          "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8051, 8052, 8053, 8081, 8082, 8083"
+      "resumo": "Palpites dados para esta extração: 2031, 2032, 2034, 2041, 2042, 2044, 2051, 2052, 2054, 2081, 2082, 2084, 8031, 8032, 8034, 8041, 8042, 8044, 8051, 8052, 8054, 8081, 8082, 8084"
     },
     "LOOK - GOIÁS, 23h do 1º ao 10º": {
       "cabecalhos": [
