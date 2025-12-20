@@ -289,272 +289,73 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "9105",
-          "Grupo": "02",
-          "Bicho": "Águia"
+          "Milhar": "6985",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "7323",
-          "Grupo": "06",
-          "Bicho": "Cabra"
+          "Milhar": "6425",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "4003",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "2447",
-          "Grupo": "12",
-          "Bicho": "Elefante"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "2083",
+          "Milhar": "9384",
           "Grupo": "21",
           "Bicho": "Touro"
         },
         {
-          "Prêmio": "6º",
-          "Milhar": "3399",
-          "Grupo": "25",
-          "Bicho": "Vaca"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "8689",
+          "Prêmio": "4º",
+          "Milhar": "9591",
           "Grupo": "23",
           "Bicho": "Urso"
         },
         {
+          "Prêmio": "5º",
+          "Milhar": "0702",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9022",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "1239",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
           "Prêmio": "8º",
-          "Milhar": "9330",
-          "Grupo": "08",
-          "Bicho": "Camelo"
+          "Milhar": "0247",
+          "Grupo": "12",
+          "Bicho": "Elefante"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "7919",
-          "Grupo": "05",
-          "Bicho": "Cachorro"
+          "Milhar": "5634",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "8593",
-          "Grupo": "24",
-          "Bicho": "Veado"
+          "Milhar": "0063",
+          "Grupo": "16",
+          "Bicho": "Leão"
         }
       ],
-      "frases": {
-        "1200": [
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 1200"
-        ],
-        "1201": [
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 1201"
-        ],
-        "1290": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 1290"
-        ],
-        "1291": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 1291"
-        ],
-        "1299": [
-          "Dezena no sexto prêmio!<br>com o palpite 1299",
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 1299"
-        ],
-        "1300": [
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 1300"
-        ],
-        "1301": [
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 1301"
-        ],
-        "1390": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 1390"
-        ],
-        "1391": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 1391"
-        ],
-        "1399": [
-          "Centena e Dezena no sexto prêmio!<br>com o palpite 1399",
-          "Dezena no sexto prêmio!<br>com o palpite 1399",
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 1399"
-        ],
-        "1400": [
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 1400"
-        ],
-        "1401": [
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 1401"
-        ],
-        "1490": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 1490"
-        ],
-        "1491": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 1491"
-        ],
-        "1499": [
-          "Dezena no sexto prêmio!<br>com o palpite 1499",
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 1499"
-        ],
-        "1500": [
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 1500"
-        ],
-        "1501": [
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 1501"
-        ],
-        "1590": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 1590"
-        ],
-        "1591": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 1591"
-        ],
-        "1599": [
-          "Dezena no sexto prêmio!<br>com o palpite 1599",
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 1599"
-        ],
-        "1600": [
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 1600"
-        ],
-        "1601": [
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 1601"
-        ],
-        "1690": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 1690"
-        ],
-        "1691": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 1691"
-        ],
-        "1699": [
-          "Dezena no sexto prêmio!<br>com o palpite 1699",
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 1699"
-        ],
-        "1800": [
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 1800"
-        ],
-        "1801": [
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 1801"
-        ],
-        "1890": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 1890"
-        ],
-        "1891": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 1891"
-        ],
-        "1899": [
-          "Dezena no sexto prêmio!<br>com o palpite 1899",
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 1899"
-        ],
-        "9200": [
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 9200"
-        ],
-        "9201": [
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 9201"
-        ],
-        "9290": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 9290"
-        ],
-        "9291": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 9291"
-        ],
-        "9299": [
-          "Dezena no sexto prêmio!<br>com o palpite 9299",
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 9299"
-        ],
-        "9300": [
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 9300"
-        ],
-        "9301": [
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 9301"
-        ],
-        "9390": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 9390"
-        ],
-        "9391": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 9391"
-        ],
-        "9399": [
-          "Centena e Dezena no sexto prêmio!<br>com o palpite 9399",
-          "Dezena no sexto prêmio!<br>com o palpite 9399",
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 9399"
-        ],
-        "9400": [
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 9400"
-        ],
-        "9401": [
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 9401"
-        ],
-        "9490": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 9490"
-        ],
-        "9491": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 9491"
-        ],
-        "9499": [
-          "Dezena no sexto prêmio!<br>com o palpite 9499",
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 9499"
-        ],
-        "9500": [
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 9500"
-        ],
-        "9501": [
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 9501"
-        ],
-        "9590": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 9590"
-        ],
-        "9591": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 9591"
-        ],
-        "9599": [
-          "Dezena no sexto prêmio!<br>com o palpite 9599",
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 9599"
-        ],
-        "9600": [
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 9600"
-        ],
-        "9601": [
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 9601"
-        ],
-        "9690": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 9690"
-        ],
-        "9691": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 9691"
-        ],
-        "9699": [
-          "Dezena no sexto prêmio!<br>com o palpite 9699",
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 9699"
-        ],
-        "9800": [
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 9800"
-        ],
-        "9801": [
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 9801"
-        ],
-        "9890": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 9890"
-        ],
-        "9891": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 9891"
-        ],
-        "9899": [
-          "Dezena no sexto prêmio!<br>com o palpite 9899",
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 9899"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
-        "Centena": 2,
-        "Dezena": 12,
-        "Grupo": [
-          "🪶",
-          "🐄",
-          "🐻"
-        ]
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1200, 1201, 1209, 1260, 1261, 1269, 1270, 1271, 1279, 1290, 1291, 1299, 1300, 1301, 1309, 1360, 1361, 1369, 1370, 1371, 1379, 1390, 1391, 1399, 1400, 1401, 1409, 1460, 1461, 1469, 1470, 1471, 1479, 1490, 1491, 1499, 1500, 1501, 1509, 1560, 1561, 1569, 1570, 1571, 1579, 1590, 1591, 1599, 1600, 1601, 1609, 1660, 1661, 1669, 1670, 1671, 1679, 1690, 1691, 1699, 1800, 1801, 1809, 1860, 1861, 1869, 1870, 1871, 1879, 1890, 1891, 1899, 9200, 9201, 9209, 9260, 9261, 9269, 9270, 9271, 9279, 9290, 9291, 9299, 9300, 9301, 9309, 9360, 9361, 9369, 9370, 9371, 9379, 9390, 9391, 9399, 9400, 9401, 9409, 9460, 9461, 9469, 9470, 9471, 9479, 9490, 9491, 9499, 9500, 9501, 9509, 9560, 9561, 9569, 9570, 9571, 9579, 9590, 9591, 9599, 9600, 9601, 9609, 9660, 9661, 9669, 9670, 9671, 9679, 9690, 9691, 9699, 9800, 9801, 9809, 9860, 9861, 9869, 9870, 9871, 9879, 9890, 9891, 9899"
+      "resumo": "Palpites dados para esta extração: 0200, 0220, 0500, 0520, 0800, 0820, 1200, 1220, 1500, 1520, 1800, 1820, 2200, 2220, 2500, 2520, 2800, 2820, 3200, 3220, 3500, 3520, 3800, 3820, 4200, 4220, 4500, 4520, 4800, 4820, 5200, 5220, 5500, 5520, 5800, 5820, 7200, 7220, 7500, 7520, 7800, 7820"
     },
     "LOTECE - CE, 15:45 (tarde II)": {
       "cabecalhos": [
@@ -1376,17 +1177,169 @@
         "1200": [
           "Dezena no sétimo prêmio!<br>com o palpite 1200",
           "VACA 🐄 no sétimo prêmio!<br>com o palpite 1200"
+        ],
+        "1220": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 1220"
+        ],
+        "1500": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 1500",
+          "Dezena no sétimo prêmio!<br>com o palpite 1500",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 1500"
+        ],
+        "1520": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 1520"
+        ],
+        "1800": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1800",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 1800"
+        ],
+        "1820": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 1820"
+        ],
+        "2200": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2200",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 2200"
+        ],
+        "2220": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 2220"
+        ],
+        "2500": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 2500",
+          "Dezena no sétimo prêmio!<br>com o palpite 2500",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 2500"
+        ],
+        "2520": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 2520"
+        ],
+        "2800": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2800",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 2800"
+        ],
+        "2820": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 2820"
+        ],
+        "3200": [
+          "Dezena no sétimo prêmio!<br>com o palpite 3200",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 3200"
+        ],
+        "3220": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 3220"
+        ],
+        "3500": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 3500",
+          "Dezena no sétimo prêmio!<br>com o palpite 3500",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 3500"
+        ],
+        "3520": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 3520"
+        ],
+        "3800": [
+          "Dezena no sétimo prêmio!<br>com o palpite 3800",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 3800"
+        ],
+        "3820": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 3820"
+        ],
+        "4200": [
+          "Dezena no sétimo prêmio!<br>com o palpite 4200",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 4200"
+        ],
+        "4220": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 4220"
+        ],
+        "4500": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 4500",
+          "Dezena no sétimo prêmio!<br>com o palpite 4500",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 4500"
+        ],
+        "4520": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 4520"
+        ],
+        "4800": [
+          "Dezena no sétimo prêmio!<br>com o palpite 4800",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 4800"
+        ],
+        "4820": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 4820"
+        ],
+        "5200": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5200",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 5200"
+        ],
+        "5220": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 5220"
+        ],
+        "5500": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 5500",
+          "Dezena no sétimo prêmio!<br>com o palpite 5500",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 5500"
+        ],
+        "5520": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 5520"
+        ],
+        "5800": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5800",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 5800"
+        ],
+        "5820": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 5820"
+        ],
+        "7200": [
+          "Dezena no sétimo prêmio!<br>com o palpite 7200",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7200"
+        ],
+        "7220": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 7220"
+        ],
+        "7500": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 7500",
+          "Dezena no sétimo prêmio!<br>com o palpite 7500",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7500"
+        ],
+        "7520": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 7520"
+        ],
+        "7800": [
+          "Dezena no sétimo prêmio!<br>com o palpite 7800",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7800"
+        ],
+        "7820": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 7820"
+        ],
+        "0220": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 0220"
+        ],
+        "0520": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 0520"
+        ],
+        "0820": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 0820"
+        ],
+        "0200": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0200",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 0200"
+        ],
+        "0500": [
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 0500",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 0500",
+          "Dezena no sétimo prêmio!<br>com o palpite 0500",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 0500"
+        ],
+        "0800": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0800",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 0800"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 1,
+        "Milhar": 1,
+        "Centena": 7,
+        "Dezena": 21,
         "Grupo": [
+          "🐕",
           "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1200"
+      "resumo": "Palpites dados para esta extração: 0200, 0220, 0500, 0520, 0800, 0820, 1200, 1220, 1500, 1520, 1800, 1820, 2200, 2220, 2500, 2520, 2800, 2820, 3200, 3220, 3500, 3520, 3800, 3820, 4200, 4220, 4500, 4520, 4800, 4820, 5200, 5220, 5500, 5520, 5800, 5820, 7200, 7220, 7500, 7520, 7800, 7820"
     },
     "A FEDERAL DO BRASIL CE - Ceará Federal": {
       "cabecalhos": [
