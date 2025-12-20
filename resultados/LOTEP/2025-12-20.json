@@ -166,45 +166,14 @@
           "Bicho": "Urso"
         }
       ],
-      "frases": {
-        "1890": [
-          "URSO 🐻 no sexto prêmio!<br>com o palpite 1890",
-          "Dezena no oitavo prêmio!<br>com o palpite 1890",
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 1890",
-          "Dezena no nono prêmio!<br>com o palpite 1890",
-          "URSO 🐻 no nono prêmio!<br>com o palpite 1890",
-          "URSO 🐻 no décimo prêmio!<br>com o palpite 1890"
-        ],
-        "1891": [
-          "URSO 🐻 no sexto prêmio!<br>com o palpite 1891",
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 1891",
-          "URSO 🐻 no nono prêmio!<br>com o palpite 1891",
-          "URSO 🐻 no décimo prêmio!<br>com o palpite 1891"
-        ],
-        "9890": [
-          "URSO 🐻 no sexto prêmio!<br>com o palpite 9890",
-          "Dezena no oitavo prêmio!<br>com o palpite 9890",
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 9890",
-          "Dezena no nono prêmio!<br>com o palpite 9890",
-          "URSO 🐻 no nono prêmio!<br>com o palpite 9890",
-          "URSO 🐻 no décimo prêmio!<br>com o palpite 9890"
-        ],
-        "9891": [
-          "URSO 🐻 no sexto prêmio!<br>com o palpite 9891",
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 9891",
-          "URSO 🐻 no nono prêmio!<br>com o palpite 9891",
-          "URSO 🐻 no décimo prêmio!<br>com o palpite 9891"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 4,
-        "Grupo": [
-          "🐻"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1890, 1891, 9890, 9891"
+      "resumo": "Palpites dados para esta extração: 3025, 3325, 3425, 3525, 3625, 3725, 3825"
     },
     "LOTEP - PB, 15:45h": {
       "cabecalhos": [
@@ -275,14 +244,38 @@
           "Bicho": "Borboleta"
         }
       ],
-      "frases": {},
+      "frases": {
+        "3025": [
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 3025"
+        ],
+        "3325": [
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 3325"
+        ],
+        "3425": [
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 3425"
+        ],
+        "3525": [
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 3525"
+        ],
+        "3625": [
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 3625"
+        ],
+        "3725": [
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 3725"
+        ],
+        "3825": [
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 3825"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐑"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1890, 1891, 9890, 9891"
+      "resumo": "Palpites dados para esta extração: 3025, 3325, 3425, 3525, 3625, 3725, 3825"
     },
     "LOTEP - PB, 18h": {
       "cabecalhos": [
@@ -353,6 +346,123 @@
           "Bicho": "Leão"
         }
       ],
+      "frases": {
+        "3025": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 3025",
+          "Dezena no quarto prêmio!<br>com o palpite 3025",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 3025"
+        ],
+        "3325": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 3325",
+          "Dezena no quarto prêmio!<br>com o palpite 3325",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 3325"
+        ],
+        "3425": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 3425",
+          "Dezena no quarto prêmio!<br>com o palpite 3425",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 3425"
+        ],
+        "3525": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 3525",
+          "Dezena no quarto prêmio!<br>com o palpite 3525",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 3525"
+        ],
+        "3625": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 3625",
+          "Dezena no quarto prêmio!<br>com o palpite 3625",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 3625"
+        ],
+        "3725": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 3725",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 3725",
+          "Dezena no quarto prêmio!<br>com o palpite 3725",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 3725"
+        ],
+        "3825": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 3825",
+          "Dezena no quarto prêmio!<br>com o palpite 3825",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 3825"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 7,
+        "Grupo": [
+          "🐑"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3025, 3325, 3425, 3525, 3625, 3725, 3825"
+    },
+    "PB - FEDERAL": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6372",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2560",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1787",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4690",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5593",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "6214",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3576",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7689",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "2070",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0551",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        }
+      ],
       "frases": {},
       "acertos": {
         "Milhar": 0,
@@ -360,9 +470,9 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1890, 1891, 9890, 9891"
+      "resumo": "Palpites dados para esta extração: 3025, 3325, 3425, 3525, 3625, 3725, 3825"
     },
-    "PB - FEDERAL": {
+    "PB, Paratodos 10:45": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
