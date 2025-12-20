@@ -69,16 +69,135 @@
           "Bicho": "Cavalo"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2941": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 2941",
+          "Dezena no décimo prêmio!<br>com o palpite 2941",
+          "CAVALO 🐎 no décimo prêmio!<br>com o palpite 2941"
+        ],
+        "2943": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 2943",
+          "Dezena no terceiro prêmio!<br>com o palpite 2943",
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 2943",
+          "CAVALO 🐎 no décimo prêmio!<br>com o palpite 2943"
+        ],
+        "2944": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 2944",
+          "CAVALO 🐎 no décimo prêmio!<br>com o palpite 2944"
+        ],
+        "2945": [
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 2945"
+        ],
+        "2947": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 2947",
+          "Dezena no sexto prêmio!<br>com o palpite 2947",
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 2947"
+        ],
+        "2949": [
+          "Dezena no segundo prêmio!<br>com o palpite 2949",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2949"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 2,
+        "Dezena": 4,
+        "Grupo": [
+          "🐓",
+          "🐎",
+          "🐘"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2940, 2941, 2943, 2944, 2945, 2947, 2949"
+    },
+    "12h - MALUCA - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1406",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6408",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9126",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7714",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9012",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7659",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "1557",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "4995",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0927",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "9046",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        }
+      ],
+      "frases": {
+        "2945": [
+          "ELEFANTE 🐘 no décimo prêmio!<br>com o palpite 2945"
+        ],
+        "2947": [
+          "ELEFANTE 🐘 no décimo prêmio!<br>com o palpite 2947"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐘"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2514, 2554"
+      "resumo": "Palpites dados para esta extração: 2940, 2941, 2943, 2944, 2945, 2947, 2949"
     },
-    "12h - MALUCA - BA": {
+    "15h - MALUCA - BA": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
