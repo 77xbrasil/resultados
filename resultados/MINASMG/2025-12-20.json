@@ -52,115 +52,161 @@
         }
       ],
       "frases": {
-        "4008": [
-          "Dezena no quarto prêmio!<br>com o palpite 4008",
-          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 4008"
+        "4101": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 4101"
         ],
-        "4088": [
-          "Dezena no sétimo prêmio!<br>com o palpite 4088",
-          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 4088"
+        "4108": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 4108",
+          "Dezena no quarto prêmio!<br>com o palpite 4108",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 4108"
+        ],
+        "4131": [
+          "Dezena no quinto prêmio!<br>com o palpite 4131",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 4131",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 4131"
+        ],
+        "4201": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 4201"
+        ],
+        "4208": [
+          "Dezena no quarto prêmio!<br>com o palpite 4208",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 4208"
+        ],
+        "4231": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 4231",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 4231",
+          "Dezena no quinto prêmio!<br>com o palpite 4231",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 4231",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 4231"
+        ],
+        "4501": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 4501"
         ],
         "4508": [
           "Dezena no quarto prêmio!<br>com o palpite 4508",
           "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 4508"
         ],
-        "4588": [
-          "Dezena no sétimo prêmio!<br>com o palpite 4588",
-          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 4588"
+        "4531": [
+          "Dezena no quinto prêmio!<br>com o palpite 4531",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 4531",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 4531"
+        ],
+        "4601": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 4601"
         ],
         "4608": [
           "Dezena no quarto prêmio!<br>com o palpite 4608",
           "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 4608"
         ],
-        "4688": [
-          "Dezena no sétimo prêmio!<br>com o palpite 4688",
-          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 4688"
+        "4631": [
+          "Dezena no quinto prêmio!<br>com o palpite 4631",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 4631",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 4631"
+        ],
+        "4801": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 4801"
         ],
         "4808": [
           "Dezena no quarto prêmio!<br>com o palpite 4808",
           "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 4808"
         ],
-        "4888": [
-          "Dezena no sétimo prêmio!<br>com o palpite 4888",
-          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 4888"
+        "4831": [
+          "Dezena no quinto prêmio!<br>com o palpite 4831",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 4831",
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 4831"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 10,
+        "Grupo": [
+          "🪶",
+          "🦅",
+          "🐪"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 4101, 4108, 4131, 4138, 4151, 4158, 4201, 4208, 4231, 4238, 4251, 4258, 4501, 4508, 4531, 4538, 4551, 4558, 4601, 4608, 4631, 4638, 4651, 4658, 4801, 4808, 4831, 4838, 4851, 4858"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5765",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5092",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7699",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4860",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2761",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "26177",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "355",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "4158": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 4158"
         ],
-        "6008": [
-          "Dezena no quarto prêmio!<br>com o palpite 6008",
-          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 6008"
+        "4258": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 4258"
         ],
-        "6088": [
-          "Dezena no sétimo prêmio!<br>com o palpite 6088",
-          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 6088"
+        "4558": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 4558"
         ],
-        "6508": [
-          "Dezena no quarto prêmio!<br>com o palpite 6508",
-          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 6508"
+        "4658": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 4658"
         ],
-        "6588": [
-          "Dezena no sétimo prêmio!<br>com o palpite 6588",
-          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 6588"
-        ],
-        "6608": [
-          "Dezena no quarto prêmio!<br>com o palpite 6608",
-          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 6608"
-        ],
-        "6688": [
-          "Dezena no sétimo prêmio!<br>com o palpite 6688",
-          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 6688"
-        ],
-        "6808": [
-          "Dezena no quarto prêmio!<br>com o palpite 6808",
-          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 6808"
-        ],
-        "6888": [
-          "Dezena no sétimo prêmio!<br>com o palpite 6888",
-          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 6888"
-        ],
-        "7008": [
-          "Dezena no quarto prêmio!<br>com o palpite 7008",
-          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 7008"
-        ],
-        "7088": [
-          "Dezena no sétimo prêmio!<br>com o palpite 7088",
-          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 7088"
-        ],
-        "7508": [
-          "Dezena no quarto prêmio!<br>com o palpite 7508",
-          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 7508"
-        ],
-        "7588": [
-          "Dezena no sétimo prêmio!<br>com o palpite 7588",
-          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 7588"
-        ],
-        "7608": [
-          "Dezena no quarto prêmio!<br>com o palpite 7608",
-          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 7608"
-        ],
-        "7688": [
-          "Dezena no sétimo prêmio!<br>com o palpite 7688",
-          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 7688"
-        ],
-        "7808": [
-          "Dezena no quarto prêmio!<br>com o palpite 7808",
-          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 7808"
-        ],
-        "7888": [
-          "Dezena no sétimo prêmio!<br>com o palpite 7888",
-          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 7888"
+        "4858": [
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 4858"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 24,
+        "Dezena": 0,
         "Grupo": [
-          "🦅",
-          "🐅"
+          "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4008, 4048, 4058, 4088, 4508, 4548, 4558, 4588, 4608, 4648, 4658, 4688, 4808, 4848, 4858, 4888, 6008, 6048, 6058, 6088, 6508, 6548, 6558, 6588, 6608, 6648, 6658, 6688, 6808, 6848, 6858, 6888, 7008, 7048, 7058, 7088, 7508, 7548, 7558, 7588, 7608, 7648, 7658, 7688, 7808, 7848, 7858, 7888"
+      "resumo": "Palpites dados para esta extração: 4101, 4108, 4131, 4138, 4151, 4158, 4201, 4208, 4231, 4238, 4251, 4258, 4501, 4508, 4531, 4538, 4551, 4558, 4601, 4608, 4631, 4638, 4651, 4658, 4801, 4808, 4831, 4838, 4851, 4858"
     },
-    "MINAS DIA - MG, 15h": {
+    "MINAS FEDERAL - MG": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
