@@ -355,7 +355,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 6500, 6560"
+      "resumo": "Palpites dados para esta extração: 5200, 5400, 5500, 5800"
     },
     "LOTECE - CE, 15:45 (tarde II)": {
       "cabecalhos": [
@@ -433,7 +433,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 6500, 6560"
+      "resumo": "Palpites dados para esta extração: 5200, 5400, 5500, 5800"
     },
     "LOTECE - CE, 19:00 (noite)": {
       "cabecalhos": [
@@ -511,7 +511,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 6500, 6560"
+      "resumo": "Palpites dados para esta extração: 5200, 5400, 5500, 5800"
     },
     "LOTECE - CE, 12:00 (manhã)": {
       "cabecalhos": [
@@ -676,21 +676,33 @@
         }
       ],
       "frases": {
-        "6500": [
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 6500",
-          "Dezena no sétimo prêmio!<br>com o palpite 6500",
-          "VACA 🐄 no sétimo prêmio!<br>com o palpite 6500"
+        "5200": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5200",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 5200"
+        ],
+        "5400": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5400",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 5400"
+        ],
+        "5500": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 5500",
+          "Dezena no sétimo prêmio!<br>com o palpite 5500",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 5500"
+        ],
+        "5800": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5800",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 5800"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 1,
-        "Dezena": 1,
+        "Dezena": 4,
         "Grupo": [
           "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6500, 6560"
+      "resumo": "Palpites dados para esta extração: 5200, 5400, 5500, 5800"
     }
   }
 }
