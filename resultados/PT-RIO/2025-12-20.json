@@ -55,36 +55,81 @@
         "8601": [
           "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 8601"
         ],
-        "8602": [
-          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 8602"
-        ],
-        "8607": [
-          "Dezena no terceiro prêmio!<br>com o palpite 8607",
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 8607"
-        ],
-        "0607": [
-          "Dezena no terceiro prêmio!<br>com o palpite 0607",
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 0607"
-        ],
         "0601": [
           "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0601"
-        ],
-        "0602": [
-          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0602"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 0,
         "Grupo": [
-          "🦅",
           "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0600, 0601, 0602, 0607, 8600, 8601, 8602, 8607"
+      "resumo": "Palpites dados para esta extração: 0600, 0601, 0609, 8600, 8601, 8609"
     },
     "PT-RIO, RJ, 11:00, PTM": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2029",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0207",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9443",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9157",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4816",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "5652",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "420",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0600, 0601, 0609, 8600, 8601, 8609"
+    },
+    "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -179,28 +224,111 @@
         }
       ],
       "frases": {
-        "8607": [
-          "Dezena no terceiro prêmio!<br>com o palpite 8607",
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 8607",
-          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 8607"
+        "8609": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 8609"
         ],
-        "0607": [
-          "Dezena no terceiro prêmio!<br>com o palpite 0607",
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 0607",
-          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 0607"
+        "0609": [
+          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 0609"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 0,
         "Grupo": [
-          "🦅"
+          "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0600, 0601, 0602, 0607, 8600, 8601, 8602, 8607"
+      "resumo": "Palpites dados para esta extração: 0600, 0601, 0609, 8600, 8601, 8609"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2029",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0207",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9443",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9157",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4816",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2099",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0241",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2045",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9737",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "9774",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        }
+      ],
+      "frases": {
+        "8600": [
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 8600"
+        ],
+        "0600": [
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 0600"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐄"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0600, 0601, 0609, 8600, 8601, 8609"
+    },
+    "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
