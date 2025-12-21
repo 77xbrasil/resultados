@@ -169,7 +169,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8250, 8252"
+      "resumo": "Palpites dados para esta extração: 0250, 0252, 0350, 0352, 0650, 0652, 0850, 0852, 2250, 2252, 2350, 2352, 2650, 2652, 2850, 2852, 6250, 6252, 6350, 6352, 6650, 6652, 6850, 6852, 8250, 8252, 8350, 8352, 8650, 8652, 8850, 8852"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -223,7 +223,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8250, 8252"
+      "resumo": "Palpites dados para esta extração: 0250, 0252, 0350, 0352, 0650, 0652, 0850, 0852, 2250, 2252, 2350, 2352, 2650, 2652, 2850, 2852, 6250, 6252, 6350, 6352, 6650, 6652, 6850, 6852, 8250, 8252, 8350, 8352, 8650, 8652, 8850, 8852"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -277,7 +277,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8250, 8252"
+      "resumo": "Palpites dados para esta extração: 0250, 0252, 0350, 0352, 0650, 0652, 0850, 0852, 2250, 2252, 2350, 2352, 2650, 2652, 2850, 2852, 6250, 6252, 6350, 6352, 6650, 6652, 6850, 6852, 8250, 8252, 8350, 8352, 8650, 8652, 8850, 8852"
     },
     "Nacional - LN 15:00": {
       "cabecalhos": [
@@ -331,7 +331,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8250, 8252"
+      "resumo": "Palpites dados para esta extração: 0250, 0252, 0350, 0352, 0650, 0652, 0850, 0852, 2250, 2252, 2350, 2352, 2650, 2652, 2850, 2852, 6250, 6252, 6350, 6352, 6650, 6652, 6850, 6852, 8250, 8252, 8350, 8352, 8650, 8652, 8850, 8852"
     },
     "Nacional - LN 17:00": {
       "cabecalhos": [
@@ -379,6 +379,105 @@
         }
       ],
       "frases": {
+        "2250": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2250",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2250",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2250"
+        ],
+        "2252": [
+          "Dezena no segundo prêmio!<br>com o palpite 2252",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2252",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2252",
+          "Dezena no quarto prêmio!<br>com o palpite 2252",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2252"
+        ],
+        "2350": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2350",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2350",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2350"
+        ],
+        "2352": [
+          "Dezena no segundo prêmio!<br>com o palpite 2352",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2352",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2352",
+          "Dezena no quarto prêmio!<br>com o palpite 2352",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2352"
+        ],
+        "2650": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2650",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2650",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2650"
+        ],
+        "2652": [
+          "Dezena no segundo prêmio!<br>com o palpite 2652",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2652",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2652",
+          "Dezena no quarto prêmio!<br>com o palpite 2652",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2652"
+        ],
+        "2850": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2850",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2850",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2850"
+        ],
+        "2852": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 2852",
+          "Dezena no segundo prêmio!<br>com o palpite 2852",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2852",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2852",
+          "Dezena no quarto prêmio!<br>com o palpite 2852",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2852"
+        ],
+        "6250": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6250",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 6250",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 6250"
+        ],
+        "6252": [
+          "Dezena no segundo prêmio!<br>com o palpite 6252",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6252",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 6252",
+          "Dezena no quarto prêmio!<br>com o palpite 6252",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 6252"
+        ],
+        "6350": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6350",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 6350",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 6350"
+        ],
+        "6352": [
+          "Dezena no segundo prêmio!<br>com o palpite 6352",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6352",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 6352",
+          "Dezena no quarto prêmio!<br>com o palpite 6352",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 6352"
+        ],
+        "6650": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6650",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 6650",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 6650"
+        ],
+        "6652": [
+          "Dezena no segundo prêmio!<br>com o palpite 6652",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6652",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 6652",
+          "Dezena no quarto prêmio!<br>com o palpite 6652",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 6652"
+        ],
+        "6850": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6850",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 6850",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 6850"
+        ],
+        "6852": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 6852",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 6852",
+          "Dezena no segundo prêmio!<br>com o palpite 6852",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6852",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 6852",
+          "Dezena no quarto prêmio!<br>com o palpite 6852",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 6852"
+        ],
         "8250": [
           "GALO 🐓 no segundo prêmio!<br>com o palpite 8250",
           "GALO 🐓 no terceiro prêmio!<br>com o palpite 8250",
@@ -390,17 +489,103 @@
           "GALO 🐓 no terceiro prêmio!<br>com o palpite 8252",
           "Dezena no quarto prêmio!<br>com o palpite 8252",
           "GALO 🐓 no quarto prêmio!<br>com o palpite 8252"
+        ],
+        "8350": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 8350",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 8350",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 8350"
+        ],
+        "8352": [
+          "Dezena no segundo prêmio!<br>com o palpite 8352",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 8352",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 8352",
+          "Dezena no quarto prêmio!<br>com o palpite 8352",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 8352"
+        ],
+        "8650": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 8650",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 8650",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 8650"
+        ],
+        "8652": [
+          "Dezena no segundo prêmio!<br>com o palpite 8652",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 8652",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 8652",
+          "Dezena no quarto prêmio!<br>com o palpite 8652",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 8652"
+        ],
+        "8850": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 8850",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 8850",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 8850"
+        ],
+        "8852": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 8852",
+          "Dezena no segundo prêmio!<br>com o palpite 8852",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 8852",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 8852",
+          "Dezena no quarto prêmio!<br>com o palpite 8852",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 8852"
+        ],
+        "0250": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 0250",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0250",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0250"
+        ],
+        "0252": [
+          "Dezena no segundo prêmio!<br>com o palpite 0252",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 0252",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0252",
+          "Dezena no quarto prêmio!<br>com o palpite 0252",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0252"
+        ],
+        "0350": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 0350",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0350",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0350"
+        ],
+        "0352": [
+          "Dezena no segundo prêmio!<br>com o palpite 0352",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 0352",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0352",
+          "Dezena no quarto prêmio!<br>com o palpite 0352",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0352"
+        ],
+        "0650": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 0650",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0650",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0650"
+        ],
+        "0652": [
+          "Dezena no segundo prêmio!<br>com o palpite 0652",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 0652",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0652",
+          "Dezena no quarto prêmio!<br>com o palpite 0652",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0652"
+        ],
+        "0850": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 0850",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0850",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0850"
+        ],
+        "0852": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 0852",
+          "Dezena no segundo prêmio!<br>com o palpite 0852",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 0852",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0852",
+          "Dezena no quarto prêmio!<br>com o palpite 0852",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0852"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 2,
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 32,
         "Grupo": [
           "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8250, 8252"
+      "resumo": "Palpites dados para esta extração: 0250, 0252, 0350, 0352, 0650, 0652, 0850, 0852, 2250, 2252, 2350, 2352, 2650, 2652, 2850, 2852, 6250, 6252, 6350, 6352, 6650, 6652, 6850, 6852, 8250, 8252, 8350, 8352, 8650, 8652, 8850, 8852"
     },
     "A FEDERAL DO BRASIL": {
       "cabecalhos": [
@@ -454,7 +639,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8250, 8252"
+      "resumo": "Palpites dados para esta extração: 0250, 0252, 0350, 0352, 0650, 0652, 0850, 0852, 2250, 2252, 2350, 2352, 2650, 2652, 2850, 2852, 6250, 6252, 6350, 6352, 6650, 6652, 6850, 6852, 8250, 8252, 8350, 8352, 8650, 8652, 8850, 8852"
     },
     "Nacional - LN 21:00": {
       "cabecalhos": [
@@ -508,7 +693,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8250, 8252"
+      "resumo": "Palpites dados para esta extração: 0250, 0252, 0350, 0352, 0650, 0652, 0850, 0852, 2250, 2252, 2350, 2352, 2650, 2652, 2850, 2852, 6250, 6252, 6350, 6352, 6650, 6652, 6850, 6852, 8250, 8252, 8350, 8352, 8650, 8652, 8850, 8852"
     }
   },
   "1-10": {
@@ -759,7 +944,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8250, 8252"
+      "resumo": "Palpites dados para esta extração: 0250, 0252, 0350, 0352, 0650, 0652, 0850, 0852, 2250, 2252, 2350, 2352, 2650, 2652, 2850, 2852, 6250, 6252, 6350, 6352, 6650, 6652, 6850, 6852, 8250, 8252, 8350, 8352, 8650, 8652, 8850, 8852"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -831,23 +1016,128 @@
         }
       ],
       "frases": {
+        "2250": [
+          "Dezena no oitavo prêmio!<br>com o palpite 2250",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 2250"
+        ],
+        "2252": [
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 2252"
+        ],
+        "2350": [
+          "Dezena no oitavo prêmio!<br>com o palpite 2350",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 2350"
+        ],
+        "2352": [
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 2352"
+        ],
+        "2650": [
+          "Dezena no oitavo prêmio!<br>com o palpite 2650",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 2650"
+        ],
+        "2652": [
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 2652"
+        ],
+        "2850": [
+          "Dezena no oitavo prêmio!<br>com o palpite 2850",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 2850"
+        ],
+        "2852": [
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 2852"
+        ],
+        "6250": [
+          "Dezena no oitavo prêmio!<br>com o palpite 6250",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 6250"
+        ],
+        "6252": [
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 6252"
+        ],
+        "6350": [
+          "Dezena no oitavo prêmio!<br>com o palpite 6350",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 6350"
+        ],
+        "6352": [
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 6352"
+        ],
+        "6650": [
+          "Dezena no oitavo prêmio!<br>com o palpite 6650",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 6650"
+        ],
+        "6652": [
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 6652"
+        ],
+        "6850": [
+          "Dezena no oitavo prêmio!<br>com o palpite 6850",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 6850"
+        ],
+        "6852": [
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 6852"
+        ],
         "8250": [
           "Dezena no oitavo prêmio!<br>com o palpite 8250",
           "GALO 🐓 no oitavo prêmio!<br>com o palpite 8250"
         ],
         "8252": [
           "GALO 🐓 no oitavo prêmio!<br>com o palpite 8252"
+        ],
+        "8350": [
+          "Dezena no oitavo prêmio!<br>com o palpite 8350",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 8350"
+        ],
+        "8352": [
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 8352"
+        ],
+        "8650": [
+          "Dezena no oitavo prêmio!<br>com o palpite 8650",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 8650"
+        ],
+        "8652": [
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 8652"
+        ],
+        "8850": [
+          "Dezena no oitavo prêmio!<br>com o palpite 8850",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 8850"
+        ],
+        "8852": [
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 8852"
+        ],
+        "0250": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0250",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 0250"
+        ],
+        "0252": [
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 0252"
+        ],
+        "0350": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0350",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 0350"
+        ],
+        "0352": [
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 0352"
+        ],
+        "0650": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0650",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 0650"
+        ],
+        "0652": [
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 0652"
+        ],
+        "0850": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0850",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 0850"
+        ],
+        "0852": [
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 0852"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 16,
         "Grupo": [
           "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8250, 8252"
+      "resumo": "Palpites dados para esta extração: 0250, 0252, 0350, 0352, 0650, 0652, 0850, 0852, 2250, 2252, 2350, 2352, 2650, 2652, 2850, 2852, 6250, 6252, 6350, 6352, 6650, 6652, 6850, 6852, 8250, 8252, 8350, 8352, 8650, 8652, 8850, 8852"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -925,7 +1215,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8250, 8252"
+      "resumo": "Palpites dados para esta extração: 0250, 0252, 0350, 0352, 0650, 0652, 0850, 0852, 2250, 2252, 2350, 2352, 2650, 2652, 2850, 2852, 6250, 6252, 6350, 6352, 6650, 6652, 6850, 6852, 8250, 8252, 8350, 8352, 8650, 8652, 8850, 8852"
     },
     "Nacional - LN 15:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1003,7 +1293,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8250, 8252"
+      "resumo": "Palpites dados para esta extração: 0250, 0252, 0350, 0352, 0650, 0652, 0850, 0852, 2250, 2252, 2350, 2352, 2650, 2652, 2850, 2852, 6250, 6252, 6350, 6352, 6650, 6652, 6850, 6852, 8250, 8252, 8350, 8352, 8650, 8652, 8850, 8852"
     },
     "Nacional - LN 17:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1075,6 +1365,105 @@
         }
       ],
       "frases": {
+        "2250": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2250",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2250",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2250"
+        ],
+        "2252": [
+          "Dezena no segundo prêmio!<br>com o palpite 2252",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2252",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2252",
+          "Dezena no quarto prêmio!<br>com o palpite 2252",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2252"
+        ],
+        "2350": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2350",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2350",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2350"
+        ],
+        "2352": [
+          "Dezena no segundo prêmio!<br>com o palpite 2352",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2352",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2352",
+          "Dezena no quarto prêmio!<br>com o palpite 2352",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2352"
+        ],
+        "2650": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2650",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2650",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2650"
+        ],
+        "2652": [
+          "Dezena no segundo prêmio!<br>com o palpite 2652",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2652",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2652",
+          "Dezena no quarto prêmio!<br>com o palpite 2652",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2652"
+        ],
+        "2850": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2850",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2850",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2850"
+        ],
+        "2852": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 2852",
+          "Dezena no segundo prêmio!<br>com o palpite 2852",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2852",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2852",
+          "Dezena no quarto prêmio!<br>com o palpite 2852",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 2852"
+        ],
+        "6250": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6250",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 6250",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 6250"
+        ],
+        "6252": [
+          "Dezena no segundo prêmio!<br>com o palpite 6252",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6252",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 6252",
+          "Dezena no quarto prêmio!<br>com o palpite 6252",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 6252"
+        ],
+        "6350": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6350",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 6350",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 6350"
+        ],
+        "6352": [
+          "Dezena no segundo prêmio!<br>com o palpite 6352",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6352",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 6352",
+          "Dezena no quarto prêmio!<br>com o palpite 6352",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 6352"
+        ],
+        "6650": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6650",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 6650",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 6650"
+        ],
+        "6652": [
+          "Dezena no segundo prêmio!<br>com o palpite 6652",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6652",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 6652",
+          "Dezena no quarto prêmio!<br>com o palpite 6652",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 6652"
+        ],
+        "6850": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6850",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 6850",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 6850"
+        ],
+        "6852": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 6852",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 6852",
+          "Dezena no segundo prêmio!<br>com o palpite 6852",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6852",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 6852",
+          "Dezena no quarto prêmio!<br>com o palpite 6852",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 6852"
+        ],
         "8250": [
           "GALO 🐓 no segundo prêmio!<br>com o palpite 8250",
           "GALO 🐓 no terceiro prêmio!<br>com o palpite 8250",
@@ -1086,17 +1475,103 @@
           "GALO 🐓 no terceiro prêmio!<br>com o palpite 8252",
           "Dezena no quarto prêmio!<br>com o palpite 8252",
           "GALO 🐓 no quarto prêmio!<br>com o palpite 8252"
+        ],
+        "8350": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 8350",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 8350",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 8350"
+        ],
+        "8352": [
+          "Dezena no segundo prêmio!<br>com o palpite 8352",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 8352",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 8352",
+          "Dezena no quarto prêmio!<br>com o palpite 8352",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 8352"
+        ],
+        "8650": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 8650",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 8650",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 8650"
+        ],
+        "8652": [
+          "Dezena no segundo prêmio!<br>com o palpite 8652",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 8652",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 8652",
+          "Dezena no quarto prêmio!<br>com o palpite 8652",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 8652"
+        ],
+        "8850": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 8850",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 8850",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 8850"
+        ],
+        "8852": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 8852",
+          "Dezena no segundo prêmio!<br>com o palpite 8852",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 8852",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 8852",
+          "Dezena no quarto prêmio!<br>com o palpite 8852",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 8852"
+        ],
+        "0250": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 0250",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0250",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0250"
+        ],
+        "0252": [
+          "Dezena no segundo prêmio!<br>com o palpite 0252",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 0252",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0252",
+          "Dezena no quarto prêmio!<br>com o palpite 0252",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0252"
+        ],
+        "0350": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 0350",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0350",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0350"
+        ],
+        "0352": [
+          "Dezena no segundo prêmio!<br>com o palpite 0352",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 0352",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0352",
+          "Dezena no quarto prêmio!<br>com o palpite 0352",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0352"
+        ],
+        "0650": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 0650",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0650",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0650"
+        ],
+        "0652": [
+          "Dezena no segundo prêmio!<br>com o palpite 0652",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 0652",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0652",
+          "Dezena no quarto prêmio!<br>com o palpite 0652",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0652"
+        ],
+        "0850": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 0850",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0850",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0850"
+        ],
+        "0852": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 0852",
+          "Dezena no segundo prêmio!<br>com o palpite 0852",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 0852",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0852",
+          "Dezena no quarto prêmio!<br>com o palpite 0852",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 0852"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 2,
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 32,
         "Grupo": [
           "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8250, 8252"
+      "resumo": "Palpites dados para esta extração: 0250, 0252, 0350, 0352, 0650, 0652, 0850, 0852, 2250, 2252, 2350, 2352, 2650, 2652, 2850, 2852, 6250, 6252, 6350, 6352, 6650, 6652, 6850, 6852, 8250, 8252, 8350, 8352, 8650, 8652, 8850, 8852"
     },
     "A FEDERAL DO BRASIL do 1º ao 10º": {
       "cabecalhos": [
@@ -1174,7 +1649,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8250, 8252"
+      "resumo": "Palpites dados para esta extração: 0250, 0252, 0350, 0352, 0650, 0652, 0850, 0852, 2250, 2252, 2350, 2352, 2650, 2652, 2850, 2852, 6250, 6252, 6350, 6352, 6650, 6652, 6850, 6852, 8250, 8252, 8350, 8352, 8650, 8652, 8850, 8852"
     },
     "Nacional - LN 21:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1252,7 +1727,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 8250, 8252"
+      "resumo": "Palpites dados para esta extração: 0250, 0252, 0350, 0352, 0650, 0652, 0850, 0852, 2250, 2252, 2350, 2352, 2650, 2652, 2850, 2852, 6250, 6252, 6350, 6352, 6650, 6652, 6850, 6852, 8250, 8252, 8350, 8352, 8650, 8652, 8850, 8852"
     }
   }
 }
