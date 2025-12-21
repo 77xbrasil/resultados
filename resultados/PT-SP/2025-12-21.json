@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5481, 5482, 5485, 5881, 5882, 5885"
+      "resumo": "Palpites dados para esta extração: 1122, 1222, 1422, 1522, 1622, 1722, 1822, 5122, 5222, 5422, 5522, 5622, 5722, 5822"
     },
     "SP, 10hs - PTSP": {
       "cabecalhos": [
@@ -111,31 +111,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "5481": [
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 5481"
-        ],
-        "5482": [
-          "Dezena no quarto prêmio!<br>com o palpite 5482",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 5482"
-        ],
-        "5881": [
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 5881"
-        ],
-        "5882": [
-          "Dezena no quarto prêmio!<br>com o palpite 5882",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 5882"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
-        "Grupo": [
-          "🐂"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5481, 5482, 5485, 5881, 5882, 5885"
+      "resumo": "Palpites dados para esta extração: 1122, 1222, 1422, 1522, 1622, 1722, 1822, 5122, 5222, 5422, 5522, 5622, 5722, 5822"
     },
     "SP, 12:00 - PTSP": {
       "cabecalhos": [
@@ -188,14 +171,76 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "1122": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1122",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1122"
+        ],
+        "1222": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1222",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1222"
+        ],
+        "1422": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1422",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1422"
+        ],
+        "1522": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1522",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1522"
+        ],
+        "1622": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 1622",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 1622",
+          "Dezena no terceiro prêmio!<br>com o palpite 1622",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1622"
+        ],
+        "1722": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1722",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1722"
+        ],
+        "1822": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1822",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1822"
+        ],
+        "5122": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5122",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 5122"
+        ],
+        "5222": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5222",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 5222"
+        ],
+        "5422": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5422",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 5422"
+        ],
+        "5522": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5522",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 5522"
+        ],
+        "5622": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 5622",
+          "Dezena no terceiro prêmio!<br>com o palpite 5622",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 5622"
+        ],
+        "5722": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5722",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 5722"
+        ],
+        "5822": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5822",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 5822"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5481, 5482, 5485, 5881, 5882, 5885"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 14,
+        "Grupo": [
+          "🐐"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1122, 1222, 1422, 1522, 1622, 1722, 1822, 5122, 5222, 5422, 5522, 5622, 5722, 5822"
     },
     "SP, 13hs - PTSP": {
       "cabecalhos": [
@@ -291,14 +336,73 @@
           "Bicho": "Vaca"
         }
       ],
-      "frases": {},
+      "frases": {
+        "1122": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1122",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 1122"
+        ],
+        "1222": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1222",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 1222"
+        ],
+        "1422": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1422",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 1422"
+        ],
+        "1522": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1522",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 1522"
+        ],
+        "1622": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1622",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 1622"
+        ],
+        "1722": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1722",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 1722"
+        ],
+        "1822": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1822",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 1822"
+        ],
+        "5122": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5122",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 5122"
+        ],
+        "5222": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5222",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 5222"
+        ],
+        "5422": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5422",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 5422"
+        ],
+        "5522": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5522",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 5522"
+        ],
+        "5622": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5622",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 5622"
+        ],
+        "5722": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5722",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 5722"
+        ],
+        "5822": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5822",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 5822"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 14,
+        "Grupo": [
+          "🐐"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5481, 5482, 5485, 5881, 5882, 5885"
+      "resumo": "Palpites dados para esta extração: 1122, 1222, 1422, 1522, 1622, 1722, 1822, 5122, 5222, 5422, 5522, 5622, 5722, 5822"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -370,37 +474,58 @@
         }
       ],
       "frases": {
-        "5481": [
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 5481"
+        "1122": [
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 1122"
         ],
-        "5482": [
-          "Dezena no quarto prêmio!<br>com o palpite 5482",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 5482"
+        "1222": [
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 1222"
         ],
-        "5485": [
-          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 5485"
+        "1422": [
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 1422"
         ],
-        "5881": [
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 5881"
+        "1522": [
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 1522"
         ],
-        "5882": [
-          "Dezena no quarto prêmio!<br>com o palpite 5882",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 5882"
+        "1622": [
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 1622"
         ],
-        "5885": [
-          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 5885"
+        "1722": [
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 1722"
+        ],
+        "1822": [
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 1822"
+        ],
+        "5122": [
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 5122"
+        ],
+        "5222": [
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 5222"
+        ],
+        "5422": [
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 5422"
+        ],
+        "5522": [
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 5522"
+        ],
+        "5622": [
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 5622"
+        ],
+        "5722": [
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 5722"
+        ],
+        "5822": [
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 5822"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 0,
         "Grupo": [
-          "🐂",
-          "🐅"
+          "🐐"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5481, 5482, 5485, 5881, 5882, 5885"
+      "resumo": "Palpites dados para esta extração: 1122, 1222, 1422, 1522, 1622, 1722, 1822, 5122, 5222, 5422, 5522, 5622, 5722, 5822"
     },
     "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -471,14 +596,107 @@
           "Bicho": "Vaca"
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "1122": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1122",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1122",
+          "Dezena no oitavo prêmio!<br>com o palpite 1122",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 1122"
+        ],
+        "1222": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1222",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1222",
+          "Dezena no oitavo prêmio!<br>com o palpite 1222",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 1222"
+        ],
+        "1422": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1422",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1422",
+          "Dezena no oitavo prêmio!<br>com o palpite 1422",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 1422"
+        ],
+        "1522": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1522",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1522",
+          "Milhar e Centena no oitavo prêmio!<br>com o palpite 1522",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 1522",
+          "Dezena no oitavo prêmio!<br>com o palpite 1522",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 1522"
+        ],
+        "1622": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 1622",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 1622",
+          "Dezena no terceiro prêmio!<br>com o palpite 1622",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1622",
+          "Dezena no oitavo prêmio!<br>com o palpite 1622",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 1622"
+        ],
+        "1722": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1722",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1722",
+          "Dezena no oitavo prêmio!<br>com o palpite 1722",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 1722"
+        ],
+        "1822": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1822",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 1822",
+          "Dezena no oitavo prêmio!<br>com o palpite 1822",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 1822"
+        ],
+        "5122": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5122",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 5122",
+          "Dezena no oitavo prêmio!<br>com o palpite 5122",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 5122"
+        ],
+        "5222": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5222",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 5222",
+          "Dezena no oitavo prêmio!<br>com o palpite 5222",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 5222"
+        ],
+        "5422": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5422",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 5422",
+          "Dezena no oitavo prêmio!<br>com o palpite 5422",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 5422"
+        ],
+        "5522": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5522",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 5522",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 5522",
+          "Dezena no oitavo prêmio!<br>com o palpite 5522",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 5522"
+        ],
+        "5622": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 5622",
+          "Dezena no terceiro prêmio!<br>com o palpite 5622",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 5622",
+          "Dezena no oitavo prêmio!<br>com o palpite 5622",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 5622"
+        ],
+        "5722": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5722",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 5722",
+          "Dezena no oitavo prêmio!<br>com o palpite 5722",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 5722"
+        ],
+        "5822": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5822",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 5822",
+          "Dezena no oitavo prêmio!<br>com o palpite 5822",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 5822"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5481, 5482, 5485, 5881, 5882, 5885"
+      "acertos": {
+        "Milhar": 2,
+        "Centena": 4,
+        "Dezena": 28,
+        "Grupo": [
+          "🐐"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1122, 1222, 1422, 1522, 1622, 1722, 1822, 5122, 5222, 5422, 5522, 5622, 5722, 5822"
     },
     "SP, 13hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
