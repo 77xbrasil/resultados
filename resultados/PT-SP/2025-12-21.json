@@ -544,6 +544,87 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1199",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7575",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0209",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0512",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8689",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "8184",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "082",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "9200": [
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 9200"
+        ],
+        "9209": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 9209",
+          "Dezena no terceiro prêmio!<br>com o palpite 9209",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 9209",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 9209"
+        ],
+        "9900": [
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 9900"
+        ],
+        "9909": [
+          "Dezena no terceiro prêmio!<br>com o palpite 9909",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 9909",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 9909"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🐄",
+          "🐴"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 9200, 9209, 9270, 9279, 9900, 9909, 9970, 9979"
+    },
+    "SP, 19hs - PT FEDERAL": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
@@ -1246,6 +1327,109 @@
       "resumo": "Palpites dados para esta extração: 9200, 9209, 9270, 9279, 9900, 9909, 9970, 9979"
     },
     "SP, 20hs - PTN SP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1199",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7575",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0209",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0512",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8689",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1700",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "1525",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "9701",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9592",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0702",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        }
+      ],
+      "frases": {
+        "9200": [
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 9200",
+          "Dezena no sexto prêmio!<br>com o palpite 9200",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 9200"
+        ],
+        "9209": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 9209",
+          "Dezena no terceiro prêmio!<br>com o palpite 9209",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 9209",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 9209"
+        ],
+        "9900": [
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 9900",
+          "Dezena no sexto prêmio!<br>com o palpite 9900",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 9900"
+        ],
+        "9909": [
+          "Dezena no terceiro prêmio!<br>com o palpite 9909",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 9909",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 9909"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 4,
+        "Grupo": [
+          "🐄",
+          "🐴"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 9200, 9209, 9270, 9279, 9900, 9909, 9970, 9979"
+    },
+    "SP, 19hs - PT FEDERAL do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
