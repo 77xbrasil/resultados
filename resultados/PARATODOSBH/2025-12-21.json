@@ -70,6 +70,19 @@
         }
       ],
       "frases": {
+        "6320": [
+          "Dezena no terceiro prêmio!<br>com o palpite 6320",
+          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 6320",
+          "Dezena no sexto prêmio!<br>com o palpite 6320",
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 6320"
+        ],
+        "6420": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 6420",
+          "Dezena no terceiro prêmio!<br>com o palpite 6420",
+          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 6420",
+          "Dezena no sexto prêmio!<br>com o palpite 6420",
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 6420"
+        ],
         "6820": [
           "Dezena no terceiro prêmio!<br>com o palpite 6820",
           "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 6820",
@@ -85,13 +98,13 @@
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 4,
+        "Centena": 1,
+        "Dezena": 8,
         "Grupo": [
           "🐕"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6820, 6920"
+      "resumo": "Palpites dados para esta extração: 6320, 6350, 6380, 6420, 6450, 6480, 6820, 6850, 6880, 6920, 6950, 6980"
     },
     "12h - BA": {
       "cabecalhos": [
@@ -162,14 +175,38 @@
           "Bicho": "Borboleta"
         }
       ],
-      "frases": {},
+      "frases": {
+        "6350": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6350",
+          "Dezena no quinto prêmio!<br>com o palpite 6350",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 6350"
+        ],
+        "6450": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6450",
+          "Dezena no quinto prêmio!<br>com o palpite 6450",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 6450"
+        ],
+        "6850": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6850",
+          "Dezena no quinto prêmio!<br>com o palpite 6850",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 6850"
+        ],
+        "6950": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6950",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 6950",
+          "Dezena no quinto prêmio!<br>com o palpite 6950",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 6950"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 4,
+        "Grupo": [
+          "🐓"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 6820, 6920"
+      "resumo": "Palpites dados para esta extração: 6320, 6350, 6380, 6420, 6450, 6480, 6820, 6850, 6880, 6920, 6950, 6980"
     },
     "15h - BA": {
       "cabecalhos": [
