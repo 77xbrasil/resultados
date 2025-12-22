@@ -311,55 +311,74 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "0677",
-          "Grupo": "20",
-          "Bicho": "Peru"
+          "Milhar": "6669",
+          "Grupo": "18",
+          "Bicho": "Porco"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "4138",
-          "Grupo": "10",
-          "Bicho": "Coelho"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "0959",
+          "Milhar": "6159",
           "Grupo": "15",
           "Bicho": "Jacaré"
         },
         {
-          "Prêmio": "4º",
-          "Milhar": "1196",
-          "Grupo": "24",
-          "Bicho": "Veado"
+          "Prêmio": "3º",
+          "Milhar": "5777",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
-          "Prêmio": "5º",
-          "Milhar": "9247",
+          "Prêmio": "4º",
+          "Milhar": "3745",
           "Grupo": "12",
           "Bicho": "Elefante"
         },
         {
+          "Prêmio": "5º",
+          "Milhar": "4062",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
           "Prêmio": "6º [soma]",
-          "Milhar": "6217",
+          "Milhar": "6412",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "801",
+          "Milhar": "074",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "7345": [
+          "Dezena no quarto prêmio!<br>com o palpite 7345",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 7345"
+        ],
+        "7445": [
+          "Dezena no quarto prêmio!<br>com o palpite 7445",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 7445"
+        ],
+        "7545": [
+          "Dezena no quarto prêmio!<br>com o palpite 7545",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 7545"
+        ],
+        "7945": [
+          "Dezena no quarto prêmio!<br>com o palpite 7945",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 7945"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 4,
+        "Grupo": [
+          "🐘"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7415, 7615, 7715, 7815"
+      "resumo": "Palpites dados para esta extração: 7340, 7345, 7390, 7395, 7440, 7445, 7490, 7495, 7540, 7545, 7590, 7595, 7940, 7945, 7990, 7995"
     },
     "LOOK - GOIÁS, 18h": {
       "cabecalhos": [
@@ -978,73 +997,105 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "0677",
+          "Milhar": "6669",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6159",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5777",
           "Grupo": "20",
           "Bicho": "Peru"
         },
         {
-          "Prêmio": "2º",
-          "Milhar": "4138",
-          "Grupo": "10",
-          "Bicho": "Coelho"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "0959",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
-        },
-        {
           "Prêmio": "4º",
-          "Milhar": "1196",
-          "Grupo": "24",
-          "Bicho": "Veado"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "9247",
+          "Milhar": "3745",
           "Grupo": "12",
           "Bicho": "Elefante"
         },
         {
+          "Prêmio": "5º",
+          "Milhar": "4062",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
           "Prêmio": "6º",
-          "Milhar": "0401",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "6653",
+          "Grupo": "14",
+          "Bicho": "Gato"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "6191",
-          "Grupo": "23",
-          "Bicho": "Urso"
+          "Milhar": "6177",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "7359",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
+          "Milhar": "6574",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "7896",
-          "Grupo": "24",
-          "Bicho": "Veado"
+          "Milhar": "9975",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "8064",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "5791",
+          "Grupo": "23",
+          "Bicho": "Urso"
         }
       ],
-      "frases": {},
+      "frases": {
+        "7345": [
+          "Dezena no quarto prêmio!<br>com o palpite 7345",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 7345"
+        ],
+        "7390": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7390"
+        ],
+        "7445": [
+          "Dezena no quarto prêmio!<br>com o palpite 7445",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 7445"
+        ],
+        "7490": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7490"
+        ],
+        "7545": [
+          "Dezena no quarto prêmio!<br>com o palpite 7545",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 7545"
+        ],
+        "7590": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7590"
+        ],
+        "7945": [
+          "Dezena no quarto prêmio!<br>com o palpite 7945",
+          "ELEFANTE 🐘 no quarto prêmio!<br>com o palpite 7945"
+        ],
+        "7990": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7990"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 4,
+        "Grupo": [
+          "🐘",
+          "🐻"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7415, 7615, 7715, 7815"
+      "resumo": "Palpites dados para esta extração: 7340, 7345, 7390, 7395, 7440, 7445, 7490, 7495, 7540, 7545, 7590, 7595, 7940, 7945, 7990, 7995"
     },
     "LOOK - GOIÁS, 18h do 1º ao 10º": {
       "cabecalhos": [
