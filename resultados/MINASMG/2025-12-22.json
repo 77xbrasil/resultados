@@ -162,20 +162,25 @@
         }
       ],
       "frases": {
-        "5516": [
-          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 5516"
-        ],
-        "5536": [
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 5536"
-        ],
-        "5576": [
-          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 5576"
+        "9514": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9514",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 9514"
         ],
         "9516": [
           "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 9516"
         ],
+        "9534": [
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 9534"
+        ],
         "9536": [
           "COBRA 🐍 no sétimo prêmio!<br>com o palpite 9536"
+        ],
+        "9564": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9564"
+        ],
+        "9574": [
+          "Dezena no terceiro prêmio!<br>com o palpite 9574",
+          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 9574"
         ],
         "9576": [
           "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 9576"
@@ -184,14 +189,15 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 2,
         "Grupo": [
           "🦋",
+          "🦁",
           "🦚",
           "🐍"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5516, 5536, 5546, 5566, 5576, 9516, 9536, 9546, 9566, 9576"
+      "resumo": "Palpites dados para esta extração: 9514, 9516, 9534, 9536, 9544, 9546, 9564, 9566, 9574, 9576"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
