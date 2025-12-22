@@ -107,73 +107,88 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "8462",
+          "Milhar": "5645",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0591",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4627",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2561",
           "Grupo": "16",
           "Bicho": "Leão"
         },
         {
-          "Prêmio": "2º",
-          "Milhar": "5651",
-          "Grupo": "13",
-          "Bicho": "Galo"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "6510",
+          "Prêmio": "5º",
+          "Milhar": "5109",
           "Grupo": "03",
           "Bicho": "Burro"
         },
         {
-          "Prêmio": "4º",
-          "Milhar": "9456",
-          "Grupo": "14",
-          "Bicho": "Gato"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "4950",
-          "Grupo": "13",
-          "Bicho": "Galo"
-        },
-        {
           "Prêmio": "6º",
-          "Milhar": "1353",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "7604",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "7782",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "1442",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "3884",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "5109",
+          "Grupo": "03",
+          "Bicho": "Burro"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "0321",
-          "Grupo": "06",
-          "Bicho": "Cabra"
+          "Milhar": "8292",
+          "Grupo": "23",
+          "Bicho": "Urso"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "6314",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
+          "Milhar": "7935",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         }
       ],
-      "frases": {},
+      "frases": {
+        "3636": [
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 3636"
+        ],
+        "6636": [
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 6636"
+        ],
+        "9636": [
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 9636"
+        ],
+        "0636": [
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 0636"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐍"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 4285, 4287, 4288, 4289"
+      "resumo": "Palpites dados para esta extração: 0636, 3636, 6636, 9636"
     },
     "15h - BA": {
       "cabecalhos": [
