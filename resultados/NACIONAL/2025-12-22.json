@@ -324,49 +324,65 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5371",
-          "Grupo": "18",
-          "Bicho": "Porco"
+          "Milhar": "9524",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "8038",
-          "Grupo": "10",
-          "Bicho": "Coelho"
+          "Milhar": "9393",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "2739",
-          "Grupo": "10",
-          "Bicho": "Coelho"
+          "Milhar": "9380",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "4670",
-          "Grupo": "18",
-          "Bicho": "Porco"
+          "Milhar": "1754",
+          "Grupo": "14",
+          "Bicho": "Gato"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "7643",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
+          "Milhar": "0279",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "8461",
+          "Milhar": "0330",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3822": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 3822"
+        ],
+        "3829": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 3829"
+        ],
+        "7822": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 7822"
+        ],
+        "7829": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 7829"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐐",
+          "🐪"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2652, 2655, 2656, 2657, 3652, 3655, 3656, 3657, 4652, 4655, 4656, 4657, 6652, 6655, 6656, 6657"
+      "resumo": "Palpites dados para esta extração: 3802, 3805, 3809, 3812, 3815, 3819, 3822, 3825, 3829, 3882, 3885, 3889, 7802, 7805, 7809, 7812, 7815, 7819, 7822, 7825, 7829, 7882, 7885, 7889"
     },
     "Nacional - LN 17:00": {
       "cabecalhos": [
@@ -1018,73 +1034,105 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5371",
-          "Grupo": "18",
-          "Bicho": "Porco"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "8038",
-          "Grupo": "10",
-          "Bicho": "Coelho"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "2739",
-          "Grupo": "10",
-          "Bicho": "Coelho"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "4670",
-          "Grupo": "18",
-          "Bicho": "Porco"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "7643",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "5824",
+          "Milhar": "9524",
           "Grupo": "06",
           "Bicho": "Cabra"
         },
         {
-          "Prêmio": "7º",
-          "Milhar": "3076",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Prêmio": "2º",
+          "Milhar": "9393",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
-          "Prêmio": "8º",
-          "Milhar": "7337",
-          "Grupo": "10",
-          "Bicho": "Coelho"
+          "Prêmio": "3º",
+          "Milhar": "9380",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
-          "Prêmio": "9º",
-          "Milhar": "1890",
+          "Prêmio": "4º",
+          "Milhar": "1754",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0279",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9991",
           "Grupo": "23",
           "Bicho": "Urso"
         },
         {
-          "Prêmio": "10º",
-          "Milhar": "6588",
+          "Prêmio": "7º",
+          "Milhar": "5337",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2985",
           "Grupo": "22",
           "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4304",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2947",
+          "Grupo": "12",
+          "Bicho": "Elefante"
         }
       ],
-      "frases": {},
+      "frases": {
+        "3802": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 3802"
+        ],
+        "3822": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 3822"
+        ],
+        "3885": [
+          "Dezena no oitavo prêmio!<br>com o palpite 3885",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 3885"
+        ],
+        "3889": [
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 3889"
+        ],
+        "7802": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 7802"
+        ],
+        "7822": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 7822"
+        ],
+        "7885": [
+          "Dezena no oitavo prêmio!<br>com o palpite 7885",
+          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 7885"
+        ],
+        "7889": [
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 7889"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐐",
+          "🐻",
+          "🐅",
+          "🪶"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2652, 2655, 2656, 2657, 3652, 3655, 3656, 3657, 4652, 4655, 4656, 4657, 6652, 6655, 6656, 6657"
+      "resumo": "Palpites dados para esta extração: 3802, 3805, 3809, 3812, 3815, 3819, 3822, 3825, 3829, 3882, 3885, 3889, 7802, 7805, 7809, 7812, 7815, 7819, 7822, 7825, 7829, 7882, 7885, 7889"
     },
     "Nacional - LN 17:00 do 1º ao 10º": {
       "cabecalhos": [
