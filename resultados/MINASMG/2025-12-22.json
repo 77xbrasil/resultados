@@ -109,6 +109,112 @@
         "Grupo": []
       },
       "resumo": ""
+    },
+    "ALVORADA - MG, 12h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9214",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7362",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9674",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8290",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4187",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "38727",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "833",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "5516": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 5516"
+        ],
+        "5536": [
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 5536"
+        ],
+        "5576": [
+          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 5576"
+        ],
+        "9516": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 9516"
+        ],
+        "9536": [
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 9536"
+        ],
+        "9576": [
+          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 9576"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🦋",
+          "🦚",
+          "🐍"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5516, 5536, 5546, 5566, 5576, 9516, 9536, 9546, 9566, 9576"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
