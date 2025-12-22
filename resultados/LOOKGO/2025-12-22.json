@@ -269,55 +269,86 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5983",
-          "Grupo": "21",
-          "Bicho": "Touro"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "4183",
-          "Grupo": "21",
-          "Bicho": "Touro"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "1647",
+          "Milhar": "7947",
           "Grupo": "12",
           "Bicho": "Elefante"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "0345",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5491",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
           "Prêmio": "4º",
-          "Milhar": "4167",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "2590",
+          "Grupo": "23",
+          "Bicho": "Urso"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "6010",
-          "Grupo": "03",
-          "Bicho": "Burro"
+          "Milhar": "9204",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "1990",
+          "Milhar": "5577",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "026",
+          "Milhar": "741",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3402": [
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 3402"
+        ],
+        "3404": [
+          "Dezena no quinto prêmio!<br>com o palpite 3404",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 3404"
+        ],
+        "4402": [
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 4402"
+        ],
+        "4404": [
+          "Dezena no quinto prêmio!<br>com o palpite 4404",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 4404"
+        ],
+        "7402": [
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 7402"
+        ],
+        "7404": [
+          "Dezena no quinto prêmio!<br>com o palpite 7404",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 7404"
+        ],
+        "9402": [
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 9402"
+        ],
+        "9404": [
+          "Dezena no quinto prêmio!<br>com o palpite 9404",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 9404"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 4,
+        "Grupo": [
+          "🪶"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7415, 7615, 7715, 7815"
+      "resumo": "Palpites dados para esta extração: 3402, 3404, 3472, 3474, 3482, 3484, 4402, 4404, 4472, 4474, 4482, 4484, 7402, 7404, 7472, 7474, 7482, 7484, 9402, 9404, 9472, 9474, 9482, 9484"
     },
     "LOOK - GOIÁS, 16h": {
       "cabecalhos": [
@@ -975,88 +1006,129 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5983",
-          "Grupo": "21",
-          "Bicho": "Touro"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "4183",
-          "Grupo": "21",
-          "Bicho": "Touro"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "1647",
+          "Milhar": "7947",
           "Grupo": "12",
           "Bicho": "Elefante"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "0345",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5491",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
           "Prêmio": "4º",
-          "Milhar": "4167",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "2590",
+          "Grupo": "23",
+          "Bicho": "Urso"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "6010",
+          "Milhar": "9204",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7052",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "9345",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "4499",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "7510",
           "Grupo": "03",
           "Bicho": "Burro"
         },
         {
-          "Prêmio": "6º",
-          "Milhar": "5414",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "9161",
-          "Grupo": "16",
-          "Bicho": "Leão"
-        },
-        {
-          "Prêmio": "8º",
-          "Milhar": "8846",
-          "Grupo": "12",
-          "Bicho": "Elefante"
-        },
-        {
-          "Prêmio": "9º",
-          "Milhar": "3377",
-          "Grupo": "20",
-          "Bicho": "Peru"
-        },
-        {
           "Prêmio": "10º",
-          "Milhar": "8788",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "3983",
+          "Grupo": "21",
+          "Bicho": "Touro"
         }
       ],
       "frases": {
-        "7415": [
-          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 7415"
+        "3402": [
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 3402"
         ],
-        "7615": [
-          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 7615"
+        "3404": [
+          "Dezena no quinto prêmio!<br>com o palpite 3404",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 3404"
         ],
-        "7715": [
-          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 7715"
+        "3482": [
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3482"
         ],
-        "7815": [
-          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 7815"
+        "3484": [
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3484"
+        ],
+        "4402": [
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 4402"
+        ],
+        "4404": [
+          "Dezena no quinto prêmio!<br>com o palpite 4404",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 4404"
+        ],
+        "4482": [
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 4482"
+        ],
+        "4484": [
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 4484"
+        ],
+        "7402": [
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 7402"
+        ],
+        "7404": [
+          "Dezena no quinto prêmio!<br>com o palpite 7404",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 7404"
+        ],
+        "7482": [
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 7482"
+        ],
+        "7484": [
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 7484"
+        ],
+        "9402": [
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 9402"
+        ],
+        "9404": [
+          "Dezena no quinto prêmio!<br>com o palpite 9404",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 9404"
+        ],
+        "9482": [
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 9482"
+        ],
+        "9484": [
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 9484"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 4,
         "Grupo": [
-          "🦋"
+          "🪶",
+          "🐂"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7415, 7615, 7715, 7815"
+      "resumo": "Palpites dados para esta extração: 3402, 3404, 3472, 3474, 3482, 3484, 4402, 4404, 4472, 4474, 4482, 4484, 7402, 7404, 7472, 7474, 7482, 7484, 9402, 9404, 9472, 9474, 9482, 9484"
     },
     "LOOK - GOIÁS, 16h do 1º ao 10º": {
       "cabecalhos": [
