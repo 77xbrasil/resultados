@@ -376,6 +376,80 @@
         "Grupo": []
       },
       "resumo": ""
+    },
+    "Nacional - LN 21:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2114",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9648",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0515",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9635",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1929",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "3841",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "8235": [
+          "Dezena no quarto prêmio!<br>com o palpite 8235",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 8235"
+        ],
+        "8535": [
+          "Dezena no quarto prêmio!<br>com o palpite 8535",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 8535"
+        ],
+        "8635": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 8635",
+          "Dezena no quarto prêmio!<br>com o palpite 8635",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 8635"
+        ],
+        "8935": [
+          "Dezena no quarto prêmio!<br>com o palpite 8935",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 8935"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 4,
+        "Grupo": [
+          "🐍"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 8235, 8535, 8635, 8935"
     }
   },
   "1-10": {
@@ -904,6 +978,104 @@
         "Grupo": []
       },
       "resumo": ""
+    },
+    "Nacional - LN 21:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2114",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9648",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0515",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9635",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1929",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2909",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "1656",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1413",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4855",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "4674",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        }
+      ],
+      "frases": {
+        "8235": [
+          "Dezena no quarto prêmio!<br>com o palpite 8235",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 8235"
+        ],
+        "8535": [
+          "Dezena no quarto prêmio!<br>com o palpite 8535",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 8535"
+        ],
+        "8635": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 8635",
+          "Dezena no quarto prêmio!<br>com o palpite 8635",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 8635"
+        ],
+        "8935": [
+          "Dezena no quarto prêmio!<br>com o palpite 8935",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 8935"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 4,
+        "Grupo": [
+          "🐍"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 8235, 8535, 8635, 8935"
     }
   }
 }
