@@ -51,14 +51,35 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "7370": [
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 7370"
+        ],
+        "7372": [
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 7372"
+        ],
+        "7470": [
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 7470"
+        ],
+        "7472": [
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 7472"
+        ],
+        "7570": [
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 7570"
+        ],
+        "7572": [
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 7572"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐖"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0505, 0508, 0575, 0578, 3505, 3508, 3575, 3578, 4505, 4508, 4575, 4578"
+      "resumo": "Palpites dados para esta extração: 7370, 7372, 7373, 7374, 7375, 7376, 7378, 7470, 7472, 7473, 7474, 7475, 7476, 7478, 7570, 7572, 7573, 7574, 7575, 7576, 7578"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -155,44 +176,83 @@
         }
       ],
       "frases": {
-        "3505": [
-          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 3505"
+        "7370": [
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 7370",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 7370"
         ],
-        "3508": [
-          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 3508"
+        "7372": [
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 7372",
+          "Dezena no décimo prêmio!<br>com o palpite 7372",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 7372"
         ],
-        "3575": [
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 3575"
+        "7373": [
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 7373"
         ],
-        "4505": [
-          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 4505"
+        "7374": [
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 7374"
         ],
-        "4508": [
-          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 4508"
+        "7375": [
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 7375"
         ],
-        "4575": [
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 4575"
+        "7376": [
+          "Dezena no sexto prêmio!<br>com o palpite 7376",
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 7376"
         ],
-        "0575": [
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 0575"
+        "7470": [
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 7470",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 7470"
         ],
-        "0505": [
-          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 0505"
+        "7472": [
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 7472",
+          "Dezena no décimo prêmio!<br>com o palpite 7472",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 7472"
         ],
-        "0508": [
-          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 0508"
+        "7473": [
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 7473"
+        ],
+        "7474": [
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 7474"
+        ],
+        "7475": [
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 7475"
+        ],
+        "7476": [
+          "Dezena no sexto prêmio!<br>com o palpite 7476",
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 7476"
+        ],
+        "7570": [
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 7570",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 7570"
+        ],
+        "7572": [
+          "PORCO 🐖 no primeiro prêmio!<br>com o palpite 7572",
+          "Dezena no décimo prêmio!<br>com o palpite 7572",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 7572"
+        ],
+        "7573": [
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 7573"
+        ],
+        "7574": [
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 7574"
+        ],
+        "7575": [
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 7575"
+        ],
+        "7576": [
+          "Dezena no sexto prêmio!<br>com o palpite 7576",
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 7576"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 6,
         "Grupo": [
-          "🦚",
-          "🦅"
+          "🐖",
+          "🦚"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0505, 0508, 0575, 0578, 3505, 3508, 3575, 3578, 4505, 4508, 4575, 4578"
+      "resumo": "Palpites dados para esta extração: 7370, 7372, 7373, 7374, 7375, 7376, 7378, 7470, 7472, 7473, 7474, 7475, 7476, 7478, 7570, 7572, 7573, 7574, 7575, 7576, 7578"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
