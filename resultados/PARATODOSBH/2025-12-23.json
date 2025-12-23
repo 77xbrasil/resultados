@@ -70,25 +70,44 @@
         }
       ],
       "frases": {
-        "0282": [
-          "Dezena no segundo prêmio!<br>com o palpite 0282",
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 0282"
+        "0022": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0022",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 0022"
+        ],
+        "0122": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0122",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 0122"
         ],
         "0222": [
           "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0222",
           "CABRA 🐐 no décimo prêmio!<br>com o palpite 0222"
+        ],
+        "0622": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0622",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 0622"
+        ],
+        "0722": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0722",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 0722"
+        ],
+        "0822": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0822",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 0822"
+        ],
+        "0922": [
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0922",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 0922"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 0,
         "Grupo": [
-          "🐂",
           "🐐"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0222, 0242, 0282"
+      "resumo": "Palpites dados para esta extração: 0022, 0122, 0222, 0622, 0722, 0822, 0922"
     },
     "12h - BA": {
       "cabecalhos": [
@@ -160,28 +179,126 @@
         }
       ],
       "frases": {
-        "0282": [
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 0282",
-          "Dezena no nono prêmio!<br>com o palpite 0282",
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 0282"
+        "0022": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0022",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 0022"
+        ],
+        "0122": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0122",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 0122"
         ],
         "0222": [
           "Dezena no oitavo prêmio!<br>com o palpite 0222",
           "CABRA 🐐 no oitavo prêmio!<br>com o palpite 0222"
+        ],
+        "0622": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0622",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 0622"
+        ],
+        "0722": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0722",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 0722"
+        ],
+        "0822": [
+          "Milhar e Centena no oitavo prêmio!<br>com o palpite 0822",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 0822",
+          "Dezena no oitavo prêmio!<br>com o palpite 0822",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 0822"
+        ],
+        "0922": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0922",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 0922"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 2,
+        "Milhar": 1,
+        "Centena": 1,
+        "Dezena": 7,
         "Grupo": [
-          "🐂",
           "🐐"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0222, 0242, 0282"
+      "resumo": "Palpites dados para esta extração: 0022, 0122, 0222, 0622, 0722, 0822, 0922"
     },
     "15h - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1435",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7872",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3776",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9440",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3872",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9095",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6909",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6674",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "7630",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6086",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0022, 0122, 0222, 0622, 0722, 0822, 0922"
+    },
+    "19h - BA": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
