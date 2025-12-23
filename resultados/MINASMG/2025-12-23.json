@@ -102,9 +102,96 @@
           "🐕"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0510, 0512, 0513, 0514, 0519, 0610, 0612, 0613, 0614, 0619, 1510, 1512, 1513, 1514, 1519, 1610, 1612, 1613, 1614, 1619"
+      "resumo": "Palpites dados para esta extração: 0513, 0514, 0519, 0613, 0614, 0619, 1513, 1514, 1519, 1613, 1614, 1619"
     },
     "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4915",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5455",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4275",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4348",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7745",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "26738",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "811",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1513": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 1513"
+        ],
+        "1514": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 1514"
+        ],
+        "1613": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 1613"
+        ],
+        "1614": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 1614"
+        ],
+        "0513": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0513"
+        ],
+        "0514": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0514"
+        ],
+        "0613": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0613"
+        ],
+        "0614": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0614"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🦋"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0513, 0514, 0519, 0613, 0614, 0619, 1513, 1514, 1519, 1613, 1614, 1619"
+    },
+    "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
