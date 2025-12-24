@@ -51,6 +51,81 @@
           "Bicho": ""
         }
       ],
+      "frases": {
+        "3237": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 3237"
+        ],
+        "3437": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 3437"
+        ],
+        "3737": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 3737"
+        ],
+        "3837": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 3837"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐇"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3235, 3237, 3435, 3437, 3735, 3737, 3835, 3837"
+    },
+    "SP, 10hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1426",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5644",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5445",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1915",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8375",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2805",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "048",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
       "frases": {},
       "acertos": {
         "Milhar": 0,
@@ -58,9 +133,9 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0782, 3782"
+      "resumo": "Palpites dados para esta extração: 3235, 3237, 3435, 3437, 3735, 3737, 3835, 3837"
     },
-    "SP, 10hs - PTSP": {
+    "SP, 12:00 - PTSP": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -154,6 +229,112 @@
           "Bicho": "Elefante"
         }
       ],
+      "frases": {
+        "3237": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 3237",
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 3237",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 3237",
+          "Dezena no oitavo prêmio!<br>com o palpite 3237",
+          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 3237"
+        ],
+        "3437": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 3437",
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 3437",
+          "Dezena no oitavo prêmio!<br>com o palpite 3437",
+          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 3437"
+        ],
+        "3737": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 3737",
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 3737",
+          "Dezena no oitavo prêmio!<br>com o palpite 3737",
+          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 3737"
+        ],
+        "3837": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 3837",
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 3837",
+          "Dezena no oitavo prêmio!<br>com o palpite 3837",
+          "COELHO 🐇 no oitavo prêmio!<br>com o palpite 3837"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 4,
+        "Grupo": [
+          "🐇"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3235, 3237, 3435, 3437, 3735, 3737, 3835, 3837"
+    },
+    "SP, 10hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1426",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5644",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5445",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1915",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8375",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1551",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4649",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2441",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6455",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7901",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        }
+      ],
       "frases": {},
       "acertos": {
         "Milhar": 0,
@@ -161,9 +342,9 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0782, 3782"
+      "resumo": "Palpites dados para esta extração: 3235, 3237, 3435, 3437, 3735, 3737, 3835, 3837"
     },
-    "SP, 10hs - PTSP do 1º ao 10º": {
+    "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
