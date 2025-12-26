@@ -1,0 +1,107 @@
+{
+  "1-5": {
+    "ALVORADA - MG, 12h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9833",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1037",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7200",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7768",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0966",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "26804",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "196",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "5700": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5700",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5700"
+        ],
+        "5704": [
+          "Dezena no sexto prêmio!<br>com o palpite 5704",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5704"
+        ],
+        "9700": [
+          "Dezena no terceiro prêmio!<br>com o palpite 9700",
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 9700"
+        ],
+        "9704": [
+          "Dezena no sexto prêmio!<br>com o palpite 9704",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 9704"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 4,
+        "Grupo": [
+          "🐄",
+          "🪶"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5700, 5704, 9700, 9704"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    }
+  }
+}
