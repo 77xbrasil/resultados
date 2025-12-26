@@ -1,0 +1,642 @@
+{
+  "1-5": {
+    "Nacional - LN 02:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7213",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7026",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3315",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5953",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8982",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2489",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "3113": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3113",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3113",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3113"
+        ],
+        "3114": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3114",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3114"
+        ],
+        "3116": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3116",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3116"
+        ],
+        "3213": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 3213",
+          "Dezena no primeiro prêmio!<br>com o palpite 3213",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3213",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3213"
+        ],
+        "3214": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3214",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3214"
+        ],
+        "3216": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3216",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3216"
+        ],
+        "3513": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3513",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3513",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3513"
+        ],
+        "3514": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3514",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3514"
+        ],
+        "3516": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3516",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3516"
+        ],
+        "4113": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4113",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 4113",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4113"
+        ],
+        "4114": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 4114",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4114"
+        ],
+        "4116": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 4116",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4116"
+        ],
+        "4213": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 4213",
+          "Dezena no primeiro prêmio!<br>com o palpite 4213",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 4213",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4213"
+        ],
+        "4214": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 4214",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4214"
+        ],
+        "4216": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 4216",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4216"
+        ],
+        "4513": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4513",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 4513",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4513"
+        ],
+        "4514": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 4514",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4514"
+        ],
+        "4516": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 4516",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4516"
+        ],
+        "7113": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7113",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 7113",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 7113"
+        ],
+        "7114": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 7114",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 7114"
+        ],
+        "7116": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 7116",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 7116"
+        ],
+        "7213": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 7213",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 7213",
+          "Dezena no primeiro prêmio!<br>com o palpite 7213",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 7213",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 7213"
+        ],
+        "7214": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 7214",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 7214"
+        ],
+        "7216": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 7216",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 7216"
+        ],
+        "7513": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7513",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 7513",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 7513"
+        ],
+        "7514": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 7514",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 7514"
+        ],
+        "7516": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 7516",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 7516"
+        ],
+        "8113": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8113",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8113",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8113"
+        ],
+        "8114": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8114",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8114"
+        ],
+        "8116": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8116",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8116"
+        ],
+        "8213": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 8213",
+          "Dezena no primeiro prêmio!<br>com o palpite 8213",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8213",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8213"
+        ],
+        "8214": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8214",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8214"
+        ],
+        "8216": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8216",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8216"
+        ],
+        "8513": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8513",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8513",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8513"
+        ],
+        "8514": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8514",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8514"
+        ],
+        "8516": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8516",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8516"
+        ],
+        "0113": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0113",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0113",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0113"
+        ],
+        "0114": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0114",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0114"
+        ],
+        "0116": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0116",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0116"
+        ],
+        "0213": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 0213",
+          "Dezena no primeiro prêmio!<br>com o palpite 0213",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0213",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0213"
+        ],
+        "0214": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0214",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0214"
+        ],
+        "0216": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0216",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0216"
+        ],
+        "0513": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0513",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0513",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0513"
+        ],
+        "0514": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0514",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0514"
+        ],
+        "0516": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0516",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0516"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 5,
+        "Dezena": 15,
+        "Grupo": [
+          "🦋"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0110, 0111, 0112, 0113, 0114, 0116, 0119, 0210, 0211, 0212, 0213, 0214, 0216, 0219, 0510, 0511, 0512, 0513, 0514, 0516, 0519, 3110, 3111, 3112, 3113, 3114, 3116, 3119, 3210, 3211, 3212, 3213, 3214, 3216, 3219, 3510, 3511, 3512, 3513, 3514, 3516, 3519, 4110, 4111, 4112, 4113, 4114, 4116, 4119, 4210, 4211, 4212, 4213, 4214, 4216, 4219, 4510, 4511, 4512, 4513, 4514, 4516, 4519, 7110, 7111, 7112, 7113, 7114, 7116, 7119, 7210, 7211, 7212, 7213, 7214, 7216, 7219, 7510, 7511, 7512, 7513, 7514, 7516, 7519, 8110, 8111, 8112, 8113, 8114, 8116, 8119, 8210, 8211, 8212, 8213, 8214, 8216, 8219, 8510, 8511, 8512, 8513, 8514, 8516, 8519"
+    },
+    "Nacional - LN 08:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    }
+  },
+  "1-10": {
+    "Nacional - LN 02:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7213",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7026",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3315",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5953",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8982",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7735",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2039",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1215",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3653",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7131",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        }
+      ],
+      "frases": {
+        "3113": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3113",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3113",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3113",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 3113"
+        ],
+        "3114": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3114",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3114",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 3114"
+        ],
+        "3116": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3116",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3116",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 3116"
+        ],
+        "3213": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 3213",
+          "Dezena no primeiro prêmio!<br>com o palpite 3213",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3213",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3213",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 3213"
+        ],
+        "3214": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3214",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3214",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 3214"
+        ],
+        "3216": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3216",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3216",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 3216"
+        ],
+        "3513": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3513",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3513",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3513",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 3513"
+        ],
+        "3514": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3514",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3514",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 3514"
+        ],
+        "3516": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 3516",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 3516",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 3516"
+        ],
+        "4113": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4113",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 4113",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4113",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 4113"
+        ],
+        "4114": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 4114",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4114",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 4114"
+        ],
+        "4116": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 4116",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4116",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 4116"
+        ],
+        "4213": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 4213",
+          "Dezena no primeiro prêmio!<br>com o palpite 4213",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 4213",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4213",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 4213"
+        ],
+        "4214": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 4214",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4214",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 4214"
+        ],
+        "4216": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 4216",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4216",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 4216"
+        ],
+        "4513": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4513",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 4513",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4513",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 4513"
+        ],
+        "4514": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 4514",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4514",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 4514"
+        ],
+        "4516": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 4516",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 4516",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 4516"
+        ],
+        "7113": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7113",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 7113",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 7113",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 7113"
+        ],
+        "7114": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 7114",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 7114",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 7114"
+        ],
+        "7116": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 7116",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 7116",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 7116"
+        ],
+        "7213": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 7213",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 7213",
+          "Dezena no primeiro prêmio!<br>com o palpite 7213",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 7213",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 7213",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 7213"
+        ],
+        "7214": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 7214",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 7214",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 7214"
+        ],
+        "7216": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 7216",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 7216",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 7216"
+        ],
+        "7513": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7513",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 7513",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 7513",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 7513"
+        ],
+        "7514": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 7514",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 7514",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 7514"
+        ],
+        "7516": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 7516",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 7516",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 7516"
+        ],
+        "8113": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8113",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8113",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8113",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 8113"
+        ],
+        "8114": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8114",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8114",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 8114"
+        ],
+        "8116": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8116",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8116",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 8116"
+        ],
+        "8213": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 8213",
+          "Dezena no primeiro prêmio!<br>com o palpite 8213",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8213",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8213",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 8213"
+        ],
+        "8214": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8214",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8214",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 8214"
+        ],
+        "8216": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8216",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8216",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 8216"
+        ],
+        "8513": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8513",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8513",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8513",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 8513"
+        ],
+        "8514": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8514",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8514",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 8514"
+        ],
+        "8516": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8516",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8516",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 8516"
+        ],
+        "0113": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0113",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0113",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0113",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 0113"
+        ],
+        "0114": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0114",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0114",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 0114"
+        ],
+        "0116": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0116",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0116",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 0116"
+        ],
+        "0213": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 0213",
+          "Dezena no primeiro prêmio!<br>com o palpite 0213",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0213",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0213",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 0213"
+        ],
+        "0214": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0214",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0214",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 0214"
+        ],
+        "0216": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0216",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0216",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 0216"
+        ],
+        "0513": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0513",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0513",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0513",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 0513"
+        ],
+        "0514": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0514",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0514",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 0514"
+        ],
+        "0516": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 0516",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0516",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 0516"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 5,
+        "Dezena": 15,
+        "Grupo": [
+          "🦋"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0110, 0111, 0112, 0113, 0114, 0116, 0119, 0210, 0211, 0212, 0213, 0214, 0216, 0219, 0510, 0511, 0512, 0513, 0514, 0516, 0519, 3110, 3111, 3112, 3113, 3114, 3116, 3119, 3210, 3211, 3212, 3213, 3214, 3216, 3219, 3510, 3511, 3512, 3513, 3514, 3516, 3519, 4110, 4111, 4112, 4113, 4114, 4116, 4119, 4210, 4211, 4212, 4213, 4214, 4216, 4219, 4510, 4511, 4512, 4513, 4514, 4516, 4519, 7110, 7111, 7112, 7113, 7114, 7116, 7119, 7210, 7211, 7212, 7213, 7214, 7216, 7219, 7510, 7511, 7512, 7513, 7514, 7516, 7519, 8110, 8111, 8112, 8113, 8114, 8116, 8119, 8210, 8211, 8212, 8213, 8214, 8216, 8219, 8510, 8511, 8512, 8513, 8514, 8516, 8519"
+    },
+    "Nacional - LN 08:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    }
+  }
+}
