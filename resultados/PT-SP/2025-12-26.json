@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0004, 4004, 8004"
+      "resumo": "Palpites dados para esta extração: 0004, 0006, 0604, 0606"
     },
     "SP, 10hs - PTSP": {
       "cabecalhos": [
@@ -118,7 +118,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0004, 4004, 8004"
+      "resumo": "Palpites dados para esta extração: 0004, 0006, 0604, 0606"
     },
     "SP, 12:00 - PTSP": {
       "cabecalhos": [
@@ -178,7 +178,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0004, 4004, 8004"
+      "resumo": "Palpites dados para esta extração: 0004, 0006, 0604, 0606"
     },
     "SP, 13hs - PTSP": {
       "cabecalhos": [
@@ -231,14 +231,25 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "0006": [
+          "Dezena no segundo prêmio!<br>com o palpite 0006",
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 0006"
+        ],
+        "0606": [
+          "Dezena no segundo prêmio!<br>com o palpite 0606",
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 0606"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🦅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 4004, 8004"
+      "resumo": "Palpites dados para esta extração: 0004, 0006, 0604, 0606"
     },
     "SP, 17hs - PTSP": {
       "cabecalhos": [
@@ -298,9 +309,69 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0004, 4004, 8004"
+      "resumo": "Palpites dados para esta extração: 0004, 0006, 0604, 0606"
     },
     "SP, 19hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9334",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7735",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5462",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1285",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9074",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2890",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "198",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0004, 0006, 0604, 0606"
+    },
+    "SP, 20hs - PTN SP": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -401,7 +472,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0004, 4004, 8004"
+      "resumo": "Palpites dados para esta extração: 0004, 0006, 0604, 0606"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -479,7 +550,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0004, 4004, 8004"
+      "resumo": "Palpites dados para esta extração: 0004, 0006, 0604, 0606"
     },
     "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -550,14 +621,23 @@
           "Bicho": "Cavalo"
         }
       ],
-      "frases": {},
+      "frases": {
+        "0006": [
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 0006"
+        ],
+        "0606": [
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 0606"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 4004, 8004"
+      "resumo": "Palpites dados para esta extração: 0004, 0006, 0604, 0606"
     },
     "SP, 13hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -629,28 +709,35 @@
         }
       ],
       "frases": {
-        "4004": [
-          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 4004",
-          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 4004"
+        "0006": [
+          "Dezena no segundo prêmio!<br>com o palpite 0006",
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 0006",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 0006"
         ],
-        "8004": [
-          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 8004",
-          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 8004"
+        "0606": [
+          "Dezena no segundo prêmio!<br>com o palpite 0606",
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 0606",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 0606"
         ],
         "0004": [
           "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0004",
           "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 0004"
+        ],
+        "0604": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 0604",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 0604"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 2,
         "Grupo": [
+          "🦅",
           "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 4004, 8004"
+      "resumo": "Palpites dados para esta extração: 0004, 0006, 0604, 0606"
     },
     "SP, 17hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -721,6 +808,96 @@
           "Bicho": "Elefante"
         }
       ],
+      "frases": {
+        "0006": [
+          "Dezena no nono prêmio!<br>com o palpite 0006",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 0006"
+        ],
+        "0606": [
+          "Centena e Dezena no nono prêmio!<br>com o palpite 0606",
+          "Dezena no nono prêmio!<br>com o palpite 0606",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 0606"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🦅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0004, 0006, 0604, 0606"
+    },
+    "SP, 19hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9334",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7735",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5462",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1285",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9074",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9751",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3742",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3368",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4525",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "4276",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        }
+      ],
       "frases": {},
       "acertos": {
         "Milhar": 0,
@@ -728,9 +905,9 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0004, 4004, 8004"
+      "resumo": "Palpites dados para esta extração: 0004, 0006, 0604, 0606"
     },
-    "SP, 19hs - PTSP do 1º ao 10º": {
+    "SP, 20hs - PTN SP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
