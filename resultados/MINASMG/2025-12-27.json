@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 4640, 4660, 4940, 4960"
+      "resumo": "Palpites dados para esta extração: 4040, 4041, 4060, 4061, 4640, 4641, 4660, 4661, 4940, 4941, 4960, 4961"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
@@ -111,14 +111,40 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "4041": [
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 4041"
+        ],
+        "4061": [
+          "Dezena no quarto prêmio!<br>com o palpite 4061",
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 4061"
+        ],
+        "4641": [
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 4641"
+        ],
+        "4661": [
+          "Dezena no quarto prêmio!<br>com o palpite 4661",
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 4661"
+        ],
+        "4941": [
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 4941"
+        ],
+        "4961": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 4961",
+          "Dezena no quarto prêmio!<br>com o palpite 4961",
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 4961"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 3,
+        "Grupo": [
+          "🦁",
+          "🐎"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 4640, 4660, 4940, 4960"
+      "resumo": "Palpites dados para esta extração: 4040, 4041, 4060, 4061, 4640, 4641, 4660, 4661, 4940, 4941, 4960, 4961"
     },
     "MINAS FEDERAL - MG": {
       "cabecalhos": [
