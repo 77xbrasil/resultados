@@ -266,20 +266,80 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "5022",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7260",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2390",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3987",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3311",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "1970",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "539",
+          "Grupo": "",
+          "Bicho": ""
+        }
       ],
-      "frases": {},
+      "frases": {
+        "1011": [
+          "Dezena no quinto prêmio!<br>com o palpite 1011",
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 1011"
+        ],
+        "3011": [
+          "Dezena no quinto prêmio!<br>com o palpite 3011",
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 3011"
+        ],
+        "5011": [
+          "Dezena no quinto prêmio!<br>com o palpite 5011",
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 5011"
+        ],
+        "7011": [
+          "Dezena no quinto prêmio!<br>com o palpite 7011",
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 7011"
+        ],
+        "0011": [
+          "Dezena no quinto prêmio!<br>com o palpite 0011",
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 0011"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 5,
+        "Grupo": [
+          "🐴"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 0011, 0015, 0017, 0018, 0019, 1011, 1015, 1017, 1018, 1019, 3011, 3015, 3017, 3018, 3019, 5011, 5015, 5017, 5018, 5019, 7011, 7015, 7017, 7018, 7019"
     }
   }
 }
