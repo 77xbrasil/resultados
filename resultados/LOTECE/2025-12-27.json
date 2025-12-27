@@ -389,66 +389,14 @@
           "Bicho": "Pavão"
         }
       ],
-      "frases": {
-        "1015": [
-          "Dezena no quarto prêmio!<br>com o palpite 1015",
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 1015"
-        ],
-        "1075": [
-          "Dezena no décimo prêmio!<br>com o palpite 1075",
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 1075"
-        ],
-        "1815": [
-          "Dezena no quarto prêmio!<br>com o palpite 1815",
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 1815"
-        ],
-        "1875": [
-          "Dezena no décimo prêmio!<br>com o palpite 1875",
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 1875"
-        ],
-        "5015": [
-          "Dezena no quarto prêmio!<br>com o palpite 5015",
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 5015"
-        ],
-        "5075": [
-          "Dezena no décimo prêmio!<br>com o palpite 5075",
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 5075"
-        ],
-        "5815": [
-          "Dezena no quarto prêmio!<br>com o palpite 5815",
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 5815"
-        ],
-        "5875": [
-          "Dezena no décimo prêmio!<br>com o palpite 5875",
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 5875"
-        ],
-        "9015": [
-          "Dezena no quarto prêmio!<br>com o palpite 9015",
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9015"
-        ],
-        "9075": [
-          "Dezena no décimo prêmio!<br>com o palpite 9075",
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 9075"
-        ],
-        "9815": [
-          "Dezena no quarto prêmio!<br>com o palpite 9815",
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9815"
-        ],
-        "9875": [
-          "Dezena no décimo prêmio!<br>com o palpite 9875",
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 9875"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 12,
-        "Grupo": [
-          "🦋",
-          "🦚"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1005, 1015, 1075, 1805, 1815, 1875, 5005, 5015, 5075, 5805, 5815, 5875, 9005, 9015, 9075, 9805, 9815, 9875"
+      "resumo": "Palpites dados para esta extração: 2138, 2158"
     },
     "A FEDERAL DO BRASIL CE - Ceará Federal": {
       "cabecalhos": [
@@ -460,71 +408,82 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "8386",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "5022",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "0587",
+          "Milhar": "7260",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2390",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3987",
           "Grupo": "22",
           "Bicho": "Tigre"
         },
         {
-          "Prêmio": "3º",
-          "Milhar": "5435",
-          "Grupo": "09",
-          "Bicho": "Cobra"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "3615",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
-        },
-        {
           "Prêmio": "5º",
-          "Milhar": "6004",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "3311",
+          "Grupo": "03",
+          "Bicho": "Burro"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "4898",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "5723",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "6182",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "0239",
+          "Grupo": "10",
+          "Bicho": "Coelho"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "8800",
+          "Milhar": "2698",
           "Grupo": "25",
           "Bicho": "Vaca"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "2202",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "2007",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "0975",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Milhar": "2637",
+          "Grupo": "10",
+          "Bicho": "Coelho"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2138": [
+          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 2138",
+          "COELHO 🐇 no décimo prêmio!<br>com o palpite 2138"
+        ],
+        "2158": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 2158"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐊",
+          "🐇"
+        ]
       },
       "resumo": "Palpites dados para esta extração: 2138, 2158"
     }
