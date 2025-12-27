@@ -88,63 +88,63 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "7892",
-          "Grupo": "23",
-          "Bicho": "Urso"
+          "Milhar": "3668",
+          "Grupo": "17",
+          "Bicho": "Macaco"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "5539",
-          "Grupo": "10",
-          "Bicho": "Coelho"
+          "Milhar": "7132",
+          "Grupo": "08",
+          "Bicho": "Camelo"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "5208",
-          "Grupo": "02",
-          "Bicho": "Águia"
+          "Milhar": "4745",
+          "Grupo": "12",
+          "Bicho": "Elefante"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "9081",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "7009",
+          "Grupo": "03",
+          "Bicho": "Burro"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "9160",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
+          "Milhar": "5404",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "5085",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "6946",
+          "Grupo": "12",
+          "Bicho": "Elefante"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "0669",
-          "Grupo": "18",
-          "Bicho": "Porco"
+          "Milhar": "8411",
+          "Grupo": "03",
+          "Bicho": "Burro"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "5133",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "5798",
+          "Grupo": "25",
+          "Bicho": "Vaca"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "9786",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "7674",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "6193",
-          "Grupo": "24",
-          "Bicho": "Veado"
+          "Milhar": "5973",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         }
       ],
       "frases": {},
@@ -154,7 +154,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 6464, 6465, 6467, 7464, 7465, 7467, 8464, 8465, 8467, 9464, 9465, 9467"
+      "resumo": "Palpites dados para esta extração: 6405, 6407, 6435, 6437, 6805, 6807, 6835, 6837, 6905, 6907, 6935, 6937"
     },
     "LOTECE - CE, 15:45 (tarde II)": {
       "cabecalhos": [
@@ -464,14 +464,30 @@
           "Bicho": "Pavão"
         }
       ],
-      "frases": {},
+      "frases": {
+        "6435": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 6435",
+          "Dezena no terceiro prêmio!<br>com o palpite 6435",
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 6435"
+        ],
+        "6835": [
+          "Dezena no terceiro prêmio!<br>com o palpite 6835",
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 6835"
+        ],
+        "6935": [
+          "Dezena no terceiro prêmio!<br>com o palpite 6935",
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 6935"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 3,
+        "Grupo": [
+          "🐍"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 6437, 9437"
+      "resumo": "Palpites dados para esta extração: 6405, 6407, 6435, 6437, 6805, 6807, 6835, 6837, 6905, 6907, 6935, 6937"
     },
     "A FEDERAL DO BRASIL CE - Ceará Federal": {
       "cabecalhos": [
