@@ -51,14 +51,51 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3244": [
+          "Dezena no quarto prêmio!<br>com o palpite 3244",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3244"
+        ],
+        "3245": [
+          "Dezena no sexto prêmio!<br>com o palpite 3245",
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 3245"
+        ],
+        "3246": [
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 3246"
+        ],
+        "3644": [
+          "Dezena no quarto prêmio!<br>com o palpite 3644",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3644"
+        ],
+        "3645": [
+          "Dezena no sexto prêmio!<br>com o palpite 3645",
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 3645"
+        ],
+        "3646": [
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 3646"
+        ],
+        "3944": [
+          "Dezena no quarto prêmio!<br>com o palpite 3944",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3944"
+        ],
+        "3945": [
+          "Dezena no sexto prêmio!<br>com o palpite 3945",
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 3945"
+        ],
+        "3946": [
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 3946"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 6,
+        "Grupo": [
+          "🐎",
+          "🐘"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3200, 3204, 3800, 3804"
+      "resumo": "Palpites dados para esta extração: 3244, 3245, 3246, 3644, 3645, 3646, 3944, 3945, 3946"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -111,6 +148,99 @@
           "Bicho": ""
         }
       ],
+      "frases": {
+        "3245": [
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 3245",
+          "Dezena no terceiro prêmio!<br>com o palpite 3245",
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 3245"
+        ],
+        "3246": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3246",
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 3246",
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 3246"
+        ],
+        "3645": [
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 3645",
+          "Dezena no terceiro prêmio!<br>com o palpite 3645",
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 3645"
+        ],
+        "3646": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3646",
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 3646",
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 3646"
+        ],
+        "3945": [
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 3945",
+          "Dezena no terceiro prêmio!<br>com o palpite 3945",
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 3945"
+        ],
+        "3946": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3946",
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 3946",
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 3946"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 6,
+        "Grupo": [
+          "🐘"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3244, 3245, 3246, 3644, 3645, 3646, 3944, 3945, 3946"
+    },
+    "PT-RIO, RJ, 14:20, PT": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5254",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9002",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1669",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0138",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2731",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "8794",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "296",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
       "frases": {},
       "acertos": {
         "Milhar": 0,
@@ -118,9 +248,9 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3200, 3204, 3800, 3804"
+      "resumo": "Palpites dados para esta extração: 3244, 3245, 3246, 3644, 3645, 3646, 3944, 3945, 3946"
     },
-    "PT-RIO, RJ, 14:20, PT": {
+    "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -215,24 +345,35 @@
         }
       ],
       "frases": {
-        "3204": [
-          "Dezena no nono prêmio!<br>com o palpite 3204",
-          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 3204"
+        "3244": [
+          "Dezena no quarto prêmio!<br>com o palpite 3244",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3244",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 3244",
+          "Dezena no oitavo prêmio!<br>com o palpite 3244",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 3244"
         ],
-        "3804": [
-          "Dezena no nono prêmio!<br>com o palpite 3804",
-          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 3804"
+        "3644": [
+          "Dezena no quarto prêmio!<br>com o palpite 3644",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3644",
+          "Dezena no oitavo prêmio!<br>com o palpite 3644",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 3644"
+        ],
+        "3944": [
+          "Dezena no quarto prêmio!<br>com o palpite 3944",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 3944",
+          "Dezena no oitavo prêmio!<br>com o palpite 3944",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 3944"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 2,
+        "Centena": 1,
+        "Dezena": 6,
         "Grupo": [
-          "🪶"
+          "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3200, 3204, 3800, 3804"
+      "resumo": "Palpites dados para esta extração: 3244, 3245, 3246, 3644, 3645, 3646, 3944, 3945, 3946"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -304,24 +445,136 @@
         }
       ],
       "frases": {
-        "3200": [
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 3200"
+        "3244": [
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 3244"
         ],
-        "3800": [
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 3800"
+        "3245": [
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 3245",
+          "Dezena no terceiro prêmio!<br>com o palpite 3245",
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 3245"
+        ],
+        "3246": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3246",
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 3246",
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 3246"
+        ],
+        "3644": [
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 3644"
+        ],
+        "3645": [
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 3645",
+          "Dezena no terceiro prêmio!<br>com o palpite 3645",
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 3645"
+        ],
+        "3646": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3646",
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 3646",
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 3646"
+        ],
+        "3944": [
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 3944"
+        ],
+        "3945": [
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 3945",
+          "Dezena no terceiro prêmio!<br>com o palpite 3945",
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 3945"
+        ],
+        "3946": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3946",
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 3946",
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 3946"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 6,
         "Grupo": [
-          "🐄"
+          "🐘",
+          "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3200, 3204, 3800, 3804"
+      "resumo": "Palpites dados para esta extração: 3244, 3245, 3246, 3644, 3645, 3646, 3944, 3945, 3946"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5254",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9002",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1669",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0138",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2731",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5910",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2061",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5063",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4298",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6126",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 3244, 3245, 3246, 3644, 3645, 3646, 3944, 3945, 3946"
+    },
+    "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
