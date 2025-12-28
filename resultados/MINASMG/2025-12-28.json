@@ -393,15 +393,6 @@
         }
       ],
       "frases": {
-        "0017": [
-          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 0017",
-          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 0017"
-        ],
-        "0018": [
-          "Dezena no terceiro prêmio!<br>com o palpite 0018",
-          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 0018",
-          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 0018"
-        ],
         "0317": [
           "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 0317",
           "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 0317"
@@ -410,6 +401,19 @@
           "Dezena no terceiro prêmio!<br>com o palpite 0318",
           "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 0318",
           "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 0318"
+        ],
+        "0397": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 0397"
+        ],
+        "0398": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 0398"
+        ],
+        "0337": [
+          "Dezena no quinto prêmio!<br>com o palpite 0337",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 0337"
+        ],
+        "0338": [
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 0338"
         ]
       },
       "acertos": {
@@ -417,10 +421,12 @@
         "Centena": 0,
         "Dezena": 2,
         "Grupo": [
-          "🐕"
+          "🐕",
+          "🐄",
+          "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0017, 0018, 0317, 0318"
+      "resumo": "Palpites dados para esta extração: 0317, 0318, 0337, 0338, 0397, 0398"
     },
     "Salvação - MG, 13h": {
       "cabecalhos": [
