@@ -524,6 +524,112 @@
         "Grupo": []
       },
       "resumo": ""
+    },
+    "21h - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5111",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1638",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0486",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8741",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4829",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5576",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "9348",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5469",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6220",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "5571",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        }
+      ],
+      "frases": {
+        "3312": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 3312"
+        ],
+        "3332": [
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 3332"
+        ],
+        "3512": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 3512"
+        ],
+        "3532": [
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 3532"
+        ],
+        "5312": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 5312"
+        ],
+        "5332": [
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 5332"
+        ],
+        "5512": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 5512"
+        ],
+        "5532": [
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 5532"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐴",
+          "🐪"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3312, 3322, 3332, 3392, 3512, 3522, 3532, 3592, 5312, 5322, 5332, 5392, 5512, 5522, 5532, 5592"
     }
   }
 }
