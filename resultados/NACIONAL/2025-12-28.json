@@ -382,37 +382,37 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "2902",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "0965",
+          "Grupo": "17",
+          "Bicho": "Macaco"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "5681",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "7278",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "3831",
+          "Milhar": "6692",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9530",
           "Grupo": "08",
           "Bicho": "Camelo"
         },
         {
-          "Prêmio": "4º",
-          "Milhar": "8884",
-          "Grupo": "21",
-          "Bicho": "Touro"
-        },
-        {
           "Prêmio": "5º",
-          "Milhar": "5335",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "2207",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "6633",
+          "Milhar": "6672",
           "Grupo": "",
           "Bicho": ""
         }
@@ -424,7 +424,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3818"
+      "resumo": "Palpites dados para esta extração: 4034, 4434, 6034, 6434, 9034, 9434"
     },
     "Nacional - LN 21:00": {
       "cabecalhos": [
@@ -541,6 +541,29 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 3818"
+    },
+    "Nacional - LN 20:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   },
   "1-10": {
@@ -1080,63 +1103,63 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "2902",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "0965",
+          "Grupo": "17",
+          "Bicho": "Macaco"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "5681",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "7278",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "3831",
+          "Milhar": "6692",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9530",
           "Grupo": "08",
           "Bicho": "Camelo"
         },
         {
-          "Prêmio": "4º",
-          "Milhar": "8884",
-          "Grupo": "21",
-          "Bicho": "Touro"
-        },
-        {
           "Prêmio": "5º",
-          "Milhar": "5335",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "2207",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "2538",
-          "Grupo": "10",
-          "Bicho": "Coelho"
+          "Milhar": "0769",
+          "Grupo": "18",
+          "Bicho": "Porco"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "9688",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "9265",
+          "Grupo": "17",
+          "Bicho": "Macaco"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "0838",
-          "Grupo": "10",
-          "Bicho": "Coelho"
+          "Milhar": "6793",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "2114",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
+          "Milhar": "5820",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "1811",
-          "Grupo": "03",
-          "Bicho": "Burro"
+          "Milhar": "9319",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         }
       ],
       "frases": {},
@@ -1146,7 +1169,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3818"
+      "resumo": "Palpites dados para esta extração: 4034, 4434, 6034, 6434, 9034, 9434"
     },
     "Nacional - LN 21:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1313,6 +1336,34 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 3818"
+    },
+    "Nacional - LN 20:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
