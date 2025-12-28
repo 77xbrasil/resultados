@@ -393,6 +393,25 @@
         }
       ],
       "frases": {
+        "0377": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 0377",
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 0377"
+        ],
+        "0378": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 0378",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 0378",
+          "Dezena no primeiro prêmio!<br>com o palpite 0378",
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 0378",
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 0378"
+        ],
+        "0387": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 0387",
+          "Dezena no segundo prêmio!<br>com o palpite 0387",
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 0387"
+        ],
+        "0388": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 0388"
+        ],
         "0317": [
           "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 0317",
           "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 0317"
@@ -417,16 +436,18 @@
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 2,
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 4,
         "Grupo": [
+          "🦃",
+          "🐅",
           "🐕",
           "🐄",
           "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0317, 0318, 0337, 0338, 0397, 0398"
+      "resumo": "Palpites dados para esta extração: 0317, 0318, 0337, 0338, 0377, 0378, 0387, 0388, 0397, 0398"
     },
     "Salvação - MG, 13h": {
       "cabecalhos": [
