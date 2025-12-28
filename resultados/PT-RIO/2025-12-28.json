@@ -52,6 +52,9 @@
         }
       ],
       "frases": {
+        "4758": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 4758"
+        ],
         "8758": [
           "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 8758"
         ]
@@ -64,7 +67,7 @@
           "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8758"
+      "resumo": "Palpites dados para esta extração: 4758, 4788, 8758, 8788"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -117,14 +120,23 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "4788": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 4788"
+        ],
+        "8788": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 8788"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 8758"
+      "resumo": "Palpites dados para esta extração: 4758, 4788, 8758, 8788"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -178,22 +190,39 @@
         }
       ],
       "frases": {
+        "4758": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 4758",
+          "Dezena no quarto prêmio!<br>com o palpite 4758",
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 4758",
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 4758"
+        ],
+        "4788": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 4788",
+          "Dezena no primeiro prêmio!<br>com o palpite 4788",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 4788"
+        ],
         "8758": [
           "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 8758",
           "Dezena no quarto prêmio!<br>com o palpite 8758",
           "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 8758",
           "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 8758"
+        ],
+        "8788": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 8788",
+          "Dezena no primeiro prêmio!<br>com o palpite 8788",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8788"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 1,
+        "Centena": 2,
+        "Dezena": 4,
         "Grupo": [
+          "🐅",
           "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8758"
+      "resumo": "Palpites dados para esta extração: 4758, 4788, 8758, 8788"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -246,14 +275,23 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "4788": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 4788"
+        ],
+        "8788": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 8788"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 8758"
+      "resumo": "Palpites dados para esta extração: 4758, 4788, 8758, 8788"
     }
   },
   "1-10": {
@@ -327,6 +365,9 @@
         }
       ],
       "frases": {
+        "4758": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 4758"
+        ],
         "8758": [
           "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 8758"
         ]
@@ -339,7 +380,7 @@
           "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8758"
+      "resumo": "Palpites dados para esta extração: 4758, 4788, 8758, 8788"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -411,8 +452,17 @@
         }
       ],
       "frases": {
+        "4758": [
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 4758"
+        ],
+        "4788": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 4788"
+        ],
         "8758": [
           "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 8758"
+        ],
+        "8788": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 8788"
         ]
       },
       "acertos": {
@@ -420,10 +470,11 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
+          "🐅",
           "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8758"
+      "resumo": "Palpites dados para esta extração: 4758, 4788, 8758, 8788"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -495,22 +546,39 @@
         }
       ],
       "frases": {
+        "4758": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 4758",
+          "Dezena no quarto prêmio!<br>com o palpite 4758",
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 4758",
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 4758"
+        ],
+        "4788": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 4788",
+          "Dezena no primeiro prêmio!<br>com o palpite 4788",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 4788"
+        ],
         "8758": [
           "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 8758",
           "Dezena no quarto prêmio!<br>com o palpite 8758",
           "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 8758",
           "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 8758"
+        ],
+        "8788": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 8788",
+          "Dezena no primeiro prêmio!<br>com o palpite 8788",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8788"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 1,
+        "Centena": 2,
+        "Dezena": 4,
         "Grupo": [
+          "🐅",
           "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8758"
+      "resumo": "Palpites dados para esta extração: 4758, 4788, 8758, 8788"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
@@ -581,14 +649,23 @@
           "Bicho": "Gato"
         }
       ],
-      "frases": {},
+      "frases": {
+        "4788": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 4788"
+        ],
+        "8788": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 8788"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 8758"
+      "resumo": "Palpites dados para esta extração: 4758, 4788, 8758, 8788"
     }
   }
 }
