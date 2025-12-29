@@ -237,6 +237,109 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6193",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3944",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8032",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9844",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9047",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7739",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8404",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5191",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3130",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8603",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        }
+      ],
+      "frases": {
+        "1091": [
+          "Dezena no oitavo prêmio!<br>com o palpite 1091",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 1091"
+        ],
+        "1095": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 1095"
+        ],
+        "9091": [
+          "Dezena no oitavo prêmio!<br>com o palpite 9091",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 9091"
+        ],
+        "9095": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 9095"
+        ],
+        "0095": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 0095"
+        ],
+        "0091": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0091",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 0091"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 3,
+        "Grupo": [
+          "🦌",
+          "🐻"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0021, 0025, 0091, 0095, 1021, 1025, 1091, 1095, 9021, 9025, 9091, 9095"
+    },
+    "LOTECE - CE, 19:00 (noite)": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
