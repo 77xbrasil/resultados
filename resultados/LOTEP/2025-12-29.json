@@ -76,7 +76,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1100, 1101, 1109, 1300, 1301, 1309, 1800, 1801, 1809, 7100, 7101, 7109, 7300, 7301, 7309, 7800, 7801, 7809"
+      "resumo": "Palpites dados para esta extração: 0101, 0801, 1101, 1801, 8101, 8801"
     },
     "LOTEP - PB, 12:45": {
       "cabecalhos": [
@@ -154,7 +154,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1100, 1101, 1109, 1300, 1301, 1309, 1800, 1801, 1809, 7100, 7101, 7109, 7300, 7301, 7309, 7800, 7801, 7809"
+      "resumo": "Palpites dados para esta extração: 0101, 0801, 1101, 1801, 8101, 8801"
     },
     "LOTEP - PB, 15:45h": {
       "cabecalhos": [
@@ -225,41 +225,14 @@
           "Bicho": "Tigre"
         }
       ],
-      "frases": {
-        "1109": [
-          "Dezena no nono prêmio!<br>com o palpite 1109",
-          "BURRO 🐴 no nono prêmio!<br>com o palpite 1109"
-        ],
-        "1309": [
-          "Dezena no nono prêmio!<br>com o palpite 1309",
-          "BURRO 🐴 no nono prêmio!<br>com o palpite 1309"
-        ],
-        "1809": [
-          "Dezena no nono prêmio!<br>com o palpite 1809",
-          "BURRO 🐴 no nono prêmio!<br>com o palpite 1809"
-        ],
-        "7109": [
-          "Dezena no nono prêmio!<br>com o palpite 7109",
-          "BURRO 🐴 no nono prêmio!<br>com o palpite 7109"
-        ],
-        "7309": [
-          "Dezena no nono prêmio!<br>com o palpite 7309",
-          "BURRO 🐴 no nono prêmio!<br>com o palpite 7309"
-        ],
-        "7809": [
-          "Dezena no nono prêmio!<br>com o palpite 7809",
-          "BURRO 🐴 no nono prêmio!<br>com o palpite 7809"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 6,
-        "Grupo": [
-          "🐴"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1100, 1101, 1109, 1300, 1301, 1309, 1800, 1801, 1809, 7100, 7101, 7109, 7300, 7301, 7309, 7800, 7801, 7809"
+      "resumo": "Palpites dados para esta extração: 0101, 0801, 1101, 1801, 8101, 8801"
     },
     "LOTEP - PB, 18h": {
       "cabecalhos": [
@@ -331,114 +304,43 @@
         }
       ],
       "frases": {
-        "1100": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1100",
-          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1100",
-          "Dezena no oitavo prêmio!<br>com o palpite 1100",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 1100"
-        ],
         "1101": [
           "Centena e Dezena no quarto prêmio!<br>com o palpite 1101",
           "Dezena no quarto prêmio!<br>com o palpite 1101",
           "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1101"
         ],
-        "1109": [
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 1109",
-          "Dezena no terceiro prêmio!<br>com o palpite 1109",
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 1109",
-          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 1109"
-        ],
-        "1300": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1300",
-          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1300",
-          "Dezena no oitavo prêmio!<br>com o palpite 1300",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 1300"
-        ],
-        "1301": [
-          "Dezena no quarto prêmio!<br>com o palpite 1301",
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1301"
-        ],
-        "1309": [
-          "Dezena no terceiro prêmio!<br>com o palpite 1309",
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 1309",
-          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 1309"
-        ],
-        "1800": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1800",
-          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1800",
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 1800",
-          "Dezena no oitavo prêmio!<br>com o palpite 1800",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 1800"
-        ],
         "1801": [
           "Dezena no quarto prêmio!<br>com o palpite 1801",
           "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1801"
         ],
-        "1809": [
-          "Dezena no terceiro prêmio!<br>com o palpite 1809",
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 1809",
-          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 1809"
+        "8101": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 8101",
+          "Dezena no quarto prêmio!<br>com o palpite 8101",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 8101"
         ],
-        "7100": [
-          "Dezena no primeiro prêmio!<br>com o palpite 7100",
-          "VACA 🐄 no primeiro prêmio!<br>com o palpite 7100",
-          "Dezena no oitavo prêmio!<br>com o palpite 7100",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 7100"
+        "8801": [
+          "Dezena no quarto prêmio!<br>com o palpite 8801",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 8801"
         ],
-        "7101": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 7101",
-          "Dezena no quarto prêmio!<br>com o palpite 7101",
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 7101"
+        "0101": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 0101",
+          "Dezena no quarto prêmio!<br>com o palpite 0101",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0101"
         ],
-        "7109": [
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 7109",
-          "Dezena no terceiro prêmio!<br>com o palpite 7109",
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 7109",
-          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 7109"
-        ],
-        "7300": [
-          "Dezena no primeiro prêmio!<br>com o palpite 7300",
-          "VACA 🐄 no primeiro prêmio!<br>com o palpite 7300",
-          "Dezena no oitavo prêmio!<br>com o palpite 7300",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 7300"
-        ],
-        "7301": [
-          "Dezena no quarto prêmio!<br>com o palpite 7301",
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 7301"
-        ],
-        "7309": [
-          "Dezena no terceiro prêmio!<br>com o palpite 7309",
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 7309",
-          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 7309"
-        ],
-        "7800": [
-          "Dezena no primeiro prêmio!<br>com o palpite 7800",
-          "VACA 🐄 no primeiro prêmio!<br>com o palpite 7800",
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 7800",
-          "Dezena no oitavo prêmio!<br>com o palpite 7800",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 7800"
-        ],
-        "7801": [
-          "Dezena no quarto prêmio!<br>com o palpite 7801",
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 7801"
-        ],
-        "7809": [
-          "Dezena no terceiro prêmio!<br>com o palpite 7809",
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 7809",
-          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 7809"
+        "0801": [
+          "Dezena no quarto prêmio!<br>com o palpite 0801",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0801"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 6,
-        "Dezena": 24,
+        "Centena": 3,
+        "Dezena": 6,
         "Grupo": [
-          "🐄",
-          "🐴",
           "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1100, 1101, 1109, 1300, 1301, 1309, 1800, 1801, 1809, 7100, 7101, 7109, 7300, 7301, 7309, 7800, 7801, 7809"
+      "resumo": "Palpites dados para esta extração: 0101, 0801, 1101, 1801, 8101, 8801"
     },
     "PB, Paratodos 10:45": {
       "cabecalhos": [
