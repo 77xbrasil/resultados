@@ -69,14 +69,31 @@
           "Bicho": "Macaco"
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "2290": [
+          "Dezena no segundo prêmio!<br>com o palpite 2290",
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 2290",
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 2290",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 2290"
+        ],
+        "2590": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 2590",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 2590",
+          "Dezena no segundo prêmio!<br>com o palpite 2590",
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 2590",
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 2590",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 2590"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2093, 2094, 2095, 2593, 2594, 2595, 5093, 5094, 5095, 5593, 5594, 5595"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🐻"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2290, 2293, 2295, 2590, 2593, 2595"
     },
     "LOTEP - PB, 12:45": {
       "cabecalhos": [
