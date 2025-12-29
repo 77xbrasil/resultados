@@ -51,14 +51,54 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1151": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1151"
+        ],
+        "1153": [
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 1153"
+        ],
+        "1155": [
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 1155"
+        ],
+        "5151": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 5151"
+        ],
+        "5153": [
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 5153"
+        ],
+        "5155": [
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 5155"
+        ],
+        "7151": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 7151"
+        ],
+        "7153": [
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 7153"
+        ],
+        "7155": [
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 7155"
+        ],
+        "8151": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 8151"
+        ],
+        "8153": [
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 8153"
+        ],
+        "8155": [
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 8155"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐓",
+          "🐈"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 8063, 8163, 8663"
+      "resumo": "Palpites dados para esta extração: 1151, 1153, 1155, 1161, 1163, 1165, 5151, 5153, 5155, 5161, 5163, 5165, 7151, 7153, 7155, 7161, 7163, 7165, 8151, 8153, 8155, 8161, 8163, 8165"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -112,25 +152,82 @@
         }
       ],
       "frases": {
-        "8063": [
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 8063"
+        "1153": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 1153",
+          "Dezena no sexto prêmio!<br>com o palpite 1153",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 1153",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 1153"
+        ],
+        "1155": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 1155",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 1155"
+        ],
+        "1161": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 1161"
+        ],
+        "1163": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 1163"
+        ],
+        "5153": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 5153",
+          "Dezena no sexto prêmio!<br>com o palpite 5153",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 5153",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 5153"
+        ],
+        "5155": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 5155",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 5155"
+        ],
+        "5161": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 5161"
+        ],
+        "5163": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 5163"
+        ],
+        "7153": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 7153",
+          "Dezena no sexto prêmio!<br>com o palpite 7153",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 7153",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 7153"
+        ],
+        "7155": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 7155",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 7155"
+        ],
+        "7161": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 7161"
+        ],
+        "7163": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 7163"
+        ],
+        "8153": [
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 8153",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 8153",
+          "Dezena no sexto prêmio!<br>com o palpite 8153",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 8153",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 8153"
+        ],
+        "8155": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 8155",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 8155"
+        ],
+        "8161": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 8161"
         ],
         "8163": [
           "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 8163"
-        ],
-        "8663": [
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 8663"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 4,
         "Grupo": [
-          "🦁"
+          "🦁",
+          "🐈"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8063, 8163, 8663"
+      "resumo": "Palpites dados para esta extração: 1151, 1153, 1155, 1161, 1163, 1165, 5151, 5153, 5155, 5161, 5163, 5165, 7151, 7153, 7155, 7161, 7163, 7165, 8151, 8153, 8155, 8161, 8163, 8165"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -183,14 +280,58 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1151": [
+          "Dezena no quarto prêmio!<br>com o palpite 1151",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 1151",
+          "Dezena no quinto prêmio!<br>com o palpite 1151",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1151"
+        ],
+        "1165": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1165",
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 1165"
+        ],
+        "5151": [
+          "Dezena no quarto prêmio!<br>com o palpite 5151",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 5151",
+          "Dezena no quinto prêmio!<br>com o palpite 5151",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 5151"
+        ],
+        "5165": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5165",
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 5165"
+        ],
+        "7151": [
+          "Dezena no quarto prêmio!<br>com o palpite 7151",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 7151",
+          "Dezena no quinto prêmio!<br>com o palpite 7151",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7151"
+        ],
+        "7165": [
+          "Dezena no terceiro prêmio!<br>com o palpite 7165",
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 7165"
+        ],
+        "8151": [
+          "Dezena no quarto prêmio!<br>com o palpite 8151",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 8151",
+          "Dezena no quinto prêmio!<br>com o palpite 8151",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 8151"
+        ],
+        "8165": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8165",
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 8165"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 12,
+        "Grupo": [
+          "🐒",
+          "🐓"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 8063, 8163, 8663"
+      "resumo": "Palpites dados para esta extração: 1151, 1153, 1155, 1161, 1163, 1165, 5151, 5153, 5155, 5161, 5163, 5165, 7151, 7153, 7155, 7161, 7163, 7165, 8151, 8153, 8155, 8161, 8163, 8165"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -287,25 +428,70 @@
         }
       ],
       "frases": {
-        "8063": [
-          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 8063"
+        "1151": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 1151"
+        ],
+        "1161": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 1161"
+        ],
+        "1163": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 1163"
+        ],
+        "1165": [
+          "Dezena no décimo prêmio!<br>com o palpite 1165",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 1165"
+        ],
+        "5151": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 5151"
+        ],
+        "5161": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 5161"
+        ],
+        "5163": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 5163"
+        ],
+        "5165": [
+          "Dezena no décimo prêmio!<br>com o palpite 5165",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 5165"
+        ],
+        "7151": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 7151"
+        ],
+        "7161": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 7161"
+        ],
+        "7163": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 7163"
+        ],
+        "7165": [
+          "Dezena no décimo prêmio!<br>com o palpite 7165",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 7165"
+        ],
+        "8151": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 8151"
+        ],
+        "8161": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 8161"
         ],
         "8163": [
           "LEÃO 🦁 no sexto prêmio!<br>com o palpite 8163"
         ],
-        "8663": [
-          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 8663"
+        "8165": [
+          "Dezena no décimo prêmio!<br>com o palpite 8165",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 8165"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 4,
         "Grupo": [
-          "🦁"
+          "🐓",
+          "🦁",
+          "🐒"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8063, 8163, 8663"
+      "resumo": "Palpites dados para esta extração: 1151, 1153, 1155, 1161, 1163, 1165, 5151, 5153, 5155, 5161, 5163, 5165, 7151, 7153, 7155, 7161, 7163, 7165, 8151, 8153, 8155, 8161, 8163, 8165"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -377,28 +563,52 @@
         }
       ],
       "frases": {
-        "8063": [
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 8063",
-          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 8063"
+        "1161": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 1161",
+          "Dezena no oitavo prêmio!<br>com o palpite 1161",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 1161"
+        ],
+        "1163": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 1163",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 1163"
+        ],
+        "5161": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 5161",
+          "Dezena no oitavo prêmio!<br>com o palpite 5161",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 5161"
+        ],
+        "5163": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 5163",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 5163"
+        ],
+        "7161": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 7161",
+          "Dezena no oitavo prêmio!<br>com o palpite 7161",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 7161"
+        ],
+        "7163": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 7163",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 7163"
+        ],
+        "8161": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 8161",
+          "Dezena no oitavo prêmio!<br>com o palpite 8161",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 8161"
         ],
         "8163": [
           "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 8163",
           "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 8163"
-        ],
-        "8663": [
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 8663",
-          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 8663"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 4,
         "Grupo": [
           "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8063, 8163, 8663"
+      "resumo": "Palpites dados para esta extração: 1151, 1153, 1155, 1161, 1163, 1165, 5151, 5153, 5155, 5161, 5163, 5165, 7151, 7153, 7155, 7161, 7163, 7165, 8151, 8153, 8155, 8161, 8163, 8165"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -470,29 +680,107 @@
         }
       ],
       "frases": {
-        "8063": [
-          "Dezena no sétimo prêmio!<br>com o palpite 8063",
-          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 8063"
+        "1151": [
+          "Dezena no quarto prêmio!<br>com o palpite 1151",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 1151",
+          "Dezena no quinto prêmio!<br>com o palpite 1151",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1151",
+          "Dezena no nono prêmio!<br>com o palpite 1151",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 1151"
+        ],
+        "1161": [
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 1161"
+        ],
+        "1163": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 1163",
+          "Dezena no sétimo prêmio!<br>com o palpite 1163",
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 1163"
+        ],
+        "1165": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1165",
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 1165",
+          "Dezena no oitavo prêmio!<br>com o palpite 1165",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 1165"
+        ],
+        "5151": [
+          "Dezena no quarto prêmio!<br>com o palpite 5151",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 5151",
+          "Dezena no quinto prêmio!<br>com o palpite 5151",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 5151",
+          "Dezena no nono prêmio!<br>com o palpite 5151",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 5151"
+        ],
+        "5161": [
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 5161"
+        ],
+        "5163": [
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 5163",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 5163",
+          "Dezena no sétimo prêmio!<br>com o palpite 5163",
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 5163"
+        ],
+        "5165": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5165",
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 5165",
+          "Dezena no oitavo prêmio!<br>com o palpite 5165",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 5165"
+        ],
+        "7151": [
+          "Dezena no quarto prêmio!<br>com o palpite 7151",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 7151",
+          "Dezena no quinto prêmio!<br>com o palpite 7151",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7151",
+          "Dezena no nono prêmio!<br>com o palpite 7151",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 7151"
+        ],
+        "7161": [
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 7161"
+        ],
+        "7163": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 7163",
+          "Dezena no sétimo prêmio!<br>com o palpite 7163",
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 7163"
+        ],
+        "7165": [
+          "Dezena no terceiro prêmio!<br>com o palpite 7165",
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 7165",
+          "Dezena no oitavo prêmio!<br>com o palpite 7165",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 7165"
+        ],
+        "8151": [
+          "Dezena no quarto prêmio!<br>com o palpite 8151",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 8151",
+          "Dezena no quinto prêmio!<br>com o palpite 8151",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 8151",
+          "Dezena no nono prêmio!<br>com o palpite 8151",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 8151"
+        ],
+        "8161": [
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 8161"
         ],
         "8163": [
           "Centena e Dezena no sétimo prêmio!<br>com o palpite 8163",
           "Dezena no sétimo prêmio!<br>com o palpite 8163",
           "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 8163"
         ],
-        "8663": [
-          "Dezena no sétimo prêmio!<br>com o palpite 8663",
-          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 8663"
+        "8165": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8165",
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 8165",
+          "Dezena no oitavo prêmio!<br>com o palpite 8165",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 8165"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 3,
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 24,
         "Grupo": [
+          "🐒",
+          "🐓",
           "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8063, 8163, 8663"
+      "resumo": "Palpites dados para esta extração: 1151, 1153, 1155, 1161, 1163, 1165, 5151, 5153, 5155, 5161, 5163, 5165, 7151, 7153, 7155, 7161, 7163, 7165, 8151, 8153, 8155, 8161, 8163, 8165"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
