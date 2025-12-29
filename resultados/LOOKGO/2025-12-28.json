@@ -548,43 +548,43 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "2559",
+          "Milhar": "4158",
           "Grupo": "15",
           "Bicho": "Jacaré"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "6330",
+          "Milhar": "1625",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0531",
           "Grupo": "08",
           "Bicho": "Camelo"
         },
         {
-          "Prêmio": "3º",
-          "Milhar": "0559",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
-        },
-        {
           "Prêmio": "4º",
-          "Milhar": "0053",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "3333",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "4338",
-          "Grupo": "10",
-          "Bicho": "Coelho"
+          "Milhar": "1890",
+          "Grupo": "23",
+          "Bicho": "Urso"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "3839",
+          "Milhar": "1537",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "198",
+          "Milhar": "756",
           "Grupo": "",
           "Bicho": ""
         }
@@ -596,7 +596,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0350, 2350, 5350, 6350"
+      "resumo": "Palpites dados para esta extração: 3012, 3062, 3072, 3212, 3262, 3272"
     }
   },
   "1-10": {
@@ -1296,97 +1296,73 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "2559",
+          "Milhar": "4158",
           "Grupo": "15",
           "Bicho": "Jacaré"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "6330",
+          "Milhar": "1625",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0531",
           "Grupo": "08",
           "Bicho": "Camelo"
         },
         {
-          "Prêmio": "3º",
-          "Milhar": "0559",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
-        },
-        {
           "Prêmio": "4º",
-          "Milhar": "0053",
-          "Grupo": "14",
-          "Bicho": "Gato"
+          "Milhar": "3333",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "4338",
-          "Grupo": "10",
-          "Bicho": "Coelho"
+          "Milhar": "1890",
+          "Grupo": "23",
+          "Bicho": "Urso"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "2600",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "4103",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "5350",
-          "Grupo": "13",
-          "Bicho": "Galo"
-        },
-        {
-          "Prêmio": "8º",
-          "Milhar": "5355",
+          "Milhar": "1653",
           "Grupo": "14",
           "Bicho": "Gato"
         },
         {
+          "Prêmio": "8º",
+          "Milhar": "5233",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
           "Prêmio": "9º",
-          "Milhar": "9093",
-          "Grupo": "24",
-          "Bicho": "Veado"
+          "Milhar": "8513",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "6237",
+          "Milhar": "1039",
           "Grupo": "10",
           "Bicho": "Coelho"
         }
       ],
-      "frases": {
-        "2350": [
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 2350",
-          "Dezena no sétimo prêmio!<br>com o palpite 2350",
-          "GALO 🐓 no sétimo prêmio!<br>com o palpite 2350"
-        ],
-        "5350": [
-          "Milhar e Centena no sétimo prêmio!<br>com o palpite 5350",
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 5350",
-          "Dezena no sétimo prêmio!<br>com o palpite 5350",
-          "GALO 🐓 no sétimo prêmio!<br>com o palpite 5350"
-        ],
-        "6350": [
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 6350",
-          "Dezena no sétimo prêmio!<br>com o palpite 6350",
-          "GALO 🐓 no sétimo prêmio!<br>com o palpite 6350"
-        ],
-        "0350": [
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 0350",
-          "Dezena no sétimo prêmio!<br>com o palpite 0350",
-          "GALO 🐓 no sétimo prêmio!<br>com o palpite 0350"
-        ]
-      },
+      "frases": {},
       "acertos": {
-        "Milhar": 1,
-        "Centena": 4,
-        "Dezena": 4,
-        "Grupo": [
-          "🐓"
-        ]
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0350, 2350, 5350, 6350"
+      "resumo": "Palpites dados para esta extração: 3012, 3062, 3072, 3212, 3262, 3272"
     }
   }
 }
