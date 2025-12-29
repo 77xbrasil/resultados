@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0206, 3206, 6206"
+      "resumo": "Palpites dados para esta extração: 3206, 3208, 3306, 3308, 6206, 6208, 6306, 6308"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -118,7 +118,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0206, 3206, 6206"
+      "resumo": "Palpites dados para esta extração: 3206, 3208, 3306, 3308, 6206, 6208, 6306, 6308"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -178,7 +178,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0206, 3206, 6206"
+      "resumo": "Palpites dados para esta extração: 3206, 3208, 3306, 3308, 6206, 6208, 6306, 6308"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -235,22 +235,41 @@
         "3206": [
           "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3206"
         ],
+        "3208": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3208",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3208"
+        ],
+        "3306": [
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3306"
+        ],
+        "3308": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3308",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3308"
+        ],
         "6206": [
           "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 6206"
         ],
-        "0206": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 0206"
+        "6208": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6208",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 6208"
+        ],
+        "6306": [
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 6306"
+        ],
+        "6308": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6308",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 6308"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 4,
         "Grupo": [
           "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0206, 3206, 6206"
+      "resumo": "Palpites dados para esta extração: 3206, 3208, 3306, 3308, 6206, 6208, 6306, 6308"
     },
     "PT-RIO, RJ, 18:20, PTN": {
       "cabecalhos": [
@@ -309,26 +328,51 @@
           "Dezena no sétimo prêmio!<br>com o palpite 3206",
           "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 3206"
         ],
+        "3208": [
+          "Dezena no quarto prêmio!<br>com o palpite 3208",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 3208",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 3208"
+        ],
+        "3306": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 3306",
+          "Dezena no sétimo prêmio!<br>com o palpite 3306",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 3306"
+        ],
+        "3308": [
+          "Dezena no quarto prêmio!<br>com o palpite 3308",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 3308",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 3308"
+        ],
         "6206": [
           "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 6206",
           "Dezena no sétimo prêmio!<br>com o palpite 6206",
           "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 6206"
         ],
-        "0206": [
-          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 0206",
-          "Dezena no sétimo prêmio!<br>com o palpite 0206",
-          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 0206"
+        "6208": [
+          "Dezena no quarto prêmio!<br>com o palpite 6208",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 6208",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 6208"
+        ],
+        "6306": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 6306",
+          "Dezena no sétimo prêmio!<br>com o palpite 6306",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 6306"
+        ],
+        "6308": [
+          "Dezena no quarto prêmio!<br>com o palpite 6308",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 6308",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 6308"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
+        "Dezena": 8,
         "Grupo": [
           "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0206, 3206, 6206"
+      "resumo": "Palpites dados para esta extração: 3206, 3208, 3306, 3308, 6206, 6208, 6306, 6308"
     },
     "PT-RIO, RJ, 21:20, CORUJA": {
       "cabecalhos": [
@@ -431,7 +475,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0206, 3206, 6206"
+      "resumo": "Palpites dados para esta extração: 3206, 3208, 3306, 3308, 6206, 6208, 6306, 6308"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -509,7 +553,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0206, 3206, 6206"
+      "resumo": "Palpites dados para esta extração: 3206, 3208, 3306, 3308, 6206, 6208, 6306, 6308"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -587,7 +631,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0206, 3206, 6206"
+      "resumo": "Palpites dados para esta extração: 3206, 3208, 3306, 3308, 6206, 6208, 6306, 6308"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
@@ -662,22 +706,41 @@
         "3206": [
           "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3206"
         ],
+        "3208": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3208",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3208"
+        ],
+        "3306": [
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3306"
+        ],
+        "3308": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3308",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3308"
+        ],
         "6206": [
           "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 6206"
         ],
-        "0206": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 0206"
+        "6208": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6208",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 6208"
+        ],
+        "6306": [
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 6306"
+        ],
+        "6308": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6308",
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 6308"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 4,
         "Grupo": [
           "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0206, 3206, 6206"
+      "resumo": "Palpites dados para esta extração: 3206, 3208, 3306, 3308, 6206, 6208, 6306, 6308"
     },
     "PT-RIO, RJ, 18:20, PTN do 1º ao 10º": {
       "cabecalhos": [
@@ -752,22 +815,41 @@
         "3206": [
           "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 3206"
         ],
+        "3208": [
+          "Dezena no quarto prêmio!<br>com o palpite 3208",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 3208"
+        ],
+        "3306": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 3306"
+        ],
+        "3308": [
+          "Dezena no quarto prêmio!<br>com o palpite 3308",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 3308"
+        ],
         "6206": [
           "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 6206"
         ],
-        "0206": [
-          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 0206"
+        "6208": [
+          "Dezena no quarto prêmio!<br>com o palpite 6208",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 6208"
+        ],
+        "6306": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 6306"
+        ],
+        "6308": [
+          "Dezena no quarto prêmio!<br>com o palpite 6308",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 6308"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 4,
         "Grupo": [
           "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0206, 3206, 6206"
+      "resumo": "Palpites dados para esta extração: 3206, 3208, 3306, 3308, 6206, 6208, 6306, 6308"
     },
     "PT-RIO, RJ, 21:20, CORUJA do 1º ao 10º": {
       "cabecalhos": [
