@@ -70,16 +70,70 @@
         }
       ],
       "frases": {
+        "1517": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1517",
+          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 1517",
+          "Dezena no sétimo prêmio!<br>com o palpite 1517",
+          "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 1517"
+        ],
+        "1553": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 1553",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 1553"
+        ],
+        "1555": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 1555",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 1555",
+          "Dezena no oitavo prêmio!<br>com o palpite 1555",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 1555"
+        ],
+        "1556": [
+          "Dezena no sexto prêmio!<br>com o palpite 1556",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 1556",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 1556"
+        ],
+        "1563": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 1563",
+          "Dezena no terceiro prêmio!<br>com o palpite 1563",
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 1563"
+        ],
+        "1565": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 1565"
+        ],
+        "1566": [
+          "Dezena no quinto prêmio!<br>com o palpite 1566",
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 1566"
+        ],
+        "1567": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 1567"
+        ],
         "2517": [
           "Dezena no primeiro prêmio!<br>com o palpite 2517",
           "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 2517",
           "Dezena no sétimo prêmio!<br>com o palpite 2517",
           "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 2517"
         ],
+        "2553": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 2553",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 2553"
+        ],
+        "2555": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 2555",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 2555",
+          "Dezena no oitavo prêmio!<br>com o palpite 2555",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 2555"
+        ],
         "2556": [
           "Dezena no sexto prêmio!<br>com o palpite 2556",
           "GATO 🐈 no sexto prêmio!<br>com o palpite 2556",
           "GATO 🐈 no oitavo prêmio!<br>com o palpite 2556"
+        ],
+        "2563": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 2563",
+          "Dezena no terceiro prêmio!<br>com o palpite 2563",
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 2563"
+        ],
+        "2565": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 2565"
         ],
         "2566": [
           "Dezena no quinto prêmio!<br>com o palpite 2566",
@@ -94,12 +148,30 @@
           "Dezena no sétimo prêmio!<br>com o palpite 0517",
           "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 0517"
         ],
+        "0563": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 0563",
+          "Dezena no terceiro prêmio!<br>com o palpite 0563",
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 0563"
+        ],
+        "0565": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 0565"
+        ],
         "0566": [
           "Dezena no quinto prêmio!<br>com o palpite 0566",
           "MACACO 🐒 no quinto prêmio!<br>com o palpite 0566"
         ],
         "0567": [
           "MACACO 🐒 no quinto prêmio!<br>com o palpite 0567"
+        ],
+        "0553": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 0553",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 0553"
+        ],
+        "0555": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 0555",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 0555",
+          "Dezena no oitavo prêmio!<br>com o palpite 0555",
+          "GATO 🐈 no oitavo prêmio!<br>com o palpite 0555"
         ],
         "0556": [
           "Dezena no sexto prêmio!<br>com o palpite 0556",
@@ -109,15 +181,16 @@
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 8,
+        "Centena": 6,
+        "Dezena": 18,
         "Grupo": [
           "🐕",
+          "🦁",
           "🐒",
           "🐈"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0516, 0517, 0546, 0547, 0556, 0557, 0566, 0567, 0586, 0587, 2516, 2517, 2546, 2547, 2556, 2557, 2566, 2567, 2586, 2587"
+      "resumo": "Palpites dados para esta extração: 0513, 0515, 0516, 0517, 0553, 0555, 0556, 0557, 0563, 0565, 0566, 0567, 1513, 1515, 1516, 1517, 1553, 1555, 1556, 1557, 1563, 1565, 1566, 1567, 2513, 2515, 2516, 2517, 2553, 2555, 2556, 2557, 2563, 2565, 2566, 2567"
     },
     "12h - MALUCA - BA": {
       "cabecalhos": [
