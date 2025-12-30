@@ -70,29 +70,21 @@
         }
       ],
       "frases": {
-        "1101": [
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 1101",
-          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1101"
+        "4801": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 4801",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 4801"
         ],
-        "1801": [
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 1801",
-          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 1801"
+        "5801": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 5801",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5801"
         ],
-        "8101": [
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 8101",
-          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 8101"
+        "7801": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 7801",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 7801"
         ],
         "8801": [
           "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 8801",
           "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 8801"
-        ],
-        "0101": [
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 0101",
-          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 0101"
-        ],
-        "0801": [
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 0801",
-          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 0801"
         ]
       },
       "acertos": {
@@ -103,9 +95,110 @@
           "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0101, 0801, 1101, 1801, 8101, 8801"
+      "resumo": "Palpites dados para esta extração: 4801, 5801, 7801, 8801"
     },
     "LOTEP - PB, 12:45": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6504",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4421",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4308",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9310",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1791",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "6449",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "5433",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "0201",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4180",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2597",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        }
+      ],
+      "frases": {
+        "4801": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 4801",
+          "Dezena no oitavo prêmio!<br>com o palpite 4801",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 4801"
+        ],
+        "5801": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 5801",
+          "Dezena no oitavo prêmio!<br>com o palpite 5801",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5801"
+        ],
+        "7801": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 7801",
+          "Dezena no oitavo prêmio!<br>com o palpite 7801",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 7801"
+        ],
+        "8801": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 8801",
+          "Dezena no oitavo prêmio!<br>com o palpite 8801",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 8801"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 4,
+        "Grupo": [
+          "🪶"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 4801, 5801, 7801, 8801"
+    },
+    "LOTEP - PB, 15:45h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
