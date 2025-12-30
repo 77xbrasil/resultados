@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2069, 2269, 2369, 2769, 2869"
+      "resumo": "Palpites dados para esta extração: 2059, 2259, 2859"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
@@ -118,7 +118,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2069, 2269, 2369, 2769, 2869"
+      "resumo": "Palpites dados para esta extração: 2059, 2259, 2859"
     },
     "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
@@ -171,14 +171,30 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2059": [
+          "Dezena no sexto prêmio!<br>com o palpite 2059",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 2059"
+        ],
+        "2259": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 2259",
+          "Dezena no sexto prêmio!<br>com o palpite 2259",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 2259"
+        ],
+        "2859": [
+          "Dezena no sexto prêmio!<br>com o palpite 2859",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 2859"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 3,
+        "Grupo": [
+          "🐊"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2069, 2269, 2369, 2769, 2869"
+      "resumo": "Palpites dados para esta extração: 2059, 2259, 2859"
     },
     "PREFERIDA - MG, 21h": {
       "cabecalhos": [
@@ -238,7 +254,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2069, 2269, 2369, 2769, 2869"
+      "resumo": "Palpites dados para esta extração: 2059, 2259, 2859"
     },
     "SALVAÇÃO - MG, 13h": {
       "cabecalhos": [
