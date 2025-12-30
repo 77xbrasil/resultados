@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0000, 0005, 0400, 0405, 0800, 0805, 2000, 2005, 2400, 2405, 2800, 2805, 3000, 3005, 3400, 3405, 3800, 3805, 5000, 5005, 5400, 5405, 5800, 5805"
+      "resumo": "Palpites dados para esta extração: 0405, 0485, 0505, 0585, 2405, 2485, 2505, 2585"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -112,77 +112,17 @@
         }
       ],
       "frases": {
-        "2000": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2000"
-        ],
-        "2005": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 2005"
-        ],
-        "2400": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2400"
-        ],
         "2405": [
           "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 2405"
         ],
-        "2800": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2800"
-        ],
-        "2805": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 2805"
-        ],
-        "3000": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 3000"
-        ],
-        "3005": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3005"
-        ],
-        "3400": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 3400"
-        ],
-        "3405": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3405"
-        ],
-        "3800": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 3800"
-        ],
-        "3805": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3805"
-        ],
-        "5000": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5000"
-        ],
-        "5005": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 5005"
-        ],
-        "5400": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5400"
-        ],
-        "5405": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 5405"
-        ],
-        "5800": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5800"
-        ],
-        "5805": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 5805"
-        ],
-        "0005": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 0005"
+        "2505": [
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 2505"
         ],
         "0405": [
           "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 0405"
         ],
-        "0805": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 0805"
-        ],
-        "0000": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 0000"
-        ],
-        "0400": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 0400"
-        ],
-        "0800": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 0800"
+        "0505": [
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 0505"
         ]
       },
       "acertos": {
@@ -190,13 +130,72 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🦅",
-          "🐄"
+          "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0000, 0005, 0400, 0405, 0800, 0805, 2000, 2005, 2400, 2405, 2800, 2805, 3000, 3005, 3400, 3405, 3800, 3805, 5000, 5005, 5400, 5405, 5800, 5805"
+      "resumo": "Palpites dados para esta extração: 0405, 0485, 0505, 0585, 2405, 2485, 2505, 2585"
     },
     "PT-RIO, RJ, 14:20, PT": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5541",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7175",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6804",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9972",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4182",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "3674",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "756",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0405, 0485, 0505, 0585, 2405, 2485, 2505, 2585"
+    },
+    "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -290,14 +289,29 @@
           "Bicho": "Tigre"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2485": [
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 2485"
+        ],
+        "2585": [
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 2585"
+        ],
+        "0485": [
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 0485"
+        ],
+        "0585": [
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 0585"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0000, 0005, 0400, 0405, 0800, 0805, 2000, 2005, 2400, 2405, 2800, 2805, 3000, 3005, 3400, 3405, 3800, 3805, 5000, 5005, 5400, 5405, 5800, 5805"
+      "resumo": "Palpites dados para esta extração: 0405, 0485, 0505, 0585, 2405, 2485, 2505, 2585"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -369,89 +383,127 @@
         }
       ],
       "frases": {
-        "2000": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2000",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 2000"
-        ],
-        "2005": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 2005"
-        ],
-        "2400": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2400",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 2400"
-        ],
         "2405": [
           "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 2405"
         ],
-        "2800": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2800",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 2800"
+        "2485": [
+          "Dezena no nono prêmio!<br>com o palpite 2485",
+          "TIGRE 🐅 no nono prêmio!<br>com o palpite 2485"
         ],
-        "2805": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 2805"
+        "2505": [
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 2505"
         ],
-        "3000": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 3000",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 3000"
-        ],
-        "3005": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3005"
-        ],
-        "3400": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 3400",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 3400"
-        ],
-        "3405": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3405"
-        ],
-        "3800": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 3800",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 3800"
-        ],
-        "3805": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 3805"
-        ],
-        "5000": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5000",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 5000"
-        ],
-        "5005": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 5005"
-        ],
-        "5400": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5400",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 5400"
-        ],
-        "5405": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 5405"
-        ],
-        "5800": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 5800",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 5800"
-        ],
-        "5805": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 5805"
-        ],
-        "0005": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 0005"
+        "2585": [
+          "Dezena no nono prêmio!<br>com o palpite 2585",
+          "TIGRE 🐅 no nono prêmio!<br>com o palpite 2585"
         ],
         "0405": [
           "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 0405"
         ],
-        "0805": [
-          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 0805"
+        "0505": [
+          "ÁGUIA 🦅 no primeiro prêmio!<br>com o palpite 0505"
         ],
-        "0000": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 0000",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 0000"
+        "0485": [
+          "Dezena no nono prêmio!<br>com o palpite 0485",
+          "TIGRE 🐅 no nono prêmio!<br>com o palpite 0485"
         ],
-        "0400": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 0400",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 0400"
+        "0585": [
+          "Dezena no nono prêmio!<br>com o palpite 0585",
+          "TIGRE 🐅 no nono prêmio!<br>com o palpite 0585"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 4,
+        "Grupo": [
+          "🦅",
+          "🐅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0405, 0485, 0505, 0585, 2405, 2485, 2505, 2585"
+    },
+    "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5541",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7175",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6804",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9972",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4182",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5769",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "5189",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "4707",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1542",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0881",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        }
+      ],
+      "frases": {
+        "2405": [
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 2405"
         ],
-        "0800": [
-          "VACA 🐄 no terceiro prêmio!<br>com o palpite 0800",
-          "VACA 🐄 no oitavo prêmio!<br>com o palpite 0800"
+        "2505": [
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 2505"
+        ],
+        "0405": [
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 0405"
+        ],
+        "0505": [
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 0505"
         ]
       },
       "acertos": {
@@ -459,13 +511,12 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🦅",
-          "🐄"
+          "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0000, 0005, 0400, 0405, 0800, 0805, 2000, 2005, 2400, 2405, 2800, 2805, 3000, 3005, 3400, 3405, 3800, 3805, 5000, 5005, 5400, 5405, 5800, 5805"
+      "resumo": "Palpites dados para esta extração: 0405, 0485, 0505, 0585, 2405, 2485, 2505, 2585"
     },
-    "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
+    "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
