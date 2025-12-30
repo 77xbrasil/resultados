@@ -51,6 +51,109 @@
           "Bicho": ""
         }
       ],
+      "frases": {
+        "2052": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2052",
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 2052"
+        ],
+        "2252": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2252",
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 2252"
+        ],
+        "2552": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 2552",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 2552",
+          "Dezena no primeiro prêmio!<br>com o palpite 2552",
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 2552"
+        ],
+        "5052": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5052",
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 5052"
+        ],
+        "5252": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5252",
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 5252"
+        ],
+        "5552": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 5552",
+          "Dezena no primeiro prêmio!<br>com o palpite 5552",
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 5552"
+        ],
+        "0052": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0052",
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 0052"
+        ],
+        "0252": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0252",
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 0252"
+        ],
+        "0552": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 0552",
+          "Dezena no primeiro prêmio!<br>com o palpite 0552",
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 0552"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 3,
+        "Dezena": 9,
+        "Grupo": [
+          "🐓"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0052, 0055, 0252, 0255, 0552, 0555, 2052, 2055, 2252, 2255, 2552, 2555, 5052, 5055, 5252, 5255, 5552, 5555"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3373",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6112",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7922",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3585",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3312",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "24304",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "615",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
       "frases": {},
       "acertos": {
         "Milhar": 0,
@@ -58,9 +161,9 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0055, 0155, 0255, 0555, 0855, 2055, 2155, 2255, 2555, 2855, 3055, 3155, 3255, 3555, 3855, 4055, 4155, 4255, 4555, 4855, 5055, 5155, 5255, 5555, 5855"
+      "resumo": "Palpites dados para esta extração: 0052, 0055, 0252, 0255, 0552, 0555, 2052, 2055, 2252, 2255, 2552, 2555, 5052, 5055, 5252, 5255, 5552, 5555"
     },
-    "MINAS DIA - MG, 15h": {
+    "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
