@@ -67,7 +67,7 @@
           "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0610, 0612, 0619, 0660, 0662, 0669, 6610, 6612, 6619, 6660, 6662, 6669"
+      "resumo": "Palpites dados para esta extração: 0662, 6662"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -121,44 +121,22 @@
         }
       ],
       "frases": {
-        "6610": [
-          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 6610"
-        ],
-        "6612": [
-          "Dezena no sétimo prêmio!<br>com o palpite 6612",
-          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 6612"
-        ],
-        "6619": [
-          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 6619"
-        ],
         "6662": [
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 6662"
         ],
         "0662": [
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 0662"
-        ],
-        "0619": [
-          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 0619"
-        ],
-        "0610": [
-          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 0610"
-        ],
-        "0612": [
-          "Dezena no sétimo prêmio!<br>com o palpite 0612",
-          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 0612"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 0,
         "Grupo": [
-          "🦁",
-          "🐕",
-          "🐴"
+          "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0610, 0612, 0619, 0660, 0662, 0669, 6610, 6612, 6619, 6660, 6662, 6669"
+      "resumo": "Palpites dados para esta extração: 0662, 6662"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -212,27 +190,9 @@
         }
       ],
       "frases": {
-        "6619": [
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 6619",
-          "Dezena no sexto prêmio!<br>com o palpite 6619",
-          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 6619"
-        ],
-        "6660": [
-          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 6660",
-          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 6660"
-        ],
         "6662": [
           "Dezena no quarto prêmio!<br>com o palpite 6662",
           "LEÃO 🦁 no quarto prêmio!<br>com o palpite 6662"
-        ],
-        "0660": [
-          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 0660",
-          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 0660"
-        ],
-        "0619": [
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 0619",
-          "Dezena no sexto prêmio!<br>com o palpite 0619",
-          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 0619"
         ],
         "0662": [
           "Dezena no quarto prêmio!<br>com o palpite 0662",
@@ -242,16 +202,83 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 4,
+        "Dezena": 2,
         "Grupo": [
-          "🐊",
-          "🐕",
           "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0610, 0612, 0619, 0660, 0662, 0669, 6610, 6612, 6619, 6660, 6662, 6669"
+      "resumo": "Palpites dados para esta extração: 0662, 6662"
     },
     "PT-RIO, RJ, 16:00, PTV": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5008",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9590",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3879",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9979",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2407",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "0863",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "026",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "6662": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 6662"
+        ],
+        "0662": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 0662"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🦁"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0662, 6662"
+    },
+    "A FEDERAL DO BRASIL - RJ": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -345,25 +372,14 @@
           "Bicho": "Veado"
         }
       ],
-      "frases": {
-        "6619": [
-          "Dezena no sétimo prêmio!<br>com o palpite 6619",
-          "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 6619"
-        ],
-        "0619": [
-          "Dezena no sétimo prêmio!<br>com o palpite 0619",
-          "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 0619"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
-        "Grupo": [
-          "🐕"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0610, 0612, 0619, 0660, 0662, 0669, 6610, 6612, 6619, 6660, 6662, 6669"
+      "resumo": "Palpites dados para esta extração: 0662, 6662"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -435,17 +451,11 @@
         }
       ],
       "frases": {
-        "6619": [
-          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 6619"
-        ],
         "6662": [
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 6662"
         ],
         "0662": [
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 0662"
-        ],
-        "0619": [
-          "CACHORRO 🐕 no terceiro prêmio!<br>com o palpite 0619"
         ]
       },
       "acertos": {
@@ -453,11 +463,10 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🦁",
-          "🐕"
+          "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0610, 0612, 0619, 0660, 0662, 0669, 6610, 6612, 6619, 6660, 6662, 6669"
+      "resumo": "Palpites dados para esta extração: 0662, 6662"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -529,66 +538,108 @@
         }
       ],
       "frases": {
-        "6610": [
-          "BURRO 🐴 no nono prêmio!<br>com o palpite 6610"
-        ],
-        "6612": [
-          "Dezena no nono prêmio!<br>com o palpite 6612",
-          "BURRO 🐴 no nono prêmio!<br>com o palpite 6612"
-        ],
-        "6619": [
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 6619"
-        ],
-        "6660": [
-          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 6660",
-          "Centena e Dezena no sexto prêmio!<br>com o palpite 6660",
-          "Dezena no sexto prêmio!<br>com o palpite 6660",
-          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 6660"
-        ],
         "6662": [
           "Dezena no quarto prêmio!<br>com o palpite 6662",
           "LEÃO 🦁 no quarto prêmio!<br>com o palpite 6662",
           "Dezena no décimo prêmio!<br>com o palpite 6662",
           "LEÃO 🦁 no décimo prêmio!<br>com o palpite 6662"
         ],
-        "0660": [
-          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 0660",
-          "Milhar e Centena no sexto prêmio!<br>com o palpite 0660",
-          "Centena e Dezena no sexto prêmio!<br>com o palpite 0660",
-          "Dezena no sexto prêmio!<br>com o palpite 0660",
-          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 0660"
-        ],
-        "0619": [
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 0619"
-        ],
         "0662": [
           "Dezena no quarto prêmio!<br>com o palpite 0662",
           "LEÃO 🦁 no quarto prêmio!<br>com o palpite 0662",
           "Dezena no décimo prêmio!<br>com o palpite 0662",
           "LEÃO 🦁 no décimo prêmio!<br>com o palpite 0662"
-        ],
-        "0610": [
-          "BURRO 🐴 no nono prêmio!<br>com o palpite 0610"
-        ],
-        "0612": [
-          "Dezena no nono prêmio!<br>com o palpite 0612",
-          "BURRO 🐴 no nono prêmio!<br>com o palpite 0612"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 2,
-        "Dezena": 8,
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 4,
         "Grupo": [
-          "🐊",
-          "🐕",
-          "🦁",
-          "🐴"
+          "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0610, 0612, 0619, 0660, 0662, 0669, 6610, 6612, 6619, 6660, 6662, 6669"
+      "resumo": "Palpites dados para esta extração: 0662, 6662"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5008",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9590",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3879",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9979",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2407",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5939",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0589",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "0977",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8099",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6467",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0662, 6662"
+    },
+    "A FEDERAL DO BRASIL - RJ do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
