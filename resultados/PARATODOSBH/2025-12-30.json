@@ -69,14 +69,58 @@
           "Bicho": "Peru"
         }
       ],
-      "frases": {},
+      "frases": {
+        "3231": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 3231",
+          "CAMELO 🐪 no nono prêmio!<br>com o palpite 3231"
+        ],
+        "3233": [
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3233"
+        ],
+        "3236": [
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3236"
+        ],
+        "3431": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 3431",
+          "CAMELO 🐪 no nono prêmio!<br>com o palpite 3431"
+        ],
+        "3433": [
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3433"
+        ],
+        "3436": [
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3436"
+        ],
+        "3831": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 3831",
+          "CAMELO 🐪 no nono prêmio!<br>com o palpite 3831"
+        ],
+        "3833": [
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3833"
+        ],
+        "3836": [
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3836"
+        ],
+        "3931": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 3931",
+          "CAMELO 🐪 no nono prêmio!<br>com o palpite 3931"
+        ],
+        "3933": [
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3933"
+        ],
+        "3936": [
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3936"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐍",
+          "🐪"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3101, 3103, 3181, 3183, 3201, 3203, 3281, 3283, 3401, 3403, 3481, 3483, 3501, 3503, 3581, 3583, 3601, 3603, 3681, 3683, 3801, 3803, 3881, 3883, 3901, 3903, 3981, 3983"
+      "resumo": "Palpites dados para esta extração: 3201, 3203, 3206, 3231, 3233, 3236, 3401, 3403, 3406, 3431, 3433, 3436, 3801, 3803, 3806, 3831, 3833, 3836, 3901, 3903, 3906, 3931, 3933, 3936"
     },
     "12h - BA": {
       "cabecalhos": [
@@ -148,16 +192,6 @@
         }
       ],
       "frases": {
-        "3101": [
-          "Dezena no terceiro prêmio!<br>com o palpite 3101",
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3101",
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 3101"
-        ],
-        "3103": [
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3103",
-          "Dezena no quarto prêmio!<br>com o palpite 3103",
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 3103"
-        ],
         "3201": [
           "Dezena no terceiro prêmio!<br>com o palpite 3201",
           "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3201",
@@ -177,27 +211,6 @@
           "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3403",
           "Dezena no quarto prêmio!<br>com o palpite 3403",
           "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 3403"
-        ],
-        "3501": [
-          "Dezena no terceiro prêmio!<br>com o palpite 3501",
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3501",
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 3501"
-        ],
-        "3503": [
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3503",
-          "Dezena no quarto prêmio!<br>com o palpite 3503",
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 3503"
-        ],
-        "3601": [
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 3601",
-          "Dezena no terceiro prêmio!<br>com o palpite 3601",
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3601",
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 3601"
-        ],
-        "3603": [
-          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 3603",
-          "Dezena no quarto prêmio!<br>com o palpite 3603",
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 3603"
         ],
         "3801": [
           "Dezena no terceiro prêmio!<br>com o palpite 3801",
@@ -223,13 +236,13 @@
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 2,
-        "Dezena": 14,
+        "Centena": 1,
+        "Dezena": 8,
         "Grupo": [
           "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3101, 3103, 3181, 3183, 3201, 3203, 3281, 3283, 3401, 3403, 3481, 3483, 3501, 3503, 3581, 3583, 3601, 3603, 3681, 3683, 3801, 3803, 3881, 3883, 3901, 3903, 3981, 3983"
+      "resumo": "Palpites dados para esta extração: 3201, 3203, 3206, 3231, 3233, 3236, 3401, 3403, 3406, 3431, 3433, 3436, 3801, 3803, 3806, 3831, 3833, 3836, 3901, 3903, 3906, 3931, 3933, 3936"
     },
     "15h - BA": {
       "cabecalhos": [
@@ -301,22 +314,6 @@
         }
       ],
       "frases": {
-        "3101": [
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3101"
-        ],
-        "3103": [
-          "Dezena no segundo prêmio!<br>com o palpite 3103",
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3103"
-        ],
-        "3181": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 3181",
-          "Dezena no décimo prêmio!<br>com o palpite 3181",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3181"
-        ],
-        "3183": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 3183",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3183"
-        ],
         "3201": [
           "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3201"
         ],
@@ -324,64 +321,12 @@
           "Dezena no segundo prêmio!<br>com o palpite 3203",
           "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3203"
         ],
-        "3281": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 3281",
-          "Dezena no décimo prêmio!<br>com o palpite 3281",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3281"
-        ],
-        "3283": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 3283",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3283"
-        ],
         "3401": [
           "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3401"
         ],
         "3403": [
           "Dezena no segundo prêmio!<br>com o palpite 3403",
           "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3403"
-        ],
-        "3481": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 3481",
-          "Dezena no décimo prêmio!<br>com o palpite 3481",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3481"
-        ],
-        "3483": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 3483",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3483"
-        ],
-        "3501": [
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3501"
-        ],
-        "3503": [
-          "Dezena no segundo prêmio!<br>com o palpite 3503",
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3503"
-        ],
-        "3581": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 3581",
-          "Dezena no décimo prêmio!<br>com o palpite 3581",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3581"
-        ],
-        "3583": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 3583",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3583"
-        ],
-        "3601": [
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3601"
-        ],
-        "3603": [
-          "Dezena no segundo prêmio!<br>com o palpite 3603",
-          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3603"
-        ],
-        "3681": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 3681",
-          "Milhar e Centena no décimo prêmio!<br>com o palpite 3681",
-          "Centena e Dezena no décimo prêmio!<br>com o palpite 3681",
-          "Dezena no décimo prêmio!<br>com o palpite 3681",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3681"
-        ],
-        "3683": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 3683",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3683"
         ],
         "3801": [
           "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3801"
@@ -392,42 +337,23 @@
           "Dezena no segundo prêmio!<br>com o palpite 3803",
           "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3803"
         ],
-        "3881": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 3881",
-          "Dezena no décimo prêmio!<br>com o palpite 3881",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3881"
-        ],
-        "3883": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 3883",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3883"
-        ],
         "3901": [
           "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3901"
         ],
         "3903": [
           "Dezena no segundo prêmio!<br>com o palpite 3903",
           "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3903"
-        ],
-        "3981": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 3981",
-          "Dezena no décimo prêmio!<br>com o palpite 3981",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3981"
-        ],
-        "3983": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 3983",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3983"
         ]
       },
       "acertos": {
-        "Milhar": 2,
-        "Centena": 2,
-        "Dezena": 14,
+        "Milhar": 1,
+        "Centena": 1,
+        "Dezena": 4,
         "Grupo": [
-          "🪶",
-          "🐂"
+          "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3101, 3103, 3181, 3183, 3201, 3203, 3281, 3283, 3401, 3403, 3481, 3483, 3501, 3503, 3581, 3583, 3601, 3603, 3681, 3683, 3801, 3803, 3881, 3883, 3901, 3903, 3981, 3983"
+      "resumo": "Palpites dados para esta extração: 3201, 3203, 3206, 3231, 3233, 3236, 3401, 3403, 3406, 3431, 3433, 3436, 3801, 3803, 3806, 3831, 3833, 3836, 3901, 3903, 3906, 3931, 3933, 3936"
     },
     "19h - BA": {
       "cabecalhos": [
@@ -499,20 +425,6 @@
         }
       ],
       "frases": {
-        "3101": [
-          "Dezena no quinto prêmio!<br>com o palpite 3101",
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 3101"
-        ],
-        "3103": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 3103"
-        ],
-        "3181": [
-          "Dezena no décimo prêmio!<br>com o palpite 3181",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3181"
-        ],
-        "3183": [
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3183"
-        ],
         "3201": [
           "Dezena no quinto prêmio!<br>com o palpite 3201",
           "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 3201"
@@ -520,12 +432,8 @@
         "3203": [
           "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 3203"
         ],
-        "3281": [
-          "Dezena no décimo prêmio!<br>com o palpite 3281",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3281"
-        ],
-        "3283": [
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3283"
+        "3206": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 3206"
         ],
         "3401": [
           "Dezena no quinto prêmio!<br>com o palpite 3401",
@@ -534,40 +442,8 @@
         "3403": [
           "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 3403"
         ],
-        "3481": [
-          "Dezena no décimo prêmio!<br>com o palpite 3481",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3481"
-        ],
-        "3483": [
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3483"
-        ],
-        "3501": [
-          "Dezena no quinto prêmio!<br>com o palpite 3501",
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 3501"
-        ],
-        "3503": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 3503"
-        ],
-        "3581": [
-          "Dezena no décimo prêmio!<br>com o palpite 3581",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3581"
-        ],
-        "3583": [
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3583"
-        ],
-        "3601": [
-          "Dezena no quinto prêmio!<br>com o palpite 3601",
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 3601"
-        ],
-        "3603": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 3603"
-        ],
-        "3681": [
-          "Dezena no décimo prêmio!<br>com o palpite 3681",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3681"
-        ],
-        "3683": [
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3683"
+        "3406": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 3406"
         ],
         "3801": [
           "Dezena no quinto prêmio!<br>com o palpite 3801",
@@ -576,12 +452,8 @@
         "3803": [
           "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 3803"
         ],
-        "3881": [
-          "Dezena no décimo prêmio!<br>com o palpite 3881",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3881"
-        ],
-        "3883": [
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3883"
+        "3806": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 3806"
         ],
         "3901": [
           "Dezena no quinto prêmio!<br>com o palpite 3901",
@@ -590,26 +462,20 @@
         "3903": [
           "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 3903"
         ],
-        "3981": [
-          "Milhar e Centena no décimo prêmio!<br>com o palpite 3981",
-          "Centena e Dezena no décimo prêmio!<br>com o palpite 3981",
-          "Dezena no décimo prêmio!<br>com o palpite 3981",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3981"
-        ],
-        "3983": [
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3983"
+        "3906": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 3906"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 1,
-        "Dezena": 14,
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 4,
         "Grupo": [
           "🪶",
-          "🐂"
+          "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3101, 3103, 3181, 3183, 3201, 3203, 3281, 3283, 3401, 3403, 3481, 3483, 3501, 3503, 3581, 3583, 3601, 3603, 3681, 3683, 3801, 3803, 3881, 3883, 3901, 3903, 3981, 3983"
+      "resumo": "Palpites dados para esta extração: 3201, 3203, 3206, 3231, 3233, 3236, 3401, 3403, 3406, 3431, 3433, 3436, 3801, 3803, 3806, 3831, 3833, 3836, 3901, 3903, 3906, 3931, 3933, 3936"
     },
     "21h - BA": {
       "cabecalhos": [
@@ -681,66 +547,84 @@
         }
       ],
       "frases": {
-        "3181": [
-          "Dezena no segundo prêmio!<br>com o palpite 3181",
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3181"
+        "3206": [
+          "Dezena no oitavo prêmio!<br>com o palpite 3206",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 3206"
         ],
-        "3183": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3183"
+        "3233": [
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 3233",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 3233",
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 3233"
         ],
-        "3281": [
-          "Dezena no segundo prêmio!<br>com o palpite 3281",
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3281"
+        "3236": [
+          "Dezena no terceiro prêmio!<br>com o palpite 3236",
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 3236",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 3236",
+          "Dezena no décimo prêmio!<br>com o palpite 3236",
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 3236"
         ],
-        "3283": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3283"
+        "3406": [
+          "Dezena no oitavo prêmio!<br>com o palpite 3406",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 3406"
         ],
-        "3481": [
-          "Dezena no segundo prêmio!<br>com o palpite 3481",
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3481"
+        "3433": [
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 3433",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 3433",
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 3433"
         ],
-        "3483": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3483"
+        "3436": [
+          "Dezena no terceiro prêmio!<br>com o palpite 3436",
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 3436",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 3436",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 3436",
+          "Dezena no décimo prêmio!<br>com o palpite 3436",
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 3436"
         ],
-        "3581": [
-          "Dezena no segundo prêmio!<br>com o palpite 3581",
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3581"
+        "3806": [
+          "Dezena no oitavo prêmio!<br>com o palpite 3806",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 3806"
         ],
-        "3583": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3583"
+        "3833": [
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 3833",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 3833",
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 3833"
         ],
-        "3681": [
-          "Dezena no segundo prêmio!<br>com o palpite 3681",
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3681"
+        "3836": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 3836",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 3836",
+          "Dezena no terceiro prêmio!<br>com o palpite 3836",
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 3836",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 3836",
+          "Dezena no décimo prêmio!<br>com o palpite 3836",
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 3836"
         ],
-        "3683": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3683"
+        "3906": [
+          "Dezena no oitavo prêmio!<br>com o palpite 3906",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 3906"
         ],
-        "3881": [
-          "Dezena no segundo prêmio!<br>com o palpite 3881",
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3881"
+        "3933": [
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 3933",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 3933",
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 3933"
         ],
-        "3883": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3883"
-        ],
-        "3981": [
-          "Centena e Dezena no segundo prêmio!<br>com o palpite 3981",
-          "Dezena no segundo prêmio!<br>com o palpite 3981",
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3981"
-        ],
-        "3983": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3983"
+        "3936": [
+          "Dezena no terceiro prêmio!<br>com o palpite 3936",
+          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 3936",
+          "COBRA 🐍 no nono prêmio!<br>com o palpite 3936",
+          "Dezena no décimo prêmio!<br>com o palpite 3936",
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 3936"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 7,
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 12,
         "Grupo": [
-          "🐂"
+          "🐍",
+          "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3101, 3103, 3181, 3183, 3201, 3203, 3281, 3283, 3401, 3403, 3481, 3483, 3501, 3503, 3581, 3583, 3601, 3603, 3681, 3683, 3801, 3803, 3881, 3883, 3901, 3903, 3981, 3983"
+      "resumo": "Palpites dados para esta extração: 3201, 3203, 3206, 3231, 3233, 3236, 3401, 3403, 3406, 3431, 3433, 3436, 3801, 3803, 3806, 3831, 3833, 3836, 3901, 3903, 3906, 3931, 3933, 3936"
     }
   }
 }
