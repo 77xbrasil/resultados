@@ -83,7 +83,7 @@
           "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2507"
+      "resumo": "Palpites dados para esta extração: 2507, 2557, 2567"
     },
     "12h - MALUCA - BA": {
       "cabecalhos": [
@@ -161,7 +161,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2507"
+      "resumo": "Palpites dados para esta extração: 2507, 2557, 2567"
     },
     "15h - MALUCA - BA": {
       "cabecalhos": [
@@ -242,6 +242,9 @@
           "Centena e Dezena no sétimo prêmio!<br>com o palpite 2507",
           "Dezena no sétimo prêmio!<br>com o palpite 2507",
           "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 2507"
+        ],
+        "2567": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 2567"
         ]
       },
       "acertos": {
@@ -249,10 +252,11 @@
         "Centena": 2,
         "Dezena": 2,
         "Grupo": [
+          "🐒",
           "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2507"
+      "resumo": "Palpites dados para esta extração: 2507, 2557, 2567"
     },
     "19h FEDERAL - MALUCA - BA": {
       "cabecalhos": [
@@ -351,14 +355,27 @@
           "Bicho": "Jacaré"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2557": [
+          "JACARÉ 🐊 no nono prêmio!<br>com o palpite 2557",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 2557",
+          "Dezena no décimo prêmio!<br>com o palpite 2557",
+          "JACARÉ 🐊 no décimo prêmio!<br>com o palpite 2557"
+        ],
+        "2567": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 2567"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 1,
+        "Grupo": [
+          "🐒",
+          "🐊"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2507"
+      "resumo": "Palpites dados para esta extração: 2507, 2557, 2567"
     }
   }
 }
