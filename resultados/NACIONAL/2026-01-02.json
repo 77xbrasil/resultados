@@ -52,9 +52,63 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3981, 3982, 3986, 3989, 6981, 6982, 6986, 6989, 8981, 8982, 8986, 8989"
+      "resumo": "Palpites dados para esta extração: 0333, 0383, 0933, 0983, 3333, 3383, 3933, 3983"
     },
     "Nacional - LN 08:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6442",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5126",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9668",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8769",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2411",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2416",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0333, 0383, 0933, 0983, 3333, 3383, 3933, 3983"
+    },
+    "Nacional - LN 10:00": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -149,14 +203,118 @@
         }
       ],
       "frases": {
-        "3986": [
-          "TIGRE 🐅 no nono prêmio!<br>com o palpite 3986"
+        "3333": [
+          "Dezena no sétimo prêmio!<br>com o palpite 3333",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 3333",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 3333"
         ],
-        "6986": [
-          "TIGRE 🐅 no nono prêmio!<br>com o palpite 6986"
+        "3933": [
+          "Dezena no sétimo prêmio!<br>com o palpite 3933",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 3933",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 3933"
         ],
-        "8986": [
-          "TIGRE 🐅 no nono prêmio!<br>com o palpite 8986"
+        "0333": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0333",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 0333",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 0333"
+        ],
+        "0933": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0933",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 0933",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 0933"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 4,
+        "Grupo": [
+          "🐍"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0333, 0383, 0933, 0983, 3333, 3383, 3933, 3983"
+    },
+    "Nacional - LN 08:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6442",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5126",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9668",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8769",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2411",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "6598",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4167",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "4266",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "2689",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0136",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        }
+      ],
+      "frases": {
+        "3333": [
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 3333"
+        ],
+        "3933": [
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 3933"
+        ],
+        "0333": [
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 0333"
+        ],
+        "0933": [
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 0933"
         ]
       },
       "acertos": {
@@ -164,12 +322,12 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐅"
+          "🐍"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3981, 3982, 3986, 3989, 6981, 6982, 6986, 6989, 8981, 8982, 8986, 8989"
+      "resumo": "Palpites dados para esta extração: 0333, 0383, 0933, 0983, 3333, 3383, 3933, 3983"
     },
-    "Nacional - LN 08:00 do 1º ao 10º": {
+    "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
