@@ -70,65 +70,152 @@
         }
       ],
       "frases": {
-        "2822": [
-          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 2822"
+        "0352": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0352",
+          "Dezena no quinto prêmio!<br>com o palpite 0352",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 0352"
         ],
-        "2826": [
-          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2826"
+        "0452": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0452",
+          "Dezena no quinto prêmio!<br>com o palpite 0452",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 0452"
         ],
-        "2828": [
-          "Dezena no segundo prêmio!<br>com o palpite 2828",
-          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 2828"
+        "0752": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0752",
+          "Dezena no quinto prêmio!<br>com o palpite 0752",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 0752"
         ],
-        "2852": [
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2852",
-          "Dezena no quinto prêmio!<br>com o palpite 2852",
-          "GALO 🐓 no quinto prêmio!<br>com o palpite 2852"
+        "0852": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0852",
+          "Dezena no quinto prêmio!<br>com o palpite 0852",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 0852"
         ],
-        "5822": [
-          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 5822"
+        "0322": [
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 0322"
         ],
-        "5826": [
-          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 5826"
+        "0422": [
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 0422"
         ],
-        "5828": [
-          "Dezena no segundo prêmio!<br>com o palpite 5828",
-          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 5828"
+        "0722": [
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 0722"
         ],
-        "5852": [
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 5852",
-          "Dezena no quinto prêmio!<br>com o palpite 5852",
-          "GALO 🐓 no quinto prêmio!<br>com o palpite 5852"
-        ],
-        "9822": [
-          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 9822"
-        ],
-        "9826": [
-          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 9826"
-        ],
-        "9828": [
-          "Dezena no segundo prêmio!<br>com o palpite 9828",
-          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 9828"
-        ],
-        "9852": [
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 9852",
-          "Dezena no quinto prêmio!<br>com o palpite 9852",
-          "GALO 🐓 no quinto prêmio!<br>com o palpite 9852"
+        "0822": [
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 0822"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 6,
+        "Dezena": 4,
         "Grupo": [
-          "🐑",
           "🐓",
           "🐐"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2822, 2826, 2828, 2852, 2856, 2858, 2862, 2866, 2868, 5822, 5826, 5828, 5852, 5856, 5858, 5862, 5866, 5868, 9822, 9826, 9828, 9852, 9856, 9858, 9862, 9866, 9868"
+      "resumo": "Palpites dados para esta extração: 0322, 0352, 0362, 0422, 0452, 0462, 0722, 0752, 0762, 0822, 0852, 0862"
     },
     "12h - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1763",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5399",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3562",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9467",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5760",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9902",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "1904",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1866",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9225",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8784",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        }
+      ],
+      "frases": {
+        "0362": [
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 0362",
+          "Dezena no terceiro prêmio!<br>com o palpite 0362",
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 0362"
+        ],
+        "0462": [
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 0462",
+          "Dezena no terceiro prêmio!<br>com o palpite 0462",
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 0462"
+        ],
+        "0762": [
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 0762",
+          "Dezena no terceiro prêmio!<br>com o palpite 0762",
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 0762"
+        ],
+        "0862": [
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 0862",
+          "Dezena no terceiro prêmio!<br>com o palpite 0862",
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 0862"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 4,
+        "Grupo": [
+          "🦁"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0322, 0352, 0362, 0422, 0452, 0462, 0722, 0752, 0762, 0822, 0852, 0862"
+    },
+    "15h - BA": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
