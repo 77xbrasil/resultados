@@ -52,27 +52,110 @@
         }
       ],
       "frases": {
-        "1630": [
-          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 1630"
+        "1326": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1326",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 1326"
         ],
-        "6630": [
-          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 6630"
+        "1926": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1926",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 1926"
         ],
-        "9630": [
-          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 9630"
+        "5326": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5326",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 5326"
+        ],
+        "5926": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5926",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 5926"
+        ],
+        "6326": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6326",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 6326"
+        ],
+        "6926": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6926",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 6926"
+        ],
+        "9326": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9326",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 9326"
+        ],
+        "9926": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9926",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 9926"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 8,
         "Grupo": [
-          "🐪"
+          "🐑"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1620, 1630, 1670, 6620, 6630, 6670, 9620, 9630, 9670"
+      "resumo": "Palpites dados para esta extração: 1300, 1306, 1320, 1326, 1370, 1376, 1900, 1906, 1920, 1926, 1970, 1976, 5300, 5306, 5320, 5326, 5370, 5376, 5900, 5906, 5920, 5926, 5970, 5976, 6300, 6306, 6320, 6326, 6370, 6376, 6900, 6906, 6920, 6926, 6970, 6976, 9300, 9306, 9320, 9326, 9370, 9376, 9900, 9906, 9920, 9926, 9970, 9976"
     },
     "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8922",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2783",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3263",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7592",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8795",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "31355",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "829",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1300, 1306, 1320, 1326, 1370, 1376, 1900, 1906, 1920, 1926, 1970, 1976, 5300, 5306, 5320, 5326, 5370, 5376, 5900, 5906, 5920, 5926, 5970, 5976, 6300, 6306, 6320, 6326, 6370, 6376, 6900, 6906, 6920, 6926, 6970, 6976, 9300, 9306, 9320, 9326, 9370, 9376, 9900, 9906, 9920, 9926, 9970, 9976"
+    },
+    "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
