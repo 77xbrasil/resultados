@@ -51,16 +51,210 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3161": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3161"
+        ],
+        "3164": [
+          "Dezena no segundo prêmio!<br>com o palpite 3164",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3164"
+        ],
+        "3168": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 3168"
+        ],
+        "3181": [
+          "Dezena no quarto prêmio!<br>com o palpite 3181",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 3181"
+        ],
+        "3184": [
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 3184"
+        ],
+        "3188": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 3188"
+        ],
+        "3661": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3661"
+        ],
+        "3664": [
+          "Dezena no segundo prêmio!<br>com o palpite 3664",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3664"
+        ],
+        "3668": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 3668"
+        ],
+        "3681": [
+          "Dezena no quarto prêmio!<br>com o palpite 3681",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 3681"
+        ],
+        "3684": [
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 3684"
+        ],
+        "3688": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 3688"
+        ],
+        "9161": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9161"
+        ],
+        "9164": [
+          "Dezena no segundo prêmio!<br>com o palpite 9164",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9164"
+        ],
+        "9168": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 9168"
+        ],
+        "9181": [
+          "Dezena no quarto prêmio!<br>com o palpite 9181",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 9181"
+        ],
+        "9184": [
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 9184"
+        ],
+        "9188": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 9188"
+        ],
+        "9661": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9661"
+        ],
+        "9664": [
+          "Dezena no segundo prêmio!<br>com o palpite 9664",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9664"
+        ],
+        "9668": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 9668"
+        ],
+        "9681": [
+          "Dezena no quarto prêmio!<br>com o palpite 9681",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 9681"
+        ],
+        "9684": [
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 9684"
+        ],
+        "9688": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 9688"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 8,
+        "Grupo": [
+          "🐒",
+          "🦁",
+          "🐂",
+          "🐅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3094, 3098, 3194, 3198, 3694, 3698, 3994, 3998"
+      "resumo": "Palpites dados para esta extração: 3161, 3164, 3168, 3181, 3184, 3188, 3191, 3194, 3198, 3661, 3664, 3668, 3681, 3684, 3688, 3691, 3694, 3698, 9161, 9164, 9168, 9181, 9184, 9188, 9191, 9194, 9198, 9661, 9664, 9668, 9681, 9684, 9688, 9691, 9694, 9698"
     },
     "LOOK - GOIÁS, 09h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1510",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3984",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1071",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8955",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2391",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "7911",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "015",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "3181": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3181"
+        ],
+        "3184": [
+          "Dezena no segundo prêmio!<br>com o palpite 3184",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3184"
+        ],
+        "3191": [
+          "Dezena no quinto prêmio!<br>com o palpite 3191",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 3191"
+        ],
+        "3681": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3681"
+        ],
+        "3684": [
+          "Dezena no segundo prêmio!<br>com o palpite 3684",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3684"
+        ],
+        "3691": [
+          "Dezena no quinto prêmio!<br>com o palpite 3691",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 3691"
+        ],
+        "9181": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 9181"
+        ],
+        "9184": [
+          "Dezena no segundo prêmio!<br>com o palpite 9184",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 9184"
+        ],
+        "9191": [
+          "Dezena no quinto prêmio!<br>com o palpite 9191",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 9191"
+        ],
+        "9681": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 9681"
+        ],
+        "9684": [
+          "Dezena no segundo prêmio!<br>com o palpite 9684",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 9684"
+        ],
+        "9691": [
+          "Dezena no quinto prêmio!<br>com o palpite 9691",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 9691"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 8,
+        "Grupo": [
+          "🐂",
+          "🐻"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3161, 3164, 3168, 3181, 3184, 3188, 3191, 3194, 3198, 3661, 3664, 3668, 3681, 3684, 3688, 3691, 3694, 3698, 9161, 9164, 9168, 9181, 9184, 9188, 9191, 9194, 9198, 9661, 9664, 9668, 9681, 9684, 9688, 9691, 9694, 9698"
+    },
+    "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -154,16 +348,260 @@
           "Bicho": "Touro"
         }
       ],
-      "frases": {},
+      "frases": {
+        "3161": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3161"
+        ],
+        "3164": [
+          "Dezena no segundo prêmio!<br>com o palpite 3164",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3164"
+        ],
+        "3168": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 3168",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 3168"
+        ],
+        "3181": [
+          "Dezena no quarto prêmio!<br>com o palpite 3181",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 3181",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3181"
+        ],
+        "3184": [
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 3184",
+          "Milhar e Centena no décimo prêmio!<br>com o palpite 3184",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 3184",
+          "Dezena no décimo prêmio!<br>com o palpite 3184",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3184"
+        ],
+        "3188": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 3188"
+        ],
+        "3191": [
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 3191"
+        ],
+        "3661": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3661"
+        ],
+        "3664": [
+          "Dezena no segundo prêmio!<br>com o palpite 3664",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3664"
+        ],
+        "3668": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 3668",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 3668"
+        ],
+        "3681": [
+          "Dezena no quarto prêmio!<br>com o palpite 3681",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 3681",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3681"
+        ],
+        "3684": [
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 3684",
+          "Dezena no décimo prêmio!<br>com o palpite 3684",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3684"
+        ],
+        "3688": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 3688"
+        ],
+        "3691": [
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 3691"
+        ],
+        "9161": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9161"
+        ],
+        "9164": [
+          "Dezena no segundo prêmio!<br>com o palpite 9164",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9164"
+        ],
+        "9168": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 9168",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 9168"
+        ],
+        "9181": [
+          "Dezena no quarto prêmio!<br>com o palpite 9181",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 9181",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 9181"
+        ],
+        "9184": [
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 9184",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 9184",
+          "Dezena no décimo prêmio!<br>com o palpite 9184",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 9184"
+        ],
+        "9188": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 9188"
+        ],
+        "9191": [
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 9191"
+        ],
+        "9661": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9661"
+        ],
+        "9664": [
+          "Dezena no segundo prêmio!<br>com o palpite 9664",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9664"
+        ],
+        "9668": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 9668",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 9668"
+        ],
+        "9681": [
+          "Dezena no quarto prêmio!<br>com o palpite 9681",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 9681",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 9681"
+        ],
+        "9684": [
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 9684",
+          "Dezena no décimo prêmio!<br>com o palpite 9684",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 9684"
+        ],
+        "9688": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 9688"
+        ],
+        "9691": [
+          "URSO 🐻 no sexto prêmio!<br>com o palpite 9691"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 12,
+        "Grupo": [
+          "🐒",
+          "🦁",
+          "🐂",
+          "🐅",
+          "🐻"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3161, 3164, 3168, 3181, 3184, 3188, 3191, 3194, 3198, 3661, 3664, 3668, 3681, 3684, 3688, 3691, 3694, 3698, 9161, 9164, 9168, 9181, 9184, 9188, 9191, 9194, 9198, 9661, 9664, 9668, 9681, 9684, 9688, 9691, 9694, 9698"
+    },
+    "LOOK - GOIÁS, 09h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1510",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3984",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1071",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8955",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2391",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1318",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "5909",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1875",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0415",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7428",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        }
+      ],
+      "frases": {
+        "3181": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3181"
+        ],
+        "3184": [
+          "Dezena no segundo prêmio!<br>com o palpite 3184",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3184"
+        ],
+        "3191": [
+          "Dezena no quinto prêmio!<br>com o palpite 3191",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 3191"
+        ],
+        "3681": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3681"
+        ],
+        "3684": [
+          "Dezena no segundo prêmio!<br>com o palpite 3684",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3684"
+        ],
+        "3691": [
+          "Dezena no quinto prêmio!<br>com o palpite 3691",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 3691"
+        ],
+        "9181": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 9181"
+        ],
+        "9184": [
+          "Dezena no segundo prêmio!<br>com o palpite 9184",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 9184"
+        ],
+        "9191": [
+          "Dezena no quinto prêmio!<br>com o palpite 9191",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 9191"
+        ],
+        "9681": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 9681"
+        ],
+        "9684": [
+          "Dezena no segundo prêmio!<br>com o palpite 9684",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 9684"
+        ],
+        "9691": [
+          "Dezena no quinto prêmio!<br>com o palpite 9691",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 9691"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 8,
+        "Grupo": [
+          "🐂",
+          "🐻"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3094, 3098, 3194, 3198, 3694, 3698, 3994, 3998"
+      "resumo": "Palpites dados para esta extração: 3161, 3164, 3168, 3181, 3184, 3188, 3191, 3194, 3198, 3661, 3664, 3668, 3681, 3684, 3688, 3691, 3694, 3698, 9161, 9164, 9168, 9181, 9184, 9188, 9191, 9194, 9198, 9661, 9664, 9668, 9681, 9684, 9688, 9691, 9694, 9698"
     },
-    "LOOK - GOIÁS, 09h do 1º ao 10º": {
+    "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
