@@ -45,38 +45,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "5101": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 5101"
-        ],
-        "5201": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 5201"
-        ],
-        "5401": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 5401"
-        ],
-        "5501": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 5501"
-        ],
-        "5701": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 5701"
-        ],
-        "5801": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 5801"
-        ],
-        "5901": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 5901"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🪶"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5101, 5121, 5181, 5201, 5221, 5281, 5401, 5421, 5481, 5501, 5521, 5581, 5701, 5721, 5781, 5801, 5821, 5881, 5901, 5921, 5981"
+      "resumo": "Palpites dados para esta extração: 0321, 0381, 2321, 2381, 5321, 5381, 7321, 7381"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -124,26 +100,17 @@
         }
       ],
       "frases": {
-        "5121": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 5121"
+        "2321": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 2321"
         ],
-        "5221": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 5221"
+        "5321": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 5321"
         ],
-        "5421": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 5421"
+        "7321": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 7321"
         ],
-        "5521": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 5521"
-        ],
-        "5721": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 5721"
-        ],
-        "5821": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 5821"
-        ],
-        "5921": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 5921"
+        "0321": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 0321"
         ]
       },
       "acertos": {
@@ -154,7 +121,7 @@
           "🐐"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5101, 5121, 5181, 5201, 5221, 5281, 5401, 5421, 5481, 5501, 5521, 5581, 5701, 5721, 5781, 5801, 5821, 5881, 5901, 5921, 5981"
+      "resumo": "Palpites dados para esta extração: 0321, 0381, 2321, 2381, 5321, 5381, 7321, 7381"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -208,9 +175,63 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5101, 5121, 5181, 5201, 5221, 5281, 5401, 5421, 5481, 5501, 5521, 5581, 5701, 5721, 5781, 5801, 5821, 5881, 5901, 5921, 5981"
+      "resumo": "Palpites dados para esta extração: 0321, 0381, 2321, 2381, 5321, 5381, 7321, 7381"
     },
     "Nacional - LN 12:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2828",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7393",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7580",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1128",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4407",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "3336",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0321, 0381, 2321, 2381, 5321, 5381, 7321, 7381"
+    },
+    "Nacional - LN 15:00": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -304,38 +325,14 @@
           "Bicho": "Burro"
         }
       ],
-      "frases": {
-        "5101": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 5101"
-        ],
-        "5201": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 5201"
-        ],
-        "5401": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 5401"
-        ],
-        "5501": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 5501"
-        ],
-        "5701": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 5701"
-        ],
-        "5801": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 5801"
-        ],
-        "5901": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 5901"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🪶"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5101, 5121, 5181, 5201, 5221, 5281, 5401, 5421, 5481, 5501, 5521, 5581, 5701, 5721, 5781, 5801, 5821, 5881, 5901, 5921, 5981"
+      "resumo": "Palpites dados para esta extração: 0321, 0381, 2321, 2381, 5321, 5381, 7321, 7381"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -407,96 +404,45 @@
         }
       ],
       "frases": {
-        "5101": [
-          "Dezena no nono prêmio!<br>com o palpite 5101",
-          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 5101"
+        "2321": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 2321"
         ],
-        "5121": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 5121"
+        "2381": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2381",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 2381"
         ],
-        "5181": [
-          "Dezena no sétimo prêmio!<br>com o palpite 5181",
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 5181"
+        "5321": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 5321"
         ],
-        "5201": [
-          "Dezena no nono prêmio!<br>com o palpite 5201",
-          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 5201"
+        "5381": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5381",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 5381"
         ],
-        "5221": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 5221"
+        "7321": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 7321"
         ],
-        "5281": [
-          "Dezena no sétimo prêmio!<br>com o palpite 5281",
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 5281"
+        "7381": [
+          "Dezena no sétimo prêmio!<br>com o palpite 7381",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 7381"
         ],
-        "5401": [
-          "Dezena no nono prêmio!<br>com o palpite 5401",
-          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 5401"
+        "0321": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 0321"
         ],
-        "5421": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 5421"
-        ],
-        "5481": [
-          "Dezena no sétimo prêmio!<br>com o palpite 5481",
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 5481"
-        ],
-        "5501": [
-          "Dezena no nono prêmio!<br>com o palpite 5501",
-          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 5501"
-        ],
-        "5521": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 5521"
-        ],
-        "5581": [
-          "Dezena no sétimo prêmio!<br>com o palpite 5581",
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 5581"
-        ],
-        "5701": [
-          "Dezena no nono prêmio!<br>com o palpite 5701",
-          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 5701"
-        ],
-        "5721": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 5721"
-        ],
-        "5781": [
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 5781",
-          "Dezena no sétimo prêmio!<br>com o palpite 5781",
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 5781"
-        ],
-        "5801": [
-          "Dezena no nono prêmio!<br>com o palpite 5801",
-          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 5801"
-        ],
-        "5821": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 5821"
-        ],
-        "5881": [
-          "Dezena no sétimo prêmio!<br>com o palpite 5881",
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 5881"
-        ],
-        "5901": [
-          "Dezena no nono prêmio!<br>com o palpite 5901",
-          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 5901"
-        ],
-        "5921": [
-          "CABRA 🐐 no segundo prêmio!<br>com o palpite 5921"
-        ],
-        "5981": [
-          "Dezena no sétimo prêmio!<br>com o palpite 5981",
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 5981"
+        "0381": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0381",
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 0381"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 14,
+        "Centena": 0,
+        "Dezena": 4,
         "Grupo": [
           "🐐",
-          "🐂",
-          "🪶"
+          "🐂"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5101, 5121, 5181, 5201, 5221, 5281, 5401, 5421, 5481, 5501, 5521, 5581, 5701, 5721, 5781, 5801, 5821, 5881, 5901, 5921, 5981"
+      "resumo": "Palpites dados para esta extração: 0321, 0381, 2321, 2381, 5321, 5381, 7321, 7381"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -568,26 +514,17 @@
         }
       ],
       "frases": {
-        "5181": [
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 5181"
+        "2381": [
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 2381"
         ],
-        "5281": [
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 5281"
+        "5381": [
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 5381"
         ],
-        "5481": [
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 5481"
+        "7381": [
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 7381"
         ],
-        "5581": [
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 5581"
-        ],
-        "5781": [
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 5781"
-        ],
-        "5881": [
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 5881"
-        ],
-        "5981": [
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 5981"
+        "0381": [
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 0381"
         ]
       },
       "acertos": {
@@ -598,9 +535,102 @@
           "🐂"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5101, 5121, 5181, 5201, 5221, 5281, 5401, 5421, 5481, 5501, 5521, 5581, 5701, 5721, 5781, 5801, 5821, 5881, 5901, 5921, 5981"
+      "resumo": "Palpites dados para esta extração: 0321, 0381, 2321, 2381, 5321, 5381, 7321, 7381"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2828",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7393",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7580",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1128",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4407",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2771",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8351",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2982",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8308",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "5748",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        }
+      ],
+      "frases": {
+        "2381": [
+          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 2381"
+        ],
+        "5381": [
+          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 5381"
+        ],
+        "7381": [
+          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 7381"
+        ],
+        "0381": [
+          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 0381"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐂"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0321, 0381, 2321, 2381, 5321, 5381, 7321, 7381"
+    },
+    "Nacional - LN 15:00 do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
