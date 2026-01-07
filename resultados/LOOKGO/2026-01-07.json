@@ -52,22 +52,66 @@
         }
       ],
       "frases": {
+        "1081": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1081",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1081",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1081",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 1081"
+        ],
         "1181": [
           "Dezena no primeiro prêmio!<br>com o palpite 1181",
           "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1181",
           "TOURO 🐂 no segundo prêmio!<br>com o palpite 1181",
           "TOURO 🐂 no quinto prêmio!<br>com o palpite 1181"
+        ],
+        "1281": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1281",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1281",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1281",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 1281"
+        ],
+        "1381": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 1381",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 1381",
+          "Dezena no primeiro prêmio!<br>com o palpite 1381",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1381",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1381",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 1381"
+        ],
+        "1481": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1481",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1481",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1481",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 1481"
+        ],
+        "1581": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1581",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1581",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1581",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 1581"
+        ],
+        "1681": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1681",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1681",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1681",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 1681"
+        ],
+        "1881": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1881",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1881",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1881",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 1881"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 1,
+        "Milhar": 1,
+        "Centena": 1,
+        "Dezena": 8,
         "Grupo": [
           "🐂"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1101, 1111, 1161, 1181"
+      "resumo": "Palpites dados para esta extração: 1011, 1081, 1111, 1181, 1211, 1281, 1311, 1381, 1411, 1481, 1511, 1581, 1611, 1681, 1811, 1881"
     },
     "LOOK - GOIÁS, 09h": {
       "cabecalhos": [
@@ -127,9 +171,69 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1101, 1111, 1161, 1181"
+      "resumo": "Palpites dados para esta extração: 1011, 1081, 1111, 1181, 1211, 1281, 1311, 1381, 1411, 1481, 1511, 1581, 1611, 1681, 1811, 1881"
     },
     "LOOK - GOIÁS, 11h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0365",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2026",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9786",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4275",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6526",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2978",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "739",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1011, 1081, 1111, 1181, 1211, 1281, 1311, 1381, 1411, 1481, 1511, 1581, 1611, 1681, 1811, 1881"
+    },
+    "LOOK - GOIÁS, 14h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -224,34 +328,118 @@
         }
       ],
       "frases": {
+        "1011": [
+          "Dezena no sexto prêmio!<br>com o palpite 1011",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 1011",
+          "Dezena no oitavo prêmio!<br>com o palpite 1011",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1011"
+        ],
+        "1081": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1081",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1081",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1081",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 1081"
+        ],
         "1111": [
           "Dezena no sexto prêmio!<br>com o palpite 1111",
           "BURRO 🐴 no sexto prêmio!<br>com o palpite 1111",
           "Dezena no oitavo prêmio!<br>com o palpite 1111",
           "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1111"
         ],
-        "1161": [
-          "Dezena no sétimo prêmio!<br>com o palpite 1161",
-          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 1161"
-        ],
         "1181": [
           "Dezena no primeiro prêmio!<br>com o palpite 1181",
           "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1181",
           "TOURO 🐂 no segundo prêmio!<br>com o palpite 1181",
           "TOURO 🐂 no quinto prêmio!<br>com o palpite 1181"
+        ],
+        "1211": [
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 1211",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 1211",
+          "Dezena no sexto prêmio!<br>com o palpite 1211",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 1211",
+          "Dezena no oitavo prêmio!<br>com o palpite 1211",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1211"
+        ],
+        "1281": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1281",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1281",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1281",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 1281"
+        ],
+        "1311": [
+          "Dezena no sexto prêmio!<br>com o palpite 1311",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 1311",
+          "Dezena no oitavo prêmio!<br>com o palpite 1311",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1311"
+        ],
+        "1381": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 1381",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 1381",
+          "Dezena no primeiro prêmio!<br>com o palpite 1381",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1381",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1381",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 1381"
+        ],
+        "1411": [
+          "Dezena no sexto prêmio!<br>com o palpite 1411",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 1411",
+          "Dezena no oitavo prêmio!<br>com o palpite 1411",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1411"
+        ],
+        "1481": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1481",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1481",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1481",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 1481"
+        ],
+        "1511": [
+          "Dezena no sexto prêmio!<br>com o palpite 1511",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 1511",
+          "Dezena no oitavo prêmio!<br>com o palpite 1511",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1511"
+        ],
+        "1581": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1581",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1581",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1581",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 1581"
+        ],
+        "1611": [
+          "Dezena no sexto prêmio!<br>com o palpite 1611",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 1611",
+          "Dezena no oitavo prêmio!<br>com o palpite 1611",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1611"
+        ],
+        "1681": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1681",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1681",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1681",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 1681"
+        ],
+        "1811": [
+          "Dezena no sexto prêmio!<br>com o palpite 1811",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 1811",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 1811",
+          "Dezena no oitavo prêmio!<br>com o palpite 1811",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1811"
+        ],
+        "1881": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1881",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1881",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1881",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 1881"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 4,
+        "Milhar": 2,
+        "Centena": 3,
+        "Dezena": 24,
         "Grupo": [
           "🐂",
-          "🐴",
-          "🦁"
+          "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1101, 1111, 1161, 1181"
+      "resumo": "Palpites dados para esta extração: 1011, 1081, 1111, 1181, 1211, 1281, 1311, 1381, 1411, 1481, 1511, 1581, 1611, 1681, 1811, 1881"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
       "cabecalhos": [
@@ -329,9 +517,87 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1101, 1111, 1161, 1181"
+      "resumo": "Palpites dados para esta extração: 1011, 1081, 1111, 1181, 1211, 1281, 1311, 1381, 1411, 1481, 1511, 1581, 1611, 1681, 1811, 1881"
     },
     "LOOK - GOIÁS, 11h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0365",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2026",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9786",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4275",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6526",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0294",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3072",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6287",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5665",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8296",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1011, 1081, 1111, 1181, 1211, 1281, 1311, 1381, 1411, 1481, 1511, 1581, 1611, 1681, 1811, 1881"
+    },
+    "LOOK - GOIÁS, 14h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
