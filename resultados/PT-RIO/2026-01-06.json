@@ -52,89 +52,45 @@
         }
       ],
       "frases": {
-        "1050": [
-          "GALO 🐓 no sexto prêmio!<br>com o palpite 1050"
+        "4000": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4000",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 4000"
         ],
-        "1052": [
-          "GALO 🐓 no sexto prêmio!<br>com o palpite 1052"
+        "4080": [
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 4080"
         ],
-        "1053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 1053"
+        "6000": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6000",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 6000"
         ],
-        "1055": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 1055"
+        "6080": [
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 6080"
         ],
-        "2050": [
-          "GALO 🐓 no sexto prêmio!<br>com o palpite 2050"
+        "7000": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7000",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 7000"
         ],
-        "2052": [
-          "GALO 🐓 no sexto prêmio!<br>com o palpite 2052"
+        "7080": [
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 7080"
         ],
-        "2053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 2053"
+        "8000": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8000",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 8000"
         ],
-        "2055": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 2055"
-        ],
-        "3050": [
-          "GALO 🐓 no sexto prêmio!<br>com o palpite 3050"
-        ],
-        "3052": [
-          "GALO 🐓 no sexto prêmio!<br>com o palpite 3052"
-        ],
-        "3053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 3053"
-        ],
-        "3055": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 3055"
-        ],
-        "4050": [
-          "GALO 🐓 no sexto prêmio!<br>com o palpite 4050"
-        ],
-        "4052": [
-          "GALO 🐓 no sexto prêmio!<br>com o palpite 4052"
-        ],
-        "4053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 4053"
-        ],
-        "4055": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 4055"
-        ],
-        "6050": [
-          "GALO 🐓 no sexto prêmio!<br>com o palpite 6050"
-        ],
-        "6052": [
-          "GALO 🐓 no sexto prêmio!<br>com o palpite 6052"
-        ],
-        "6053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 6053"
-        ],
-        "6055": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 6055"
-        ],
-        "0053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 0053"
-        ],
-        "0055": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 0055"
-        ],
-        "0050": [
-          "GALO 🐓 no sexto prêmio!<br>com o palpite 0050"
-        ],
-        "0052": [
-          "GALO 🐓 no sexto prêmio!<br>com o palpite 0052"
+        "8080": [
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 8080"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 4,
         "Grupo": [
-          "🐈",
-          "🐓"
+          "🐄",
+          "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0050, 0052, 0053, 0055, 1050, 1052, 1053, 1055, 2050, 2052, 2053, 2055, 3050, 3052, 3053, 3055, 4050, 4052, 4053, 4055, 6050, 6052, 6053, 6055"
+      "resumo": "Palpites dados para esta extração: 4000, 4030, 4080, 6000, 6030, 6080, 7000, 7030, 7080, 8000, 8030, 8080"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -187,14 +143,29 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "4080": [
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 4080"
+        ],
+        "6080": [
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 6080"
+        ],
+        "7080": [
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 7080"
+        ],
+        "8080": [
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 8080"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦃"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0050, 0052, 0053, 0055, 1050, 1052, 1053, 1055, 2050, 2052, 2053, 2055, 3050, 3052, 3053, 3055, 4050, 4052, 4053, 4055, 6050, 6052, 6053, 6055"
+      "resumo": "Palpites dados para esta extração: 4000, 4030, 4080, 6000, 6030, 6080, 7000, 7030, 7080, 8000, 8030, 8080"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -248,58 +219,28 @@
         }
       ],
       "frases": {
-        "1053": [
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1053"
+        "4080": [
+          "PERU 🦃 no sexto prêmio!<br>com o palpite 4080"
         ],
-        "1055": [
-          "Dezena no terceiro prêmio!<br>com o palpite 1055",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1055"
+        "6080": [
+          "PERU 🦃 no sexto prêmio!<br>com o palpite 6080"
         ],
-        "2053": [
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2053"
+        "7080": [
+          "PERU 🦃 no sexto prêmio!<br>com o palpite 7080"
         ],
-        "2055": [
-          "Dezena no terceiro prêmio!<br>com o palpite 2055",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2055"
-        ],
-        "3053": [
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 3053"
-        ],
-        "3055": [
-          "Dezena no terceiro prêmio!<br>com o palpite 3055",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 3055"
-        ],
-        "4053": [
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 4053"
-        ],
-        "4055": [
-          "Dezena no terceiro prêmio!<br>com o palpite 4055",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 4055"
-        ],
-        "6053": [
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 6053"
-        ],
-        "6055": [
-          "Dezena no terceiro prêmio!<br>com o palpite 6055",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 6055"
-        ],
-        "0053": [
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 0053"
-        ],
-        "0055": [
-          "Dezena no terceiro prêmio!<br>com o palpite 0055",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 0055"
+        "8080": [
+          "PERU 🦃 no sexto prêmio!<br>com o palpite 8080"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 6,
+        "Dezena": 0,
         "Grupo": [
-          "🐈"
+          "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0050, 0052, 0053, 0055, 1050, 1052, 1053, 1055, 2050, 2052, 2053, 2055, 3050, 3052, 3053, 3055, 4050, 4052, 4053, 4055, 6050, 6052, 6053, 6055"
+      "resumo": "Palpites dados para esta extração: 4000, 4030, 4080, 6000, 6030, 6080, 7000, 7030, 7080, 8000, 8030, 8080"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -352,59 +293,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "1053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 1053"
-        ],
-        "1055": [
-          "Dezena no quinto prêmio!<br>com o palpite 1055",
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 1055"
-        ],
-        "2053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 2053"
-        ],
-        "2055": [
-          "Dezena no quinto prêmio!<br>com o palpite 2055",
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 2055"
-        ],
-        "3053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 3053"
-        ],
-        "3055": [
-          "Dezena no quinto prêmio!<br>com o palpite 3055",
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 3055"
-        ],
-        "4053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 4053"
-        ],
-        "4055": [
-          "Dezena no quinto prêmio!<br>com o palpite 4055",
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 4055"
-        ],
-        "6053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 6053"
-        ],
-        "6055": [
-          "Dezena no quinto prêmio!<br>com o palpite 6055",
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 6055"
-        ],
-        "0053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 0053"
-        ],
-        "0055": [
-          "Dezena no quinto prêmio!<br>com o palpite 0055",
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 0055"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 6,
-        "Grupo": [
-          "🐈"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0050, 0052, 0053, 0055, 1050, 1052, 1053, 1055, 2050, 2052, 2053, 2055, 3050, 3052, 3053, 3055, 4050, 4052, 4053, 4055, 6050, 6052, 6053, 6055"
+      "resumo": "Palpites dados para esta extração: 4000, 4030, 4080, 6000, 6030, 6080, 7000, 7030, 7080, 8000, 8030, 8080"
     },
     "PT-RIO, RJ, 18:20, PTN": {
       "cabecalhos": [
@@ -458,52 +354,36 @@
         }
       ],
       "frases": {
-        "1053": [
-          "GATO 🐈 no sétimo prêmio!<br>com o palpite 1053"
+        "4030": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 4030",
+          "Dezena no segundo prêmio!<br>com o palpite 4030",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4030"
         ],
-        "1055": [
-          "GATO 🐈 no sétimo prêmio!<br>com o palpite 1055"
+        "6030": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 6030",
+          "Dezena no segundo prêmio!<br>com o palpite 6030",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 6030"
         ],
-        "2053": [
-          "GATO 🐈 no sétimo prêmio!<br>com o palpite 2053"
+        "7030": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 7030",
+          "Dezena no segundo prêmio!<br>com o palpite 7030",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 7030"
         ],
-        "2055": [
-          "GATO 🐈 no sétimo prêmio!<br>com o palpite 2055"
-        ],
-        "3053": [
-          "GATO 🐈 no sétimo prêmio!<br>com o palpite 3053"
-        ],
-        "3055": [
-          "GATO 🐈 no sétimo prêmio!<br>com o palpite 3055"
-        ],
-        "4053": [
-          "GATO 🐈 no sétimo prêmio!<br>com o palpite 4053"
-        ],
-        "4055": [
-          "GATO 🐈 no sétimo prêmio!<br>com o palpite 4055"
-        ],
-        "6053": [
-          "GATO 🐈 no sétimo prêmio!<br>com o palpite 6053"
-        ],
-        "6055": [
-          "GATO 🐈 no sétimo prêmio!<br>com o palpite 6055"
-        ],
-        "0053": [
-          "GATO 🐈 no sétimo prêmio!<br>com o palpite 0053"
-        ],
-        "0055": [
-          "GATO 🐈 no sétimo prêmio!<br>com o palpite 0055"
+        "8030": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 8030",
+          "Dezena no segundo prêmio!<br>com o palpite 8030",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 8030"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Centena": 4,
+        "Dezena": 4,
         "Grupo": [
-          "🐈"
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0050, 0052, 0053, 0055, 1050, 1052, 1053, 1055, 2050, 2052, 2053, 2055, 3050, 3052, 3053, 3055, 4050, 4052, 4053, 4055, 6050, 6052, 6053, 6055"
+      "resumo": "Palpites dados para esta extração: 4000, 4030, 4080, 6000, 6030, 6080, 7000, 7030, 7080, 8000, 8030, 8080"
     },
     "PT-RIO, RJ, 21:20, CORUJA": {
       "cabecalhos": [
@@ -600,52 +480,66 @@
         }
       ],
       "frases": {
-        "1053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 1053"
+        "4000": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4000",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 4000"
         ],
-        "1055": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 1055"
+        "4030": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 4030",
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 4030"
         ],
-        "2053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 2053"
+        "4080": [
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 4080",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 4080"
         ],
-        "2055": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 2055"
+        "6000": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6000",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 6000"
         ],
-        "3053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 3053"
+        "6030": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 6030",
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 6030"
         ],
-        "3055": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 3055"
+        "6080": [
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 6080",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 6080"
         ],
-        "4053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 4053"
+        "7000": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7000",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 7000"
         ],
-        "4055": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 4055"
+        "7030": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 7030",
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 7030"
         ],
-        "6053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 6053"
+        "7080": [
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 7080",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 7080"
         ],
-        "6055": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 6055"
+        "8000": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8000",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 8000"
         ],
-        "0053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 0053"
+        "8030": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 8030",
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 8030"
         ],
-        "0055": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 0055"
+        "8080": [
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 8080",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 8080"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 4,
         "Grupo": [
-          "🐈"
+          "🐄",
+          "🦃",
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0050, 0052, 0053, 0055, 1050, 1052, 1053, 1055, 2050, 2052, 2053, 2055, 3050, 3052, 3053, 3055, 4050, 4052, 4053, 4055, 6050, 6052, 6053, 6055"
+      "resumo": "Palpites dados para esta extração: 4000, 4030, 4080, 6000, 6030, 6080, 7000, 7030, 7080, 8000, 8030, 8080"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -717,58 +611,28 @@
         }
       ],
       "frases": {
-        "1050": [
-          "Dezena no oitavo prêmio!<br>com o palpite 1050",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1050"
+        "4080": [
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 4080"
         ],
-        "1052": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1052"
+        "6080": [
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 6080"
         ],
-        "2050": [
-          "Dezena no oitavo prêmio!<br>com o palpite 2050",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 2050"
+        "7080": [
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 7080"
         ],
-        "2052": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 2052"
-        ],
-        "3050": [
-          "Dezena no oitavo prêmio!<br>com o palpite 3050",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 3050"
-        ],
-        "3052": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 3052"
-        ],
-        "4050": [
-          "Dezena no oitavo prêmio!<br>com o palpite 4050",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 4050"
-        ],
-        "4052": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 4052"
-        ],
-        "6050": [
-          "Dezena no oitavo prêmio!<br>com o palpite 6050",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 6050"
-        ],
-        "6052": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 6052"
-        ],
-        "0050": [
-          "Dezena no oitavo prêmio!<br>com o palpite 0050",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 0050"
-        ],
-        "0052": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 0052"
+        "8080": [
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 8080"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 6,
+        "Dezena": 0,
         "Grupo": [
-          "🐓"
+          "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0050, 0052, 0053, 0055, 1050, 1052, 1053, 1055, 2050, 2052, 2053, 2055, 3050, 3052, 3053, 3055, 4050, 4052, 4053, 4055, 6050, 6052, 6053, 6055"
+      "resumo": "Palpites dados para esta extração: 4000, 4030, 4080, 6000, 6030, 6080, 7000, 7030, 7080, 8000, 8030, 8080"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -839,121 +703,14 @@
           "Bicho": "Avestruz"
         }
       ],
-      "frases": {
-        "1050": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1050",
-          "GALO 🐓 no nono prêmio!<br>com o palpite 1050"
-        ],
-        "1052": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1052",
-          "Centena e Dezena no nono prêmio!<br>com o palpite 1052",
-          "Dezena no nono prêmio!<br>com o palpite 1052",
-          "GALO 🐓 no nono prêmio!<br>com o palpite 1052"
-        ],
-        "1053": [
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1053"
-        ],
-        "1055": [
-          "Dezena no terceiro prêmio!<br>com o palpite 1055",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1055"
-        ],
-        "2050": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 2050",
-          "GALO 🐓 no nono prêmio!<br>com o palpite 2050"
-        ],
-        "2052": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 2052",
-          "Centena e Dezena no nono prêmio!<br>com o palpite 2052",
-          "Dezena no nono prêmio!<br>com o palpite 2052",
-          "GALO 🐓 no nono prêmio!<br>com o palpite 2052"
-        ],
-        "2053": [
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2053"
-        ],
-        "2055": [
-          "Dezena no terceiro prêmio!<br>com o palpite 2055",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2055"
-        ],
-        "3050": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 3050",
-          "GALO 🐓 no nono prêmio!<br>com o palpite 3050"
-        ],
-        "3052": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 3052",
-          "Milhar e Centena no nono prêmio!<br>com o palpite 3052",
-          "Centena e Dezena no nono prêmio!<br>com o palpite 3052",
-          "Dezena no nono prêmio!<br>com o palpite 3052",
-          "GALO 🐓 no nono prêmio!<br>com o palpite 3052"
-        ],
-        "3053": [
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 3053"
-        ],
-        "3055": [
-          "Dezena no terceiro prêmio!<br>com o palpite 3055",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 3055"
-        ],
-        "4050": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 4050",
-          "GALO 🐓 no nono prêmio!<br>com o palpite 4050"
-        ],
-        "4052": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 4052",
-          "Centena e Dezena no nono prêmio!<br>com o palpite 4052",
-          "Dezena no nono prêmio!<br>com o palpite 4052",
-          "GALO 🐓 no nono prêmio!<br>com o palpite 4052"
-        ],
-        "4053": [
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 4053"
-        ],
-        "4055": [
-          "Dezena no terceiro prêmio!<br>com o palpite 4055",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 4055"
-        ],
-        "6050": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 6050",
-          "GALO 🐓 no nono prêmio!<br>com o palpite 6050"
-        ],
-        "6052": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 6052",
-          "Centena e Dezena no nono prêmio!<br>com o palpite 6052",
-          "Dezena no nono prêmio!<br>com o palpite 6052",
-          "GALO 🐓 no nono prêmio!<br>com o palpite 6052"
-        ],
-        "6053": [
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 6053"
-        ],
-        "6055": [
-          "Dezena no terceiro prêmio!<br>com o palpite 6055",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 6055"
-        ],
-        "0053": [
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 0053"
-        ],
-        "0055": [
-          "Dezena no terceiro prêmio!<br>com o palpite 0055",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 0055"
-        ],
-        "0050": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 0050",
-          "GALO 🐓 no nono prêmio!<br>com o palpite 0050"
-        ],
-        "0052": [
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 0052",
-          "Centena e Dezena no nono prêmio!<br>com o palpite 0052",
-          "Dezena no nono prêmio!<br>com o palpite 0052",
-          "GALO 🐓 no nono prêmio!<br>com o palpite 0052"
-        ]
-      },
+      "frases": {},
       "acertos": {
-        "Milhar": 1,
-        "Centena": 6,
-        "Dezena": 12,
-        "Grupo": [
-          "🐈",
-          "🐓"
-        ]
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0050, 0052, 0053, 0055, 1050, 1052, 1053, 1055, 2050, 2052, 2053, 2055, 3050, 3052, 3053, 3055, 4050, 4052, 4053, 4055, 6050, 6052, 6053, 6055"
+      "resumo": "Palpites dados para esta extração: 4000, 4030, 4080, 6000, 6030, 6080, 7000, 7030, 7080, 8000, 8030, 8080"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
@@ -1024,59 +781,14 @@
           "Bicho": "Porco"
         }
       ],
-      "frases": {
-        "1053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 1053"
-        ],
-        "1055": [
-          "Dezena no quinto prêmio!<br>com o palpite 1055",
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 1055"
-        ],
-        "2053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 2053"
-        ],
-        "2055": [
-          "Dezena no quinto prêmio!<br>com o palpite 2055",
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 2055"
-        ],
-        "3053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 3053"
-        ],
-        "3055": [
-          "Dezena no quinto prêmio!<br>com o palpite 3055",
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 3055"
-        ],
-        "4053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 4053"
-        ],
-        "4055": [
-          "Dezena no quinto prêmio!<br>com o palpite 4055",
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 4055"
-        ],
-        "6053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 6053"
-        ],
-        "6055": [
-          "Dezena no quinto prêmio!<br>com o palpite 6055",
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 6055"
-        ],
-        "0053": [
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 0053"
-        ],
-        "0055": [
-          "Dezena no quinto prêmio!<br>com o palpite 0055",
-          "GATO 🐈 no quinto prêmio!<br>com o palpite 0055"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 6,
-        "Grupo": [
-          "🐈"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0050, 0052, 0053, 0055, 1050, 1052, 1053, 1055, 2050, 2052, 2053, 2055, 3050, 3052, 3053, 3055, 4050, 4052, 4053, 4055, 6050, 6052, 6053, 6055"
+      "resumo": "Palpites dados para esta extração: 4000, 4030, 4080, 6000, 6030, 6080, 7000, 7030, 7080, 8000, 8030, 8080"
     },
     "PT-RIO, RJ, 18:20, PTN do 1º ao 10º": {
       "cabecalhos": [
@@ -1147,14 +859,54 @@
           "Bicho": "Macaco"
         }
       ],
-      "frases": {},
+      "frases": {
+        "4000": [
+          "Dezena no oitavo prêmio!<br>com o palpite 4000",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 4000"
+        ],
+        "4030": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 4030",
+          "Dezena no segundo prêmio!<br>com o palpite 4030",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4030"
+        ],
+        "6000": [
+          "Dezena no oitavo prêmio!<br>com o palpite 6000",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 6000"
+        ],
+        "6030": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 6030",
+          "Dezena no segundo prêmio!<br>com o palpite 6030",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 6030"
+        ],
+        "7000": [
+          "Dezena no oitavo prêmio!<br>com o palpite 7000",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 7000"
+        ],
+        "7030": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 7030",
+          "Dezena no segundo prêmio!<br>com o palpite 7030",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 7030"
+        ],
+        "8000": [
+          "Dezena no oitavo prêmio!<br>com o palpite 8000",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 8000"
+        ],
+        "8030": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 8030",
+          "Dezena no segundo prêmio!<br>com o palpite 8030",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 8030"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 4,
+        "Dezena": 8,
+        "Grupo": [
+          "🐪",
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0050, 0052, 0053, 0055, 1050, 1052, 1053, 1055, 2050, 2052, 2053, 2055, 3050, 3052, 3053, 3055, 4050, 4052, 4053, 4055, 6050, 6052, 6053, 6055"
+      "resumo": "Palpites dados para esta extração: 4000, 4030, 4080, 6000, 6030, 6080, 7000, 7030, 7080, 8000, 8030, 8080"
     },
     "PT-RIO, RJ, 21:20, CORUJA do 1º ao 10º": {
       "cabecalhos": [
