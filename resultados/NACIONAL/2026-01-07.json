@@ -46,20 +46,23 @@
         }
       ],
       "frases": {
-        "2189": [
-          "URSO 🐻 no primeiro prêmio!<br>com o palpite 2189"
+        "2885": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 2885"
         ],
-        "2289": [
-          "URSO 🐻 no primeiro prêmio!<br>com o palpite 2289"
-        ],
-        "2789": [
-          "URSO 🐻 no primeiro prêmio!<br>com o palpite 2789"
+        "2886": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 2886"
         ],
         "2889": [
           "URSO 🐻 no primeiro prêmio!<br>com o palpite 2889"
         ],
-        "2989": [
-          "URSO 🐻 no primeiro prêmio!<br>com o palpite 2989"
+        "9885": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 9885"
+        ],
+        "9886": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 9886"
+        ],
+        "9889": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 9889"
         ]
       },
       "acertos": {
@@ -67,12 +70,67 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐻"
+          "🐻",
+          "🐅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2189, 2289, 2789, 2889, 2989"
+      "resumo": "Palpites dados para esta extração: 2885, 2886, 2889, 9885, 9886, 9889"
     },
     "Nacional - LN 08:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7906",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2518",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0912",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8371",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7876",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "7583",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 2885, 2886, 2889, 9885, 9886, 9889"
+    },
+    "Nacional - LN 10:00": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -167,20 +225,27 @@
         }
       ],
       "frases": {
-        "2189": [
-          "URSO 🐻 no primeiro prêmio!<br>com o palpite 2189"
+        "2885": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 2885",
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 2885"
         ],
-        "2289": [
-          "URSO 🐻 no primeiro prêmio!<br>com o palpite 2289"
-        ],
-        "2789": [
-          "URSO 🐻 no primeiro prêmio!<br>com o palpite 2789"
+        "2886": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 2886",
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 2886"
         ],
         "2889": [
           "URSO 🐻 no primeiro prêmio!<br>com o palpite 2889"
         ],
-        "2989": [
-          "URSO 🐻 no primeiro prêmio!<br>com o palpite 2989"
+        "9885": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 9885",
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 9885"
+        ],
+        "9886": [
+          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 9886",
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 9886"
+        ],
+        "9889": [
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 9889"
         ]
       },
       "acertos": {
@@ -188,12 +253,91 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐻"
+          "🐻",
+          "🐅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2189, 2289, 2789, 2889, 2989"
+      "resumo": "Palpites dados para esta extração: 2885, 2886, 2889, 9885, 9886, 9889"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7906",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2518",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0912",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8371",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7876",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7208",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "9593",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "0117",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6821",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1322",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 2885, 2886, 2889, 9885, 9886, 9889"
+    },
+    "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
