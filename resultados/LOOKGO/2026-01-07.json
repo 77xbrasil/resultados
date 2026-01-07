@@ -51,6 +51,75 @@
           "Bicho": ""
         }
       ],
+      "frases": {
+        "1181": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1181",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1181",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1181",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 1181"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 1,
+        "Grupo": [
+          "🐂"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1101, 1111, 1161, 1181"
+    },
+    "LOOK - GOIÁS, 09h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2413",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4351",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2890",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3616",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9289",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2559",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "498",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
       "frases": {},
       "acertos": {
         "Milhar": 0,
@@ -58,9 +127,9 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2120, 2130, 2140, 2170, 8120, 8130, 8140, 8170"
+      "resumo": "Palpites dados para esta extração: 1101, 1111, 1161, 1181"
     },
-    "LOOK - GOIÁS, 09h": {
+    "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -154,6 +223,105 @@
           "Bicho": "Vaca"
         }
       ],
+      "frases": {
+        "1111": [
+          "Dezena no sexto prêmio!<br>com o palpite 1111",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 1111",
+          "Dezena no oitavo prêmio!<br>com o palpite 1111",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 1111"
+        ],
+        "1161": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1161",
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 1161"
+        ],
+        "1181": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1181",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1181",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1181",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 1181"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 4,
+        "Grupo": [
+          "🐂",
+          "🐴",
+          "🦁"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1101, 1111, 1161, 1181"
+    },
+    "LOOK - GOIÁS, 09h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2413",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4351",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2890",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3616",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9289",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2423",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4386",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1591",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3106",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "4065",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        }
+      ],
       "frases": {},
       "acertos": {
         "Milhar": 0,
@@ -161,9 +329,9 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2120, 2130, 2140, 2170, 8120, 8130, 8140, 8170"
+      "resumo": "Palpites dados para esta extração: 1101, 1111, 1161, 1181"
     },
-    "LOOK - GOIÁS, 09h do 1º ao 10º": {
+    "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
