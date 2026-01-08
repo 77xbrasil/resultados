@@ -52,47 +52,21 @@
         }
       ],
       "frases": {
-        "4844": [
-          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 4844",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 4844",
-          "Dezena no quarto prêmio!<br>com o palpite 4844",
-          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 4844"
-        ],
-        "6844": [
-          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 6844",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 6844",
-          "Dezena no quarto prêmio!<br>com o palpite 6844",
-          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 6844"
-        ],
-        "7844": [
-          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 7844",
-          "Milhar e Centena no quarto prêmio!<br>com o palpite 7844",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 7844",
-          "Dezena no quarto prêmio!<br>com o palpite 7844",
-          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7844"
-        ],
-        "9844": [
-          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 9844",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 9844",
-          "Dezena no quarto prêmio!<br>com o palpite 9844",
-          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 9844"
-        ],
-        "0844": [
-          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 0844",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 0844",
-          "Dezena no quarto prêmio!<br>com o palpite 0844",
-          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 0844"
+        "7344": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 7344",
+          "Dezena no quarto prêmio!<br>com o palpite 7344",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7344"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 5,
-        "Dezena": 5,
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 1,
         "Grupo": [
           "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0844, 0874, 4844, 4874, 6844, 6874, 7844, 7874, 9844, 9874"
+      "resumo": "Palpites dados para esta extração: 7344"
     },
     "LOOK - GOIÁS, 09h": {
       "cabecalhos": [
@@ -145,34 +119,76 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "4874": [
-          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 4874"
-        ],
-        "6874": [
-          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 6874"
-        ],
-        "7874": [
-          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 7874"
-        ],
-        "9874": [
-          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 9874"
-        ],
-        "0874": [
-          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 0874"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🦚"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0844, 0874, 4844, 4874, 6844, 6874, 7844, 7874, 9844, 9874"
+      "resumo": "Palpites dados para esta extração: 7344"
     },
     "LOOK - GOIÁS, 11h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7260",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2996",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1277",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1224",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6999",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "9756",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "750",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 7344"
+    },
+    "LOOK - GOIÁS, 14h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -267,59 +283,181 @@
         }
       ],
       "frases": {
-        "4844": [
-          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 4844",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 4844",
-          "Dezena no quarto prêmio!<br>com o palpite 4844",
-          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 4844",
-          "Dezena no oitavo prêmio!<br>com o palpite 4844",
-          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 4844"
-        ],
-        "6844": [
-          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 6844",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 6844",
-          "Dezena no quarto prêmio!<br>com o palpite 6844",
-          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 6844",
-          "Dezena no oitavo prêmio!<br>com o palpite 6844",
-          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 6844"
-        ],
-        "7844": [
-          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 7844",
-          "Milhar e Centena no quarto prêmio!<br>com o palpite 7844",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 7844",
-          "Dezena no quarto prêmio!<br>com o palpite 7844",
-          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7844",
-          "Dezena no oitavo prêmio!<br>com o palpite 7844",
-          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 7844"
-        ],
-        "9844": [
-          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 9844",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 9844",
-          "Dezena no quarto prêmio!<br>com o palpite 9844",
-          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 9844",
-          "Dezena no oitavo prêmio!<br>com o palpite 9844",
-          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 9844"
-        ],
-        "0844": [
-          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 0844",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 0844",
-          "Dezena no quarto prêmio!<br>com o palpite 0844",
-          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 0844",
-          "Dezena no oitavo prêmio!<br>com o palpite 0844",
-          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 0844"
+        "7344": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 7344",
+          "Dezena no quarto prêmio!<br>com o palpite 7344",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7344",
+          "Dezena no oitavo prêmio!<br>com o palpite 7344",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 7344"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 5,
-        "Dezena": 10,
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
         "Grupo": [
           "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0844, 0874, 4844, 4874, 6844, 6874, 7844, 7874, 9844, 9874"
+      "resumo": "Palpites dados para esta extração: 7344"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5162",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7498",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8549",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9051",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7075",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5789",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "1450",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6945",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "2891",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "4410",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 7344"
+    },
+    "LOOK - GOIÁS, 11h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7260",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2996",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1277",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1224",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6999",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7211",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2922",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6972",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0674",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7535",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 7344"
+    },
+    "LOOK - GOIÁS, 14h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
