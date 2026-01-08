@@ -514,6 +514,179 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 0416, 0426, 0466, 0486, 0716, 0726, 0766, 0786, 1416, 1426, 1466, 1486, 1716, 1726, 1766, 1786, 5416, 5426, 5466, 5486, 5716, 5726, 5766, 5786, 6416, 6426, 6466, 6486, 6716, 6726, 6766, 6786"
+    },
+    "PT-RIO, RJ, 21:20, CORUJA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9849",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1141",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4211",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1726",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5387",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2314",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "237",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1416": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 1416"
+        ],
+        "1426": [
+          "Dezena no quarto prêmio!<br>com o palpite 1426",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 1426"
+        ],
+        "1486": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 1486"
+        ],
+        "1716": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 1716"
+        ],
+        "1726": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 1726",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 1726",
+          "Dezena no quarto prêmio!<br>com o palpite 1726",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 1726"
+        ],
+        "1786": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 1786"
+        ],
+        "5416": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 5416"
+        ],
+        "5426": [
+          "Dezena no quarto prêmio!<br>com o palpite 5426",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 5426"
+        ],
+        "5486": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 5486"
+        ],
+        "5716": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 5716"
+        ],
+        "5726": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 5726",
+          "Dezena no quarto prêmio!<br>com o palpite 5726",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 5726"
+        ],
+        "5786": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 5786"
+        ],
+        "6416": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 6416"
+        ],
+        "6426": [
+          "Dezena no quarto prêmio!<br>com o palpite 6426",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 6426"
+        ],
+        "6486": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 6486"
+        ],
+        "6716": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 6716"
+        ],
+        "6726": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 6726",
+          "Dezena no quarto prêmio!<br>com o palpite 6726",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 6726"
+        ],
+        "6786": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 6786"
+        ],
+        "0426": [
+          "Dezena no quarto prêmio!<br>com o palpite 0426",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 0426"
+        ],
+        "0726": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 0726",
+          "Dezena no quarto prêmio!<br>com o palpite 0726",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 0726"
+        ],
+        "0486": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 0486"
+        ],
+        "0786": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 0786"
+        ],
+        "0416": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 0416"
+        ],
+        "0716": [
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 0716"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 8,
+        "Grupo": [
+          "🐑",
+          "🐅",
+          "🦋"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0416, 0426, 0466, 0486, 0716, 0726, 0766, 0786, 1416, 1426, 1466, 1486, 1716, 1726, 1766, 1786, 5416, 5426, 5466, 5486, 5716, 5726, 5766, 5786, 6416, 6426, 6466, 6486, 6716, 6726, 6766, 6786"
+    },
+    "PT-RIO, RJ, 18:20, PTN": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   },
   "1-10": {
@@ -1209,6 +1382,218 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 0416, 0426, 0466, 0486, 0716, 0726, 0766, 0786, 1416, 1426, 1466, 1486, 1716, 1726, 1766, 1786, 5416, 5426, 5466, 5486, 5716, 5726, 5766, 5786, 6416, 6426, 6466, 6486, 6716, 6726, 6766, 6786"
+    },
+    "PT-RIO, RJ, 21:20, CORUJA do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9849",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1141",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4211",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1726",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5387",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9141",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8127",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "4412",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9116",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "3110",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        }
+      ],
+      "frases": {
+        "1416": [
+          "Dezena no nono prêmio!<br>com o palpite 1416",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 1416"
+        ],
+        "1426": [
+          "Dezena no quarto prêmio!<br>com o palpite 1426",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 1426",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 1426"
+        ],
+        "1486": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 1486"
+        ],
+        "1716": [
+          "Dezena no nono prêmio!<br>com o palpite 1716",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 1716"
+        ],
+        "1726": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 1726",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 1726",
+          "Dezena no quarto prêmio!<br>com o palpite 1726",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 1726",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 1726"
+        ],
+        "1786": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 1786"
+        ],
+        "5416": [
+          "Dezena no nono prêmio!<br>com o palpite 5416",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 5416"
+        ],
+        "5426": [
+          "Dezena no quarto prêmio!<br>com o palpite 5426",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 5426",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 5426"
+        ],
+        "5486": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 5486"
+        ],
+        "5716": [
+          "Dezena no nono prêmio!<br>com o palpite 5716",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 5716"
+        ],
+        "5726": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 5726",
+          "Dezena no quarto prêmio!<br>com o palpite 5726",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 5726",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 5726"
+        ],
+        "5786": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 5786"
+        ],
+        "6416": [
+          "Dezena no nono prêmio!<br>com o palpite 6416",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 6416"
+        ],
+        "6426": [
+          "Dezena no quarto prêmio!<br>com o palpite 6426",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 6426",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 6426"
+        ],
+        "6486": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 6486"
+        ],
+        "6716": [
+          "Dezena no nono prêmio!<br>com o palpite 6716",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 6716"
+        ],
+        "6726": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 6726",
+          "Dezena no quarto prêmio!<br>com o palpite 6726",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 6726",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 6726"
+        ],
+        "6786": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 6786"
+        ],
+        "0426": [
+          "Dezena no quarto prêmio!<br>com o palpite 0426",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 0426",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 0426"
+        ],
+        "0726": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 0726",
+          "Dezena no quarto prêmio!<br>com o palpite 0726",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 0726",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 0726"
+        ],
+        "0486": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 0486"
+        ],
+        "0786": [
+          "TIGRE 🐅 no quinto prêmio!<br>com o palpite 0786"
+        ],
+        "0416": [
+          "Dezena no nono prêmio!<br>com o palpite 0416",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 0416"
+        ],
+        "0716": [
+          "Dezena no nono prêmio!<br>com o palpite 0716",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 0716"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 16,
+        "Grupo": [
+          "🐑",
+          "🐅",
+          "🦋"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0416, 0426, 0466, 0486, 0716, 0726, 0766, 0786, 1416, 1426, 1466, 1486, 1716, 1726, 1766, 1786, 5416, 5426, 5466, 5486, 5716, 5726, 5766, 5786, 6416, 6426, 6466, 6486, 6716, 6726, 6766, 6786"
+    },
+    "PT-RIO, RJ, 18:20, PTN do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
