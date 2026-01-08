@@ -52,21 +52,33 @@
         }
       ],
       "frases": {
-        "7344": [
-          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 7344",
-          "Dezena no quarto prêmio!<br>com o palpite 7344",
-          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7344"
+        "7214": [
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 7214"
+        ],
+        "7244": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 7244",
+          "Dezena no quarto prêmio!<br>com o palpite 7244",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7244"
+        ],
+        "7914": [
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 7914"
+        ],
+        "7944": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 7944",
+          "Dezena no quarto prêmio!<br>com o palpite 7944",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7944"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 2,
         "Grupo": [
-          "🐎"
+          "🐎",
+          "🦋"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7344"
+      "resumo": "Palpites dados para esta extração: 7214, 7234, 7244, 7274, 7294, 7914, 7934, 7944, 7974, 7994"
     },
     "LOOK - GOIÁS, 09h": {
       "cabecalhos": [
@@ -119,14 +131,30 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "7234": [
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 7234"
+        ],
+        "7274": [
+          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 7274"
+        ],
+        "7934": [
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 7934"
+        ],
+        "7974": [
+          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 7974"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦚",
+          "🐍"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7344"
+      "resumo": "Palpites dados para esta extração: 7214, 7234, 7244, 7274, 7294, 7914, 7934, 7944, 7974, 7994"
     },
     "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
@@ -179,6 +207,75 @@
           "Bicho": ""
         }
       ],
+      "frases": {
+        "7294": [
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 7294"
+        ],
+        "7994": [
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 7994"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🦌"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 7214, 7234, 7244, 7274, 7294, 7914, 7934, 7944, 7974, 7994"
+    },
+    "LOOK - GOIÁS, 14h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2328",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2203",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0338",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3223",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0258",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "8350",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "128",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
       "frases": {},
       "acertos": {
         "Milhar": 0,
@@ -186,9 +283,9 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 7344"
+      "resumo": "Palpites dados para esta extração: 7214, 7234, 7244, 7274, 7294, 7914, 7934, 7944, 7974, 7994"
     },
-    "LOOK - GOIÁS, 14h": {
+    "LOOK - GOIÁS, 16h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -283,23 +380,42 @@
         }
       ],
       "frases": {
-        "7344": [
-          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 7344",
-          "Dezena no quarto prêmio!<br>com o palpite 7344",
-          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7344",
-          "Dezena no oitavo prêmio!<br>com o palpite 7344",
-          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 7344"
+        "7214": [
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 7214",
+          "Dezena no nono prêmio!<br>com o palpite 7214",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 7214"
+        ],
+        "7244": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 7244",
+          "Dezena no quarto prêmio!<br>com o palpite 7244",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7244",
+          "Dezena no oitavo prêmio!<br>com o palpite 7244",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 7244"
+        ],
+        "7914": [
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 7914",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 7914",
+          "Dezena no nono prêmio!<br>com o palpite 7914",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 7914"
+        ],
+        "7944": [
+          "CAVALO 🐎 no terceiro prêmio!<br>com o palpite 7944",
+          "Dezena no quarto prêmio!<br>com o palpite 7944",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 7944",
+          "Dezena no oitavo prêmio!<br>com o palpite 7944",
+          "CAVALO 🐎 no oitavo prêmio!<br>com o palpite 7944"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 2,
+        "Centena": 1,
+        "Dezena": 6,
         "Grupo": [
-          "🐎"
+          "🐎",
+          "🦋"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7344"
+      "resumo": "Palpites dados para esta extração: 7214, 7234, 7244, 7274, 7294, 7914, 7934, 7944, 7974, 7994"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
       "cabecalhos": [
@@ -370,14 +486,23 @@
           "Bicho": "Burro"
         }
       ],
-      "frases": {},
+      "frases": {
+        "7274": [
+          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 7274"
+        ],
+        "7974": [
+          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 7974"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦚"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7344"
+      "resumo": "Palpites dados para esta extração: 7214, 7234, 7244, 7274, 7294, 7914, 7934, 7944, 7974, 7994"
     },
     "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
@@ -448,6 +573,109 @@
           "Bicho": "Cobra"
         }
       ],
+      "frases": {
+        "7234": [
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 7234"
+        ],
+        "7274": [
+          "Dezena no nono prêmio!<br>com o palpite 7274",
+          "PAVÃO 🦚 no nono prêmio!<br>com o palpite 7274"
+        ],
+        "7294": [
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 7294"
+        ],
+        "7934": [
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 7934"
+        ],
+        "7974": [
+          "Dezena no nono prêmio!<br>com o palpite 7974",
+          "PAVÃO 🦚 no nono prêmio!<br>com o palpite 7974"
+        ],
+        "7994": [
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 7994"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🦌",
+          "🦚",
+          "🐍"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 7214, 7234, 7244, 7274, 7294, 7914, 7934, 7944, 7974, 7994"
+    },
+    "LOOK - GOIÁS, 14h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2328",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2203",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0338",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3223",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0258",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2203",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3232",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2032",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8383",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "4200",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        }
+      ],
       "frases": {},
       "acertos": {
         "Milhar": 0,
@@ -455,9 +683,9 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 7344"
+      "resumo": "Palpites dados para esta extração: 7214, 7234, 7244, 7274, 7294, 7914, 7934, 7944, 7974, 7994"
     },
-    "LOOK - GOIÁS, 14h do 1º ao 10º": {
+    "LOOK - GOIÁS, 16h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
