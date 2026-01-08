@@ -76,7 +76,7 @@
           "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3110, 3210, 3310, 3510, 3910"
+      "resumo": "Palpites dados para esta extração: 3110, 3130, 3210, 3230, 3310, 3330, 3510, 3530, 3910, 3930"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
@@ -136,21 +136,36 @@
           "Dezena no segundo prêmio!<br>com o palpite 3110",
           "BURRO 🐴 no segundo prêmio!<br>com o palpite 3110"
         ],
+        "3130": [
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 3130"
+        ],
         "3210": [
           "Dezena no segundo prêmio!<br>com o palpite 3210",
           "BURRO 🐴 no segundo prêmio!<br>com o palpite 3210"
+        ],
+        "3230": [
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 3230"
         ],
         "3310": [
           "Dezena no segundo prêmio!<br>com o palpite 3310",
           "BURRO 🐴 no segundo prêmio!<br>com o palpite 3310"
         ],
+        "3330": [
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 3330"
+        ],
         "3510": [
           "Dezena no segundo prêmio!<br>com o palpite 3510",
           "BURRO 🐴 no segundo prêmio!<br>com o palpite 3510"
         ],
+        "3530": [
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 3530"
+        ],
         "3910": [
           "Dezena no segundo prêmio!<br>com o palpite 3910",
           "BURRO 🐴 no segundo prêmio!<br>com o palpite 3910"
+        ],
+        "3930": [
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 3930"
         ]
       },
       "acertos": {
@@ -158,10 +173,11 @@
         "Centena": 1,
         "Dezena": 5,
         "Grupo": [
-          "🐴"
+          "🐴",
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3110, 3210, 3310, 3510, 3910"
+      "resumo": "Palpites dados para esta extração: 3110, 3130, 3210, 3230, 3310, 3330, 3510, 3530, 3910, 3930"
     },
     "MINAS FEDERAL - MG": {
       "cabecalhos": [
@@ -214,14 +230,37 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3130": [
+          "Dezena no segundo prêmio!<br>com o palpite 3130",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 3130"
+        ],
+        "3230": [
+          "Dezena no segundo prêmio!<br>com o palpite 3230",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 3230"
+        ],
+        "3330": [
+          "Dezena no segundo prêmio!<br>com o palpite 3330",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 3330"
+        ],
+        "3530": [
+          "Dezena no segundo prêmio!<br>com o palpite 3530",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 3530"
+        ],
+        "3930": [
+          "Dezena no segundo prêmio!<br>com o palpite 3930",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 3930"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 5,
+        "Grupo": [
+          "🐪"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3110, 3210, 3310, 3510, 3910"
+      "resumo": "Palpites dados para esta extração: 3110, 3130, 3210, 3230, 3310, 3330, 3510, 3530, 3910, 3930"
     }
   }
 }
