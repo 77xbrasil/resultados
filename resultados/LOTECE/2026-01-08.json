@@ -163,6 +163,13 @@
         }
       ],
       "frases": {
+        "4181": [
+          "Dezena no quinto prêmio!<br>com o palpite 4181",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4181",
+          "Dezena no oitavo prêmio!<br>com o palpite 4181",
+          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 4181",
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 4181"
+        ],
         "4281": [
           "Dezena no quinto prêmio!<br>com o palpite 4281",
           "TOURO 🐂 no quinto prêmio!<br>com o palpite 4281",
@@ -170,37 +177,47 @@
           "TOURO 🐂 no oitavo prêmio!<br>com o palpite 4281",
           "TOURO 🐂 no nono prêmio!<br>com o palpite 4281"
         ],
+        "4381": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 4381",
+          "Dezena no quinto prêmio!<br>com o palpite 4381",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4381",
+          "Dezena no oitavo prêmio!<br>com o palpite 4381",
+          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 4381",
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 4381"
+        ],
+        "4681": [
+          "Dezena no quinto prêmio!<br>com o palpite 4681",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4681",
+          "Dezena no oitavo prêmio!<br>com o palpite 4681",
+          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 4681",
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 4681"
+        ],
+        "4781": [
+          "Dezena no quinto prêmio!<br>com o palpite 4781",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4781",
+          "Milhar e Centena no oitavo prêmio!<br>com o palpite 4781",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 4781",
+          "Dezena no oitavo prêmio!<br>com o palpite 4781",
+          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 4781",
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 4781"
+        ],
         "4981": [
           "Dezena no quinto prêmio!<br>com o palpite 4981",
           "TOURO 🐂 no quinto prêmio!<br>com o palpite 4981",
           "Dezena no oitavo prêmio!<br>com o palpite 4981",
           "TOURO 🐂 no oitavo prêmio!<br>com o palpite 4981",
           "TOURO 🐂 no nono prêmio!<br>com o palpite 4981"
-        ],
-        "5281": [
-          "Dezena no quinto prêmio!<br>com o palpite 5281",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 5281",
-          "Dezena no oitavo prêmio!<br>com o palpite 5281",
-          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 5281",
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 5281"
-        ],
-        "5981": [
-          "Dezena no quinto prêmio!<br>com o palpite 5981",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 5981",
-          "Dezena no oitavo prêmio!<br>com o palpite 5981",
-          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 5981",
-          "TOURO 🐂 no nono prêmio!<br>com o palpite 5981"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 8,
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 12,
         "Grupo": [
           "🐂"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4211, 4271, 4281, 4911, 4971, 4981, 5211, 5271, 5281, 5911, 5971, 5981"
+      "resumo": "Palpites dados para esta extração: 4181, 4185, 4281, 4285, 4381, 4385, 4681, 4685, 4781, 4785, 4981, 4985"
     },
     "LOTECE - CE, 14:00 (tarde)": {
       "cabecalhos": [
@@ -212,77 +229,83 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "2212",
-          "Grupo": "03",
-          "Bicho": "Burro"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "6050",
-          "Grupo": "13",
-          "Bicho": "Galo"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "2117",
-          "Grupo": "05",
-          "Bicho": "Cachorro"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "3954",
-          "Grupo": "14",
-          "Bicho": "Gato"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "3594",
-          "Grupo": "24",
-          "Bicho": "Veado"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "4373",
-          "Grupo": "19",
-          "Bicho": "Pavão"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "2880",
-          "Grupo": "20",
-          "Bicho": "Peru"
-        },
-        {
-          "Prêmio": "8º",
-          "Milhar": "0162",
-          "Grupo": "16",
-          "Bicho": "Leão"
-        },
-        {
-          "Prêmio": "9º",
-          "Milhar": "6514",
+          "Milhar": "5714",
           "Grupo": "04",
           "Bicho": "Borboleta"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "5336",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8238",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9191",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4249",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9761",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3937",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5711",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9283",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
           "Prêmio": "10º",
-          "Milhar": "4087",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "8792",
+          "Grupo": "23",
+          "Bicho": "Urso"
         }
       ],
       "frases": {
-        "4211": [
-          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 4211"
+        "4181": [
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 4181"
         ],
-        "4911": [
-          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 4911"
+        "4281": [
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 4281"
         ],
-        "5211": [
-          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 5211"
+        "4381": [
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 4381"
         ],
-        "5911": [
-          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 5911"
+        "4681": [
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 4681"
+        ],
+        "4781": [
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 4781"
+        ],
+        "4981": [
+          "TOURO 🐂 no nono prêmio!<br>com o palpite 4981"
         ]
       },
       "acertos": {
@@ -290,10 +313,10 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐴"
+          "🐂"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4211, 4271, 4281, 4911, 4971, 4981, 5211, 5271, 5281, 5911, 5971, 5981"
+      "resumo": "Palpites dados para esta extração: 4181, 4185, 4281, 4285, 4381, 4385, 4681, 4685, 4781, 4785, 4981, 4985"
     },
     "LOTECE - CE, 15:45 (tarde II)": {
       "cabecalhos": [
