@@ -51,47 +51,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "5210": [
-          "Dezena no segundo prêmio!<br>com o palpite 5210",
-          "BURRO 🐴 no segundo prêmio!<br>com o palpite 5210",
-          "Dezena no terceiro prêmio!<br>com o palpite 5210",
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 5210"
-        ],
-        "5215": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 5215"
-        ],
-        "5218": [
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 5218",
-          "Dezena no primeiro prêmio!<br>com o palpite 5218",
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 5218"
-        ],
-        "5510": [
-          "Centena e Dezena no segundo prêmio!<br>com o palpite 5510",
-          "Dezena no segundo prêmio!<br>com o palpite 5510",
-          "BURRO 🐴 no segundo prêmio!<br>com o palpite 5510",
-          "Dezena no terceiro prêmio!<br>com o palpite 5510",
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 5510"
-        ],
-        "5515": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 5515"
-        ],
-        "5518": [
-          "Dezena no primeiro prêmio!<br>com o palpite 5518",
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 5518"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
-        "Centena": 2,
-        "Dezena": 6,
-        "Grupo": [
-          "🐕",
-          "🐴",
-          "🦋"
-        ]
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5210, 5215, 5218, 5510, 5515, 5518"
+      "resumo": "Palpites dados para esta extração: 3243, 3253, 3283, 5243, 5253, 5283"
     },
     "SP, 10hs - PTSP": {
       "cabecalhos": [
@@ -144,14 +111,25 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3253": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3253",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 3253"
+        ],
+        "5253": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5253",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 5253"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐈"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5210, 5215, 5218, 5510, 5515, 5518"
+      "resumo": "Palpites dados para esta extração: 3243, 3253, 3283, 5243, 5253, 5283"
     },
     "SP, 12:00 - PTSP": {
       "cabecalhos": [
@@ -204,32 +182,76 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "5210": [
-          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 5210"
-        ],
-        "5218": [
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 5218"
-        ],
-        "5510": [
-          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 5510"
-        ],
-        "5518": [
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 5518"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐕",
-          "🐴"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5210, 5215, 5218, 5510, 5515, 5518"
+      "resumo": "Palpites dados para esta extração: 3243, 3253, 3283, 5243, 5253, 5283"
     },
     "SP, 13hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4249",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4401",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8291",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2294",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2658",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "1893",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "699",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 3243, 3253, 3283, 5243, 5253, 5283"
+    },
+    "SP, 17hs - PTSP": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -323,49 +345,14 @@
           "Bicho": "Cobra"
         }
       ],
-      "frases": {
-        "5210": [
-          "Dezena no segundo prêmio!<br>com o palpite 5210",
-          "BURRO 🐴 no segundo prêmio!<br>com o palpite 5210",
-          "Dezena no terceiro prêmio!<br>com o palpite 5210",
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 5210",
-          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 5210"
-        ],
-        "5215": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 5215"
-        ],
-        "5218": [
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 5218",
-          "Dezena no primeiro prêmio!<br>com o palpite 5218",
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 5218"
-        ],
-        "5510": [
-          "Centena e Dezena no segundo prêmio!<br>com o palpite 5510",
-          "Dezena no segundo prêmio!<br>com o palpite 5510",
-          "BURRO 🐴 no segundo prêmio!<br>com o palpite 5510",
-          "Dezena no terceiro prêmio!<br>com o palpite 5510",
-          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 5510",
-          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 5510"
-        ],
-        "5515": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 5515"
-        ],
-        "5518": [
-          "Dezena no primeiro prêmio!<br>com o palpite 5518",
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 5518"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
-        "Centena": 2,
-        "Dezena": 6,
-        "Grupo": [
-          "🐕",
-          "🐴",
-          "🦋"
-        ]
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5210, 5215, 5218, 5510, 5515, 5518"
+      "resumo": "Palpites dados para esta extração: 3243, 3253, 3283, 5243, 5253, 5283"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -437,26 +424,37 @@
         }
       ],
       "frases": {
-        "5210": [
-          "Milhar e Centena no sétimo prêmio!<br>com o palpite 5210",
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 5210",
-          "Dezena no sétimo prêmio!<br>com o palpite 5210",
-          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 5210"
+        "3253": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3253",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 3253",
+          "Dezena no sexto prêmio!<br>com o palpite 3253",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 3253"
         ],
-        "5510": [
-          "Dezena no sétimo prêmio!<br>com o palpite 5510",
-          "BURRO 🐴 no sétimo prêmio!<br>com o palpite 5510"
+        "3283": [
+          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 3283",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 3283"
+        ],
+        "5253": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5253",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 5253",
+          "Dezena no sexto prêmio!<br>com o palpite 5253",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 5253"
+        ],
+        "5283": [
+          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 5283",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 5283"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 1,
-        "Dezena": 2,
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 4,
         "Grupo": [
-          "🐴"
+          "🐈",
+          "🐂"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5210, 5215, 5218, 5510, 5515, 5518"
+      "resumo": "Palpites dados para esta extração: 3243, 3253, 3283, 5243, 5253, 5283"
     },
     "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -528,11 +526,103 @@
         }
       ],
       "frases": {
-        "5218": [
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 5218"
+        "3283": [
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 3283",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 3283",
+          "Dezena no sexto prêmio!<br>com o palpite 3283",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 3283"
         ],
-        "5518": [
-          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 5518"
+        "5283": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 5283",
+          "Dezena no sexto prêmio!<br>com o palpite 5283",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 5283"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 2,
+        "Grupo": [
+          "🐂"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3243, 3253, 3283, 5243, 5253, 5283"
+    },
+    "SP, 13hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4249",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4401",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8291",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2294",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2658",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4482",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2422",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "4099",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9114",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2010",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        }
+      ],
+      "frases": {
+        "3283": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 3283"
+        ],
+        "5283": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 5283"
         ]
       },
       "acertos": {
@@ -540,12 +630,12 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐕"
+          "🐂"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5210, 5215, 5218, 5510, 5515, 5518"
+      "resumo": "Palpites dados para esta extração: 3243, 3253, 3283, 5243, 5253, 5283"
     },
-    "SP, 13hs - PTSP do 1º ao 10º": {
+    "SP, 17hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
