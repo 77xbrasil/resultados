@@ -52,29 +52,17 @@
         }
       ],
       "frases": {
-        "6303": [
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 6303"
+        "5303": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 5303"
         ],
-        "6503": [
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 6503"
-        ],
-        "6703": [
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 6703"
-        ],
-        "6903": [
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 6903"
+        "5503": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 5503"
         ],
         "9303": [
           "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9303"
         ],
         "9503": [
           "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9503"
-        ],
-        "9703": [
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9703"
-        ],
-        "9903": [
-          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 9903"
         ]
       },
       "acertos": {
@@ -85,9 +73,69 @@
           "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6303, 6323, 6503, 6523, 6703, 6723, 6903, 6923, 9303, 9323, 9503, 9523, 9703, 9723, 9903, 9923"
+      "resumo": "Palpites dados para esta extração: 5303, 5503, 9303, 9503"
     },
     "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8021",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1047",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7615",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4326",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7514",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "28523",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "397",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 5303, 5503, 9303, 9503"
+    },
+    "MINAS FEDERAL - MG": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
