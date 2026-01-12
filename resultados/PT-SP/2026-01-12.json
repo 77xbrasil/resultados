@@ -52,48 +52,133 @@
         }
       ],
       "frases": {
-        "3017": [
-          "Dezena no segundo prêmio!<br>com o palpite 3017",
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 3017",
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 3017"
+        "1017": [
+          "Dezena no segundo prêmio!<br>com o palpite 1017",
+          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 1017",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 1017"
         ],
-        "3018": [
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 3018",
-          "Dezena no quinto prêmio!<br>com o palpite 3018",
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 3018"
+        "1027": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1027",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 1027"
         ],
-        "9017": [
-          "Dezena no segundo prêmio!<br>com o palpite 9017",
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 9017",
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 9017"
+        "1217": [
+          "Dezena no segundo prêmio!<br>com o palpite 1217",
+          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 1217",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 1217"
         ],
-        "9018": [
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 9018",
-          "Dezena no quinto prêmio!<br>com o palpite 9018",
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 9018"
+        "1227": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1227",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 1227"
+        ],
+        "2017": [
+          "Dezena no segundo prêmio!<br>com o palpite 2017",
+          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 2017",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 2017"
+        ],
+        "2027": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2027",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 2027"
+        ],
+        "2217": [
+          "Dezena no segundo prêmio!<br>com o palpite 2217",
+          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 2217",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 2217"
+        ],
+        "2227": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2227",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 2227"
+        ],
+        "0027": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0027",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 0027"
+        ],
+        "0227": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0227",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 0227"
         ],
         "0017": [
           "Dezena no segundo prêmio!<br>com o palpite 0017",
           "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 0017",
           "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 0017"
         ],
-        "0018": [
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 0018",
-          "Dezena no quinto prêmio!<br>com o palpite 0018",
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 0018"
+        "0217": [
+          "Dezena no segundo prêmio!<br>com o palpite 0217",
+          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 0217",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 0217"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 6,
+        "Dezena": 12,
         "Grupo": [
+          "🐑",
           "🐕"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 0007, 0008, 0014, 0017, 0018, 3004, 3007, 3008, 3014, 3017, 3018, 9004, 9007, 9008, 9014, 9017, 9018"
+      "resumo": "Palpites dados para esta extração: 0017, 0027, 0077, 0217, 0227, 0277, 1017, 1027, 1077, 1217, 1227, 1277, 2017, 2027, 2077, 2217, 2227, 2277"
     },
     "SP, 10hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6614",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8675",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3144",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9556",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4312",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2301",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "376",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0017, 0027, 0077, 0217, 0227, 0277, 1017, 1027, 1077, 1217, 1227, 1277, 2017, 2027, 2077, 2217, 2227, 2277"
+    },
+    "SP, 12:00 - PTSP": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -188,48 +273,176 @@
         }
       ],
       "frases": {
-        "3017": [
-          "Dezena no segundo prêmio!<br>com o palpite 3017",
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 3017",
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 3017"
+        "1017": [
+          "Dezena no segundo prêmio!<br>com o palpite 1017",
+          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 1017",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 1017"
         ],
-        "3018": [
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 3018",
-          "Dezena no quinto prêmio!<br>com o palpite 3018",
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 3018"
+        "1027": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1027",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 1027",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 1027"
         ],
-        "9017": [
-          "Dezena no segundo prêmio!<br>com o palpite 9017",
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 9017",
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 9017"
+        "1077": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 1077"
         ],
-        "9018": [
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 9018",
-          "Dezena no quinto prêmio!<br>com o palpite 9018",
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 9018"
+        "1217": [
+          "Dezena no segundo prêmio!<br>com o palpite 1217",
+          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 1217",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 1217"
+        ],
+        "1227": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1227",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 1227",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 1227"
+        ],
+        "1277": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 1277"
+        ],
+        "2017": [
+          "Dezena no segundo prêmio!<br>com o palpite 2017",
+          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 2017",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 2017"
+        ],
+        "2027": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2027",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 2027",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 2027"
+        ],
+        "2077": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 2077"
+        ],
+        "2217": [
+          "Dezena no segundo prêmio!<br>com o palpite 2217",
+          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 2217",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 2217"
+        ],
+        "2227": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2227",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 2227",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 2227"
+        ],
+        "2277": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 2277"
+        ],
+        "0027": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0027",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 0027",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 0027"
+        ],
+        "0227": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0227",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 0227",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 0227"
         ],
         "0017": [
           "Dezena no segundo prêmio!<br>com o palpite 0017",
           "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 0017",
           "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 0017"
         ],
-        "0018": [
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 0018",
-          "Dezena no quinto prêmio!<br>com o palpite 0018",
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 0018"
+        "0217": [
+          "Dezena no segundo prêmio!<br>com o palpite 0217",
+          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 0217",
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 0217"
+        ],
+        "0077": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 0077"
+        ],
+        "0277": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 0277"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 6,
+        "Dezena": 12,
         "Grupo": [
-          "🐕"
+          "🐑",
+          "🐕",
+          "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 0007, 0008, 0014, 0017, 0018, 3004, 3007, 3008, 3014, 3017, 3018, 9004, 9007, 9008, 9014, 9017, 9018"
+      "resumo": "Palpites dados para esta extração: 0017, 0027, 0077, 0217, 0227, 0277, 1017, 1027, 1077, 1217, 1227, 1277, 2017, 2027, 2077, 2217, 2227, 2277"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6614",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8675",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3144",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9556",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4312",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "6839",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6615",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1745",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4546",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2046",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0017, 0027, 0077, 0217, 0227, 0277, 1017, 1027, 1077, 1217, 1227, 1277, 2017, 2027, 2077, 2217, 2227, 2277"
+    },
+    "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
