@@ -70,6 +70,10 @@
         }
       ],
       "frases": {
+        "6797": [
+          "Dezena no sétimo prêmio!<br>com o palpite 6797",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 6797"
+        ],
         "7797": [
           "Dezena no sétimo prêmio!<br>com o palpite 7797",
           "VACA 🐄 no sétimo prêmio!<br>com o palpite 7797"
@@ -78,12 +82,12 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 2,
         "Grupo": [
           "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7797"
+      "resumo": "Palpites dados para esta extração: 6737, 6747, 6777, 6797, 7737, 7747, 7777, 7797"
     },
     "LOTEP - PB, 12:45": {
       "cabecalhos": [
@@ -155,6 +159,20 @@
         }
       ],
       "frases": {
+        "6737": [
+          "Dezena no quinto prêmio!<br>com o palpite 6737",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 6737"
+        ],
+        "6797": [
+          "Dezena no quarto prêmio!<br>com o palpite 6797",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 6797",
+          "Dezena no sexto prêmio!<br>com o palpite 6797",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 6797"
+        ],
+        "7737": [
+          "Dezena no quinto prêmio!<br>com o palpite 7737",
+          "COELHO 🐇 no quinto prêmio!<br>com o palpite 7737"
+        ],
         "7797": [
           "Dezena no quarto prêmio!<br>com o palpite 7797",
           "VACA 🐄 no quarto prêmio!<br>com o palpite 7797",
@@ -165,12 +183,13 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 6,
         "Grupo": [
-          "🐄"
+          "🐄",
+          "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7797"
+      "resumo": "Palpites dados para esta extração: 6737, 6747, 6777, 6797, 7737, 7747, 7777, 7797"
     },
     "LOTEP - PB, 15:45h": {
       "cabecalhos": [
@@ -241,16 +260,123 @@
           "Bicho": "Touro"
         }
       ],
-      "frases": {},
+      "frases": {
+        "6747": [
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 6747",
+          "ELEFANTE 🐘 no sétimo prêmio!<br>com o palpite 6747"
+        ],
+        "6777": [
+          "Dezena no oitavo prêmio!<br>com o palpite 6777",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 6777"
+        ],
+        "7747": [
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 7747",
+          "ELEFANTE 🐘 no sétimo prêmio!<br>com o palpite 7747"
+        ],
+        "7777": [
+          "Dezena no oitavo prêmio!<br>com o palpite 7777",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 7777"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐘",
+          "🦃"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 6737, 6747, 6777, 6797, 7737, 7747, 7777, 7797"
+    },
+    "LOTEP - PB, 18h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1278",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5782",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4058",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3219",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9633",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1543",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2702",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7851",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8289",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "4355",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        }
+      ],
+      "frases": {
+        "6777": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 6777"
+        ],
+        "7777": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 7777"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦃"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7797"
+      "resumo": "Palpites dados para esta extração: 6737, 6747, 6777, 6797, 7737, 7747, 7777, 7797"
     },
-    "LOTEP - PB, 18h": {
+    "PB, Paratodos 10:45": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
