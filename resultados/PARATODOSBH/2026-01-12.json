@@ -69,14 +69,25 @@
           "Bicho": "Peru"
         }
       ],
-      "frases": {},
+      "frases": {
+        "5041": [
+          "Dezena no quinto prêmio!<br>com o palpite 5041",
+          "CAVALO 🐎 no quinto prêmio!<br>com o palpite 5041"
+        ],
+        "5061": [
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 5061"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🦁",
+          "🐎"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5082, 5083, 5582, 5583, 5782, 5783"
+      "resumo": "Palpites dados para esta extração: 5041, 5061, 5081"
     },
     "12h - BA": {
       "cabecalhos": [
