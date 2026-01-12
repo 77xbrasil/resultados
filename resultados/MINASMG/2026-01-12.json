@@ -52,8 +52,17 @@
         }
       ],
       "frases": {
+        "4620": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 4620"
+        ],
+        "6620": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 6620"
+        ],
         "7620": [
           "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 7620"
+        ],
+        "8620": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 8620"
         ]
       },
       "acertos": {
@@ -64,9 +73,69 @@
           "🐕"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7620, 7625, 7627"
+      "resumo": "Palpites dados para esta extração: 4620, 4625, 4627, 6620, 6625, 6627, 7620, 7625, 7627, 8620, 8625, 8627"
     },
     "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6368",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2511",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2752",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5992",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4880",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "22503",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "990",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 4620, 4625, 4627, 6620, 6625, 6627, 7620, 7625, 7627, 8620, 8625, 8627"
+    },
+    "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
