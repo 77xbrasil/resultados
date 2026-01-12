@@ -70,54 +70,252 @@
         }
       ],
       "frases": {
-        "1198": [
-          "VACA 🐄 no sétimo prêmio!<br>com o palpite 1198"
+        "7091": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7091"
         ],
-        "1199": [
-          "VACA 🐄 no sétimo prêmio!<br>com o palpite 1199"
+        "7092": [
+          "Dezena no décimo prêmio!<br>com o palpite 7092",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7092"
         ],
-        "1598": [
-          "VACA 🐄 no sétimo prêmio!<br>com o palpite 1598"
+        "7097": [
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 7097",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 7097",
+          "Dezena no sétimo prêmio!<br>com o palpite 7097",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7097"
         ],
-        "1599": [
-          "VACA 🐄 no sétimo prêmio!<br>com o palpite 1599"
+        "7098": [
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7098"
         ],
-        "5198": [
-          "VACA 🐄 no sétimo prêmio!<br>com o palpite 5198"
+        "7099": [
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7099"
         ],
-        "5199": [
-          "VACA 🐄 no sétimo prêmio!<br>com o palpite 5199"
+        "7691": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7691"
         ],
-        "5598": [
-          "VACA 🐄 no sétimo prêmio!<br>com o palpite 5598"
+        "7692": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 7692",
+          "Dezena no décimo prêmio!<br>com o palpite 7692",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7692"
         ],
-        "5599": [
-          "VACA 🐄 no sétimo prêmio!<br>com o palpite 5599"
+        "7697": [
+          "Dezena no sétimo prêmio!<br>com o palpite 7697",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7697"
         ],
-        "7198": [
-          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7198"
+        "7698": [
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7698"
         ],
-        "7199": [
-          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7199"
+        "7699": [
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7699"
         ],
-        "7598": [
-          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7598"
+        "7791": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7791"
         ],
-        "7599": [
-          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7599"
+        "7792": [
+          "Dezena no décimo prêmio!<br>com o palpite 7792",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7792"
+        ],
+        "7797": [
+          "Dezena no sétimo prêmio!<br>com o palpite 7797",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7797"
+        ],
+        "7798": [
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7798"
+        ],
+        "7799": [
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7799"
+        ],
+        "7991": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7991"
+        ],
+        "7992": [
+          "Dezena no décimo prêmio!<br>com o palpite 7992",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7992"
+        ],
+        "7997": [
+          "Dezena no sétimo prêmio!<br>com o palpite 7997",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7997"
+        ],
+        "7998": [
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7998"
+        ],
+        "7999": [
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7999"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 8,
+        "Grupo": [
+          "🐄",
+          "🐻"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 7091, 7092, 7094, 7095, 7096, 7097, 7098, 7099, 7691, 7692, 7694, 7695, 7696, 7697, 7698, 7699, 7791, 7792, 7794, 7795, 7796, 7797, 7798, 7799, 7991, 7992, 7994, 7995, 7996, 7997, 7998, 7999"
+    },
+    "LOTEP - PB, 12:45": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6725",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5784",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9342",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7297",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6537",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "6597",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "7732",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2849",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5427",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8290",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        }
+      ],
+      "frases": {
+        "7091": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7091"
+        ],
+        "7092": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7092"
+        ],
+        "7097": [
+          "Dezena no quarto prêmio!<br>com o palpite 7097",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7097",
+          "Dezena no sexto prêmio!<br>com o palpite 7097",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 7097"
+        ],
+        "7098": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7098",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 7098"
+        ],
+        "7099": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7099",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 7099"
+        ],
+        "7691": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7691"
+        ],
+        "7692": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7692"
+        ],
+        "7697": [
+          "Dezena no quarto prêmio!<br>com o palpite 7697",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7697",
+          "Dezena no sexto prêmio!<br>com o palpite 7697",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 7697"
+        ],
+        "7698": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7698",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 7698"
+        ],
+        "7699": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7699",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 7699"
+        ],
+        "7791": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7791"
+        ],
+        "7792": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7792"
+        ],
+        "7797": [
+          "Dezena no quarto prêmio!<br>com o palpite 7797",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7797",
+          "Dezena no sexto prêmio!<br>com o palpite 7797",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 7797"
+        ],
+        "7798": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7798",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 7798"
+        ],
+        "7799": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7799",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 7799"
+        ],
+        "7991": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7991"
+        ],
+        "7992": [
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 7992"
+        ],
+        "7997": [
+          "Dezena no quarto prêmio!<br>com o palpite 7997",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7997",
+          "Dezena no sexto prêmio!<br>com o palpite 7997",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 7997"
+        ],
+        "7998": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7998",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 7998"
+        ],
+        "7999": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7999",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 7999"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 8,
         "Grupo": [
-          "🐄"
+          "🐄",
+          "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1198, 1199, 1598, 1599, 5198, 5199, 5598, 5599, 7198, 7199, 7598, 7599"
+      "resumo": "Palpites dados para esta extração: 7091, 7092, 7094, 7095, 7096, 7097, 7098, 7099, 7691, 7692, 7694, 7695, 7696, 7697, 7698, 7699, 7791, 7792, 7794, 7795, 7796, 7797, 7798, 7799, 7991, 7992, 7994, 7995, 7996, 7997, 7998, 7999"
     },
-    "LOTEP - PB, 12:45": {
+    "LOTEP - PB, 15:45h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
