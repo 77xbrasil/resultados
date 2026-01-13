@@ -52,30 +52,92 @@
         }
       ],
       "frases": {
-        "4518": [
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 4518"
+        "5398": [
+          "Dezena no quarto prêmio!<br>com o palpite 5398",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 5398"
         ],
-        "4568": [
-          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 4568"
+        "5399": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 5399"
         ],
-        "4598": [
-          "Dezena no quarto prêmio!<br>com o palpite 4598",
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 4598"
+        "9398": [
+          "Dezena no quarto prêmio!<br>com o palpite 9398",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 9398"
+        ],
+        "9399": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 9399"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 2,
         "Grupo": [
-          "🐄",
-          "🐕",
-          "🐒"
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4518, 4528, 4538, 4548, 4568, 4578, 4598"
+      "resumo": "Palpites dados para esta extração: 5398, 5399, 9398, 9399"
     },
     "SP, 10hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5989",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2274",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3259",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4670",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2338",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "808",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 5398, 5399, 9398, 9399"
+    },
+    "SP, 12:00 - PTSP": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -170,36 +232,110 @@
         }
       ],
       "frases": {
-        "4518": [
-          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 4518"
+        "5398": [
+          "Dezena no quarto prêmio!<br>com o palpite 5398",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 5398"
         ],
-        "4528": [
-          "Centena e Dezena no nono prêmio!<br>com o palpite 4528",
-          "Dezena no nono prêmio!<br>com o palpite 4528",
-          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 4528"
+        "5399": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 5399"
         ],
-        "4538": [
-          "COELHO 🐇 no sexto prêmio!<br>com o palpite 4538"
+        "9398": [
+          "Dezena no quarto prêmio!<br>com o palpite 9398",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 9398"
         ],
-        "4598": [
-          "Dezena no quarto prêmio!<br>com o palpite 4598",
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 4598"
+        "9399": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 9399"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
+        "Centena": 0,
         "Dezena": 2,
         "Grupo": [
-          "🐄",
-          "🐕",
-          "🐇",
-          "🐑"
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4518, 4528, 4538, 4548, 4568, 4578, 4598"
+      "resumo": "Palpites dados para esta extração: 5398, 5399, 9398, 9399"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5989",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2274",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3259",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4670",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5623",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "9122",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8475",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9649",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "5207",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 5398, 5399, 9398, 9399"
+    },
+    "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
