@@ -382,6 +382,66 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5224",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5772",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3630",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1568",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5021",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "1215",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "152",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 6426, 6427, 6428, 6436, 6437, 6438, 6626, 6627, 6628, 6636, 6637, 6638, 6926, 6927, 6928, 6936, 6937, 6938, 9426, 9427, 9428, 9436, 9437, 9438, 9626, 9627, 9628, 9636, 9637, 9638, 9926, 9927, 9928, 9936, 9937, 9938"
+    },
+    "SP, 20hs - PTN SP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
@@ -996,6 +1056,111 @@
       "resumo": "Palpites dados para esta extração: 6426, 6427, 6428, 6436, 6437, 6438, 6626, 6627, 6628, 6636, 6637, 6638, 6926, 6927, 6928, 6936, 6937, 6938, 9426, 9427, 9428, 9436, 9437, 9438, 9626, 9627, 9628, 9636, 9637, 9638, 9926, 9927, 9928, 9936, 9937, 9938"
     },
     "SP, 19hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5224",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5772",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3630",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1568",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5021",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5531",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2765",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2736",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4208",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6455",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        }
+      ],
+      "frases": {
+        "6436": [
+          "Dezena no oitavo prêmio!<br>com o palpite 6436",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 6436"
+        ],
+        "6636": [
+          "Dezena no oitavo prêmio!<br>com o palpite 6636",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 6636"
+        ],
+        "6936": [
+          "Dezena no oitavo prêmio!<br>com o palpite 6936",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 6936"
+        ],
+        "9436": [
+          "Dezena no oitavo prêmio!<br>com o palpite 9436",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 9436"
+        ],
+        "9636": [
+          "Dezena no oitavo prêmio!<br>com o palpite 9636",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 9636"
+        ],
+        "9936": [
+          "Dezena no oitavo prêmio!<br>com o palpite 9936",
+          "COBRA 🐍 no oitavo prêmio!<br>com o palpite 9936"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 6,
+        "Grupo": [
+          "🐍"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 6426, 6427, 6428, 6436, 6437, 6438, 6626, 6627, 6628, 6636, 6637, 6638, 6926, 6927, 6928, 6936, 6937, 6938, 9426, 9427, 9428, 9436, 9437, 9438, 9626, 9627, 9628, 9636, 9637, 9638, 9926, 9927, 9928, 9936, 9937, 9938"
+    },
+    "SP, 20hs - PTN SP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
