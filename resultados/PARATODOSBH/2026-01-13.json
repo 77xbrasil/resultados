@@ -69,14 +69,33 @@
           "Bicho": "Gato"
         }
       ],
-      "frases": {},
+      "frases": {
+        "3391": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 3391",
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 3391"
+        ],
+        "3491": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 3491",
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 3491"
+        ],
+        "3791": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 3791",
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 3791"
+        ],
+        "3991": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 3991",
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 3991"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐻"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 8396, 8796"
+      "resumo": "Palpites dados para esta extração: 3391, 3396, 3491, 3496, 3791, 3796, 3991, 3996"
     },
     "12h - BA": {
       "cabecalhos": [
@@ -148,33 +167,64 @@
         }
       ],
       "frases": {
-        "8396": [
-          "Dezena no primeiro prêmio!<br>com o palpite 8396",
-          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 8396",
-          "Dezena no quarto prêmio!<br>com o palpite 8396",
-          "VEADO 🦌 no quarto prêmio!<br>com o palpite 8396",
-          "Dezena no sétimo prêmio!<br>com o palpite 8396",
-          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 8396"
+        "3391": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 3391"
         ],
-        "8796": [
-          "Dezena no primeiro prêmio!<br>com o palpite 8796",
-          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 8796",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 8796",
-          "Dezena no quarto prêmio!<br>com o palpite 8796",
-          "VEADO 🦌 no quarto prêmio!<br>com o palpite 8796",
-          "Dezena no sétimo prêmio!<br>com o palpite 8796",
-          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 8796"
+        "3396": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3396",
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3396",
+          "Dezena no quarto prêmio!<br>com o palpite 3396",
+          "VEADO 🦌 no quarto prêmio!<br>com o palpite 3396",
+          "Dezena no sétimo prêmio!<br>com o palpite 3396",
+          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 3396"
+        ],
+        "3491": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 3491"
+        ],
+        "3496": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3496",
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3496",
+          "Dezena no quarto prêmio!<br>com o palpite 3496",
+          "VEADO 🦌 no quarto prêmio!<br>com o palpite 3496",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 3496",
+          "Dezena no sétimo prêmio!<br>com o palpite 3496",
+          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 3496"
+        ],
+        "3791": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 3791"
+        ],
+        "3796": [
+          "Dezena no primeiro prêmio!<br>com o palpite 3796",
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3796",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 3796",
+          "Dezena no quarto prêmio!<br>com o palpite 3796",
+          "VEADO 🦌 no quarto prêmio!<br>com o palpite 3796",
+          "Dezena no sétimo prêmio!<br>com o palpite 3796",
+          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 3796"
+        ],
+        "3991": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 3991"
+        ],
+        "3996": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 3996",
+          "Dezena no primeiro prêmio!<br>com o palpite 3996",
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 3996",
+          "Dezena no quarto prêmio!<br>com o palpite 3996",
+          "VEADO 🦌 no quarto prêmio!<br>com o palpite 3996",
+          "Dezena no sétimo prêmio!<br>com o palpite 3996",
+          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 3996"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 6,
+        "Centena": 3,
+        "Dezena": 12,
         "Grupo": [
-          "🦌"
+          "🦌",
+          "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8396, 8796"
+      "resumo": "Palpites dados para esta extração: 3391, 3396, 3491, 3496, 3791, 3796, 3991, 3996"
     },
     "15h - BA": {
       "cabecalhos": [
@@ -246,22 +296,46 @@
         }
       ],
       "frases": {
-        "8396": [
-          "VEADO 🦌 no décimo prêmio!<br>com o palpite 8396"
+        "3391": [
+          "Dezena no quinto prêmio!<br>com o palpite 3391",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 3391"
         ],
-        "8796": [
-          "VEADO 🦌 no décimo prêmio!<br>com o palpite 8796"
+        "3396": [
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 3396"
+        ],
+        "3491": [
+          "Dezena no quinto prêmio!<br>com o palpite 3491",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 3491"
+        ],
+        "3496": [
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 3496"
+        ],
+        "3791": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 3791",
+          "Dezena no quinto prêmio!<br>com o palpite 3791",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 3791"
+        ],
+        "3796": [
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 3796"
+        ],
+        "3991": [
+          "Dezena no quinto prêmio!<br>com o palpite 3991",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 3991"
+        ],
+        "3996": [
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 3996"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Centena": 1,
+        "Dezena": 4,
         "Grupo": [
+          "🐻",
           "🦌"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8396, 8796"
+      "resumo": "Palpites dados para esta extração: 3391, 3396, 3491, 3496, 3791, 3796, 3991, 3996"
     },
     "19h - BA": {
       "cabecalhos": [
