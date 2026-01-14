@@ -99,43 +99,43 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "2783",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "2799",
+          "Grupo": "25",
+          "Bicho": "Vaca"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "1562",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "4560",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "4962",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "0795",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "2645",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Milhar": "3486",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "4833",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "2194",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "16785",
+          "Milhar": "13834",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "347",
+          "Milhar": "763",
           "Grupo": "",
           "Bicho": ""
         }
@@ -147,7 +147,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 6491, 6691"
+      "resumo": "Palpites dados para esta extração: 0177, 0277, 0477, 0577, 0977"
     },
     "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
@@ -280,6 +280,29 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 6491, 6691"
+    },
+    "MINAS FEDERAL - MG": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
