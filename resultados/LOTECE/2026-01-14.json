@@ -69,14 +69,29 @@
           "Bicho": "Veado"
         }
       ],
-      "frases": {},
+      "frases": {
+        "4965": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 4965",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 4965"
+        ],
+        "5965": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 5965",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 5965"
+        ],
+        "8965": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 8965",
+          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 8965"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐒"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 4070, 4075, 4170, 4175, 4870, 4875, 4970, 4975, 5070, 5075, 5170, 5175, 5870, 5875, 5970, 5975"
+      "resumo": "Palpites dados para esta extração: 4960, 4965, 5960, 5965, 8960, 8965"
     },
     "LOTECE - CE, 14:00 (tarde)": {
       "cabecalhos": [
