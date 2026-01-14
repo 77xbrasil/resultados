@@ -154,6 +154,83 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0211",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2279",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6272",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8029",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3276",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "0067",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "480",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "5510": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 5510"
+        ],
+        "5511": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5511",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 5511"
+        ],
+        "5570": [
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 5570"
+        ],
+        "5571": [
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 5571"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 1,
+        "Grupo": [
+          "🐴",
+          "🐖"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5500, 5501, 5510, 5511, 5560, 5561, 5570, 5571"
+    },
+    "PT-RIO, RJ, 16:00, PTV": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
@@ -375,6 +452,103 @@
       "resumo": "Palpites dados para esta extração: 5500, 5501, 5510, 5511, 5560, 5561, 5570, 5571"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0211",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2279",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6272",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8029",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3276",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0268",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2220",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1772",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1929",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6256",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        }
+      ],
+      "frases": {
+        "5510": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 5510"
+        ],
+        "5511": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5511",
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 5511"
+        ],
+        "5570": [
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 5570",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 5570"
+        ],
+        "5571": [
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 5571",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 5571"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 1,
+        "Grupo": [
+          "🐴",
+          "🐖"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5500, 5501, 5510, 5511, 5560, 5561, 5570, 5571"
+    },
+    "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
