@@ -118,49 +118,76 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "1699",
-          "Grupo": "25",
-          "Bicho": "Vaca"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "9807",
-          "Grupo": "02",
-          "Bicho": "Águia"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "3367",
-          "Grupo": "17",
-          "Bicho": "Macaco"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "1694",
-          "Grupo": "24",
-          "Bicho": "Veado"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "7551",
+          "Milhar": "6951",
           "Grupo": "13",
           "Bicho": "Galo"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "7993",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6962",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2414",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0129",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
           "Prêmio": "6º [soma]",
-          "Milhar": "4118",
+          "Milhar": "4449",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "3449": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 3449",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 3449",
+          "Dezena no sexto prêmio!<br>com o palpite 3449",
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 3449"
+        ],
+        "7449": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 7449",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 7449",
+          "Dezena no sexto prêmio!<br>com o palpite 7449",
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 7449"
+        ],
+        "8449": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 8449",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 8449",
+          "Dezena no sexto prêmio!<br>com o palpite 8449",
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 8449"
+        ],
+        "0449": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 0449",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 0449",
+          "Dezena no sexto prêmio!<br>com o palpite 0449",
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 0449"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 4,
+        "Dezena": 4,
+        "Grupo": [
+          "🐓"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1132, 1142, 1162, 1182, 1832, 1842, 1862, 1882, 1932, 1942, 1962, 1982, 3132, 3142, 3162, 3182, 3832, 3842, 3862, 3882, 3932, 3942, 3962, 3982"
+      "resumo": "Palpites dados para esta extração: 0449, 3449, 7449, 8449"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -724,83 +751,77 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "1699",
-          "Grupo": "25",
-          "Bicho": "Vaca"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "9807",
-          "Grupo": "02",
-          "Bicho": "Águia"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "3367",
-          "Grupo": "17",
-          "Bicho": "Macaco"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "1694",
-          "Grupo": "24",
-          "Bicho": "Veado"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "7551",
+          "Milhar": "6951",
           "Grupo": "13",
           "Bicho": "Galo"
         },
         {
-          "Prêmio": "6º",
-          "Milhar": "1931",
+          "Prêmio": "2º",
+          "Milhar": "7993",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6962",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2414",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0129",
           "Grupo": "08",
           "Bicho": "Camelo"
         },
         {
+          "Prêmio": "6º",
+          "Milhar": "6762",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
           "Prêmio": "7º",
-          "Milhar": "6836",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "9994",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "9069",
-          "Grupo": "18",
-          "Bicho": "Porco"
+          "Milhar": "5961",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "9774",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Milhar": "1324",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "1728",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
+          "Milhar": "8490",
+          "Grupo": "23",
+          "Bicho": "Urso"
         }
       ],
       "frases": {
-        "1132": [
-          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 1132"
+        "3449": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 3449"
         ],
-        "1832": [
-          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 1832"
+        "7449": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 7449"
         ],
-        "1932": [
-          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 1932"
+        "8449": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 8449"
         ],
-        "3132": [
-          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 3132"
-        ],
-        "3832": [
-          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 3832"
-        ],
-        "3932": [
-          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 3932"
+        "0449": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 0449"
         ]
       },
       "acertos": {
@@ -808,10 +829,10 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐪"
+          "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1132, 1142, 1162, 1182, 1832, 1842, 1862, 1882, 1932, 1942, 1962, 1982, 3132, 3142, 3162, 3182, 3832, 3842, 3862, 3882, 3932, 3942, 3962, 3982"
+      "resumo": "Palpites dados para esta extração: 0449, 3449, 7449, 8449"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
