@@ -246,6 +246,81 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7878",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6298",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0814",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5053",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4974",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "5017",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "615",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1279": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 1279"
+        ],
+        "2279": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 2279"
+        ],
+        "6279": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 6279"
+        ],
+        "0279": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 0279"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🦃"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0279, 1279, 2279, 6279"
+    },
+    "A FEDERAL DO BRASIL - RJ": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
@@ -552,6 +627,103 @@
       "resumo": "Palpites dados para esta extração: 0279, 1279, 2279, 6279"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7878",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6298",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0814",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5053",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4974",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7605",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8280",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7915",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8843",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7660",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        }
+      ],
+      "frases": {
+        "1279": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 1279",
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 1279"
+        ],
+        "2279": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 2279",
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 2279"
+        ],
+        "6279": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 6279",
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 6279"
+        ],
+        "0279": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 0279",
+          "PERU 🦃 no sétimo prêmio!<br>com o palpite 0279"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🦃"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0279, 1279, 2279, 6279"
+    },
+    "A FEDERAL DO BRASIL - RJ do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
