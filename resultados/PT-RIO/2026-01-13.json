@@ -415,20 +415,89 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "5521",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4089",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9740",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9943",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5371",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "4664",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "575",
+          "Grupo": "",
+          "Bicho": ""
+        }
       ],
-      "frases": {},
+      "frases": {
+        "2562": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 2562"
+        ],
+        "2569": [
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 2569"
+        ],
+        "2592": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 2592"
+        ],
+        "6562": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 6562"
+        ],
+        "6569": [
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 6569"
+        ],
+        "6592": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 6592"
+        ],
+        "0592": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 0592"
+        ],
+        "0569": [
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 0569"
+        ],
+        "0562": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 0562"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐻",
+          "🐖",
+          "🦁"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 0562, 0565, 0569, 0592, 0595, 0599, 2562, 2565, 2569, 2592, 2595, 2599, 6562, 6565, 6569, 6592, 6595, 6599"
     }
   },
   "1-10": {
@@ -1029,25 +1098,113 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "5521",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4089",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9740",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9943",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5371",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5499",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "5079",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2844",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1903",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "9989",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "2569": [
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 2569"
+        ],
+        "2592": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 2592",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 2592"
+        ],
+        "2599": [
+          "Dezena no sexto prêmio!<br>com o palpite 2599",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 2599"
+        ],
+        "6569": [
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 6569"
+        ],
+        "6592": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 6592",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 6592"
+        ],
+        "6599": [
+          "Dezena no sexto prêmio!<br>com o palpite 6599",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 6599"
+        ],
+        "0592": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 0592",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 0592"
+        ],
+        "0569": [
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 0569"
+        ],
+        "0599": [
+          "Dezena no sexto prêmio!<br>com o palpite 0599",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 0599"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 3,
+        "Grupo": [
+          "🐻",
+          "🐖",
+          "🐄"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 0562, 0565, 0569, 0592, 0595, 0599, 2562, 2565, 2569, 2592, 2595, 2599, 6562, 6565, 6569, 6592, 6595, 6599"
     }
   }
 }
