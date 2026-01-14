@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 6571"
+      "resumo": "Palpites dados para esta extração: 1571, 3571, 5571, 6571"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -118,7 +118,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 6571"
+      "resumo": "Palpites dados para esta extração: 1571, 3571, 5571, 6571"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -215,6 +215,18 @@
         }
       ],
       "frases": {
+        "1571": [
+          "Dezena no oitavo prêmio!<br>com o palpite 1571",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 1571"
+        ],
+        "3571": [
+          "Dezena no oitavo prêmio!<br>com o palpite 3571",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 3571"
+        ],
+        "5571": [
+          "Dezena no oitavo prêmio!<br>com o palpite 5571",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 5571"
+        ],
         "6571": [
           "Dezena no oitavo prêmio!<br>com o palpite 6571",
           "PORCO 🐖 no oitavo prêmio!<br>com o palpite 6571"
@@ -223,12 +235,12 @@
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 4,
         "Grupo": [
           "🐖"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6571"
+      "resumo": "Palpites dados para esta extração: 1571, 3571, 5571, 6571"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -300,6 +312,25 @@
         }
       ],
       "frases": {
+        "1571": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 1571",
+          "Dezena no sétimo prêmio!<br>com o palpite 1571",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 1571",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 1571"
+        ],
+        "3571": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 3571",
+          "Dezena no sétimo prêmio!<br>com o palpite 3571",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 3571",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 3571"
+        ],
+        "5571": [
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 5571",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 5571",
+          "Dezena no sétimo prêmio!<br>com o palpite 5571",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 5571",
+          "PORCO 🐖 no décimo prêmio!<br>com o palpite 5571"
+        ],
         "6571": [
           "Centena e Dezena no sétimo prêmio!<br>com o palpite 6571",
           "Dezena no sétimo prêmio!<br>com o palpite 6571",
@@ -308,14 +339,14 @@
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 1,
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 4,
         "Grupo": [
           "🐖"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6571"
+      "resumo": "Palpites dados para esta extração: 1571, 3571, 5571, 6571"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
