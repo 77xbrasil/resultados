@@ -274,20 +274,80 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "4134",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0491",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6661",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6413",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8695",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "26394",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "029",
+          "Grupo": "",
+          "Bicho": ""
+        }
       ],
-      "frases": {},
+      "frases": {
+        "3261": [
+          "Dezena no terceiro prêmio!<br>com o palpite 3261",
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 3261"
+        ],
+        "4261": [
+          "Dezena no terceiro prêmio!<br>com o palpite 4261",
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 4261"
+        ],
+        "5261": [
+          "Dezena no terceiro prêmio!<br>com o palpite 5261",
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 5261"
+        ],
+        "6261": [
+          "Dezena no terceiro prêmio!<br>com o palpite 6261",
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 6261"
+        ],
+        "8261": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8261",
+          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 8261"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 5,
+        "Grupo": [
+          "🦁"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 3261, 3271, 4261, 4271, 5261, 5271, 6261, 6271, 8261, 8271"
     }
   }
 }
