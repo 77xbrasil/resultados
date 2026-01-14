@@ -447,6 +447,66 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 5920, 5950, 5970"
+    },
+    "Nacional - LN 23:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3931",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1812",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8468",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4932",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1028",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "0171",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "5970": [
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 5970"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐖"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5920, 5950, 5970"
     }
   },
   "1-10": {
@@ -1076,6 +1136,91 @@
         "Grupo": [
           "🐓",
           "🐖"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5920, 5950, 5970"
+    },
+    "Nacional - LN 23:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3931",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1812",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8468",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4932",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1028",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3184",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "9849",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3163",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1282",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7649",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        }
+      ],
+      "frases": {
+        "5950": [
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 5950",
+          "GALO 🐓 no décimo prêmio!<br>com o palpite 5950"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐓"
         ]
       },
       "resumo": "Palpites dados para esta extração: 5920, 5950, 5970"
