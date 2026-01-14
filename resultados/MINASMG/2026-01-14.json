@@ -51,43 +51,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "0177": [
-          "Dezena no primeiro prêmio!<br>com o palpite 0177",
-          "PERU 🦃 no primeiro prêmio!<br>com o palpite 0177",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 0177"
-        ],
-        "0277": [
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 0277",
-          "Dezena no primeiro prêmio!<br>com o palpite 0277",
-          "PERU 🦃 no primeiro prêmio!<br>com o palpite 0277",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 0277"
-        ],
-        "0477": [
-          "Dezena no primeiro prêmio!<br>com o palpite 0477",
-          "PERU 🦃 no primeiro prêmio!<br>com o palpite 0477",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 0477"
-        ],
-        "0577": [
-          "Dezena no primeiro prêmio!<br>com o palpite 0577",
-          "PERU 🦃 no primeiro prêmio!<br>com o palpite 0577",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 0577"
-        ],
-        "0977": [
-          "Dezena no primeiro prêmio!<br>com o palpite 0977",
-          "PERU 🦃 no primeiro prêmio!<br>com o palpite 0977",
-          "PERU 🦃 no terceiro prêmio!<br>com o palpite 0977"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 5,
-        "Grupo": [
-          "🦃"
-        ]
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0177, 0277, 0477, 0577, 0977"
+      "resumo": "Palpites dados para esta extração: 2790, 2794, 2795, 2796, 2799"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
@@ -140,14 +111,39 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "2794": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 2794",
+          "Dezena no quinto prêmio!<br>com o palpite 2794",
+          "VEADO 🦌 no quinto prêmio!<br>com o palpite 2794"
+        ],
+        "2795": [
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 2795",
+          "Dezena no terceiro prêmio!<br>com o palpite 2795",
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 2795",
+          "VEADO 🦌 no quinto prêmio!<br>com o palpite 2795"
+        ],
+        "2796": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 2796",
+          "VEADO 🦌 no quinto prêmio!<br>com o palpite 2796"
+        ],
+        "2799": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 2799",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 2799",
+          "Dezena no primeiro prêmio!<br>com o palpite 2799",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 2799"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0177, 0277, 0477, 0577, 0977"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 3,
+        "Grupo": [
+          "🐄",
+          "🦌"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2790, 2794, 2795, 2796, 2799"
     },
     "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
@@ -339,7 +335,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0177, 0277, 0477, 0577, 0977"
+      "resumo": "Palpites dados para esta extração: 2790, 2794, 2795, 2796, 2799"
     }
   }
 }
