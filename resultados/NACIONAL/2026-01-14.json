@@ -286,82 +286,49 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "6801",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "1580",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "0784",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "7478",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "5285",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "9976",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "1782",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "8477",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "3568",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "5729",
+          "Grupo": "08",
+          "Bicho": "Camelo"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "8220",
+          "Milhar": "3240",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {
-        "1182": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1182",
-          "Dezena no quarto prêmio!<br>com o palpite 1182",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 1182"
-        ],
-        "1882": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1882",
-          "Dezena no quarto prêmio!<br>com o palpite 1882",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 1882"
-        ],
-        "1982": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1982",
-          "Dezena no quarto prêmio!<br>com o palpite 1982",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 1982"
-        ],
-        "3182": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3182",
-          "Dezena no quarto prêmio!<br>com o palpite 3182",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 3182"
-        ],
-        "3882": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3882",
-          "Dezena no quarto prêmio!<br>com o palpite 3882",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 3882"
-        ],
-        "3982": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3982",
-          "Dezena no quarto prêmio!<br>com o palpite 3982",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 3982"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 6,
-        "Grupo": [
-          "🐂"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1132, 1142, 1162, 1182, 1832, 1842, 1862, 1882, 1932, 1942, 1962, 1982, 3132, 3142, 3162, 3182, 3832, 3842, 3862, 3882, 3932, 3942, 3962, 3982"
+      "resumo": "Palpites dados para esta extração: 7583"
     },
     "Nacional - LN 21:00": {
       "cabecalhos": [
@@ -507,6 +474,29 @@
       "resumo": "Palpites dados para esta extração: 1132, 1142, 1162, 1182, 1832, 1842, 1862, 1882, 1932, 1942, 1962, 1982, 3132, 3142, 3162, 3182, 3832, 3842, 3862, 3882, 3932, 3942, 3962, 3982"
     },
     "A FEDERAL DO BRASIL": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    },
+    "Nacional - LN 20:00": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -947,106 +937,73 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "6801",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "1580",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "0784",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "7478",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "5285",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "9976",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "1782",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "8477",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "3568",
+          "Milhar": "5729",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1798",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "5494",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8777",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0867",
           "Grupo": "17",
           "Bicho": "Macaco"
         },
         {
-          "Prêmio": "6º",
-          "Milhar": "6051",
-          "Grupo": "13",
-          "Bicho": "Galo"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "8727",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
-        },
-        {
-          "Prêmio": "8º",
-          "Milhar": "0888",
-          "Grupo": "22",
-          "Bicho": "Tigre"
-        },
-        {
-          "Prêmio": "9º",
-          "Milhar": "1452",
-          "Grupo": "13",
-          "Bicho": "Galo"
-        },
-        {
           "Prêmio": "10º",
-          "Milhar": "5338",
-          "Grupo": "10",
-          "Bicho": "Coelho"
+          "Milhar": "0176",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         }
       ],
-      "frases": {
-        "1182": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1182",
-          "Dezena no quarto prêmio!<br>com o palpite 1182",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 1182"
-        ],
-        "1882": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1882",
-          "Dezena no quarto prêmio!<br>com o palpite 1882",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 1882"
-        ],
-        "1982": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 1982",
-          "Dezena no quarto prêmio!<br>com o palpite 1982",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 1982"
-        ],
-        "3182": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3182",
-          "Dezena no quarto prêmio!<br>com o palpite 3182",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 3182"
-        ],
-        "3882": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3882",
-          "Dezena no quarto prêmio!<br>com o palpite 3882",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 3882"
-        ],
-        "3982": [
-          "TOURO 🐂 no segundo prêmio!<br>com o palpite 3982",
-          "Dezena no quarto prêmio!<br>com o palpite 3982",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 3982"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 6,
-        "Grupo": [
-          "🐂"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1132, 1142, 1162, 1182, 1832, 1842, 1862, 1882, 1932, 1942, 1962, 1982, 3132, 3142, 3162, 3182, 3832, 3842, 3862, 3882, 3932, 3942, 3962, 3982"
+      "resumo": "Palpites dados para esta extração: 7583"
     },
     "Nacional - LN 21:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1290,6 +1247,34 @@
       "resumo": "Palpites dados para esta extração: 1132, 1142, 1162, 1182, 1832, 1842, 1862, 1882, 1932, 1942, 1962, 1982, 3132, 3142, 3162, 3182, 3832, 3842, 3862, 3882, 3932, 3942, 3962, 3982"
     },
     "A FEDERAL DO BRASIL do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    },
+    "Nacional - LN 20:00 do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
