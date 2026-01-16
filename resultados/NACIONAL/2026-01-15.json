@@ -112,7 +112,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3062, 3162, 3262, 3462, 3562, 3662, 3862, 3962"
+      "resumo": "Palpites dados para esta extração: 2062, 2262, 2562, 2662, 3062, 3262, 3562, 3662"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -166,7 +166,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3062, 3162, 3262, 3462, 3562, 3662, 3862, 3962"
+      "resumo": "Palpites dados para esta extração: 2062, 2262, 2562, 2662, 3062, 3262, 3562, 3662"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -220,7 +220,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3062, 3162, 3262, 3462, 3562, 3662, 3862, 3962"
+      "resumo": "Palpites dados para esta extração: 2062, 2262, 2562, 2662, 3062, 3262, 3562, 3662"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -274,7 +274,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3062, 3162, 3262, 3462, 3562, 3662, 3862, 3962"
+      "resumo": "Palpites dados para esta extração: 2062, 2262, 2562, 2662, 3062, 3262, 3562, 3662"
     },
     "Nacional - LN 15:00": {
       "cabecalhos": [
@@ -328,7 +328,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3062, 3162, 3262, 3462, 3562, 3662, 3862, 3962"
+      "resumo": "Palpites dados para esta extração: 2062, 2262, 2562, 2662, 3062, 3262, 3562, 3662"
     },
     "Nacional - LN 17:00": {
       "cabecalhos": [
@@ -376,29 +376,29 @@
         }
       ],
       "frases": {
+        "2062": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2062"
+        ],
+        "2262": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2262"
+        ],
+        "2562": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2562"
+        ],
+        "2662": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2662"
+        ],
         "3062": [
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3062"
         ],
-        "3162": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3162"
-        ],
         "3262": [
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3262"
-        ],
-        "3462": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3462"
         ],
         "3562": [
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3562"
         ],
         "3662": [
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3662"
-        ],
-        "3862": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3862"
-        ],
-        "3962": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3962"
         ]
       },
       "acertos": {
@@ -409,7 +409,7 @@
           "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3062, 3162, 3262, 3462, 3562, 3662, 3862, 3962"
+      "resumo": "Palpites dados para esta extração: 2062, 2262, 2562, 2662, 3062, 3262, 3562, 3662"
     },
     "Nacional - LN 21:00": {
       "cabecalhos": [
@@ -457,25 +457,36 @@
         }
       ],
       "frases": {
+        "2062": [
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 2062",
+          "Dezena no segundo prêmio!<br>com o palpite 2062",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2062"
+        ],
+        "2262": [
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 2262",
+          "Dezena no segundo prêmio!<br>com o palpite 2262",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2262"
+        ],
+        "2562": [
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 2562",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 2562",
+          "Dezena no segundo prêmio!<br>com o palpite 2562",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2562"
+        ],
+        "2662": [
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 2662",
+          "Dezena no segundo prêmio!<br>com o palpite 2662",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2662"
+        ],
         "3062": [
           "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 3062",
           "Dezena no segundo prêmio!<br>com o palpite 3062",
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3062"
         ],
-        "3162": [
-          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 3162",
-          "Dezena no segundo prêmio!<br>com o palpite 3162",
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3162"
-        ],
         "3262": [
           "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 3262",
           "Dezena no segundo prêmio!<br>com o palpite 3262",
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3262"
-        ],
-        "3462": [
-          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 3462",
-          "Dezena no segundo prêmio!<br>com o palpite 3462",
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3462"
         ],
         "3562": [
           "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 3562",
@@ -487,27 +498,17 @@
           "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 3662",
           "Dezena no segundo prêmio!<br>com o palpite 3662",
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3662"
-        ],
-        "3862": [
-          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 3862",
-          "Dezena no segundo prêmio!<br>com o palpite 3862",
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3862"
-        ],
-        "3962": [
-          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 3962",
-          "Dezena no segundo prêmio!<br>com o palpite 3962",
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3962"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
+        "Centena": 2,
         "Dezena": 8,
         "Grupo": [
           "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3062, 3162, 3262, 3462, 3562, 3662, 3862, 3962"
+      "resumo": "Palpites dados para esta extração: 2062, 2262, 2562, 2662, 3062, 3262, 3562, 3662"
     },
     "Nacional - LN 23:00": {
       "cabecalhos": [
@@ -519,77 +520,65 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5304",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "3024",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "9036",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "0563",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "2605",
+          "Milhar": "8208",
           "Grupo": "02",
           "Bicho": "Águia"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "1127",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
+          "Milhar": "6111",
+          "Grupo": "03",
+          "Bicho": "Burro"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "6449",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "7032",
+          "Grupo": "08",
+          "Bicho": "Camelo"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "4521",
+          "Milhar": "4938",
           "Grupo": "",
           "Bicho": ""
         }
       ],
       "frases": {
-        "5001": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 5001"
+        "2062": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2062"
         ],
-        "5002": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 5002"
+        "2262": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2262"
         ],
-        "5007": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 5007"
+        "2562": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2562"
         ],
-        "5301": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 5301"
+        "2662": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2662"
         ],
-        "5302": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 5302"
+        "3062": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3062"
         ],
-        "5307": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 5307"
+        "3262": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3262"
         ],
-        "5401": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 5401"
+        "3562": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3562"
         ],
-        "5402": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 5402"
-        ],
-        "5407": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 5407"
-        ],
-        "5601": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 5601"
-        ],
-        "5602": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 5602"
-        ],
-        "5607": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 5607"
+        "3662": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3662"
         ]
       },
       "acertos": {
@@ -597,11 +586,10 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🪶",
-          "🦅"
+          "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5001, 5002, 5007, 5301, 5302, 5307, 5401, 5402, 5407, 5601, 5602, 5607"
+      "resumo": "Palpites dados para esta extração: 2062, 2262, 2562, 2662, 3062, 3262, 3562, 3662"
     },
     "Nacional - LN 20:00": {
       "cabecalhos": [
@@ -782,7 +770,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3062, 3162, 3262, 3462, 3562, 3662, 3862, 3962"
+      "resumo": "Palpites dados para esta extração: 2062, 2262, 2562, 2662, 3062, 3262, 3562, 3662"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -860,7 +848,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3062, 3162, 3262, 3462, 3562, 3662, 3862, 3962"
+      "resumo": "Palpites dados para esta extração: 2062, 2262, 2562, 2662, 3062, 3262, 3562, 3662"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -938,7 +926,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3062, 3162, 3262, 3462, 3562, 3662, 3862, 3962"
+      "resumo": "Palpites dados para esta extração: 2062, 2262, 2562, 2662, 3062, 3262, 3562, 3662"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1016,7 +1004,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3062, 3162, 3262, 3462, 3562, 3662, 3862, 3962"
+      "resumo": "Palpites dados para esta extração: 2062, 2262, 2562, 2662, 3062, 3262, 3562, 3662"
     },
     "Nacional - LN 15:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1094,7 +1082,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3062, 3162, 3262, 3462, 3562, 3662, 3862, 3962"
+      "resumo": "Palpites dados para esta extração: 2062, 2262, 2562, 2662, 3062, 3262, 3562, 3662"
     },
     "Nacional - LN 17:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1166,29 +1154,29 @@
         }
       ],
       "frases": {
+        "2062": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2062"
+        ],
+        "2262": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2262"
+        ],
+        "2562": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2562"
+        ],
+        "2662": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2662"
+        ],
         "3062": [
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3062"
         ],
-        "3162": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3162"
-        ],
         "3262": [
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3262"
-        ],
-        "3462": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3462"
         ],
         "3562": [
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3562"
         ],
         "3662": [
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3662"
-        ],
-        "3862": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3862"
-        ],
-        "3962": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3962"
         ]
       },
       "acertos": {
@@ -1199,7 +1187,7 @@
           "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3062, 3162, 3262, 3462, 3562, 3662, 3862, 3962"
+      "resumo": "Palpites dados para esta extração: 2062, 2262, 2562, 2662, 3062, 3262, 3562, 3662"
     },
     "Nacional - LN 21:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1271,6 +1259,35 @@
         }
       ],
       "frases": {
+        "2062": [
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 2062",
+          "Dezena no segundo prêmio!<br>com o palpite 2062",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2062",
+          "Dezena no sexto prêmio!<br>com o palpite 2062",
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 2062"
+        ],
+        "2262": [
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 2262",
+          "Dezena no segundo prêmio!<br>com o palpite 2262",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2262",
+          "Dezena no sexto prêmio!<br>com o palpite 2262",
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 2262"
+        ],
+        "2562": [
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 2562",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 2562",
+          "Dezena no segundo prêmio!<br>com o palpite 2562",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2562",
+          "Dezena no sexto prêmio!<br>com o palpite 2562",
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 2562"
+        ],
+        "2662": [
+          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 2662",
+          "Dezena no segundo prêmio!<br>com o palpite 2662",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2662",
+          "Dezena no sexto prêmio!<br>com o palpite 2662",
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 2662"
+        ],
         "3062": [
           "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 3062",
           "Dezena no segundo prêmio!<br>com o palpite 3062",
@@ -1278,26 +1295,12 @@
           "Dezena no sexto prêmio!<br>com o palpite 3062",
           "LEÃO 🦁 no sexto prêmio!<br>com o palpite 3062"
         ],
-        "3162": [
-          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 3162",
-          "Dezena no segundo prêmio!<br>com o palpite 3162",
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3162",
-          "Dezena no sexto prêmio!<br>com o palpite 3162",
-          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 3162"
-        ],
         "3262": [
           "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 3262",
           "Dezena no segundo prêmio!<br>com o palpite 3262",
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3262",
           "Dezena no sexto prêmio!<br>com o palpite 3262",
           "LEÃO 🦁 no sexto prêmio!<br>com o palpite 3262"
-        ],
-        "3462": [
-          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 3462",
-          "Dezena no segundo prêmio!<br>com o palpite 3462",
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3462",
-          "Dezena no sexto prêmio!<br>com o palpite 3462",
-          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 3462"
         ],
         "3562": [
           "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 3562",
@@ -1313,33 +1316,17 @@
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3662",
           "Dezena no sexto prêmio!<br>com o palpite 3662",
           "LEÃO 🦁 no sexto prêmio!<br>com o palpite 3662"
-        ],
-        "3862": [
-          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 3862",
-          "Dezena no segundo prêmio!<br>com o palpite 3862",
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3862",
-          "Dezena no sexto prêmio!<br>com o palpite 3862",
-          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 3862"
-        ],
-        "3962": [
-          "LEÃO 🦁 no primeiro prêmio!<br>com o palpite 3962",
-          "Dezena no segundo prêmio!<br>com o palpite 3962",
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3962",
-          "Milhar e Centena no sexto prêmio!<br>com o palpite 3962",
-          "Centena e Dezena no sexto prêmio!<br>com o palpite 3962",
-          "Dezena no sexto prêmio!<br>com o palpite 3962",
-          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 3962"
         ]
       },
       "acertos": {
-        "Milhar": 1,
+        "Milhar": 0,
         "Centena": 2,
         "Dezena": 16,
         "Grupo": [
           "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3062, 3162, 3262, 3462, 3562, 3662, 3862, 3962"
+      "resumo": "Palpites dados para esta extração: 2062, 2262, 2562, 2662, 3062, 3262, 3562, 3662"
     },
     "Nacional - LN 23:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1351,126 +1338,100 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "5304",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "3024",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "9036",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "0563",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "2605",
+          "Milhar": "8208",
           "Grupo": "02",
           "Bicho": "Águia"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "1127",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
+          "Milhar": "6111",
+          "Grupo": "03",
+          "Bicho": "Burro"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "6449",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "7032",
+          "Grupo": "08",
+          "Bicho": "Camelo"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "5921",
+          "Milhar": "3086",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0521",
           "Grupo": "06",
           "Bicho": "Cabra"
         },
         {
-          "Prêmio": "7º",
-          "Milhar": "3061",
-          "Grupo": "16",
-          "Bicho": "Leão"
-        },
-        {
           "Prêmio": "8º",
-          "Milhar": "0302",
+          "Milhar": "2601",
           "Grupo": "01",
           "Bicho": "Avestruz"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "4657",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
+          "Milhar": "4381",
+          "Grupo": "21",
+          "Bicho": "Touro"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "8462",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "5527",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
         }
       ],
       "frases": {
-        "5001": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 5001",
-          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5001"
+        "2062": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2062"
         ],
-        "5002": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 5002",
-          "Dezena no oitavo prêmio!<br>com o palpite 5002",
-          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5002"
+        "2262": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2262"
         ],
-        "5007": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 5007"
+        "2562": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2562"
         ],
-        "5301": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 5301",
-          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5301"
+        "2662": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 2662"
         ],
-        "5302": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 5302",
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 5302",
-          "Dezena no oitavo prêmio!<br>com o palpite 5302",
-          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5302"
+        "3062": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3062"
         ],
-        "5307": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 5307"
+        "3262": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3262"
         ],
-        "5401": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 5401",
-          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5401"
+        "3562": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3562"
         ],
-        "5402": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 5402",
-          "Dezena no oitavo prêmio!<br>com o palpite 5402",
-          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5402"
-        ],
-        "5407": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 5407"
-        ],
-        "5601": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 5601",
-          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5601"
-        ],
-        "5602": [
-          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 5602",
-          "Dezena no oitavo prêmio!<br>com o palpite 5602",
-          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 5602"
-        ],
-        "5607": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 5607"
+        "3662": [
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3662"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 4,
+        "Centena": 0,
+        "Dezena": 0,
         "Grupo": [
-          "🪶",
-          "🦅"
+          "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5001, 5002, 5007, 5301, 5302, 5307, 5401, 5402, 5407, 5601, 5602, 5607"
+      "resumo": "Palpites dados para esta extração: 2062, 2262, 2562, 2662, 3062, 3262, 3562, 3662"
     },
     "Nacional - LN 20:00 do 1º ao 10º": {
       "cabecalhos": [
