@@ -70,54 +70,133 @@
         }
       ],
       "frases": {
-        "4086": [
-          "Dezena no quarto prêmio!<br>com o palpite 4086",
-          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 4086"
+        "1086": [
+          "Dezena no quarto prêmio!<br>com o palpite 1086",
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 1086"
         ],
-        "4586": [
-          "Dezena no quarto prêmio!<br>com o palpite 4586",
-          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 4586"
-        ],
-        "4986": [
-          "Dezena no quarto prêmio!<br>com o palpite 4986",
-          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 4986"
+        "1186": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 1186",
+          "Dezena no quarto prêmio!<br>com o palpite 1186",
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 1186"
         ],
         "5086": [
           "Dezena no quarto prêmio!<br>com o palpite 5086",
           "TIGRE 🐅 no quarto prêmio!<br>com o palpite 5086"
         ],
-        "5586": [
-          "Dezena no quarto prêmio!<br>com o palpite 5586",
-          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 5586"
+        "5186": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 5186",
+          "Dezena no quarto prêmio!<br>com o palpite 5186",
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 5186"
         ],
-        "5986": [
-          "Dezena no quarto prêmio!<br>com o palpite 5986",
-          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 5986"
+        "6086": [
+          "Dezena no quarto prêmio!<br>com o palpite 6086",
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 6086"
         ],
-        "8086": [
-          "Dezena no quarto prêmio!<br>com o palpite 8086",
-          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 8086"
+        "6186": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 6186",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 6186",
+          "Dezena no quarto prêmio!<br>com o palpite 6186",
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 6186"
         ],
-        "8586": [
-          "Dezena no quarto prêmio!<br>com o palpite 8586",
-          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 8586"
+        "7086": [
+          "Dezena no quarto prêmio!<br>com o palpite 7086",
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 7086"
         ],
-        "8986": [
-          "Dezena no quarto prêmio!<br>com o palpite 8986",
-          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 8986"
+        "7186": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 7186",
+          "Dezena no quarto prêmio!<br>com o palpite 7186",
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 7186"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 9,
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 8,
         "Grupo": [
           "🐅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4084, 4086, 4089, 4584, 4586, 4589, 4984, 4986, 4989, 5084, 5086, 5089, 5584, 5586, 5589, 5984, 5986, 5989, 8084, 8086, 8089, 8584, 8586, 8589, 8984, 8986, 8989"
+      "resumo": "Palpites dados para esta extração: 1086, 1186, 5086, 5186, 6086, 6186, 7086, 7186"
     },
     "LOTEP - PB, 12:45": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2664",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2340",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3073",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3590",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2167",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2233",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6305",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6479",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4030",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2881",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1086, 1186, 5086, 5186, 6086, 6186, 7086, 7186"
+    },
+    "LOTEP - PB, 15:45h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
