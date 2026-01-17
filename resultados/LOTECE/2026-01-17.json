@@ -167,27 +167,63 @@
         }
       ],
       "frases": {
-        "4031": [
-          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 4031",
-          "Dezena no quarto prêmio!<br>com o palpite 4031",
-          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 4031"
+        "4131": [
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 4131",
+          "Dezena no quarto prêmio!<br>com o palpite 4131",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 4131"
+        ],
+        "4141": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 4141",
+          "Dezena no segundo prêmio!<br>com o palpite 4141",
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 4141",
+          "Dezena no sexto prêmio!<br>com o palpite 4141",
+          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 4141"
+        ],
+        "4231": [
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 4231",
+          "Dezena no quarto prêmio!<br>com o palpite 4231",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 4231"
+        ],
+        "4241": [
+          "Dezena no segundo prêmio!<br>com o palpite 4241",
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 4241",
+          "Dezena no sexto prêmio!<br>com o palpite 4241",
+          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 4241"
+        ],
+        "4731": [
+          "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 4731",
+          "Dezena no quarto prêmio!<br>com o palpite 4731",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 4731"
+        ],
+        "4741": [
+          "Dezena no segundo prêmio!<br>com o palpite 4741",
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 4741",
+          "Dezena no sexto prêmio!<br>com o palpite 4741",
+          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 4741"
         ],
         "4831": [
           "CAMELO 🐪 no terceiro prêmio!<br>com o palpite 4831",
           "Centena e Dezena no quarto prêmio!<br>com o palpite 4831",
           "Dezena no quarto prêmio!<br>com o palpite 4831",
           "CAMELO 🐪 no quarto prêmio!<br>com o palpite 4831"
+        ],
+        "4841": [
+          "Dezena no segundo prêmio!<br>com o palpite 4841",
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 4841",
+          "Dezena no sexto prêmio!<br>com o palpite 4841",
+          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 4841"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 2,
+        "Centena": 2,
+        "Dezena": 12,
         "Grupo": [
+          "🐎",
           "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4031, 4831"
+      "resumo": "Palpites dados para esta extração: 4131, 4141, 4231, 4241, 4731, 4741, 4831, 4841"
     },
     "LOTECE - CE, 15:45 (tarde II)": {
       "cabecalhos": [
@@ -259,11 +295,29 @@
         }
       ],
       "frases": {
-        "4031": [
-          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4031"
+        "4131": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4131"
+        ],
+        "4141": [
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 4141"
+        ],
+        "4231": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4231"
+        ],
+        "4241": [
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 4241"
+        ],
+        "4731": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4731"
+        ],
+        "4741": [
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 4741"
         ],
         "4831": [
           "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4831"
+        ],
+        "4841": [
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 4841"
         ]
       },
       "acertos": {
@@ -271,10 +325,11 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐪"
+          "🐪",
+          "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4031, 4831"
+      "resumo": "Palpites dados para esta extração: 4131, 4141, 4231, 4241, 4731, 4741, 4831, 4841"
     },
     "LOTECE - CE, 19:00 (noite)": {
       "cabecalhos": [
@@ -286,90 +341,73 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "2371",
-          "Grupo": "18",
-          "Bicho": "Porco"
+          "Milhar": "5354",
+          "Grupo": "14",
+          "Bicho": "Gato"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "4266",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "7161",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "9275",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Milhar": "5777",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "6352",
+          "Milhar": "9215",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3145",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2537",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2349",
           "Grupo": "13",
           "Bicho": "Galo"
         },
         {
-          "Prêmio": "5º",
-          "Milhar": "4087",
-          "Grupo": "22",
-          "Bicho": "Tigre"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "6793",
-          "Grupo": "24",
-          "Bicho": "Veado"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "8109",
-          "Grupo": "03",
-          "Bicho": "Burro"
-        },
-        {
           "Prêmio": "8º",
-          "Milhar": "0101",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "6278",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "6727",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
+          "Milhar": "2937",
+          "Grupo": "10",
+          "Bicho": "Coelho"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "9688",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "1334",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         }
       ],
-      "frases": {
-        "4126": [
-          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 4126"
-        ],
-        "4127": [
-          "Dezena no nono prêmio!<br>com o palpite 4127",
-          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 4127"
-        ],
-        "4128": [
-          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 4128"
-        ],
-        "4176": [
-          "PAVÃO 🦚 no terceiro prêmio!<br>com o palpite 4176"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
-        "Grupo": [
-          "🦚",
-          "🐑"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 4126, 4127, 4128, 4156, 4157, 4158, 4176, 4177, 4178"
+      "resumo": "Palpites dados para esta extração: 4131, 4141, 4231, 4241, 4731, 4741, 4831, 4841"
     },
     "LOTECE - CE, 12:00 (manhã)": {
       "cabecalhos": [
@@ -470,25 +508,98 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "1850",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5019",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8873",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7095",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4331",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "6337",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6930",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "7533",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "4289",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "4131": [
+          "Dezena no quinto prêmio!<br>com o palpite 4131",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 4131",
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 4131"
+        ],
+        "4231": [
+          "Dezena no quinto prêmio!<br>com o palpite 4231",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 4231",
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 4231"
+        ],
+        "4731": [
+          "Dezena no quinto prêmio!<br>com o palpite 4731",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 4731",
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 4731"
+        ],
+        "4831": [
+          "Dezena no quinto prêmio!<br>com o palpite 4831",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 4831",
+          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 4831"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 4,
+        "Grupo": [
+          "🐪"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 4131, 4141, 4231, 4241, 4731, 4741, 4831, 4841"
     }
   }
 }
