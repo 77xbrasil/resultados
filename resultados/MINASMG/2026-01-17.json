@@ -1,0 +1,112 @@
+{
+  "1-5": {
+    "ALVORADA - MG, 12h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8393",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6371",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3019",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8808",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "31737",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "190",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1546": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1546",
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 1546"
+        ],
+        "1592": [
+          "URSO 🐻 no sétimo prêmio!<br>com o palpite 1592"
+        ],
+        "1596": [
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 1596"
+        ],
+        "2546": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2546",
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 2546"
+        ],
+        "2592": [
+          "URSO 🐻 no sétimo prêmio!<br>com o palpite 2592"
+        ],
+        "2596": [
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 2596"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐘",
+          "🦌",
+          "🐻"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1512, 1516, 1542, 1546, 1552, 1556, 1592, 1596, 2512, 2516, 2542, 2546, 2552, 2556, 2592, 2596"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    }
+  }
+}
