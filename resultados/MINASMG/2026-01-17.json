@@ -52,25 +52,104 @@
         }
       ],
       "frases": {
-        "1546": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1546",
-          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 1546"
+        "1306": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 1306"
         ],
-        "1592": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 1592"
+        "1346": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1346",
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 1346"
         ],
-        "1596": [
-          "VEADO 🦌 no segundo prêmio!<br>com o palpite 1596"
+        "1392": [
+          "URSO 🐻 no sétimo prêmio!<br>com o palpite 1392"
         ],
-        "2546": [
-          "Dezena no primeiro prêmio!<br>com o palpite 2546",
-          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 2546"
+        "1396": [
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 1396"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 1,
+        "Grupo": [
+          "🐘",
+          "🦌",
+          "🦅",
+          "🐻"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1302, 1306, 1312, 1316, 1342, 1346, 1352, 1356, 1392, 1396"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8294",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2308",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0453",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0632",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8315",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "20002",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "142",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1302": [
+          "Dezena no sexto prêmio!<br>com o palpite 1302",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1302"
         ],
-        "2592": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 2592"
+        "1306": [
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 1306"
         ],
-        "2596": [
-          "VEADO 🦌 no segundo prêmio!<br>com o palpite 2596"
+        "1316": [
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 1316"
+        ],
+        "1342": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1342",
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 1342"
+        ],
+        "1356": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1356"
+        ],
+        "1396": [
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 1396"
         ]
       },
       "acertos": {
@@ -78,14 +157,17 @@
         "Centena": 0,
         "Dezena": 2,
         "Grupo": [
-          "🐘",
           "🦌",
-          "🐻"
+          "🦅",
+          "🐈",
+          "🦋",
+          "🪶",
+          "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1512, 1516, 1542, 1546, 1552, 1556, 1592, 1596, 2512, 2516, 2542, 2546, 2552, 2556, 2592, 2596"
+      "resumo": "Palpites dados para esta extração: 1302, 1306, 1312, 1316, 1342, 1346, 1352, 1356, 1392, 1396"
     },
-    "MINAS DIA - MG, 15h": {
+    "MINAS FEDERAL - MG": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
