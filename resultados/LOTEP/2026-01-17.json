@@ -70,9 +70,6 @@
         }
       ],
       "frases": {
-        "9115": [
-          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 9115"
-        ],
         "9155": [
           "GATO 🐈 no quarto prêmio!<br>com o palpite 9155"
         ]
@@ -82,11 +79,10 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐈",
-          "🦋"
+          "🐈"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9115, 9155"
+      "resumo": "Palpites dados para esta extração: 9155, 9159"
     },
     "LOTEP - PB, 12:45": {
       "cabecalhos": [
@@ -158,8 +154,8 @@
         }
       ],
       "frases": {
-        "9115": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9115"
+        "9159": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 9159"
         ]
       },
       "acertos": {
@@ -167,10 +163,10 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🦋"
+          "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9115, 9155"
+      "resumo": "Palpites dados para esta extração: 9155, 9159"
     },
     "LOTEP - PB, 15:45h": {
       "cabecalhos": [
@@ -241,20 +237,14 @@
           "Bicho": "Tigre"
         }
       ],
-      "frases": {
-        "9115": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9115"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🦋"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 9115, 9155"
+      "resumo": "Palpites dados para esta extração: 9155, 9159"
     },
     "LOTEP - PB, 18h": {
       "cabecalhos": [
@@ -326,27 +316,24 @@
         }
       ],
       "frases": {
-        "9115": [
-          "Milhar e Centena no quarto prêmio!<br>com o palpite 9115",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 9115",
-          "Dezena no quarto prêmio!<br>com o palpite 9115",
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9115"
-        ],
         "9155": [
           "Dezena no quinto prêmio!<br>com o palpite 9155",
           "GATO 🐈 no quinto prêmio!<br>com o palpite 9155"
+        ],
+        "9159": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 9159"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 1,
-        "Dezena": 2,
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 1,
         "Grupo": [
-          "🦋",
+          "🐊",
           "🐈"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9115, 9155"
+      "resumo": "Palpites dados para esta extração: 9155, 9159"
     },
     "PB - FEDERAL": {
       "cabecalhos": [
@@ -418,19 +405,48 @@
         }
       ],
       "frases": {
-        "9115": [
-          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 9115"
+        "9159": [
+          "Dezena no sétimo prêmio!<br>com o palpite 9159",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 9159"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 1,
         "Grupo": [
-          "🦋"
+          "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9115, 9155"
+      "resumo": "Palpites dados para esta extração: 9155, 9159"
+    },
+    "PB, Paratodos 10:45": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
