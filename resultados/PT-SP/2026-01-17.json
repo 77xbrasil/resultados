@@ -52,30 +52,110 @@
         }
       ],
       "frases": {
-        "5008": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 5008"
+        "5308": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 5308"
         ],
-        "5208": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 5208"
+        "5368": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 5368"
         ],
-        "7008": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 7008"
+        "5398": [
+          "Dezena no quarto prêmio!<br>com o palpite 5398",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 5398"
         ],
-        "7208": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 7208"
+        "6308": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 6308"
+        ],
+        "6368": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 6368"
+        ],
+        "6398": [
+          "Dezena no quarto prêmio!<br>com o palpite 6398",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 6398"
+        ],
+        "7308": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 7308"
+        ],
+        "7368": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 7368"
+        ],
+        "7398": [
+          "Dezena no quarto prêmio!<br>com o palpite 7398",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7398"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 3,
         "Grupo": [
-          "🦅"
+          "🐒",
+          "🦅",
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5008, 5208, 7008, 7208"
+      "resumo": "Palpites dados para esta extração: 5308, 5368, 5398, 6308, 6368, 6398, 7308, 7368, 7398"
     },
     "SP, 10hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3360",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2516",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0631",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3317",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8072",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "7896",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "453",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 5308, 5368, 5398, 6308, 6368, 6398, 7308, 7368, 7398"
+    },
+    "SP, 12:00 - PTSP": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -170,30 +250,128 @@
         }
       ],
       "frases": {
-        "5008": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 5008"
+        "5308": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 5308"
         ],
-        "5208": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 5208"
+        "5368": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 5368"
         ],
-        "7008": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 7008"
+        "5398": [
+          "Dezena no quarto prêmio!<br>com o palpite 5398",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 5398"
         ],
-        "7208": [
-          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 7208"
+        "6308": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 6308"
+        ],
+        "6368": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 6368"
+        ],
+        "6398": [
+          "Dezena no quarto prêmio!<br>com o palpite 6398",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 6398"
+        ],
+        "7308": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 7308"
+        ],
+        "7368": [
+          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 7368"
+        ],
+        "7398": [
+          "Dezena no quarto prêmio!<br>com o palpite 7398",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7398"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 3,
         "Grupo": [
-          "🦅"
+          "🐒",
+          "🦅",
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5008, 5208, 7008, 7208"
+      "resumo": "Palpites dados para esta extração: 5308, 5368, 5398, 6308, 6368, 6398, 7308, 7368, 7398"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3360",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2516",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0631",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3317",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8072",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3203",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3563",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6131",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0617",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1410",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 5308, 5368, 5398, 6308, 6368, 6398, 7308, 7368, 7398"
+    },
+    "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
