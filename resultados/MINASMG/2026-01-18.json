@@ -1,0 +1,110 @@
+{
+  "1-5": {
+    "SALVAÇÃO - MG, 13h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2001",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2582",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6764",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5107",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8317",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "24771",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "166",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "8302": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 8302"
+        ],
+        "8303": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 8303"
+        ],
+        "8304": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 8304"
+        ],
+        "8305": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 8305"
+        ],
+        "8308": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 8308"
+        ],
+        "8318": [
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 8318"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🪶",
+          "🦅",
+          "🐕"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 8302, 8303, 8304, 8305, 8308, 8312, 8313, 8314, 8315, 8318, 8332, 8333, 8334, 8335, 8338, 8352, 8353, 8354, 8355, 8358, 8392, 8393, 8394, 8395, 8398"
+    },
+    "Salvação - MG, 13h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
+    }
+  }
+}
