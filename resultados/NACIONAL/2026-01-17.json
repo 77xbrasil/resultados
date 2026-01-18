@@ -52,7 +52,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0154, 0155, 0157, 1154, 1155, 1157, 5154, 5155, 5157, 7154, 7155, 7157"
+      "resumo": "Palpites dados para esta extração: 1107, 1147, 1157, 1177, 3107, 3147, 3157, 3177, 5107, 5147, 5157, 5177"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -106,7 +106,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0154, 0155, 0157, 1154, 1155, 1157, 5154, 5155, 5157, 7154, 7155, 7157"
+      "resumo": "Palpites dados para esta extração: 1107, 1147, 1157, 1177, 3107, 3147, 3157, 3177, 5107, 5147, 5157, 5177"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -160,7 +160,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0154, 0155, 0157, 1154, 1155, 1157, 5154, 5155, 5157, 7154, 7155, 7157"
+      "resumo": "Palpites dados para esta extração: 1107, 1147, 1157, 1177, 3107, 3147, 3157, 3177, 5107, 5147, 5157, 5177"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -207,14 +207,29 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1177": [
+          "Dezena no sexto prêmio!<br>com o palpite 1177",
+          "PERU 🦃 no sexto prêmio!<br>com o palpite 1177"
+        ],
+        "3177": [
+          "Dezena no sexto prêmio!<br>com o palpite 3177",
+          "PERU 🦃 no sexto prêmio!<br>com o palpite 3177"
+        ],
+        "5177": [
+          "Dezena no sexto prêmio!<br>com o palpite 5177",
+          "PERU 🦃 no sexto prêmio!<br>com o palpite 5177"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 3,
+        "Grupo": [
+          "🦃"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0154, 0155, 0157, 1154, 1155, 1157, 5154, 5155, 5157, 7154, 7155, 7157"
+      "resumo": "Palpites dados para esta extração: 1107, 1147, 1157, 1177, 3107, 3147, 3157, 3177, 5107, 5147, 5157, 5177"
     },
     "Nacional - LN 15:00": {
       "cabecalhos": [
@@ -262,61 +277,25 @@
         }
       ],
       "frases": {
-        "1154": [
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1154"
-        ],
-        "1155": [
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 1155",
-          "Dezena no terceiro prêmio!<br>com o palpite 1155",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1155"
-        ],
         "1157": [
           "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 1157"
         ],
-        "5154": [
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 5154"
-        ],
-        "5155": [
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 5155",
-          "Dezena no terceiro prêmio!<br>com o palpite 5155",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 5155"
+        "3157": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 3157"
         ],
         "5157": [
           "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 5157"
-        ],
-        "7154": [
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7154"
-        ],
-        "7155": [
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 7155",
-          "Dezena no terceiro prêmio!<br>com o palpite 7155",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7155"
-        ],
-        "7157": [
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 7157"
-        ],
-        "0154": [
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 0154"
-        ],
-        "0155": [
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 0155",
-          "Dezena no terceiro prêmio!<br>com o palpite 0155",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 0155"
-        ],
-        "0157": [
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 0157"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 4,
-        "Dezena": 4,
+        "Centena": 0,
+        "Dezena": 0,
         "Grupo": [
-          "🐈",
           "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0154, 0155, 0157, 1154, 1155, 1157, 5154, 5155, 5157, 7154, 7155, 7157"
+      "resumo": "Palpites dados para esta extração: 1107, 1147, 1157, 1177, 3107, 3147, 3157, 3177, 5107, 5147, 5157, 5177"
     },
     "Nacional - LN 17:00": {
       "cabecalhos": [
@@ -364,44 +343,32 @@
         }
       ],
       "frases": {
-        "1154": [
-          "Dezena no sexto prêmio!<br>com o palpite 1154",
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 1154"
+        "1177": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 1177",
+          "Dezena no quarto prêmio!<br>com o palpite 1177",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 1177"
         ],
-        "1155": [
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 1155"
+        "3177": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 3177",
+          "Dezena no quarto prêmio!<br>com o palpite 3177",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 3177"
         ],
-        "5154": [
-          "Dezena no sexto prêmio!<br>com o palpite 5154",
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 5154"
-        ],
-        "5155": [
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 5155"
-        ],
-        "7154": [
-          "Dezena no sexto prêmio!<br>com o palpite 7154",
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 7154"
-        ],
-        "7155": [
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 7155"
-        ],
-        "0154": [
-          "Dezena no sexto prêmio!<br>com o palpite 0154",
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 0154"
-        ],
-        "0155": [
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 0155"
+        "5177": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 5177",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 5177",
+          "Dezena no quarto prêmio!<br>com o palpite 5177",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 5177"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 4,
+        "Milhar": 1,
+        "Centena": 3,
+        "Dezena": 3,
         "Grupo": [
-          "🐈"
+          "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0154, 0155, 0157, 1154, 1155, 1157, 5154, 5155, 5157, 7154, 7155, 7157"
+      "resumo": "Palpites dados para esta extração: 1107, 1147, 1157, 1177, 3107, 3147, 3157, 3177, 5107, 5147, 5157, 5177"
     },
     "A FEDERAL DO BRASIL": {
       "cabecalhos": [
@@ -454,14 +421,92 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1147": [
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 1147"
+        ],
+        "3147": [
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 3147"
+        ],
+        "5147": [
+          "ELEFANTE 🐘 no sexto prêmio!<br>com o palpite 5147"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐘"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0154, 0155, 0157, 1154, 1155, 1157, 5154, 5155, 5157, 7154, 7155, 7157"
+      "resumo": "Palpites dados para esta extração: 1107, 1147, 1157, 1177, 3107, 3147, 3157, 3177, 5107, 5147, 5157, 5177"
+    },
+    "Nacional - LN 21:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6413",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0517",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6213",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1529",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6688",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "1360",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1157": [
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 1157"
+        ],
+        "3157": [
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 3157"
+        ],
+        "5157": [
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 5157"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐊"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1107, 1147, 1157, 1177, 3107, 3147, 3157, 3177, 5107, 5147, 5157, 5177"
     }
   },
   "1-10": {
@@ -541,7 +586,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0154, 0155, 0157, 1154, 1155, 1157, 5154, 5155, 5157, 7154, 7155, 7157"
+      "resumo": "Palpites dados para esta extração: 1107, 1147, 1157, 1177, 3107, 3147, 3157, 3177, 5107, 5147, 5157, 5177"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -612,45 +657,14 @@
           "Bicho": "Gato"
         }
       ],
-      "frases": {
-        "1154": [
-          "Dezena no décimo prêmio!<br>com o palpite 1154",
-          "GATO 🐈 no décimo prêmio!<br>com o palpite 1154"
-        ],
-        "1155": [
-          "GATO 🐈 no décimo prêmio!<br>com o palpite 1155"
-        ],
-        "5154": [
-          "Dezena no décimo prêmio!<br>com o palpite 5154",
-          "GATO 🐈 no décimo prêmio!<br>com o palpite 5154"
-        ],
-        "5155": [
-          "GATO 🐈 no décimo prêmio!<br>com o palpite 5155"
-        ],
-        "7154": [
-          "Dezena no décimo prêmio!<br>com o palpite 7154",
-          "GATO 🐈 no décimo prêmio!<br>com o palpite 7154"
-        ],
-        "7155": [
-          "GATO 🐈 no décimo prêmio!<br>com o palpite 7155"
-        ],
-        "0154": [
-          "Dezena no décimo prêmio!<br>com o palpite 0154",
-          "GATO 🐈 no décimo prêmio!<br>com o palpite 0154"
-        ],
-        "0155": [
-          "GATO 🐈 no décimo prêmio!<br>com o palpite 0155"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 4,
-        "Grupo": [
-          "🐈"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0154, 0155, 0157, 1154, 1155, 1157, 5154, 5155, 5157, 7154, 7155, 7157"
+      "resumo": "Palpites dados para esta extração: 1107, 1147, 1157, 1177, 3107, 3147, 3157, 3177, 5107, 5147, 5157, 5177"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -722,44 +736,28 @@
         }
       ],
       "frases": {
-        "1154": [
-          "GATO 🐈 no décimo prêmio!<br>com o palpite 1154"
+        "1177": [
+          "Dezena no nono prêmio!<br>com o palpite 1177",
+          "PERU 🦃 no nono prêmio!<br>com o palpite 1177"
         ],
-        "1155": [
-          "Dezena no décimo prêmio!<br>com o palpite 1155",
-          "GATO 🐈 no décimo prêmio!<br>com o palpite 1155"
+        "3177": [
+          "Dezena no nono prêmio!<br>com o palpite 3177",
+          "PERU 🦃 no nono prêmio!<br>com o palpite 3177"
         ],
-        "5154": [
-          "GATO 🐈 no décimo prêmio!<br>com o palpite 5154"
-        ],
-        "5155": [
-          "Dezena no décimo prêmio!<br>com o palpite 5155",
-          "GATO 🐈 no décimo prêmio!<br>com o palpite 5155"
-        ],
-        "7154": [
-          "GATO 🐈 no décimo prêmio!<br>com o palpite 7154"
-        ],
-        "7155": [
-          "Dezena no décimo prêmio!<br>com o palpite 7155",
-          "GATO 🐈 no décimo prêmio!<br>com o palpite 7155"
-        ],
-        "0154": [
-          "GATO 🐈 no décimo prêmio!<br>com o palpite 0154"
-        ],
-        "0155": [
-          "Dezena no décimo prêmio!<br>com o palpite 0155",
-          "GATO 🐈 no décimo prêmio!<br>com o palpite 0155"
+        "5177": [
+          "Dezena no nono prêmio!<br>com o palpite 5177",
+          "PERU 🦃 no nono prêmio!<br>com o palpite 5177"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 4,
+        "Dezena": 3,
         "Grupo": [
-          "🐈"
+          "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0154, 0155, 0157, 1154, 1155, 1157, 5154, 5155, 5157, 7154, 7155, 7157"
+      "resumo": "Palpites dados para esta extração: 1107, 1147, 1157, 1177, 3107, 3147, 3157, 3177, 5107, 5147, 5157, 5177"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -830,14 +828,26 @@
           "Bicho": "Veado"
         }
       ],
-      "frases": {},
+      "frases": {
+        "1177": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 1177"
+        ],
+        "3177": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 3177"
+        ],
+        "5177": [
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 5177"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦃"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0154, 0155, 0157, 1154, 1155, 1157, 5154, 5155, 5157, 7154, 7155, 7157"
+      "resumo": "Palpites dados para esta extração: 1107, 1147, 1157, 1177, 3107, 3147, 3157, 3177, 5107, 5147, 5157, 5177"
     },
     "Nacional - LN 15:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -909,77 +919,28 @@
         }
       ],
       "frases": {
-        "1154": [
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1154",
-          "GATO 🐈 no nono prêmio!<br>com o palpite 1154"
-        ],
-        "1155": [
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 1155",
-          "Dezena no terceiro prêmio!<br>com o palpite 1155",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 1155",
-          "Dezena no nono prêmio!<br>com o palpite 1155",
-          "GATO 🐈 no nono prêmio!<br>com o palpite 1155"
-        ],
         "1157": [
           "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 1157",
           "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 1157"
         ],
-        "5154": [
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 5154",
-          "GATO 🐈 no nono prêmio!<br>com o palpite 5154"
-        ],
-        "5155": [
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 5155",
-          "Dezena no terceiro prêmio!<br>com o palpite 5155",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 5155",
-          "Dezena no nono prêmio!<br>com o palpite 5155",
-          "GATO 🐈 no nono prêmio!<br>com o palpite 5155"
+        "3157": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 3157",
+          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 3157"
         ],
         "5157": [
           "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 5157",
           "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 5157"
-        ],
-        "7154": [
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7154",
-          "GATO 🐈 no nono prêmio!<br>com o palpite 7154"
-        ],
-        "7155": [
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 7155",
-          "Dezena no terceiro prêmio!<br>com o palpite 7155",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 7155",
-          "Dezena no nono prêmio!<br>com o palpite 7155",
-          "GATO 🐈 no nono prêmio!<br>com o palpite 7155"
-        ],
-        "7157": [
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 7157",
-          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 7157"
-        ],
-        "0154": [
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 0154",
-          "GATO 🐈 no nono prêmio!<br>com o palpite 0154"
-        ],
-        "0155": [
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 0155",
-          "Dezena no terceiro prêmio!<br>com o palpite 0155",
-          "GATO 🐈 no terceiro prêmio!<br>com o palpite 0155",
-          "Dezena no nono prêmio!<br>com o palpite 0155",
-          "GATO 🐈 no nono prêmio!<br>com o palpite 0155"
-        ],
-        "0157": [
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 0157",
-          "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 0157"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 4,
-        "Dezena": 8,
+        "Centena": 0,
+        "Dezena": 0,
         "Grupo": [
-          "🐈",
           "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0154, 0155, 0157, 1154, 1155, 1157, 5154, 5155, 5157, 7154, 7155, 7157"
+      "resumo": "Palpites dados para esta extração: 1107, 1147, 1157, 1177, 3107, 3147, 3157, 3177, 5107, 5147, 5157, 5177"
     },
     "Nacional - LN 17:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1051,44 +1012,61 @@
         }
       ],
       "frases": {
-        "1154": [
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 1154"
+        "1107": [
+          "Centena e Dezena no nono prêmio!<br>com o palpite 1107",
+          "Dezena no nono prêmio!<br>com o palpite 1107",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 1107"
         ],
-        "1155": [
-          "Dezena no sexto prêmio!<br>com o palpite 1155",
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 1155"
+        "1147": [
+          "Dezena no oitavo prêmio!<br>com o palpite 1147",
+          "ELEFANTE 🐘 no oitavo prêmio!<br>com o palpite 1147"
         ],
-        "5154": [
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 5154"
+        "1177": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 1177",
+          "Dezena no quarto prêmio!<br>com o palpite 1177",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 1177"
         ],
-        "5155": [
-          "Dezena no sexto prêmio!<br>com o palpite 5155",
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 5155"
+        "3107": [
+          "Centena e Dezena no nono prêmio!<br>com o palpite 3107",
+          "Dezena no nono prêmio!<br>com o palpite 3107",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 3107"
         ],
-        "7154": [
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 7154"
+        "3147": [
+          "Dezena no oitavo prêmio!<br>com o palpite 3147",
+          "ELEFANTE 🐘 no oitavo prêmio!<br>com o palpite 3147"
         ],
-        "7155": [
-          "Dezena no sexto prêmio!<br>com o palpite 7155",
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 7155"
+        "3177": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 3177",
+          "Dezena no quarto prêmio!<br>com o palpite 3177",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 3177"
         ],
-        "0154": [
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 0154"
+        "5107": [
+          "Centena e Dezena no nono prêmio!<br>com o palpite 5107",
+          "Dezena no nono prêmio!<br>com o palpite 5107",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 5107"
         ],
-        "0155": [
-          "Dezena no sexto prêmio!<br>com o palpite 0155",
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 0155"
+        "5147": [
+          "Dezena no oitavo prêmio!<br>com o palpite 5147",
+          "ELEFANTE 🐘 no oitavo prêmio!<br>com o palpite 5147"
+        ],
+        "5177": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 5177",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 5177",
+          "Dezena no quarto prêmio!<br>com o palpite 5177",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 5177"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 4,
+        "Milhar": 1,
+        "Centena": 6,
+        "Dezena": 9,
         "Grupo": [
-          "🐈"
+          "🦃",
+          "🐘",
+          "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0154, 0155, 0157, 1154, 1155, 1157, 5154, 5155, 5157, 7154, 7155, 7157"
+      "resumo": "Palpites dados para esta extração: 1107, 1147, 1157, 1177, 3107, 3147, 3157, 3177, 5107, 5147, 5157, 5177"
     },
     "A FEDERAL DO BRASIL do 1º ao 10º": {
       "cabecalhos": [
@@ -1163,14 +1141,11 @@
         "1157": [
           "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 1157"
         ],
+        "3157": [
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 3157"
+        ],
         "5157": [
           "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 5157"
-        ],
-        "7157": [
-          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 7157"
-        ],
-        "0157": [
-          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 0157"
         ]
       },
       "acertos": {
@@ -1181,7 +1156,85 @@
           "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0154, 0155, 0157, 1154, 1155, 1157, 5154, 5155, 5157, 7154, 7155, 7157"
+      "resumo": "Palpites dados para esta extração: 1107, 1147, 1157, 1177, 3107, 3147, 3157, 3177, 5107, 5147, 5157, 5177"
+    },
+    "Nacional - LN 21:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6413",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0517",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6213",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1529",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6688",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "6061",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4525",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1112",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3739",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6797",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1107, 1147, 1157, 1177, 3107, 3147, 3157, 3177, 5107, 5147, 5157, 5177"
     }
   }
 }
