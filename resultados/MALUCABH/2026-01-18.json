@@ -70,25 +70,153 @@
         }
       ],
       "frases": {
-        "4429": [
-          "CAMELO 🐪 no oitavo prêmio!<br>com o palpite 4429"
+        "4492": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4492",
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 4492"
         ],
-        "4489": [
-          "URSO 🐻 no primeiro prêmio!<br>com o palpite 4489"
+        "4493": [
+          "Dezena no sexto prêmio!<br>com o palpite 4493",
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 4493",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 4493"
+        ],
+        "4495": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 4495",
+          "Dezena no décimo prêmio!<br>com o palpite 4495",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 4495"
+        ],
+        "4992": [
+          "Dezena no primeiro prêmio!<br>com o palpite 4992",
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 4992"
+        ],
+        "4993": [
+          "Dezena no sexto prêmio!<br>com o palpite 4993",
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 4993",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 4993"
+        ],
+        "4995": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 4995",
+          "Dezena no décimo prêmio!<br>com o palpite 4995",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 4995"
+        ],
+        "6492": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6492",
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 6492"
+        ],
+        "6493": [
+          "Dezena no sexto prêmio!<br>com o palpite 6493",
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 6493",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 6493"
+        ],
+        "6495": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 6495",
+          "Dezena no décimo prêmio!<br>com o palpite 6495",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 6495"
+        ],
+        "6992": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6992",
+          "URSO 🐻 no primeiro prêmio!<br>com o palpite 6992"
+        ],
+        "6993": [
+          "Dezena no sexto prêmio!<br>com o palpite 6993",
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 6993",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 6993"
+        ],
+        "6995": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 6995",
+          "Dezena no décimo prêmio!<br>com o palpite 6995",
+          "VEADO 🦌 no décimo prêmio!<br>com o palpite 6995"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 12,
         "Grupo": [
           "🐻",
-          "🐪"
+          "🦌"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4428, 4429, 4488, 4489"
+      "resumo": "Palpites dados para esta extração: 4422, 4423, 4425, 4427, 4428, 4492, 4493, 4495, 4497, 4498, 4922, 4923, 4925, 4927, 4928, 4992, 4993, 4995, 4997, 4998, 6422, 6423, 6425, 6427, 6428, 6492, 6493, 6495, 6497, 6498, 6922, 6923, 6925, 6927, 6928, 6992, 6993, 6995, 6997, 6998"
     },
     "12h - MALUCA - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9466",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5837",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2314",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5447",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1005",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5962",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0051",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7576",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "2681",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2310",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 4422, 4423, 4425, 4427, 4428, 4492, 4493, 4495, 4497, 4498, 4922, 4923, 4925, 4927, 4928, 4992, 4993, 4995, 4997, 4998, 6422, 6423, 6425, 6427, 6428, 6492, 6493, 6495, 6497, 6498, 6922, 6923, 6925, 6927, 6928, 6992, 6993, 6995, 6997, 6998"
+    },
+    "15h - MALUCA - BA": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
