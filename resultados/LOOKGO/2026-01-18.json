@@ -52,22 +52,24 @@
         }
       ],
       "frases": {
-        "2693": [
-          "VEADO 🦌 no segundo prêmio!<br>com o palpite 2693"
+        "0075": [
+          "Dezena no quinto prêmio!<br>com o palpite 0075",
+          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 0075"
         ],
-        "2695": [
-          "VEADO 🦌 no segundo prêmio!<br>com o palpite 2695"
+        "0475": [
+          "Dezena no quinto prêmio!<br>com o palpite 0475",
+          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 0475"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 2,
         "Grupo": [
-          "🦌"
+          "🦚"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2693, 2695"
+      "resumo": "Palpites dados para esta extração: 0045, 0049, 0055, 0059, 0075, 0079, 0445, 0449, 0455, 0459, 0475, 0479"
     },
     "LOOK - GOIÁS, 09h": {
       "cabecalhos": [
@@ -121,22 +123,47 @@
         }
       ],
       "frases": {
-        "2693": [
-          "VEADO 🦌 no segundo prêmio!<br>com o palpite 2693"
+        "0049": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 0049"
         ],
-        "2695": [
-          "VEADO 🦌 no segundo prêmio!<br>com o palpite 2695"
+        "0449": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 0449"
+        ],
+        "0045": [
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 0045"
+        ],
+        "0445": [
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 0445"
+        ],
+        "0059": [
+          "Dezena no quarto prêmio!<br>com o palpite 0059",
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 0059"
+        ],
+        "0459": [
+          "Dezena no quarto prêmio!<br>com o palpite 0459",
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 0459"
+        ],
+        "0079": [
+          "Dezena no quinto prêmio!<br>com o palpite 0079",
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 0079"
+        ],
+        "0479": [
+          "Dezena no quinto prêmio!<br>com o palpite 0479",
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 0479"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 4,
         "Grupo": [
-          "🦌"
+          "🐓",
+          "🐘",
+          "🐊",
+          "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2693, 2695"
+      "resumo": "Palpites dados para esta extração: 0045, 0049, 0055, 0059, 0075, 0079, 0445, 0449, 0455, 0459, 0475, 0479"
     },
     "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
@@ -189,16 +216,131 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "0059": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 0059"
+        ],
+        "0459": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 0459"
+        ],
+        "0045": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 0045"
+        ],
+        "0445": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 0445"
+        ],
+        "0055": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 0055"
+        ],
+        "0455": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 0455"
+        ],
+        "0049": [
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 0049"
+        ],
+        "0449": [
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 0449"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐊",
+          "🐘",
+          "🐈",
+          "🐓"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2693, 2695"
+      "resumo": "Palpites dados para esta extração: 0045, 0049, 0055, 0059, 0075, 0079, 0445, 0449, 0455, 0459, 0475, 0479"
     },
     "LOOK - GOIÁS, 14h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0501",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5446",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5280",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1114",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0408",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2749",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "728",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "0045": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 0045"
+        ],
+        "0445": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 0445"
+        ],
+        "0079": [
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 0079"
+        ],
+        "0479": [
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 0479"
+        ],
+        "0049": [
+          "Dezena no sexto prêmio!<br>com o palpite 0049",
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 0049"
+        ],
+        "0449": [
+          "Dezena no sexto prêmio!<br>com o palpite 0449",
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 0449"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐘",
+          "🦃",
+          "🐓"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0045, 0049, 0055, 0059, 0075, 0079, 0445, 0449, 0455, 0459, 0475, 0479"
+    },
+    "LOOK - GOIÁS, 16h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -293,22 +435,24 @@
         }
       ],
       "frases": {
-        "2693": [
-          "VEADO 🦌 no segundo prêmio!<br>com o palpite 2693"
+        "0075": [
+          "Dezena no quinto prêmio!<br>com o palpite 0075",
+          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 0075"
         ],
-        "2695": [
-          "VEADO 🦌 no segundo prêmio!<br>com o palpite 2695"
+        "0475": [
+          "Dezena no quinto prêmio!<br>com o palpite 0475",
+          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 0475"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 2,
         "Grupo": [
-          "🦌"
+          "🦚"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2693, 2695"
+      "resumo": "Palpites dados para esta extração: 0045, 0049, 0055, 0059, 0075, 0079, 0445, 0449, 0455, 0459, 0475, 0479"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
       "cabecalhos": [
@@ -380,25 +524,56 @@
         }
       ],
       "frases": {
-        "2693": [
-          "VEADO 🦌 no segundo prêmio!<br>com o palpite 2693",
-          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 2693"
+        "0049": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 0049"
         ],
-        "2695": [
-          "VEADO 🦌 no segundo prêmio!<br>com o palpite 2695",
-          "Dezena no sétimo prêmio!<br>com o palpite 2695",
-          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 2695"
+        "0449": [
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 0449"
+        ],
+        "0045": [
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 0045",
+          "Dezena no oitavo prêmio!<br>com o palpite 0045",
+          "ELEFANTE 🐘 no oitavo prêmio!<br>com o palpite 0045"
+        ],
+        "0445": [
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 0445",
+          "Dezena no oitavo prêmio!<br>com o palpite 0445",
+          "ELEFANTE 🐘 no oitavo prêmio!<br>com o palpite 0445"
+        ],
+        "0059": [
+          "Dezena no quarto prêmio!<br>com o palpite 0059",
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 0059"
+        ],
+        "0459": [
+          "Dezena no quarto prêmio!<br>com o palpite 0459",
+          "JACARÉ 🐊 no quarto prêmio!<br>com o palpite 0459"
+        ],
+        "0079": [
+          "Dezena no quinto prêmio!<br>com o palpite 0079",
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 0079",
+          "Dezena no nono prêmio!<br>com o palpite 0079",
+          "PERU 🦃 no nono prêmio!<br>com o palpite 0079"
+        ],
+        "0479": [
+          "Dezena no quinto prêmio!<br>com o palpite 0479",
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 0479",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 0479",
+          "Dezena no nono prêmio!<br>com o palpite 0479",
+          "PERU 🦃 no nono prêmio!<br>com o palpite 0479"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 1,
+        "Centena": 1,
+        "Dezena": 8,
         "Grupo": [
-          "🦌"
+          "🐓",
+          "🐘",
+          "🐊",
+          "🦃"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2693, 2695"
+      "resumo": "Palpites dados para esta extração: 0045, 0049, 0055, 0059, 0075, 0079, 0445, 0449, 0455, 0459, 0475, 0479"
     },
     "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
@@ -469,16 +644,150 @@
           "Bicho": "Pavão"
         }
       ],
-      "frases": {},
+      "frases": {
+        "0059": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 0059"
+        ],
+        "0459": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 0459"
+        ],
+        "0045": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 0045"
+        ],
+        "0445": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 0445"
+        ],
+        "0055": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 0055"
+        ],
+        "0455": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 0455"
+        ],
+        "0075": [
+          "Dezena no décimo prêmio!<br>com o palpite 0075",
+          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 0075"
+        ],
+        "0475": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 0475",
+          "Dezena no décimo prêmio!<br>com o palpite 0475",
+          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 0475"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🐊",
+          "🐘",
+          "🐈",
+          "🦚"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0045, 0049, 0055, 0059, 0075, 0079, 0445, 0449, 0455, 0459, 0475, 0479"
+    },
+    "LOOK - GOIÁS, 14h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0501",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5446",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5280",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1114",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0408",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0551",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "5421",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "0481",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1604",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0806",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        }
+      ],
+      "frases": {
+        "0045": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 0045"
+        ],
+        "0445": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 0445"
+        ],
+        "0079": [
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 0079"
+        ],
+        "0479": [
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 0479"
+        ],
+        "0049": [
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 0049"
+        ],
+        "0449": [
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 0449"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐘",
+          "🦃",
+          "🐓"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2693, 2695"
+      "resumo": "Palpites dados para esta extração: 0045, 0049, 0055, 0059, 0075, 0079, 0445, 0449, 0455, 0459, 0475, 0479"
     },
-    "LOOK - GOIÁS, 14h do 1º ao 10º": {
+    "LOOK - GOIÁS, 16h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
