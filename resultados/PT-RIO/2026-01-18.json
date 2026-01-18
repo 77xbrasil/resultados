@@ -55,19 +55,94 @@
         "8108": [
           "Dezena no quarto prêmio!<br>com o palpite 8108",
           "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 8108"
+        ],
+        "8138": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8138",
+          "COELHO 🐇 no primeiro prêmio!<br>com o palpite 8138"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 2,
         "Grupo": [
+          "🐇",
           "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8108, 8158, 8168, 8188"
+      "resumo": "Palpites dados para esta extração: 8108, 8118, 8128, 8138, 8148, 8168, 8178, 8188, 8198"
     },
     "PT-RIO, RJ, 11:00, PTM": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4997",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7491",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4924",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0425",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7593",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "5430",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "432",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "8128": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 8128"
+        ],
+        "8198": [
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 8198"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐄",
+          "🐑"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 8108, 8118, 8128, 8138, 8148, 8168, 8178, 8188, 8198"
+    },
+    "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -165,19 +240,132 @@
         "8108": [
           "Dezena no quarto prêmio!<br>com o palpite 8108",
           "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 8108"
+        ],
+        "8118": [
+          "Dezena no nono prêmio!<br>com o palpite 8118",
+          "CACHORRO 🐕 no nono prêmio!<br>com o palpite 8118"
+        ],
+        "8138": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8138",
+          "COELHO 🐇 no primeiro prêmio!<br>com o palpite 8138"
+        ],
+        "8198": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 8198",
+          "Dezena no sexto prêmio!<br>com o palpite 8198",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 8198",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 8198"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 4,
+        "Grupo": [
+          "🐇",
+          "🦅",
+          "🐄",
+          "🐕"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 8108, 8118, 8128, 8138, 8148, 8168, 8178, 8188, 8198"
+    },
+    "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4997",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7491",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4924",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0425",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7593",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4740",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "9494",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "9922",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "7145",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6731",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        }
+      ],
+      "frases": {
+        "8128": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 8128"
+        ],
+        "8138": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 8138"
+        ],
+        "8148": [
+          "ELEFANTE 🐘 no nono prêmio!<br>com o palpite 8148"
+        ],
+        "8198": [
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 8198"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 0,
         "Grupo": [
-          "🦅"
+          "🐄",
+          "🐑",
+          "🐇",
+          "🐘"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8108, 8158, 8168, 8188"
+      "resumo": "Palpites dados para esta extração: 8108, 8118, 8128, 8138, 8148, 8168, 8178, 8188, 8198"
     },
-    "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
+    "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
