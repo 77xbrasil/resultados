@@ -76,7 +76,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3843, 6843"
+      "resumo": "Palpites dados para esta extração: 3889, 3989, 5889, 5989, 6889, 6989"
     },
     "LOTEP - PB, 12:45": {
       "cabecalhos": [
@@ -147,14 +147,35 @@
           "Bicho": "Coelho"
         }
       ],
-      "frases": {},
+      "frases": {
+        "3889": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 3889"
+        ],
+        "3989": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 3989"
+        ],
+        "5889": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 5889"
+        ],
+        "5989": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 5989"
+        ],
+        "6889": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 6889"
+        ],
+        "6989": [
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 6989"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐻"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3843, 6843"
+      "resumo": "Palpites dados para esta extração: 3889, 3989, 5889, 5989, 6889, 6989"
     },
     "LOTEP - PB, 15:45h": {
       "cabecalhos": [
@@ -226,24 +247,44 @@
         }
       ],
       "frases": {
-        "3843": [
-          "Dezena no décimo prêmio!<br>com o palpite 3843",
-          "CAVALO 🐎 no décimo prêmio!<br>com o palpite 3843"
+        "3889": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 3889",
+          "Dezena no segundo prêmio!<br>com o palpite 3889",
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 3889"
         ],
-        "6843": [
-          "Dezena no décimo prêmio!<br>com o palpite 6843",
-          "CAVALO 🐎 no décimo prêmio!<br>com o palpite 6843"
+        "3989": [
+          "Dezena no segundo prêmio!<br>com o palpite 3989",
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 3989"
+        ],
+        "5889": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 5889",
+          "Dezena no segundo prêmio!<br>com o palpite 5889",
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 5889"
+        ],
+        "5989": [
+          "Dezena no segundo prêmio!<br>com o palpite 5989",
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 5989"
+        ],
+        "6889": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 6889",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 6889",
+          "Dezena no segundo prêmio!<br>com o palpite 6889",
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 6889"
+        ],
+        "6989": [
+          "Dezena no segundo prêmio!<br>com o palpite 6989",
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 6989"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 2,
+        "Milhar": 1,
+        "Centena": 3,
+        "Dezena": 6,
         "Grupo": [
-          "🐎"
+          "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3843, 6843"
+      "resumo": "Palpites dados para esta extração: 3889, 3989, 5889, 5989, 6889, 6989"
     },
     "LOTEP - PB, 18h": {
       "cabecalhos": [
@@ -314,14 +355,59 @@
           "Bicho": "Urso"
         }
       ],
-      "frases": {},
+      "frases": {
+        "3889": [
+          "Dezena no oitavo prêmio!<br>com o palpite 3889",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 3889",
+          "Dezena no nono prêmio!<br>com o palpite 3889",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 3889",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 3889"
+        ],
+        "3989": [
+          "Dezena no oitavo prêmio!<br>com o palpite 3989",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 3989",
+          "Dezena no nono prêmio!<br>com o palpite 3989",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 3989",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 3989"
+        ],
+        "5889": [
+          "Dezena no oitavo prêmio!<br>com o palpite 5889",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 5889",
+          "Dezena no nono prêmio!<br>com o palpite 5889",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 5889",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 5889"
+        ],
+        "5989": [
+          "Dezena no oitavo prêmio!<br>com o palpite 5989",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 5989",
+          "Dezena no nono prêmio!<br>com o palpite 5989",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 5989",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 5989"
+        ],
+        "6889": [
+          "Dezena no oitavo prêmio!<br>com o palpite 6889",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 6889",
+          "Dezena no nono prêmio!<br>com o palpite 6889",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 6889",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 6889"
+        ],
+        "6989": [
+          "Dezena no oitavo prêmio!<br>com o palpite 6989",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 6989",
+          "Dezena no nono prêmio!<br>com o palpite 6989",
+          "URSO 🐻 no nono prêmio!<br>com o palpite 6989",
+          "URSO 🐻 no décimo prêmio!<br>com o palpite 6989"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 12,
+        "Grupo": [
+          "🐻"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3843, 6843"
+      "resumo": "Palpites dados para esta extração: 3889, 3989, 5889, 5989, 6889, 6989"
     },
     "PB, Paratodos 10:45": {
       "cabecalhos": [
