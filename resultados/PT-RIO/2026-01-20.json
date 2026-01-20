@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5785"
+      "resumo": "Palpites dados para esta extração: 5004, 5054, 5084, 5604, 5654, 5684, 5704, 5754, 5784, 6004, 6054, 6084, 6604, 6654, 6684, 6704, 6754, 6784"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -111,14 +111,43 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "5054": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5054",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 5054"
+        ],
+        "5654": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 5654",
+          "Dezena no primeiro prêmio!<br>com o palpite 5654",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 5654"
+        ],
+        "5754": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5754",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 5754"
+        ],
+        "6054": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6054",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 6054"
+        ],
+        "6654": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 6654",
+          "Dezena no primeiro prêmio!<br>com o palpite 6654",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 6654"
+        ],
+        "6754": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6754",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 6754"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 2,
+        "Dezena": 6,
+        "Grupo": [
+          "🐈"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5785"
+      "resumo": "Palpites dados para esta extração: 5004, 5054, 5084, 5604, 5654, 5684, 5704, 5754, 5784, 6004, 6054, 6084, 6604, 6654, 6684, 6704, 6754, 6784"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -171,14 +200,41 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "5004": [
+          "Dezena no quinto prêmio!<br>com o palpite 5004",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 5004"
+        ],
+        "5604": [
+          "Dezena no quinto prêmio!<br>com o palpite 5604",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 5604"
+        ],
+        "5704": [
+          "Dezena no quinto prêmio!<br>com o palpite 5704",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 5704"
+        ],
+        "6004": [
+          "Dezena no quinto prêmio!<br>com o palpite 6004",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 6004"
+        ],
+        "6604": [
+          "Dezena no quinto prêmio!<br>com o palpite 6604",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 6604"
+        ],
+        "6704": [
+          "Dezena no quinto prêmio!<br>com o palpite 6704",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 6704"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 6,
+        "Grupo": [
+          "🪶"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5785"
+      "resumo": "Palpites dados para esta extração: 5004, 5054, 5084, 5604, 5654, 5684, 5704, 5754, 5784, 6004, 6054, 6084, 6604, 6654, 6684, 6704, 6754, 6784"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -231,20 +287,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "5785": [
-          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 5785"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐅"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5785"
+      "resumo": "Palpites dados para esta extração: 5004, 5054, 5084, 5604, 5654, 5684, 5704, 5754, 5784, 6004, 6054, 6084, 6604, 6654, 6684, 6704, 6754, 6784"
     },
     "PT-RIO, RJ, 18:20, PTN": {
       "cabecalhos": [
@@ -297,14 +347,90 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "5004": [
+          "Dezena no quarto prêmio!<br>com o palpite 5004",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 5004"
+        ],
+        "5054": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 5054",
+          "Dezena no segundo prêmio!<br>com o palpite 5054",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 5054"
+        ],
+        "5084": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 5084"
+        ],
+        "5604": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 5604",
+          "Dezena no quarto prêmio!<br>com o palpite 5604",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 5604"
+        ],
+        "5654": [
+          "Dezena no segundo prêmio!<br>com o palpite 5654",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 5654"
+        ],
+        "5684": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 5684"
+        ],
+        "5704": [
+          "Dezena no quarto prêmio!<br>com o palpite 5704",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 5704"
+        ],
+        "5754": [
+          "Dezena no segundo prêmio!<br>com o palpite 5754",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 5754"
+        ],
+        "5784": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 5784"
+        ],
+        "6004": [
+          "Dezena no quarto prêmio!<br>com o palpite 6004",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 6004"
+        ],
+        "6054": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 6054",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 6054",
+          "Dezena no segundo prêmio!<br>com o palpite 6054",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 6054"
+        ],
+        "6084": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 6084"
+        ],
+        "6604": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 6604",
+          "Dezena no quarto prêmio!<br>com o palpite 6604",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 6604"
+        ],
+        "6654": [
+          "Dezena no segundo prêmio!<br>com o palpite 6654",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 6654"
+        ],
+        "6684": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 6684"
+        ],
+        "6704": [
+          "Dezena no quarto prêmio!<br>com o palpite 6704",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 6704"
+        ],
+        "6754": [
+          "Dezena no segundo prêmio!<br>com o palpite 6754",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 6754"
+        ],
+        "6784": [
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 6784"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5785"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 12,
+        "Grupo": [
+          "🐈",
+          "🪶",
+          "🐂"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5004, 5054, 5084, 5604, 5654, 5684, 5704, 5754, 5784, 6004, 6054, 6084, 6604, 6654, 6684, 6704, 6754, 6784"
     },
     "PT-RIO, RJ, 21:20, CORUJA": {
       "cabecalhos": [
@@ -400,14 +526,35 @@
           "Bicho": "Veado"
         }
       ],
-      "frases": {},
+      "frases": {
+        "5054": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 5054"
+        ],
+        "5654": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 5654"
+        ],
+        "5754": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 5754"
+        ],
+        "6054": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 6054"
+        ],
+        "6654": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 6654"
+        ],
+        "6754": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 6754"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐈"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5785"
+      "resumo": "Palpites dados para esta extração: 5004, 5054, 5084, 5604, 5654, 5684, 5704, 5754, 5784, 6004, 6054, 6084, 6604, 6654, 6684, 6704, 6754, 6784"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -478,14 +625,62 @@
           "Bicho": "Pavão"
         }
       ],
-      "frases": {},
+      "frases": {
+        "5004": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 5004"
+        ],
+        "5054": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5054",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 5054"
+        ],
+        "5604": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 5604"
+        ],
+        "5654": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 5654",
+          "Dezena no primeiro prêmio!<br>com o palpite 5654",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 5654"
+        ],
+        "5704": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 5704"
+        ],
+        "5754": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5754",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 5754"
+        ],
+        "6004": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 6004"
+        ],
+        "6054": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6054",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 6054"
+        ],
+        "6604": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 6604"
+        ],
+        "6654": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 6654",
+          "Dezena no primeiro prêmio!<br>com o palpite 6654",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 6654"
+        ],
+        "6704": [
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 6704"
+        ],
+        "6754": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6754",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 6754"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 2,
+        "Dezena": 6,
+        "Grupo": [
+          "🐈",
+          "🪶"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5785"
+      "resumo": "Palpites dados para esta extração: 5004, 5054, 5084, 5604, 5654, 5684, 5704, 5754, 5784, 6004, 6054, 6084, 6604, 6654, 6684, 6704, 6754, 6784"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -556,14 +751,66 @@
           "Bicho": "Coelho"
         }
       ],
-      "frases": {},
+      "frases": {
+        "5004": [
+          "Dezena no quinto prêmio!<br>com o palpite 5004",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 5004",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5004"
+        ],
+        "5084": [
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 5084"
+        ],
+        "5604": [
+          "Dezena no quinto prêmio!<br>com o palpite 5604",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 5604",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5604"
+        ],
+        "5684": [
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 5684"
+        ],
+        "5704": [
+          "Dezena no quinto prêmio!<br>com o palpite 5704",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 5704",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 5704"
+        ],
+        "5784": [
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 5784"
+        ],
+        "6004": [
+          "Dezena no quinto prêmio!<br>com o palpite 6004",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 6004",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 6004"
+        ],
+        "6084": [
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 6084"
+        ],
+        "6604": [
+          "Dezena no quinto prêmio!<br>com o palpite 6604",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 6604",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 6604"
+        ],
+        "6684": [
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 6684"
+        ],
+        "6704": [
+          "Dezena no quinto prêmio!<br>com o palpite 6704",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 6704",
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 6704"
+        ],
+        "6784": [
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 6784"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 6,
+        "Grupo": [
+          "🪶",
+          "🐂"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5785"
+      "resumo": "Palpites dados para esta extração: 5004, 5054, 5084, 5604, 5654, 5684, 5704, 5754, 5784, 6004, 6054, 6084, 6604, 6654, 6684, 6704, 6754, 6784"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
@@ -634,23 +881,14 @@
           "Bicho": "Porco"
         }
       ],
-      "frases": {
-        "5785": [
-          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 5785",
-          "Dezena no oitavo prêmio!<br>com o palpite 5785",
-          "TIGRE 🐅 no oitavo prêmio!<br>com o palpite 5785",
-          "TIGRE 🐅 no nono prêmio!<br>com o palpite 5785"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
-        "Grupo": [
-          "🐅"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5785"
+      "resumo": "Palpites dados para esta extração: 5004, 5054, 5084, 5604, 5654, 5684, 5704, 5754, 5784, 6004, 6054, 6084, 6604, 6654, 6684, 6704, 6754, 6784"
     },
     "PT-RIO, RJ, 18:20, PTN do 1º ao 10º": {
       "cabecalhos": [
@@ -721,14 +959,96 @@
           "Bicho": "Touro"
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "5004": [
+          "Dezena no quarto prêmio!<br>com o palpite 5004",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 5004"
+        ],
+        "5054": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 5054",
+          "Dezena no segundo prêmio!<br>com o palpite 5054",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 5054"
+        ],
+        "5084": [
+          "Dezena no décimo prêmio!<br>com o palpite 5084",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 5084"
+        ],
+        "5604": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 5604",
+          "Dezena no quarto prêmio!<br>com o palpite 5604",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 5604"
+        ],
+        "5654": [
+          "Dezena no segundo prêmio!<br>com o palpite 5654",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 5654"
+        ],
+        "5684": [
+          "Dezena no décimo prêmio!<br>com o palpite 5684",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 5684"
+        ],
+        "5704": [
+          "Dezena no quarto prêmio!<br>com o palpite 5704",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 5704"
+        ],
+        "5754": [
+          "Dezena no segundo prêmio!<br>com o palpite 5754",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 5754"
+        ],
+        "5784": [
+          "Dezena no décimo prêmio!<br>com o palpite 5784",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 5784"
+        ],
+        "6004": [
+          "Dezena no quarto prêmio!<br>com o palpite 6004",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 6004"
+        ],
+        "6054": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 6054",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 6054",
+          "Dezena no segundo prêmio!<br>com o palpite 6054",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 6054"
+        ],
+        "6084": [
+          "Dezena no décimo prêmio!<br>com o palpite 6084",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 6084"
+        ],
+        "6604": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 6604",
+          "Dezena no quarto prêmio!<br>com o palpite 6604",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 6604"
+        ],
+        "6654": [
+          "Dezena no segundo prêmio!<br>com o palpite 6654",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 6654"
+        ],
+        "6684": [
+          "Dezena no décimo prêmio!<br>com o palpite 6684",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 6684"
+        ],
+        "6704": [
+          "Dezena no quarto prêmio!<br>com o palpite 6704",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 6704"
+        ],
+        "6754": [
+          "Dezena no segundo prêmio!<br>com o palpite 6754",
+          "GATO 🐈 no segundo prêmio!<br>com o palpite 6754"
+        ],
+        "6784": [
+          "Dezena no décimo prêmio!<br>com o palpite 6784",
+          "TOURO 🐂 no décimo prêmio!<br>com o palpite 6784"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5785"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 18,
+        "Grupo": [
+          "🐈",
+          "🪶",
+          "🐂"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5004, 5054, 5084, 5604, 5654, 5684, 5704, 5754, 5784, 6004, 6054, 6084, 6604, 6654, 6684, 6704, 6754, 6784"
     },
     "PT-RIO, RJ, 21:20, CORUJA do 1º ao 10º": {
       "cabecalhos": [
