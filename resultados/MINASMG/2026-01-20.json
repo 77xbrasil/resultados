@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5931, 5939, 5941, 5949, 6931, 6939, 6941, 6949"
+      "resumo": "Palpites dados para esta extração: 6931, 6938, 6939"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
@@ -112,42 +112,22 @@
         }
       ],
       "frases": {
-        "5939": [
-          "COELHO 🐇 no segundo prêmio!<br>com o palpite 5939"
-        ],
-        "5941": [
-          "Dezena no quarto prêmio!<br>com o palpite 5941",
-          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 5941"
-        ],
-        "5949": [
-          "Dezena no primeiro prêmio!<br>com o palpite 5949",
-          "GALO 🐓 no primeiro prêmio!<br>com o palpite 5949",
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 5949"
+        "6938": [
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 6938"
         ],
         "6939": [
           "COELHO 🐇 no segundo prêmio!<br>com o palpite 6939"
-        ],
-        "6941": [
-          "Dezena no quarto prêmio!<br>com o palpite 6941",
-          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 6941"
-        ],
-        "6949": [
-          "Dezena no primeiro prêmio!<br>com o palpite 6949",
-          "GALO 🐓 no primeiro prêmio!<br>com o palpite 6949",
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 6949"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 4,
+        "Dezena": 0,
         "Grupo": [
-          "🐓",
-          "🐇",
-          "🐎"
+          "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5931, 5939, 5941, 5949, 6931, 6939, 6941, 6949"
+      "resumo": "Palpites dados para esta extração: 6931, 6938, 6939"
     },
     "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
@@ -201,8 +181,10 @@
         }
       ],
       "frases": {
-        "5939": [
-          "COELHO 🐇 no segundo prêmio!<br>com o palpite 5939"
+        "6938": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 6938",
+          "Dezena no segundo prêmio!<br>com o palpite 6938",
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 6938"
         ],
         "6939": [
           "COELHO 🐇 no segundo prêmio!<br>com o palpite 6939"
@@ -210,13 +192,13 @@
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Centena": 1,
+        "Dezena": 1,
         "Grupo": [
           "🐇"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5931, 5939, 5941, 5949, 6931, 6939, 6941, 6949"
+      "resumo": "Palpites dados para esta extração: 6931, 6938, 6939"
     },
     "PREFERIDA - MG, 21h": {
       "cabecalhos": [
@@ -226,11 +208,48 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "7499",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3792",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6043",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1085",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7585",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "26004",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "436",
+          "Grupo": "",
+          "Bicho": ""
+        }
       ],
       "frases": {},
       "acertos": {
@@ -239,7 +258,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 6931, 6938, 6939"
     }
   }
 }
