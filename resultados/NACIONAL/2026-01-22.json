@@ -105,14 +105,24 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "0111": [
+          "BURRO 🐴 no segundo prêmio!<br>com o palpite 0111"
+        ],
+        "0106": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 0106"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐴",
+          "🦅"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0570, 0770, 0870"
+      "resumo": "Palpites dados para esta extração: 0101, 0106, 0111, 0116, 0161, 0166"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -159,14 +169,24 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "0116": [
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0116"
+        ],
+        "0166": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 0166"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦋",
+          "🐒"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0570, 0770, 0870"
+      "resumo": "Palpites dados para esta extração: 0101, 0106, 0111, 0116, 0161, 0166"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -214,28 +234,19 @@
         }
       ],
       "frases": {
-        "0570": [
-          "Dezena no quinto prêmio!<br>com o palpite 0570",
-          "PORCO 🐖 no quinto prêmio!<br>com o palpite 0570"
-        ],
-        "0770": [
-          "Dezena no quinto prêmio!<br>com o palpite 0770",
-          "PORCO 🐖 no quinto prêmio!<br>com o palpite 0770"
-        ],
-        "0870": [
-          "Dezena no quinto prêmio!<br>com o palpite 0870",
-          "PORCO 🐖 no quinto prêmio!<br>com o palpite 0870"
+        "0111": [
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 0111"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
+        "Dezena": 0,
         "Grupo": [
-          "🐖"
+          "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0570, 0770, 0870"
+      "resumo": "Palpites dados para esta extração: 0101, 0106, 0111, 0116, 0161, 0166"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -282,14 +293,21 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "0161": [
+          "Dezena no quarto prêmio!<br>com o palpite 0161",
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 0161"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🦁"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0570, 0770, 0870"
+      "resumo": "Palpites dados para esta extração: 0101, 0106, 0111, 0116, 0161, 0166"
     },
     "Nacional - LN 15:00": {
       "cabecalhos": [
@@ -336,14 +354,31 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "0166": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 0166",
+          "Dezena no segundo prêmio!<br>com o palpite 0166",
+          "MACACO 🐒 no segundo prêmio!<br>com o palpite 0166"
+        ],
+        "0101": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 0101"
+        ],
+        "0111": [
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 0111",
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 0111"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 1,
+        "Grupo": [
+          "🐒",
+          "🪶",
+          "🐴"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0570, 0770, 0870"
+      "resumo": "Palpites dados para esta extração: 0101, 0106, 0111, 0116, 0161, 0166"
     },
     "Nacional - LN 17:00": {
       "cabecalhos": [
@@ -355,49 +390,61 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "3006",
+          "Milhar": "8370",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1506",
           "Grupo": "02",
           "Bicho": "Águia"
         },
         {
-          "Prêmio": "2º",
-          "Milhar": "0356",
-          "Grupo": "14",
-          "Bicho": "Gato"
-        },
-        {
           "Prêmio": "3º",
-          "Milhar": "5424",
-          "Grupo": "06",
-          "Bicho": "Cabra"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "1644",
+          "Milhar": "7242",
           "Grupo": "11",
           "Bicho": "Cavalo"
         },
         {
+          "Prêmio": "4º",
+          "Milhar": "2266",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
           "Prêmio": "5º",
-          "Milhar": "7086",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "9051",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "7516",
+          "Milhar": "8435",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "0106": [
+          "Dezena no segundo prêmio!<br>com o palpite 0106",
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 0106"
+        ],
+        "0166": [
+          "Dezena no quarto prêmio!<br>com o palpite 0166",
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 0166"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🦅",
+          "🐒"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0300, 0301, 0303, 0900, 0901, 0903"
+      "resumo": "Palpites dados para esta extração: 0101, 0106, 0111, 0116, 0161, 0166"
     },
     "Nacional - LN 21:00": {
       "cabecalhos": [
@@ -555,6 +602,29 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 0300, 0301, 0303, 0900, 0901, 0903"
+    },
+    "Nacional - LN 20:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   },
   "1-10": {
@@ -716,14 +786,28 @@
           "Bicho": "Avestruz"
         }
       ],
-      "frases": {},
+      "frases": {
+        "0111": [
+          "BURRO 🐴 no segundo prêmio!<br>com o palpite 0111"
+        ],
+        "0106": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 0106"
+        ],
+        "0101": [
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 0101"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐴",
+          "🦅",
+          "🪶"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0570, 0770, 0870"
+      "resumo": "Palpites dados para esta extração: 0101, 0106, 0111, 0116, 0161, 0166"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -794,14 +878,30 @@
           "Bicho": "Vaca"
         }
       ],
-      "frases": {},
+      "frases": {
+        "0116": [
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 0116",
+          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 0116"
+        ],
+        "0166": [
+          "MACACO 🐒 no quinto prêmio!<br>com o palpite 0166"
+        ],
+        "0111": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0111",
+          "BURRO 🐴 no oitavo prêmio!<br>com o palpite 0111"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🦋",
+          "🐒",
+          "🐴"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0570, 0770, 0870"
+      "resumo": "Palpites dados para esta extração: 0101, 0106, 0111, 0116, 0161, 0166"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -873,31 +973,19 @@
         }
       ],
       "frases": {
-        "0570": [
-          "Dezena no quinto prêmio!<br>com o palpite 0570",
-          "PORCO 🐖 no quinto prêmio!<br>com o palpite 0570",
-          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 0570"
-        ],
-        "0770": [
-          "Dezena no quinto prêmio!<br>com o palpite 0770",
-          "PORCO 🐖 no quinto prêmio!<br>com o palpite 0770",
-          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 0770"
-        ],
-        "0870": [
-          "Dezena no quinto prêmio!<br>com o palpite 0870",
-          "PORCO 🐖 no quinto prêmio!<br>com o palpite 0870",
-          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 0870"
+        "0111": [
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 0111"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
+        "Dezena": 0,
         "Grupo": [
-          "🐖"
+          "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0570, 0770, 0870"
+      "resumo": "Palpites dados para esta extração: 0101, 0106, 0111, 0116, 0161, 0166"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -968,14 +1056,37 @@
           "Bicho": "Pavão"
         }
       ],
-      "frases": {},
+      "frases": {
+        "0161": [
+          "Dezena no quarto prêmio!<br>com o palpite 0161",
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 0161"
+        ],
+        "0111": [
+          "Dezena no sexto prêmio!<br>com o palpite 0111",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 0111"
+        ],
+        "0166": [
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 0166",
+          "Dezena no oitavo prêmio!<br>com o palpite 0166",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 0166"
+        ],
+        "0101": [
+          "Dezena no nono prêmio!<br>com o palpite 0101",
+          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 0101"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 4,
+        "Grupo": [
+          "🦁",
+          "🐴",
+          "🐒",
+          "🪶"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0570, 0770, 0870"
+      "resumo": "Palpites dados para esta extração: 0101, 0106, 0111, 0116, 0161, 0166"
     },
     "Nacional - LN 15:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1046,14 +1157,34 @@
           "Bicho": "Macaco"
         }
       ],
-      "frases": {},
+      "frases": {
+        "0166": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 0166",
+          "Dezena no segundo prêmio!<br>com o palpite 0166",
+          "MACACO 🐒 no segundo prêmio!<br>com o palpite 0166",
+          "MACACO 🐒 no décimo prêmio!<br>com o palpite 0166"
+        ],
+        "0101": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 0101",
+          "Dezena no oitavo prêmio!<br>com o palpite 0101",
+          "AVESTRUZ 🪶 no oitavo prêmio!<br>com o palpite 0101"
+        ],
+        "0111": [
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 0111",
+          "BURRO 🐴 no quinto prêmio!<br>com o palpite 0111"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🐒",
+          "🪶",
+          "🐴"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0570, 0770, 0870"
+      "resumo": "Palpites dados para esta extração: 0101, 0106, 0111, 0116, 0161, 0166"
     },
     "Nacional - LN 17:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1065,73 +1196,90 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "3006",
+          "Milhar": "8370",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1506",
           "Grupo": "02",
           "Bicho": "Águia"
         },
         {
-          "Prêmio": "2º",
-          "Milhar": "0356",
-          "Grupo": "14",
-          "Bicho": "Gato"
-        },
-        {
           "Prêmio": "3º",
-          "Milhar": "5424",
-          "Grupo": "06",
-          "Bicho": "Cabra"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "1644",
+          "Milhar": "7242",
           "Grupo": "11",
           "Bicho": "Cavalo"
         },
         {
-          "Prêmio": "5º",
-          "Milhar": "7086",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Prêmio": "4º",
+          "Milhar": "2266",
+          "Grupo": "17",
+          "Bicho": "Macaco"
         },
         {
-          "Prêmio": "6º",
-          "Milhar": "3051",
+          "Prêmio": "5º",
+          "Milhar": "9051",
           "Grupo": "13",
           "Bicho": "Galo"
         },
         {
-          "Prêmio": "7º",
-          "Milhar": "0346",
-          "Grupo": "12",
-          "Bicho": "Elefante"
+          "Prêmio": "6º",
+          "Milhar": "8172",
+          "Grupo": "18",
+          "Bicho": "Porco"
         },
         {
-          "Prêmio": "8º",
-          "Milhar": "0524",
+          "Prêmio": "7º",
+          "Milhar": "3522",
           "Grupo": "06",
           "Bicho": "Cabra"
         },
         {
+          "Prêmio": "8º",
+          "Milhar": "7046",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
           "Prêmio": "9º",
-          "Milhar": "6644",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
+          "Milhar": "0626",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "8081",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "7801",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
         }
       ],
-      "frases": {},
+      "frases": {
+        "0106": [
+          "Dezena no segundo prêmio!<br>com o palpite 0106",
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 0106"
+        ],
+        "0166": [
+          "Dezena no quarto prêmio!<br>com o palpite 0166",
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 0166"
+        ],
+        "0101": [
+          "Dezena no décimo prêmio!<br>com o palpite 0101",
+          "AVESTRUZ 🪶 no décimo prêmio!<br>com o palpite 0101"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 3,
+        "Grupo": [
+          "🦅",
+          "🐒",
+          "🪶"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0300, 0301, 0303, 0900, 0901, 0903"
+      "resumo": "Palpites dados para esta extração: 0101, 0106, 0111, 0116, 0161, 0166"
     },
     "Nacional - LN 21:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -1357,6 +1505,34 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 0300, 0301, 0303, 0900, 0901, 0903"
+    },
+    "Nacional - LN 20:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
