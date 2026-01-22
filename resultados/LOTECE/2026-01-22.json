@@ -100,75 +100,90 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "1564",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "8356",
+          "Grupo": "14",
+          "Bicho": "Gato"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "5386",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "3514",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "5039",
-          "Grupo": "10",
-          "Bicho": "Coelho"
+          "Milhar": "9125",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "8699",
+          "Milhar": "3399",
           "Grupo": "25",
           "Bicho": "Vaca"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "2358",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
+          "Milhar": "7491",
+          "Grupo": "23",
+          "Bicho": "Urso"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "7610",
-          "Grupo": "03",
-          "Bicho": "Burro"
+          "Milhar": "9421",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "4267",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "7327",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "6663",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "9814",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "9558",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
+          "Milhar": "6447",
+          "Grupo": "12",
+          "Bicho": "Elefante"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "9524",
+          "Milhar": "7224",
           "Grupo": "06",
           "Bicho": "Cabra"
         }
       ],
       "frases": {
+        "0626": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0626",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 0626"
+        ],
+        "0726": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0726",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 0726"
+        ],
+        "0926": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 0926",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 0926"
+        ],
         "0624": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 0624",
           "Dezena no décimo prêmio!<br>com o palpite 0624",
           "CABRA 🐐 no décimo prêmio!<br>com o palpite 0624"
         ],
         "0724": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 0724",
           "Dezena no décimo prêmio!<br>com o palpite 0724",
           "CABRA 🐐 no décimo prêmio!<br>com o palpite 0724"
         ],
         "0924": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 0924",
           "Dezena no décimo prêmio!<br>com o palpite 0924",
           "CABRA 🐐 no décimo prêmio!<br>com o palpite 0924"
         ]
@@ -178,6 +193,7 @@
         "Centena": 0,
         "Dezena": 3,
         "Grupo": [
+          "🐑",
           "🐐"
         ]
       },
