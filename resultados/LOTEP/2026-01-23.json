@@ -70,8 +70,14 @@
         }
       ],
       "frases": {
-        "5255": [
-          "GATO 🐈 no primeiro prêmio!<br>com o palpite 5255"
+        "5515": [
+          "Dezena no segundo prêmio!<br>com o palpite 5515",
+          "BORBOLETA 🦋 no segundo prêmio!<br>com o palpite 5515"
+        ],
+        "5525": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 5525",
+          "Dezena no sexto prêmio!<br>com o palpite 5525",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 5525"
         ],
         "5555": [
           "GATO 🐈 no primeiro prêmio!<br>com o palpite 5555"
@@ -79,13 +85,15 @@
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Centena": 1,
+        "Dezena": 2,
         "Grupo": [
-          "🐈"
+          "🐈",
+          "🦋",
+          "🐑"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5205, 5255, 5505, 5555"
+      "resumo": "Palpites dados para esta extração: 5505, 5515, 5525, 5555, 5565"
     },
     "LOTEP - PB, 12:45": {
       "cabecalhos": [
@@ -97,75 +105,69 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "3666",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "4519",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "8792",
-          "Grupo": "23",
-          "Bicho": "Urso"
+          "Milhar": "2969",
+          "Grupo": "18",
+          "Bicho": "Porco"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "2127",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "8149",
-          "Grupo": "13",
-          "Bicho": "Galo"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "2674",
-          "Grupo": "19",
-          "Bicho": "Pavão"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "3828",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "6711",
+          "Milhar": "4010",
           "Grupo": "03",
           "Bicho": "Burro"
         },
         {
-          "Prêmio": "8º",
-          "Milhar": "6924",
-          "Grupo": "06",
-          "Bicho": "Cabra"
+          "Prêmio": "4º",
+          "Milhar": "2106",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
-          "Prêmio": "9º",
-          "Milhar": "6279",
+          "Prêmio": "5º",
+          "Milhar": "4980",
           "Grupo": "20",
           "Bicho": "Peru"
         },
         {
+          "Prêmio": "6º",
+          "Milhar": "4242",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "5901",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1610",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9906",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
           "Prêmio": "10º",
-          "Milhar": "9150",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "0243",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
         }
       ],
       "frases": {
-        "5625": [
-          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 5625",
-          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 5625"
-        ],
-        "5665": [
-          "MACACO 🐒 no primeiro prêmio!<br>com o palpite 5665"
-        ],
-        "5675": [
-          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 5675"
+        "5505": [
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 5505",
+          "ÁGUIA 🦅 no nono prêmio!<br>com o palpite 5505"
         ]
       },
       "acertos": {
@@ -173,12 +175,10 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐒",
-          "🐑",
-          "🦚"
+          "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5605, 5625, 5655, 5665, 5675"
+      "resumo": "Palpites dados para esta extração: 5505, 5515, 5525, 5555, 5565"
     },
     "LOTEP - PB, 15:45h": {
       "cabecalhos": [
