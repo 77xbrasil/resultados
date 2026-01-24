@@ -70,15 +70,33 @@
         }
       ],
       "frases": {
-        "4758": [
-          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 4758",
-          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 4758"
+        "2055": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2055",
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 2055"
         ],
-        "4768": [
-          "MACACO 🐒 no quarto prêmio!<br>com o palpite 4768"
+        "2155": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2155",
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 2155"
         ],
-        "4778": [
-          "PERU 🦃 no oitavo prêmio!<br>com o palpite 4778"
+        "2255": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2255",
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 2255"
+        ],
+        "2355": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2355",
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 2355"
+        ],
+        "2455": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2455",
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 2455"
+        ],
+        "2655": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2655",
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 2655"
+        ],
+        "2755": [
+          "GATO 🐈 no terceiro prêmio!<br>com o palpite 2755",
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 2755"
         ]
       },
       "acertos": {
@@ -86,14 +104,90 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐊",
-          "🐒",
-          "🦃"
+          "🐈"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4748, 4758, 4768, 4778"
+      "resumo": "Palpites dados para esta extração: 2055, 2155, 2255, 2355, 2455, 2655, 2755"
     },
     "12h - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4342",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6922",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1945",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9774",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2505",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2461",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4223",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2801",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6264",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1230",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 2055, 2155, 2255, 2355, 2455, 2655, 2755"
+    },
+    "15h - BA": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
