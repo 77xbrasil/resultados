@@ -56,38 +56,20 @@
           "Dezena no segundo prêmio!<br>com o palpite 1050",
           "GALO 🐓 no segundo prêmio!<br>com o palpite 1050"
         ],
-        "1250": [
-          "Dezena no segundo prêmio!<br>com o palpite 1250",
-          "GALO 🐓 no segundo prêmio!<br>com o palpite 1250"
-        ],
-        "1850": [
-          "Centena e Dezena no segundo prêmio!<br>com o palpite 1850",
-          "Dezena no segundo prêmio!<br>com o palpite 1850",
-          "GALO 🐓 no segundo prêmio!<br>com o palpite 1850"
-        ],
-        "2050": [
-          "Dezena no segundo prêmio!<br>com o palpite 2050",
-          "GALO 🐓 no segundo prêmio!<br>com o palpite 2050"
-        ],
-        "2250": [
-          "Dezena no segundo prêmio!<br>com o palpite 2250",
-          "GALO 🐓 no segundo prêmio!<br>com o palpite 2250"
-        ],
-        "2850": [
-          "Centena e Dezena no segundo prêmio!<br>com o palpite 2850",
-          "Dezena no segundo prêmio!<br>com o palpite 2850",
-          "GALO 🐓 no segundo prêmio!<br>com o palpite 2850"
+        "0050": [
+          "Dezena no segundo prêmio!<br>com o palpite 0050",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 0050"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 2,
-        "Dezena": 6,
+        "Centena": 0,
+        "Dezena": 2,
         "Grupo": [
           "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1050, 1060, 1250, 1260, 1850, 1860, 2050, 2060, 2250, 2260, 2850, 2860"
+      "resumo": "Palpites dados para esta extração: 0050, 0060, 1050, 1060"
     },
     "SP, 10hs - PTSP": {
       "cabecalhos": [
@@ -148,54 +130,97 @@
           "Dezena no quinto prêmio!<br>com o palpite 1060",
           "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 1060"
         ],
-        "1250": [
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1250"
+        "0050": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0050"
         ],
-        "1260": [
-          "Dezena no quinto prêmio!<br>com o palpite 1260",
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 1260"
-        ],
-        "1850": [
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1850"
-        ],
-        "1860": [
-          "Dezena no quinto prêmio!<br>com o palpite 1860",
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 1860"
-        ],
-        "2050": [
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2050"
-        ],
-        "2060": [
-          "Dezena no quinto prêmio!<br>com o palpite 2060",
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 2060"
-        ],
-        "2250": [
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2250"
-        ],
-        "2260": [
-          "Dezena no quinto prêmio!<br>com o palpite 2260",
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 2260"
-        ],
-        "2850": [
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2850"
-        ],
-        "2860": [
-          "Dezena no quinto prêmio!<br>com o palpite 2860",
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 2860"
+        "0060": [
+          "Dezena no quinto prêmio!<br>com o palpite 0060",
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 0060"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 6,
+        "Dezena": 2,
         "Grupo": [
           "🐓",
           "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1050, 1060, 1250, 1260, 1850, 1860, 2050, 2060, 2250, 2260, 2850, 2860"
+      "resumo": "Palpites dados para esta extração: 0050, 0060, 1050, 1060"
     },
     "SP, 12:00 - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3656",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6934",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2064",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3046",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8339",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "4039",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "350",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1050": [
+          "Dezena no sétimo prêmio!<br>com o palpite 1050",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 1050"
+        ],
+        "0050": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0050",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 0050"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐓"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0050, 0060, 1050, 1060"
+    },
+    "SP, 13hs - PTSP": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -299,66 +324,26 @@
           "Dezena no sétimo prêmio!<br>com o palpite 1060",
           "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 1060"
         ],
-        "1250": [
-          "Dezena no segundo prêmio!<br>com o palpite 1250",
-          "GALO 🐓 no segundo prêmio!<br>com o palpite 1250",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1250"
+        "0050": [
+          "Dezena no segundo prêmio!<br>com o palpite 0050",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 0050",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 0050"
         ],
-        "1260": [
-          "Dezena no sétimo prêmio!<br>com o palpite 1260",
-          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 1260"
-        ],
-        "1850": [
-          "Centena e Dezena no segundo prêmio!<br>com o palpite 1850",
-          "Dezena no segundo prêmio!<br>com o palpite 1850",
-          "GALO 🐓 no segundo prêmio!<br>com o palpite 1850",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1850"
-        ],
-        "1860": [
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 1860",
-          "Dezena no sétimo prêmio!<br>com o palpite 1860",
-          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 1860"
-        ],
-        "2050": [
-          "Dezena no segundo prêmio!<br>com o palpite 2050",
-          "GALO 🐓 no segundo prêmio!<br>com o palpite 2050",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 2050"
-        ],
-        "2060": [
-          "Dezena no sétimo prêmio!<br>com o palpite 2060",
-          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 2060"
-        ],
-        "2250": [
-          "Dezena no segundo prêmio!<br>com o palpite 2250",
-          "GALO 🐓 no segundo prêmio!<br>com o palpite 2250",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 2250"
-        ],
-        "2260": [
-          "Dezena no sétimo prêmio!<br>com o palpite 2260",
-          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 2260"
-        ],
-        "2850": [
-          "Centena e Dezena no segundo prêmio!<br>com o palpite 2850",
-          "Dezena no segundo prêmio!<br>com o palpite 2850",
-          "GALO 🐓 no segundo prêmio!<br>com o palpite 2850",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 2850"
-        ],
-        "2860": [
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 2860",
-          "Dezena no sétimo prêmio!<br>com o palpite 2860",
-          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 2860"
+        "0060": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0060",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 0060"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 4,
-        "Dezena": 12,
+        "Centena": 0,
+        "Dezena": 4,
         "Grupo": [
           "🐓",
           "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1050, 1060, 1250, 1260, 1850, 1860, 2050, 2060, 2250, 2260, 2850, 2860"
+      "resumo": "Palpites dados para esta extração: 0050, 0060, 1050, 1060"
     },
     "SP, 10hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
@@ -437,54 +422,104 @@
           "Dezena no quinto prêmio!<br>com o palpite 1060",
           "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 1060"
         ],
-        "1250": [
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1250"
+        "0050": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 0050"
         ],
-        "1260": [
-          "Dezena no quinto prêmio!<br>com o palpite 1260",
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 1260"
-        ],
-        "1850": [
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1850"
-        ],
-        "1860": [
-          "Dezena no quinto prêmio!<br>com o palpite 1860",
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 1860"
-        ],
-        "2050": [
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2050"
-        ],
-        "2060": [
-          "Dezena no quinto prêmio!<br>com o palpite 2060",
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 2060"
-        ],
-        "2250": [
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2250"
-        ],
-        "2260": [
-          "Dezena no quinto prêmio!<br>com o palpite 2260",
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 2260"
-        ],
-        "2850": [
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 2850"
-        ],
-        "2860": [
-          "Dezena no quinto prêmio!<br>com o palpite 2860",
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 2860"
+        "0060": [
+          "Dezena no quinto prêmio!<br>com o palpite 0060",
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 0060"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 6,
+        "Dezena": 2,
         "Grupo": [
           "🐓",
           "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1050, 1060, 1250, 1260, 1850, 1860, 2050, 2060, 2250, 2260, 2850, 2860"
+      "resumo": "Palpites dados para esta extração: 0050, 0060, 1050, 1060"
     },
     "SP, 12:00 - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3656",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6934",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2064",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3046",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8339",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3623",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6900",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5364",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6446",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6372",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0050, 0060, 1050, 1060"
+    },
+    "SP, 13hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
