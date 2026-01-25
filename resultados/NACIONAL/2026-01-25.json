@@ -45,51 +45,91 @@
           "Bicho": ""
         }
       ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 4028, 4029, 4038, 4039, 4078, 4079, 4128, 4129, 4138, 4139, 4178, 4179, 4228, 4229, 4238, 4239, 4278, 4279, 4328, 4329, 4338, 4339, 4378, 4379, 4428, 4429, 4438, 4439, 4478, 4479, 4928, 4929, 4938, 4939, 4978, 4979"
+    },
+    "Nacional - LN 08:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7474",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9731",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8404",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1715",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7346",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "4670",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
       "frases": {
-        "1074": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1074",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1074"
+        "4029": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4029"
         ],
-        "1274": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1274",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1274"
+        "4129": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4129"
         ],
-        "2074": [
-          "Dezena no primeiro prêmio!<br>com o palpite 2074",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 2074"
+        "4229": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4229"
         ],
-        "2274": [
-          "Dezena no primeiro prêmio!<br>com o palpite 2274",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 2274"
+        "4329": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4329"
         ],
-        "9074": [
-          "Dezena no primeiro prêmio!<br>com o palpite 9074",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 9074"
+        "4429": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4429"
         ],
-        "9274": [
-          "Dezena no primeiro prêmio!<br>com o palpite 9274",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 9274"
-        ],
-        "0074": [
-          "Dezena no primeiro prêmio!<br>com o palpite 0074",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 0074"
-        ],
-        "0274": [
-          "Dezena no primeiro prêmio!<br>com o palpite 0274",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 0274"
+        "4929": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4929"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 8,
+        "Dezena": 0,
         "Grupo": [
-          "🦚"
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 0008, 0024, 0028, 0034, 0038, 0074, 0078, 0204, 0208, 0224, 0228, 0234, 0238, 0274, 0278, 1004, 1008, 1024, 1028, 1034, 1038, 1074, 1078, 1204, 1208, 1224, 1228, 1234, 1238, 1274, 1278, 2004, 2008, 2024, 2028, 2034, 2038, 2074, 2078, 2204, 2208, 2224, 2228, 2234, 2238, 2274, 2278, 9004, 9008, 9024, 9028, 9034, 9038, 9074, 9078, 9204, 9208, 9224, 9228, 9234, 9238, 9274, 9278"
+      "resumo": "Palpites dados para esta extração: 4028, 4029, 4038, 4039, 4078, 4079, 4128, 4129, 4138, 4139, 4178, 4179, 4228, 4229, 4238, 4239, 4278, 4279, 4328, 4329, 4338, 4339, 4378, 4379, 4428, 4429, 4438, 4439, 4478, 4479, 4928, 4929, 4938, 4939, 4978, 4979"
     },
-    "Nacional - LN 08:00": {
+    "Nacional - LN 10:00": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -184,75 +224,135 @@
         }
       ],
       "frases": {
-        "1008": [
-          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 1008"
+        "4029": [
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 4029"
         ],
-        "1074": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1074",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1074"
+        "4129": [
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 4129"
         ],
-        "1208": [
-          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 1208"
+        "4229": [
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 4229"
         ],
-        "1274": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1274",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 1274"
+        "4329": [
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 4329"
         ],
-        "2008": [
-          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 2008"
+        "4429": [
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 4429"
         ],
-        "2074": [
-          "Dezena no primeiro prêmio!<br>com o palpite 2074",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 2074"
-        ],
-        "2208": [
-          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 2208"
-        ],
-        "2274": [
-          "Dezena no primeiro prêmio!<br>com o palpite 2274",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 2274"
-        ],
-        "9008": [
-          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 9008"
-        ],
-        "9074": [
-          "Dezena no primeiro prêmio!<br>com o palpite 9074",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 9074"
-        ],
-        "9208": [
-          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 9208"
-        ],
-        "9274": [
-          "Dezena no primeiro prêmio!<br>com o palpite 9274",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 9274"
-        ],
-        "0074": [
-          "Dezena no primeiro prêmio!<br>com o palpite 0074",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 0074"
-        ],
-        "0274": [
-          "Dezena no primeiro prêmio!<br>com o palpite 0274",
-          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 0274"
-        ],
-        "0008": [
-          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 0008"
-        ],
-        "0208": [
-          "ÁGUIA 🦅 no décimo prêmio!<br>com o palpite 0208"
+        "4929": [
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 4929"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 8,
+        "Dezena": 0,
         "Grupo": [
-          "🦚",
-          "🦅"
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0004, 0008, 0024, 0028, 0034, 0038, 0074, 0078, 0204, 0208, 0224, 0228, 0234, 0238, 0274, 0278, 1004, 1008, 1024, 1028, 1034, 1038, 1074, 1078, 1204, 1208, 1224, 1228, 1234, 1238, 1274, 1278, 2004, 2008, 2024, 2028, 2034, 2038, 2074, 2078, 2204, 2208, 2224, 2228, 2234, 2238, 2274, 2278, 9004, 9008, 9024, 9028, 9034, 9038, 9074, 9078, 9204, 9208, 9224, 9228, 9234, 9238, 9274, 9278"
+      "resumo": "Palpites dados para esta extração: 4028, 4029, 4038, 4039, 4078, 4079, 4128, 4129, 4138, 4139, 4178, 4179, 4228, 4229, 4238, 4239, 4278, 4279, 4328, 4329, 4338, 4339, 4378, 4379, 4428, 4429, 4438, 4439, 4478, 4479, 4928, 4929, 4938, 4939, 4978, 4979"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7474",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9731",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8404",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1715",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7346",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7981",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4747",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7301",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4145",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8844",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        }
+      ],
+      "frases": {
+        "4029": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4029"
+        ],
+        "4129": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4129"
+        ],
+        "4229": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4229"
+        ],
+        "4329": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4329"
+        ],
+        "4429": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4429"
+        ],
+        "4929": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4929"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐪"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 4028, 4029, 4038, 4039, 4078, 4079, 4128, 4129, 4138, 4139, 4178, 4179, 4228, 4229, 4238, 4239, 4278, 4279, 4328, 4329, 4338, 4339, 4378, 4379, 4428, 4429, 4438, 4439, 4478, 4479, 4928, 4929, 4938, 4939, 4978, 4979"
+    },
+    "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
