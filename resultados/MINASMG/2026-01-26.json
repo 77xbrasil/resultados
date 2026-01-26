@@ -52,6 +52,20 @@
         }
       ],
       "frases": {
+        "1206": [
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 1206",
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 1206"
+        ],
+        "1207": [
+          "Dezena no segundo prêmio!<br>com o palpite 1207",
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 1207",
+          "Dezena no quinto prêmio!<br>com o palpite 1207",
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 1207"
+        ],
+        "1277": [
+          "Dezena no quarto prêmio!<br>com o palpite 1277",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 1277"
+        ],
         "1279": [
           "PERU 🦃 no quarto prêmio!<br>com o palpite 1279"
         ],
@@ -59,12 +73,19 @@
           "Dezena no sexto prêmio!<br>com o palpite 1296",
           "VEADO 🦌 no sexto prêmio!<br>com o palpite 1296"
         ],
-        "1479": [
-          "PERU 🦃 no quarto prêmio!<br>com o palpite 1479"
+        "2206": [
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 2206",
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2206"
         ],
-        "1496": [
-          "Dezena no sexto prêmio!<br>com o palpite 1496",
-          "VEADO 🦌 no sexto prêmio!<br>com o palpite 1496"
+        "2207": [
+          "Dezena no segundo prêmio!<br>com o palpite 2207",
+          "ÁGUIA 🦅 no segundo prêmio!<br>com o palpite 2207",
+          "Dezena no quinto prêmio!<br>com o palpite 2207",
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 2207"
+        ],
+        "2277": [
+          "Dezena no quarto prêmio!<br>com o palpite 2277",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 2277"
         ],
         "2279": [
           "PERU 🦃 no quarto prêmio!<br>com o palpite 2279"
@@ -72,27 +93,90 @@
         "2296": [
           "Dezena no sexto prêmio!<br>com o palpite 2296",
           "VEADO 🦌 no sexto prêmio!<br>com o palpite 2296"
-        ],
-        "2479": [
-          "PERU 🦃 no quarto prêmio!<br>com o palpite 2479"
-        ],
-        "2496": [
-          "Dezena no sexto prêmio!<br>com o palpite 2496",
-          "VEADO 🦌 no sexto prêmio!<br>com o palpite 2496"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 4,
+        "Dezena": 8,
         "Grupo": [
+          "🦅",
           "🦃",
           "🦌"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1270, 1276, 1279, 1290, 1296, 1299, 1470, 1476, 1479, 1490, 1496, 1499, 2270, 2276, 2279, 2290, 2296, 2299, 2470, 2476, 2479, 2490, 2496, 2499"
+      "resumo": "Palpites dados para esta extração: 1206, 1207, 1209, 1276, 1277, 1279, 1296, 1297, 1299, 2206, 2207, 2209, 2276, 2277, 2279, 2296, 2297, 2299"
     },
     "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8811",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3843",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8951",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4960",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9570",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "36135",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "860",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1209": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 1209"
+        ],
+        "2209": [
+          "BURRO 🐴 no primeiro prêmio!<br>com o palpite 2209"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐴"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1206, 1207, 1209, 1276, 1277, 1279, 1296, 1297, 1299, 2206, 2207, 2209, 2276, 2277, 2279, 2296, 2297, 2299"
+    },
+    "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
