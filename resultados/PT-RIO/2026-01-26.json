@@ -52,6 +52,28 @@
         }
       ],
       "frases": {
+        "4991": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 4991",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 4991",
+          "Dezena no sétimo prêmio!<br>com o palpite 4991",
+          "URSO 🐻 no sétimo prêmio!<br>com o palpite 4991"
+        ],
+        "4992": [
+          "Dezena no terceiro prêmio!<br>com o palpite 4992",
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 4992",
+          "URSO 🐻 no sétimo prêmio!<br>com o palpite 4992"
+        ],
+        "8991": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 8991",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 8991",
+          "Dezena no sétimo prêmio!<br>com o palpite 8991",
+          "URSO 🐻 no sétimo prêmio!<br>com o palpite 8991"
+        ],
+        "8992": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8992",
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 8992",
+          "URSO 🐻 no sétimo prêmio!<br>com o palpite 8992"
+        ],
         "9991": [
           "URSO 🐻 no terceiro prêmio!<br>com o palpite 9991",
           "Centena e Dezena no sétimo prêmio!<br>com o palpite 9991",
@@ -63,20 +85,28 @@
           "URSO 🐻 no terceiro prêmio!<br>com o palpite 9992",
           "URSO 🐻 no sétimo prêmio!<br>com o palpite 9992"
         ],
-        "9998": [
-          "VACA 🐄 no primeiro prêmio!<br>com o palpite 9998"
+        "0991": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 0991",
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 0991",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 0991",
+          "Dezena no sétimo prêmio!<br>com o palpite 0991",
+          "URSO 🐻 no sétimo prêmio!<br>com o palpite 0991"
+        ],
+        "0992": [
+          "Dezena no terceiro prêmio!<br>com o palpite 0992",
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 0992",
+          "URSO 🐻 no sétimo prêmio!<br>com o palpite 0992"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 2,
+        "Milhar": 1,
+        "Centena": 4,
+        "Dezena": 8,
         "Grupo": [
-          "🐄",
           "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9991, 9992, 9994, 9998"
+      "resumo": "Palpites dados para esta extração: 0991, 0992, 4991, 4992, 8991, 8992, 9991, 9992"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -130,23 +160,44 @@
         }
       ],
       "frases": {
+        "4991": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 4991"
+        ],
+        "4992": [
+          "Dezena no segundo prêmio!<br>com o palpite 4992",
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 4992"
+        ],
+        "8991": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 8991"
+        ],
+        "8992": [
+          "Dezena no segundo prêmio!<br>com o palpite 8992",
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 8992"
+        ],
         "9991": [
           "URSO 🐻 no segundo prêmio!<br>com o palpite 9991"
         ],
         "9992": [
           "Dezena no segundo prêmio!<br>com o palpite 9992",
           "URSO 🐻 no segundo prêmio!<br>com o palpite 9992"
+        ],
+        "0991": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 0991"
+        ],
+        "0992": [
+          "Dezena no segundo prêmio!<br>com o palpite 0992",
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 0992"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 4,
         "Grupo": [
           "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9991, 9992, 9994, 9998"
+      "resumo": "Palpites dados para esta extração: 0991, 0992, 4991, 4992, 8991, 8992, 9991, 9992"
     },
     "A FEDERAL DO BRASIL - RJ": {
       "cabecalhos": [
@@ -209,6 +260,66 @@
       "resumo": "Palpites dados para esta extração: 0191, 0192, 0199, 0291, 0292, 0299, 0391, 0392, 0399, 0991, 0992, 0999, 2191, 2192, 2199, 2291, 2292, 2299, 2391, 2392, 2399, 2991, 2992, 2999, 7191, 7192, 7199, 7291, 7292, 7299, 7391, 7392, 7399, 7991, 7992, 7999, 9191, 9192, 9199, 9291, 9292, 9299, 9391, 9392, 9399, 9991, 9992, 9999"
     },
     "PT-RIO, RJ, 14:20, PT": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6233",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0408",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6216",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5568",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8176",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "6601",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "543",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0991, 0992, 4991, 4992, 8991, 8992, 9991, 9992"
+    },
+    "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -303,6 +414,26 @@
         }
       ],
       "frases": {
+        "4991": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 4991",
+          "Dezena no oitavo prêmio!<br>com o palpite 4991",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 4991"
+        ],
+        "4992": [
+          "Dezena no terceiro prêmio!<br>com o palpite 4992",
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 4992",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 4992"
+        ],
+        "8991": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 8991",
+          "Dezena no oitavo prêmio!<br>com o palpite 8991",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 8991"
+        ],
+        "8992": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8992",
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 8992",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 8992"
+        ],
         "9991": [
           "URSO 🐻 no terceiro prêmio!<br>com o palpite 9991",
           "Dezena no oitavo prêmio!<br>com o palpite 9991",
@@ -313,22 +444,26 @@
           "URSO 🐻 no terceiro prêmio!<br>com o palpite 9992",
           "URSO 🐻 no oitavo prêmio!<br>com o palpite 9992"
         ],
-        "9998": [
-          "VACA 🐄 no primeiro prêmio!<br>com o palpite 9998",
-          "Dezena no sexto prêmio!<br>com o palpite 9998",
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 9998"
+        "0991": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 0991",
+          "Dezena no oitavo prêmio!<br>com o palpite 0991",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 0991"
+        ],
+        "0992": [
+          "Dezena no terceiro prêmio!<br>com o palpite 0992",
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 0992",
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 0992"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
+        "Dezena": 8,
         "Grupo": [
-          "🐄",
           "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9991, 9992, 9994, 9998"
+      "resumo": "Palpites dados para esta extração: 0991, 0992, 4991, 4992, 8991, 8992, 9991, 9992"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -400,6 +535,20 @@
         }
       ],
       "frases": {
+        "4991": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 4991"
+        ],
+        "4992": [
+          "Dezena no segundo prêmio!<br>com o palpite 4992",
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 4992"
+        ],
+        "8991": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 8991"
+        ],
+        "8992": [
+          "Dezena no segundo prêmio!<br>com o palpite 8992",
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 8992"
+        ],
         "9991": [
           "URSO 🐻 no segundo prêmio!<br>com o palpite 9991"
         ],
@@ -407,20 +556,23 @@
           "Dezena no segundo prêmio!<br>com o palpite 9992",
           "URSO 🐻 no segundo prêmio!<br>com o palpite 9992"
         ],
-        "9994": [
-          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 9994"
+        "0991": [
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 0991"
+        ],
+        "0992": [
+          "Dezena no segundo prêmio!<br>com o palpite 0992",
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 0992"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 4,
         "Grupo": [
-          "🐻",
-          "🦌"
+          "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9991, 9992, 9994, 9998"
+      "resumo": "Palpites dados para esta extração: 0991, 0992, 4991, 4992, 8991, 8992, 9991, 9992"
     },
     "A FEDERAL DO BRASIL - RJ do 1º ao 10º": {
       "cabecalhos": [
@@ -501,6 +653,84 @@
       "resumo": "Palpites dados para esta extração: 0191, 0192, 0199, 0291, 0292, 0299, 0391, 0392, 0399, 0991, 0992, 0999, 2191, 2192, 2199, 2291, 2292, 2299, 2391, 2392, 2399, 2991, 2992, 2999, 7191, 7192, 7199, 7291, 7292, 7299, 7391, 7392, 7399, 7991, 7992, 7999, 9191, 9192, 9199, 9291, 9292, 9299, 9391, 9392, 9399, 9991, 9992, 9999"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6233",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0408",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6216",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5568",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8176",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "6065",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2425",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3016",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3868",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1975",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0991, 0992, 4991, 4992, 8991, 8992, 9991, 9992"
+    },
+    "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
