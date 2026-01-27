@@ -69,14 +69,23 @@
           "Bicho": "Touro"
         }
       ],
-      "frases": {},
+      "frases": {
+        "5258": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 5258"
+        ],
+        "5758": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 5758"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐊"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5753"
+      "resumo": "Palpites dados para esta extração: 5253, 5255, 5256, 5258, 5753, 5755, 5756, 5758"
     },
     "LOTEP - PB, 12:45": {
       "cabecalhos": [
@@ -147,14 +156,31 @@
           "Bicho": "Veado"
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "5258": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5258",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 5258",
+          "Dezena no sexto prêmio!<br>com o palpite 5258",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 5258"
+        ],
+        "5758": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5758",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 5758",
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 5758",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 5758",
+          "Dezena no sexto prêmio!<br>com o palpite 5758",
+          "JACARÉ 🐊 no sexto prêmio!<br>com o palpite 5758"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5753"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 1,
+        "Dezena": 4,
+        "Grupo": [
+          "🐊"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5253, 5255, 5256, 5258, 5753, 5755, 5756, 5758"
     },
     "LOTEP - PB, 15:45h": {
       "cabecalhos": [
@@ -226,20 +252,55 @@
         }
       ],
       "frases": {
+        "5253": [
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 5253",
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 5253"
+        ],
+        "5255": [
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 5255",
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 5255"
+        ],
+        "5256": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 5256",
+          "Dezena no sétimo prêmio!<br>com o palpite 5256",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 5256",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 5256",
+          "Dezena no décimo prêmio!<br>com o palpite 5256",
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 5256"
+        ],
+        "5258": [
+          "Dezena no nono prêmio!<br>com o palpite 5258",
+          "JACARÉ 🐊 no nono prêmio!<br>com o palpite 5258"
+        ],
         "5753": [
           "GATO 🐈 no sétimo prêmio!<br>com o palpite 5753",
           "GATO 🐈 no décimo prêmio!<br>com o palpite 5753"
+        ],
+        "5755": [
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 5755",
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 5755"
+        ],
+        "5756": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5756",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 5756",
+          "Dezena no décimo prêmio!<br>com o palpite 5756",
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 5756"
+        ],
+        "5758": [
+          "Dezena no nono prêmio!<br>com o palpite 5758",
+          "JACARÉ 🐊 no nono prêmio!<br>com o palpite 5758"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Centena": 2,
+        "Dezena": 6,
         "Grupo": [
-          "🐈"
+          "🐈",
+          "🐊"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5753"
+      "resumo": "Palpites dados para esta extração: 5253, 5255, 5256, 5258, 5753, 5755, 5756, 5758"
     },
     "LOTEP - PB, 18h": {
       "cabecalhos": [
@@ -249,25 +310,99 @@
         "Bicho"
       ],
       "dados": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "Prêmio": "1º",
+          "Milhar": "9024",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5062",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0085",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8726",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5584",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9508",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0007",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2682",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "4256",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "4934",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        }
       ],
-      "frases": {},
+      "frases": {
+        "5253": [
+          "GATO 🐈 no nono prêmio!<br>com o palpite 5253"
+        ],
+        "5255": [
+          "GATO 🐈 no nono prêmio!<br>com o palpite 5255"
+        ],
+        "5256": [
+          "Centena e Dezena no nono prêmio!<br>com o palpite 5256",
+          "Dezena no nono prêmio!<br>com o palpite 5256",
+          "GATO 🐈 no nono prêmio!<br>com o palpite 5256"
+        ],
+        "5753": [
+          "GATO 🐈 no nono prêmio!<br>com o palpite 5753"
+        ],
+        "5755": [
+          "GATO 🐈 no nono prêmio!<br>com o palpite 5755"
+        ],
+        "5756": [
+          "Dezena no nono prêmio!<br>com o palpite 5756",
+          "GATO 🐈 no nono prêmio!<br>com o palpite 5756"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🐈"
+        ]
       },
-      "resumo": ""
+      "resumo": "Palpites dados para esta extração: 5253, 5255, 5256, 5258, 5753, 5755, 5756, 5758"
     }
   }
 }
