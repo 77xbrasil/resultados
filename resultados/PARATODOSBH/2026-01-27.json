@@ -70,38 +70,139 @@
         }
       ],
       "frases": {
+        "8809": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 8809",
+          "Dezena no sexto prêmio!<br>com o palpite 8809",
+          "BURRO 🐴 no sexto prêmio!<br>com o palpite 8809"
+        ],
+        "8829": [
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 8829"
+        ],
         "8849": [
           "Dezena no quinto prêmio!<br>com o palpite 8849",
           "GALO 🐓 no quinto prêmio!<br>com o palpite 8849"
-        ],
-        "8852": [
-          "GALO 🐓 no quinto prêmio!<br>com o palpite 8852"
         ],
         "8859": [
           "Dezena no oitavo prêmio!<br>com o palpite 8859",
           "JACARÉ 🐊 no oitavo prêmio!<br>com o palpite 8859"
         ],
-        "8872": [
-          "PORCO 🐖 no nono prêmio!<br>com o palpite 8872"
+        "8869": [
+          "Centena e Dezena no nono prêmio!<br>com o palpite 8869",
+          "Dezena no nono prêmio!<br>com o palpite 8869",
+          "PORCO 🐖 no nono prêmio!<br>com o palpite 8869"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 2,
+        "Dezena": 4,
+        "Grupo": [
+          "🐓",
+          "🐴",
+          "🐪",
+          "🐊",
+          "🐖"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 8809, 8819, 8829, 8849, 8859, 8869, 8879"
+    },
+    "12h - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7818",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8980",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6575",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7483",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7784",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5893",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "7350",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3463",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9072",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "9145",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        }
+      ],
+      "frases": {
+        "8819": [
+          "CACHORRO 🐕 no primeiro prêmio!<br>com o palpite 8819"
         ],
-        "8874": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 8874"
+        "8849": [
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 8849"
+        ],
+        "8869": [
+          "PORCO 🐖 no nono prêmio!<br>com o palpite 8869"
+        ],
+        "8879": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 8879"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 0,
         "Grupo": [
-          "🦚",
+          "🐕",
+          "🦃",
           "🐓",
-          "🐊",
           "🐖"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 8842, 8844, 8849, 8852, 8854, 8859, 8872, 8874, 8879"
+      "resumo": "Palpites dados para esta extração: 8809, 8819, 8829, 8849, 8859, 8869, 8879"
     },
-    "12h - BA": {
+    "15h - BA": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
