@@ -58,9 +58,105 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3010, 3011, 3050, 3051, 3210, 3211, 3250, 3251, 3310, 3311, 3350, 3351, 3510, 3511, 3550, 3551, 3610, 3611, 3650, 3651, 3710, 3711, 3750, 3751, 3810, 3811, 3850, 3851, 3910, 3911, 3950, 3951"
+      "resumo": "Palpites dados para esta extração: 2210, 2217, 2250, 2257, 3210, 3217, 3250, 3257, 5210, 5217, 5250, 5257, 6210, 6217, 6250, 6257"
     },
     "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6772",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4749",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0258",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6164",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4251",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "22194",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "160",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2250": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2250",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 2250"
+        ],
+        "2257": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 2257",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 2257"
+        ],
+        "3250": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 3250",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 3250"
+        ],
+        "3257": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 3257",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 3257"
+        ],
+        "5250": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 5250",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 5250"
+        ],
+        "5257": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 5257",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 5257"
+        ],
+        "6250": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6250",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 6250"
+        ],
+        "6257": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 6257",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 6257"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐓",
+          "🐊"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2210, 2217, 2250, 2257, 3210, 3217, 3250, 3257, 5210, 5217, 5250, 5257, 6210, 6217, 6250, 6257"
+    },
+    "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
