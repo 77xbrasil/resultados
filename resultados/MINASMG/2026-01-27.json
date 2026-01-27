@@ -51,14 +51,26 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2278": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 2278"
+        ],
+        "6278": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 6278"
+        ],
+        "0278": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 0278"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦃"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0272, 2272, 6272"
+      "resumo": "Palpites dados para esta extração: 0272, 0278, 2272, 2278, 6272, 6278"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
@@ -133,7 +145,7 @@
           "🐖"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0272, 2272, 6272"
+      "resumo": "Palpites dados para esta extração: 0272, 0278, 2272, 2278, 6272, 6278"
     },
     "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
@@ -211,7 +223,7 @@
           "🐖"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0272, 2272, 6272"
+      "resumo": "Palpites dados para esta extração: 0272, 0278, 2272, 2278, 6272, 6278"
     },
     "PREFERIDA - MG, 21h": {
       "cabecalhos": [
