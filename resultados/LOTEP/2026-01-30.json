@@ -208,6 +208,111 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1238",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3176",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6015",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4936",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0785",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1364",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2109",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3713",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "8656",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1992",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        }
+      ],
+      "frases": {
+        "5014": [
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 5014",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 5014"
+        ],
+        "5064": [
+          "Dezena no sexto prêmio!<br>com o palpite 5064",
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 5064"
+        ],
+        "5074": [
+          "PAVÃO 🦚 no segundo prêmio!<br>com o palpite 5074"
+        ],
+        "9014": [
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 9014",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 9014"
+        ],
+        "9064": [
+          "Dezena no sexto prêmio!<br>com o palpite 9064",
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 9064"
+        ],
+        "9074": [
+          "PAVÃO 🦚 no segundo prêmio!<br>com o palpite 9074"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🦚",
+          "🦋",
+          "🦁"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5014, 5064, 5074, 9014, 9064, 9074"
+    },
+    "LOTEP - PB, 18h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
