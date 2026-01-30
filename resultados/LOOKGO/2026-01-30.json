@@ -58,9 +58,69 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 7042, 7044, 7045, 7047, 7062, 7064, 7065, 7067, 7072, 7074, 7075, 7077, 7142, 7144, 7145, 7147, 7162, 7164, 7165, 7167, 7172, 7174, 7175, 7177, 7242, 7244, 7245, 7247, 7262, 7264, 7265, 7267, 7272, 7274, 7275, 7277, 7442, 7444, 7445, 7447, 7462, 7464, 7465, 7467, 7472, 7474, 7475, 7477, 7542, 7544, 7545, 7547, 7562, 7564, 7565, 7567, 7572, 7574, 7575, 7577, 7842, 7844, 7845, 7847, 7862, 7864, 7865, 7867, 7872, 7874, 7875, 7877, 7942, 7944, 7945, 7947, 7962, 7964, 7965, 7967, 7972, 7974, 7975, 7977"
+      "resumo": "Palpites dados para esta extração: 1013, 1023, 1073, 1113, 1123, 1173, 1213, 1223, 1273, 1413, 1423, 1473, 1713, 1723, 1773, 1813, 1823, 1873"
     },
     "LOOK - GOIÁS, 09h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1806",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1932",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7371",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3333",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2698",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "7140",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "489",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1013, 1023, 1073, 1113, 1123, 1173, 1213, 1223, 1273, 1413, 1423, 1473, 1713, 1723, 1773, 1813, 1823, 1873"
+    },
+    "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -154,16 +214,190 @@
           "Bicho": "Cachorro"
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "1023": [
+          "Dezena no oitavo prêmio!<br>com o palpite 1023",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 1023"
+        ],
+        "1123": [
+          "Dezena no oitavo prêmio!<br>com o palpite 1123",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 1123"
+        ],
+        "1223": [
+          "Dezena no oitavo prêmio!<br>com o palpite 1223",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 1223"
+        ],
+        "1423": [
+          "Dezena no oitavo prêmio!<br>com o palpite 1423",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 1423"
+        ],
+        "1723": [
+          "Dezena no oitavo prêmio!<br>com o palpite 1723",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 1723"
+        ],
+        "1823": [
+          "Milhar e Centena no oitavo prêmio!<br>com o palpite 1823",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 1823",
+          "Dezena no oitavo prêmio!<br>com o palpite 1823",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 1823"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 7042, 7044, 7045, 7047, 7062, 7064, 7065, 7067, 7072, 7074, 7075, 7077, 7142, 7144, 7145, 7147, 7162, 7164, 7165, 7167, 7172, 7174, 7175, 7177, 7242, 7244, 7245, 7247, 7262, 7264, 7265, 7267, 7272, 7274, 7275, 7277, 7442, 7444, 7445, 7447, 7462, 7464, 7465, 7467, 7472, 7474, 7475, 7477, 7542, 7544, 7545, 7547, 7562, 7564, 7565, 7567, 7572, 7574, 7575, 7577, 7842, 7844, 7845, 7847, 7862, 7864, 7865, 7867, 7872, 7874, 7875, 7877, 7942, 7944, 7945, 7947, 7962, 7964, 7965, 7967, 7972, 7974, 7975, 7977"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 1,
+        "Dezena": 6,
+        "Grupo": [
+          "🐐"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1013, 1023, 1073, 1113, 1123, 1173, 1213, 1223, 1273, 1413, 1423, 1473, 1713, 1723, 1773, 1813, 1823, 1873"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1806",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1932",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7371",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3333",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2698",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1173",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8933",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "0373",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6213",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "3832",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        }
+      ],
+      "frases": {
+        "1013": [
+          "Dezena no nono prêmio!<br>com o palpite 1013",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 1013"
+        ],
+        "1073": [
+          "Dezena no sexto prêmio!<br>com o palpite 1073",
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 1073",
+          "Dezena no oitavo prêmio!<br>com o palpite 1073",
+          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 1073"
+        ],
+        "1113": [
+          "Dezena no nono prêmio!<br>com o palpite 1113",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 1113"
+        ],
+        "1173": [
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 1173",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 1173",
+          "Dezena no sexto prêmio!<br>com o palpite 1173",
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 1173",
+          "Dezena no oitavo prêmio!<br>com o palpite 1173",
+          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 1173"
+        ],
+        "1213": [
+          "Centena e Dezena no nono prêmio!<br>com o palpite 1213",
+          "Dezena no nono prêmio!<br>com o palpite 1213",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 1213"
+        ],
+        "1273": [
+          "Dezena no sexto prêmio!<br>com o palpite 1273",
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 1273",
+          "Dezena no oitavo prêmio!<br>com o palpite 1273",
+          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 1273"
+        ],
+        "1413": [
+          "Dezena no nono prêmio!<br>com o palpite 1413",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 1413"
+        ],
+        "1473": [
+          "Dezena no sexto prêmio!<br>com o palpite 1473",
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 1473",
+          "Dezena no oitavo prêmio!<br>com o palpite 1473",
+          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 1473"
+        ],
+        "1713": [
+          "Dezena no nono prêmio!<br>com o palpite 1713",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 1713"
+        ],
+        "1773": [
+          "Dezena no sexto prêmio!<br>com o palpite 1773",
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 1773",
+          "Dezena no oitavo prêmio!<br>com o palpite 1773",
+          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 1773"
+        ],
+        "1813": [
+          "Dezena no nono prêmio!<br>com o palpite 1813",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 1813"
+        ],
+        "1873": [
+          "Dezena no sexto prêmio!<br>com o palpite 1873",
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 1873",
+          "Dezena no oitavo prêmio!<br>com o palpite 1873",
+          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 1873"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 18,
+        "Grupo": [
+          "🦚",
+          "🦋"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1013, 1023, 1073, 1113, 1123, 1173, 1213, 1223, 1273, 1413, 1423, 1473, 1713, 1723, 1773, 1813, 1823, 1873"
+    },
+    "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
