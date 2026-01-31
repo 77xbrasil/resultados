@@ -58,9 +58,69 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0310, 0312, 0313, 0315, 0410, 0412, 0413, 0415, 0710, 0712, 0713, 0715"
+      "resumo": "Palpites dados para esta extração: 0418, 0718, 2418, 2718, 4418, 4718, 8418, 8718, 9418, 9718"
     },
     "PT-RIO, RJ, 11:00, PTM": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7882",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9140",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8337",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9153",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8068",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2580",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "041",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0418, 0718, 2418, 2718, 4418, 4718, 8418, 8718, 9418, 9718"
+    },
+    "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -154,6 +214,159 @@
           "Bicho": "Galo"
         }
       ],
+      "frases": {
+        "2418": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 2418",
+          "Dezena no sexto prêmio!<br>com o palpite 2418",
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 2418",
+          "Dezena no sétimo prêmio!<br>com o palpite 2418",
+          "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 2418"
+        ],
+        "2718": [
+          "Dezena no sexto prêmio!<br>com o palpite 2718",
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 2718",
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 2718",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 2718",
+          "Dezena no sétimo prêmio!<br>com o palpite 2718",
+          "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 2718"
+        ],
+        "4418": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 4418",
+          "Dezena no sexto prêmio!<br>com o palpite 4418",
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 4418",
+          "Dezena no sétimo prêmio!<br>com o palpite 4418",
+          "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 4418"
+        ],
+        "4718": [
+          "Dezena no sexto prêmio!<br>com o palpite 4718",
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 4718",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 4718",
+          "Dezena no sétimo prêmio!<br>com o palpite 4718",
+          "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 4718"
+        ],
+        "8418": [
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 8418",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 8418",
+          "Dezena no sexto prêmio!<br>com o palpite 8418",
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 8418",
+          "Dezena no sétimo prêmio!<br>com o palpite 8418",
+          "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 8418"
+        ],
+        "8718": [
+          "Dezena no sexto prêmio!<br>com o palpite 8718",
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 8718",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 8718",
+          "Dezena no sétimo prêmio!<br>com o palpite 8718",
+          "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 8718"
+        ],
+        "9418": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 9418",
+          "Dezena no sexto prêmio!<br>com o palpite 9418",
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 9418",
+          "Dezena no sétimo prêmio!<br>com o palpite 9418",
+          "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 9418"
+        ],
+        "9718": [
+          "Dezena no sexto prêmio!<br>com o palpite 9718",
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 9718",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 9718",
+          "Dezena no sétimo prêmio!<br>com o palpite 9718",
+          "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 9718"
+        ],
+        "0418": [
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 0418",
+          "Dezena no sexto prêmio!<br>com o palpite 0418",
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 0418",
+          "Dezena no sétimo prêmio!<br>com o palpite 0418",
+          "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 0418"
+        ],
+        "0718": [
+          "Dezena no sexto prêmio!<br>com o palpite 0718",
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 0718",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 0718",
+          "Dezena no sétimo prêmio!<br>com o palpite 0718",
+          "CACHORRO 🐕 no sétimo prêmio!<br>com o palpite 0718"
+        ]
+      },
+      "acertos": {
+        "Milhar": 2,
+        "Centena": 10,
+        "Dezena": 20,
+        "Grupo": [
+          "🐕"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0418, 0718, 2418, 2718, 4418, 4718, 8418, 8718, 9418, 9718"
+    },
+    "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7882",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9140",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8337",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9153",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8068",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "7989",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8131",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8435",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "2073",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "9208",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        }
+      ],
       "frases": {},
       "acertos": {
         "Milhar": 0,
@@ -161,9 +374,9 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0310, 0312, 0313, 0315, 0410, 0412, 0413, 0415, 0710, 0712, 0713, 0715"
+      "resumo": "Palpites dados para esta extração: 0418, 0718, 2418, 2718, 4418, 4718, 8418, 8718, 9418, 9718"
     },
-    "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
+    "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
