@@ -367,6 +367,131 @@
         "Grupo": []
       },
       "resumo": "Palpites dados para esta extração: 1930, 1931, 1935, 1939, 1950, 1951, 1955, 1959, 7930, 7931, 7935, 7939, 7950, 7951, 7955, 7959"
+    },
+    "PT-RIO, RJ, 21:20, CORUJA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9633",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2171",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3658",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8115",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2752",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "6329",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "913",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1930": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 1930"
+        ],
+        "1931": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 1931"
+        ],
+        "1935": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 1935"
+        ],
+        "1950": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1950"
+        ],
+        "1951": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1951"
+        ],
+        "1959": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 1959"
+        ],
+        "7930": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 7930"
+        ],
+        "7931": [
+          "CAMELO 🐪 no sexto prêmio!<br>com o palpite 7931"
+        ],
+        "7935": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 7935"
+        ],
+        "7950": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7950"
+        ],
+        "7951": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7951"
+        ],
+        "7959": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 7959"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐍",
+          "🐊",
+          "🐓",
+          "🐪"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1930, 1931, 1935, 1939, 1950, 1951, 1955, 1959, 7930, 7931, 7935, 7939, 7950, 7951, 7955, 7959"
+    },
+    "PT-RIO, RJ, 18:20, PTN": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   },
   "1-10": {
@@ -916,6 +1041,154 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 1930, 1931, 1935, 1939, 1950, 1951, 1955, 1959, 7930, 7931, 7935, 7939, 7950, 7951, 7955, 7959"
+    },
+    "PT-RIO, RJ, 21:20, CORUJA do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9633",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2171",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3658",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8115",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2752",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9238",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6161",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3751",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3185",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8664",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        }
+      ],
+      "frases": {
+        "1935": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 1935"
+        ],
+        "1939": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 1939"
+        ],
+        "1950": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1950",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1950"
+        ],
+        "1951": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 1951",
+          "Dezena no oitavo prêmio!<br>com o palpite 1951",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1951"
+        ],
+        "1959": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 1959"
+        ],
+        "7935": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 7935"
+        ],
+        "7939": [
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 7939"
+        ],
+        "7950": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7950",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 7950"
+        ],
+        "7951": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 7951",
+          "Dezena no oitavo prêmio!<br>com o palpite 7951",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 7951"
+        ],
+        "7959": [
+          "JACARÉ 🐊 no terceiro prêmio!<br>com o palpite 7959"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐍",
+          "🐊",
+          "🐓",
+          "🐇"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1930, 1931, 1935, 1939, 1950, 1951, 1955, 1959, 7930, 7931, 7935, 7939, 7950, 7951, 7955, 7959"
+    },
+    "PT-RIO, RJ, 18:20, PTN do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": ""
     }
   }
 }
