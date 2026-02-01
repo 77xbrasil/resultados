@@ -211,6 +211,112 @@
         "Bicho"
       ],
       "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8235",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0531",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7464",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1383",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4283",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4482",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8415",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3772",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0705",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "4628",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        }
+      ],
+      "frases": {
+        "1434": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 1434"
+        ],
+        "1484": [
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 1484",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 1484",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 1484"
+        ],
+        "4434": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 4434"
+        ],
+        "4484": [
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 4484",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4484",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 4484"
+        ],
+        "9434": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 9434"
+        ],
+        "9484": [
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 9484",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 9484",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 9484"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐍",
+          "🐂"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1434, 1484, 4434, 4484, 9434, 9484"
+    },
+    "21h - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
         {},
         {},
         {},
