@@ -70,32 +70,249 @@
         }
       ],
       "frases": {
-        "1111": [
-          "Dezena no quarto prêmio!<br>com o palpite 1111",
-          "BURRO 🐴 no quarto prêmio!<br>com o palpite 1111"
+        "1910": [
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 1910"
         ],
-        "1171": [
-          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 1171",
-          "Dezena no oitavo prêmio!<br>com o palpite 1171",
-          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 1171"
+        "1911": [
+          "Dezena no quarto prêmio!<br>com o palpite 1911",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 1911"
         ],
-        "1175": [
-          "PAVÃO 🦚 no sétimo prêmio!<br>com o palpite 1175"
+        "1912": [
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 1912"
+        ],
+        "1970": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1970",
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 1970",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 1970"
+        ],
+        "1971": [
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 1971",
+          "Dezena no oitavo prêmio!<br>com o palpite 1971",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 1971"
+        ],
+        "1972": [
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 1972",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 1972"
+        ],
+        "3910": [
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 3910"
+        ],
+        "3911": [
+          "Dezena no quarto prêmio!<br>com o palpite 3911",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 3911"
+        ],
+        "3912": [
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 3912"
+        ],
+        "3970": [
+          "Dezena no terceiro prêmio!<br>com o palpite 3970",
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 3970",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 3970"
+        ],
+        "3971": [
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 3971",
+          "Dezena no oitavo prêmio!<br>com o palpite 3971",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 3971"
+        ],
+        "3972": [
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 3972",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 3972"
+        ],
+        "0970": [
+          "Dezena no terceiro prêmio!<br>com o palpite 0970",
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 0970",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 0970"
+        ],
+        "0971": [
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 0971",
+          "Dezena no oitavo prêmio!<br>com o palpite 0971",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 0971"
+        ],
+        "0972": [
+          "PORCO 🐖 no terceiro prêmio!<br>com o palpite 0972",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 0972"
+        ],
+        "0910": [
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 0910"
+        ],
+        "0911": [
+          "Dezena no quarto prêmio!<br>com o palpite 0911",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 0911"
+        ],
+        "0912": [
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 0912"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 9,
         "Grupo": [
           "🐖",
-          "🐴",
-          "🦚"
+          "🐴"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1111, 1115, 1121, 1125, 1171, 1175, 1181, 1185"
+      "resumo": "Palpites dados para esta extração: 0910, 0911, 0912, 0920, 0921, 0922, 0930, 0931, 0932, 0970, 0971, 0972, 0980, 0981, 0982, 0990, 0991, 0992, 1910, 1911, 1912, 1920, 1921, 1922, 1930, 1931, 1932, 1970, 1971, 1972, 1980, 1981, 1982, 1990, 1991, 1992, 3910, 3911, 3912, 3920, 3921, 3922, 3930, 3931, 3932, 3970, 3971, 3972, 3980, 3981, 3982, 3990, 3991, 3992"
     },
     "LOTEP - PB, 12:45": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3533",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2229",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9890",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6476",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4705",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3296",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "5284",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3297",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3906",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2616",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        }
+      ],
+      "frases": {
+        "1930": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 1930"
+        ],
+        "1931": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 1931"
+        ],
+        "1932": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 1932"
+        ],
+        "1981": [
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 1981"
+        ],
+        "1982": [
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 1982"
+        ],
+        "1990": [
+          "Dezena no terceiro prêmio!<br>com o palpite 1990",
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 1990"
+        ],
+        "1991": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 1991"
+        ],
+        "1992": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 1992"
+        ],
+        "3930": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 3930"
+        ],
+        "3931": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 3931"
+        ],
+        "3932": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 3932"
+        ],
+        "3981": [
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 3981"
+        ],
+        "3982": [
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 3982"
+        ],
+        "3990": [
+          "Dezena no terceiro prêmio!<br>com o palpite 3990",
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 3990"
+        ],
+        "3991": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 3991"
+        ],
+        "3992": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 3992"
+        ],
+        "0930": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 0930"
+        ],
+        "0931": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 0931"
+        ],
+        "0932": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 0932"
+        ],
+        "0990": [
+          "Dezena no terceiro prêmio!<br>com o palpite 0990",
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 0990"
+        ],
+        "0991": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 0991"
+        ],
+        "0992": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 0992"
+        ],
+        "0981": [
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 0981"
+        ],
+        "0982": [
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 0982"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 3,
+        "Grupo": [
+          "🐪",
+          "🐻",
+          "🐂"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0910, 0911, 0912, 0920, 0921, 0922, 0930, 0931, 0932, 0970, 0971, 0972, 0980, 0981, 0982, 0990, 0991, 0992, 1910, 1911, 1912, 1920, 1921, 1922, 1930, 1931, 1932, 1970, 1971, 1972, 1980, 1981, 1982, 1990, 1991, 1992, 3910, 3911, 3912, 3920, 3921, 3922, 3930, 3931, 3932, 3970, 3971, 3972, 3980, 3981, 3982, 3990, 3991, 3992"
+    },
+    "LOTEP - PB, 15:45h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
