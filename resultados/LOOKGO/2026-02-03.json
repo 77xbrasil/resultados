@@ -52,36 +52,86 @@
         }
       ],
       "frases": {
-        "1265": [
-          "MACACO 🐒 no segundo prêmio!<br>com o palpite 1265"
+        "1243": [
+          "Dezena no quarto prêmio!<br>com o palpite 1243",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 1243"
         ],
-        "1266": [
-          "MACACO 🐒 no segundo prêmio!<br>com o palpite 1266"
-        ],
-        "2265": [
-          "MACACO 🐒 no segundo prêmio!<br>com o palpite 2265"
-        ],
-        "2266": [
-          "MACACO 🐒 no segundo prêmio!<br>com o palpite 2266"
-        ],
-        "5265": [
-          "MACACO 🐒 no segundo prêmio!<br>com o palpite 5265"
-        ],
-        "5266": [
-          "MACACO 🐒 no segundo prêmio!<br>com o palpite 5266"
+        "6243": [
+          "Dezena no quarto prêmio!<br>com o palpite 6243",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 6243"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 2,
         "Grupo": [
-          "🐒"
+          "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1262, 1265, 1266, 2262, 2265, 2266, 5262, 5265, 5266"
+      "resumo": "Palpites dados para esta extração: 1213, 1216, 1243, 1246, 6213, 6216, 6243, 6246"
     },
     "LOOK - GOIÁS, 09h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0633",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1798",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4608",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9540",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6973",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "3552",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "138",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1213, 1216, 1243, 1246, 6213, 6216, 6243, 6246"
+    },
+    "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -176,42 +226,119 @@
         }
       ],
       "frases": {
-        "1265": [
-          "MACACO 🐒 no segundo prêmio!<br>com o palpite 1265",
-          "MACACO 🐒 no décimo prêmio!<br>com o palpite 1265"
+        "1213": [
+          "Dezena no nono prêmio!<br>com o palpite 1213",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 1213"
         ],
-        "1266": [
-          "MACACO 🐒 no segundo prêmio!<br>com o palpite 1266",
-          "MACACO 🐒 no décimo prêmio!<br>com o palpite 1266"
+        "1216": [
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 1216"
         ],
-        "2265": [
-          "MACACO 🐒 no segundo prêmio!<br>com o palpite 2265",
-          "MACACO 🐒 no décimo prêmio!<br>com o palpite 2265"
+        "1243": [
+          "Dezena no quarto prêmio!<br>com o palpite 1243",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 1243"
         ],
-        "2266": [
-          "MACACO 🐒 no segundo prêmio!<br>com o palpite 2266",
-          "MACACO 🐒 no décimo prêmio!<br>com o palpite 2266"
+        "6213": [
+          "Dezena no nono prêmio!<br>com o palpite 6213",
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 6213"
         ],
-        "5265": [
-          "MACACO 🐒 no segundo prêmio!<br>com o palpite 5265",
-          "MACACO 🐒 no décimo prêmio!<br>com o palpite 5265"
+        "6216": [
+          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 6216"
         ],
-        "5266": [
-          "MACACO 🐒 no segundo prêmio!<br>com o palpite 5266",
-          "MACACO 🐒 no décimo prêmio!<br>com o palpite 5266"
+        "6243": [
+          "Dezena no quarto prêmio!<br>com o palpite 6243",
+          "CAVALO 🐎 no quarto prêmio!<br>com o palpite 6243"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 4,
         "Grupo": [
-          "🐒"
+          "🐎",
+          "🦋"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1262, 1265, 1266, 2262, 2265, 2266, 5262, 5265, 5266"
+      "resumo": "Palpites dados para esta extração: 1213, 1216, 1243, 1246, 6213, 6216, 6243, 6246"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0633",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1798",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4608",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9540",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6973",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0149",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6765",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3904",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3880",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8250",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1213, 1216, 1243, 1246, 6213, 6216, 6243, 6246"
+    },
+    "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
