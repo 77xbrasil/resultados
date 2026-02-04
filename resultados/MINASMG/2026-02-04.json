@@ -51,16 +51,197 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "2116": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 2116",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 2116",
+          "Dezena no terceiro prêmio!<br>com o palpite 2116",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 2116"
+        ],
+        "2416": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 2416",
+          "Dezena no terceiro prêmio!<br>com o palpite 2416",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 2416"
+        ],
+        "2516": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 2516",
+          "Dezena no terceiro prêmio!<br>com o palpite 2516",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 2516"
+        ],
+        "2616": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 2616",
+          "Dezena no terceiro prêmio!<br>com o palpite 2616",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 2616"
+        ],
+        "6116": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 6116",
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 6116",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 6116",
+          "Dezena no terceiro prêmio!<br>com o palpite 6116",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 6116"
+        ],
+        "6416": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 6416",
+          "Dezena no terceiro prêmio!<br>com o palpite 6416",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 6416"
+        ],
+        "6516": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 6516",
+          "Dezena no terceiro prêmio!<br>com o palpite 6516",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 6516"
+        ],
+        "6616": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 6616",
+          "Dezena no terceiro prêmio!<br>com o palpite 6616",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 6616"
+        ],
+        "8116": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8116",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 8116",
+          "Dezena no terceiro prêmio!<br>com o palpite 8116",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8116"
+        ],
+        "8416": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8416",
+          "Dezena no terceiro prêmio!<br>com o palpite 8416",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8416"
+        ],
+        "8516": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8516",
+          "Dezena no terceiro prêmio!<br>com o palpite 8516",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8516"
+        ],
+        "8616": [
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 8616",
+          "Dezena no terceiro prêmio!<br>com o palpite 8616",
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 8616"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 6126, 6127, 6156, 6157, 6226, 6227, 6256, 6257, 6426, 6427, 6456, 6457, 6526, 6527, 6556, 6557, 6626, 6627, 6656, 6657"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 3,
+        "Dezena": 12,
+        "Grupo": [
+          "🦋"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2116, 2117, 2126, 2127, 2156, 2157, 2416, 2417, 2426, 2427, 2456, 2457, 2516, 2517, 2526, 2527, 2556, 2557, 2616, 2617, 2626, 2627, 2656, 2657, 6116, 6117, 6126, 6127, 6156, 6157, 6416, 6417, 6426, 6427, 6456, 6457, 6516, 6517, 6526, 6527, 6556, 6557, 6616, 6617, 6626, 6627, 6656, 6657, 8116, 8117, 8126, 8127, 8156, 8157, 8416, 8417, 8426, 8427, 8456, 8457, 8516, 8517, 8526, 8527, 8556, 8557, 8616, 8617, 8626, 8627, 8656, 8657"
     },
     "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1229",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6604",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7481",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8632",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3932",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "27878",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "116",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2116": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 2116",
+          "Dezena no sétimo prêmio!<br>com o palpite 2116",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 2116"
+        ],
+        "2416": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2416",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 2416"
+        ],
+        "2516": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2516",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 2516"
+        ],
+        "2616": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2616",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 2616"
+        ],
+        "6116": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 6116",
+          "Dezena no sétimo prêmio!<br>com o palpite 6116",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 6116"
+        ],
+        "6416": [
+          "Dezena no sétimo prêmio!<br>com o palpite 6416",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 6416"
+        ],
+        "6516": [
+          "Dezena no sétimo prêmio!<br>com o palpite 6516",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 6516"
+        ],
+        "6616": [
+          "Dezena no sétimo prêmio!<br>com o palpite 6616",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 6616"
+        ],
+        "8116": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 8116",
+          "Dezena no sétimo prêmio!<br>com o palpite 8116",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 8116"
+        ],
+        "8416": [
+          "Dezena no sétimo prêmio!<br>com o palpite 8416",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 8416"
+        ],
+        "8516": [
+          "Dezena no sétimo prêmio!<br>com o palpite 8516",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 8516"
+        ],
+        "8616": [
+          "Dezena no sétimo prêmio!<br>com o palpite 8616",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 8616"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 3,
+        "Dezena": 12,
+        "Grupo": [
+          "🦋"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2116, 2117, 2126, 2127, 2156, 2157, 2416, 2417, 2426, 2427, 2456, 2457, 2516, 2517, 2526, 2527, 2556, 2557, 2616, 2617, 2626, 2627, 2656, 2657, 6116, 6117, 6126, 6127, 6156, 6157, 6416, 6417, 6426, 6427, 6456, 6457, 6516, 6517, 6526, 6527, 6556, 6557, 6616, 6617, 6626, 6627, 6656, 6657, 8116, 8117, 8126, 8127, 8156, 8157, 8416, 8417, 8426, 8427, 8456, 8457, 8516, 8517, 8526, 8527, 8556, 8557, 8616, 8617, 8626, 8627, 8656, 8657"
+    },
+    "MINAS FEDERAL - MG": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
