@@ -45,23 +45,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "2070": [
-          "PORCO 🐖 no quinto prêmio!<br>com o palpite 2070"
-        ],
-        "2071": [
-          "PORCO 🐖 no quinto prêmio!<br>com o palpite 2071"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐖"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2070, 2071, 2074"
+      "resumo": "Palpites dados para esta extração: 2020, 2420, 2920, 4020, 4420, 4920"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -115,7 +106,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2070, 2071, 2074"
+      "resumo": "Palpites dados para esta extração: 2020, 2420, 2920, 4020, 4420, 4920"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -162,28 +153,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "2070": [
-          "PORCO 🐖 no segundo prêmio!<br>com o palpite 2070"
-        ],
-        "2071": [
-          "Dezena no segundo prêmio!<br>com o palpite 2071",
-          "PORCO 🐖 no segundo prêmio!<br>com o palpite 2071"
-        ],
-        "2074": [
-          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 2074"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
-        "Grupo": [
-          "🐖",
-          "🦚"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2070, 2071, 2074"
+      "resumo": "Palpites dados para esta extração: 2020, 2420, 2920, 4020, 4420, 4920"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -237,7 +214,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2070, 2071, 2074"
+      "resumo": "Palpites dados para esta extração: 2020, 2420, 2920, 4020, 4420, 4920"
     },
     "Nacional - LN 15:00": {
       "cabecalhos": [
@@ -285,22 +262,111 @@
         }
       ],
       "frases": {
-        "2074": [
-          "Dezena no sexto prêmio!<br>com o palpite 2074",
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 2074"
+        "2020": [
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 2020"
+        ],
+        "2420": [
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 2420"
+        ],
+        "2920": [
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 2920"
+        ],
+        "4020": [
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 4020"
+        ],
+        "4420": [
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 4420"
+        ],
+        "4920": [
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 4920"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 1,
+        "Dezena": 0,
         "Grupo": [
-          "🦚"
+          "🐕"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 2070, 2071, 2074"
+      "resumo": "Palpites dados para esta extração: 2020, 2420, 2920, 4020, 4420, 4920"
     },
     "Nacional - LN 17:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4255",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5093",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9657",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2817",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9475",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "1297",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2020": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 2020"
+        ],
+        "2420": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 2420"
+        ],
+        "2920": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 2920"
+        ],
+        "4020": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 4020"
+        ],
+        "4420": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 4420"
+        ],
+        "4920": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 4920"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐕"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2020, 2420, 2920, 4020, 4420, 4920"
+    },
+    "Nacional - LN 20:00": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -394,23 +460,14 @@
           "Bicho": "Gato"
         }
       ],
-      "frases": {
-        "2070": [
-          "PORCO 🐖 no quinto prêmio!<br>com o palpite 2070"
-        ],
-        "2071": [
-          "PORCO 🐖 no quinto prêmio!<br>com o palpite 2071"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐖"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2070, 2071, 2074"
+      "resumo": "Palpites dados para esta extração: 2020, 2420, 2920, 4020, 4420, 4920"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -488,7 +545,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2070, 2071, 2074"
+      "resumo": "Palpites dados para esta extração: 2020, 2420, 2920, 4020, 4420, 4920"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -559,37 +616,14 @@
           "Bicho": "Porco"
         }
       ],
-      "frases": {
-        "2070": [
-          "PORCO 🐖 no segundo prêmio!<br>com o palpite 2070",
-          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 2070",
-          "Dezena no décimo prêmio!<br>com o palpite 2070",
-          "PORCO 🐖 no décimo prêmio!<br>com o palpite 2070"
-        ],
-        "2071": [
-          "Dezena no segundo prêmio!<br>com o palpite 2071",
-          "PORCO 🐖 no segundo prêmio!<br>com o palpite 2071",
-          "Dezena no sétimo prêmio!<br>com o palpite 2071",
-          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 2071",
-          "PORCO 🐖 no décimo prêmio!<br>com o palpite 2071"
-        ],
-        "2074": [
-          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 2074",
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 2074",
-          "Dezena no nono prêmio!<br>com o palpite 2074",
-          "PAVÃO 🦚 no nono prêmio!<br>com o palpite 2074"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 4,
-        "Grupo": [
-          "🐖",
-          "🦚"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2070, 2071, 2074"
+      "resumo": "Palpites dados para esta extração: 2020, 2420, 2920, 4020, 4420, 4920"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -667,7 +701,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 2070, 2071, 2074"
+      "resumo": "Palpites dados para esta extração: 2020, 2420, 2920, 4020, 4420, 4920"
     },
     "Nacional - LN 15:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -738,16 +772,136 @@
           "Bicho": "Galo"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2020": [
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 2020"
+        ],
+        "2420": [
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 2420"
+        ],
+        "2920": [
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 2920"
+        ],
+        "4020": [
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 4020"
+        ],
+        "4420": [
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 4420"
+        ],
+        "4920": [
+          "CACHORRO 🐕 no quinto prêmio!<br>com o palpite 4920"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐕"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 2070, 2071, 2074"
+      "resumo": "Palpites dados para esta extração: 2020, 2420, 2920, 4020, 4420, 4920"
     },
     "Nacional - LN 17:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4255",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5093",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9657",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2817",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9475",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4592",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2068",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5951",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5377",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "9285",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        }
+      ],
+      "frases": {
+        "2020": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 2020"
+        ],
+        "2420": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 2420"
+        ],
+        "2920": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 2920"
+        ],
+        "4020": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 4020"
+        ],
+        "4420": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 4420"
+        ],
+        "4920": [
+          "CACHORRO 🐕 no quarto prêmio!<br>com o palpite 4920"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐕"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2020, 2420, 2920, 4020, 4420, 4920"
+    },
+    "Nacional - LN 20:00 do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
