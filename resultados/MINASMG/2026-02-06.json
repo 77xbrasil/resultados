@@ -51,6 +51,118 @@
           "Bicho": ""
         }
       ],
+      "frases": {
+        "5022": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 5022"
+        ],
+        "5023": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5023",
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 5023"
+        ],
+        "5024": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 5024"
+        ],
+        "5062": [
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 5062"
+        ],
+        "5063": [
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 5063"
+        ],
+        "5064": [
+          "Dezena no quarto prêmio!<br>com o palpite 5064",
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 5064"
+        ],
+        "5065": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 5065"
+        ],
+        "5122": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 5122"
+        ],
+        "5123": [
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 5123",
+          "Dezena no primeiro prêmio!<br>com o palpite 5123",
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 5123"
+        ],
+        "5124": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 5124"
+        ],
+        "5162": [
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 5162"
+        ],
+        "5163": [
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 5163"
+        ],
+        "5164": [
+          "Dezena no quarto prêmio!<br>com o palpite 5164",
+          "LEÃO 🦁 no quarto prêmio!<br>com o palpite 5164"
+        ],
+        "5165": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 5165"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 4,
+        "Grupo": [
+          "🐐",
+          "🐒",
+          "🦁"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5012, 5013, 5014, 5015, 5022, 5023, 5024, 5025, 5062, 5063, 5064, 5065, 5112, 5113, 5114, 5115, 5122, 5123, 5124, 5125, 5162, 5163, 5164, 5165"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2806",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4369",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5380",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0631",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1252",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "14438",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "259",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
       "frases": {},
       "acertos": {
         "Milhar": 0,
@@ -58,9 +170,9 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 5012, 5015, 5112, 5115, 5712, 5715"
+      "resumo": "Palpites dados para esta extração: 5012, 5013, 5014, 5015, 5022, 5023, 5024, 5025, 5062, 5063, 5064, 5065, 5112, 5113, 5114, 5115, 5122, 5123, 5124, 5125, 5162, 5163, 5164, 5165"
     },
-    "MINAS DIA - MG, 15h": {
+    "MINAS NOITE - MG, 19h": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
