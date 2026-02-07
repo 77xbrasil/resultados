@@ -52,14 +52,8 @@
         }
       ],
       "frases": {
-        "1746": [
-          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 1746"
-        ],
-        "8746": [
-          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 8746"
-        ],
-        "0746": [
-          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 0746"
+        "0732": [
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 0732"
         ]
       },
       "acertos": {
@@ -67,10 +61,10 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐘"
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0741, 0742, 0746, 0749, 1741, 1742, 1746, 1749, 8741, 8742, 8746, 8749"
+      "resumo": "Palpites dados para esta extração: 0732, 0772"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -130,7 +124,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0741, 0742, 0746, 0749, 1741, 1742, 1746, 1749, 8741, 8742, 8746, 8749"
+      "resumo": "Palpites dados para esta extração: 0732, 0772"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -184,25 +178,20 @@
         }
       ],
       "frases": {
-        "1749": [
-          "GALO 🐓 no quinto prêmio!<br>com o palpite 1749"
-        ],
-        "8749": [
-          "GALO 🐓 no quinto prêmio!<br>com o palpite 8749"
-        ],
-        "0749": [
-          "GALO 🐓 no quinto prêmio!<br>com o palpite 0749"
+        "0732": [
+          "Dezena no sétimo prêmio!<br>com o palpite 0732",
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 0732"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 1,
         "Grupo": [
-          "🐓"
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0741, 0742, 0746, 0749, 1741, 1742, 1746, 1749, 8741, 8742, 8746, 8749"
+      "resumo": "Palpites dados para esta extração: 0732, 0772"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -255,48 +244,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "1741": [
-          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 1741"
-        ],
-        "1742": [
-          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 1742"
-        ],
-        "1746": [
-          "Dezena no terceiro prêmio!<br>com o palpite 1746",
-          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 1746"
-        ],
-        "8741": [
-          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 8741"
-        ],
-        "8742": [
-          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 8742"
-        ],
-        "8746": [
-          "Dezena no terceiro prêmio!<br>com o palpite 8746",
-          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 8746"
-        ],
-        "0741": [
-          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 0741"
-        ],
-        "0742": [
-          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 0742"
-        ],
-        "0746": [
-          "Dezena no terceiro prêmio!<br>com o palpite 0746",
-          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 0746"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
-        "Grupo": [
-          "🐎",
-          "🐘"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0741, 0742, 0746, 0749, 1741, 1742, 1746, 1749, 8741, 8742, 8746, 8749"
+      "resumo": "Palpites dados para esta extração: 0732, 0772"
     },
     "PT-RIO, RJ, 18:20, PTN": {
       "cabecalhos": [
@@ -349,16 +304,89 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "0772": [
+          "Dezena no quarto prêmio!<br>com o palpite 0772",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 0772"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 1,
+        "Grupo": [
+          "🐖"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0732, 0772"
+    },
+    "PT-RIO, RJ, 21:20, CORUJA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0610",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5449",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3109",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8030",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4196",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "1394",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "323",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "0732": [
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 0732"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐪"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 0741, 0742, 0746, 0749, 1741, 1742, 1746, 1749, 8741, 8742, 8746, 8749"
+      "resumo": "Palpites dados para esta extração: 0732, 0772"
     },
-    "PT-RIO, RJ, 21:20, CORUJA": {
+    "A FEDERAL DO BRASIL - RJ": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -453,50 +481,19 @@
         }
       ],
       "frases": {
-        "1741": [
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 1741",
-          "Dezena no sétimo prêmio!<br>com o palpite 1741",
-          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 1741"
-        ],
-        "1742": [
-          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 1742"
-        ],
-        "1746": [
-          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 1746"
-        ],
-        "8741": [
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 8741",
-          "Dezena no sétimo prêmio!<br>com o palpite 8741",
-          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 8741"
-        ],
-        "8742": [
-          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 8742"
-        ],
-        "8746": [
-          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 8746"
-        ],
-        "0746": [
-          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 0746"
-        ],
-        "0741": [
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 0741",
-          "Dezena no sétimo prêmio!<br>com o palpite 0741",
-          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 0741"
-        ],
-        "0742": [
-          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 0742"
+        "0732": [
+          "CAMELO 🐪 no primeiro prêmio!<br>com o palpite 0732"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 3,
-        "Dezena": 3,
+        "Centena": 0,
+        "Dezena": 0,
         "Grupo": [
-          "🐘",
-          "🐎"
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0741, 0742, 0746, 0749, 1741, 1742, 1746, 1749, 8741, 8742, 8746, 8749"
+      "resumo": "Palpites dados para esta extração: 0732, 0772"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -568,25 +565,20 @@
         }
       ],
       "frases": {
-        "1749": [
-          "GALO 🐓 no sétimo prêmio!<br>com o palpite 1749"
-        ],
-        "8749": [
-          "GALO 🐓 no sétimo prêmio!<br>com o palpite 8749"
-        ],
-        "0749": [
-          "GALO 🐓 no sétimo prêmio!<br>com o palpite 0749"
+        "0772": [
+          "Dezena no oitavo prêmio!<br>com o palpite 0772",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 0772"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 1,
         "Grupo": [
-          "🐓"
+          "🐖"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0741, 0742, 0746, 0749, 1741, 1742, 1746, 1749, 8741, 8742, 8746, 8749"
+      "resumo": "Palpites dados para esta extração: 0732, 0772"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -657,48 +649,14 @@
           "Bicho": "Borboleta"
         }
       ],
-      "frases": {
-        "1741": [
-          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 1741"
-        ],
-        "1742": [
-          "Dezena no sétimo prêmio!<br>com o palpite 1742",
-          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 1742"
-        ],
-        "1749": [
-          "GALO 🐓 no quinto prêmio!<br>com o palpite 1749"
-        ],
-        "8741": [
-          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 8741"
-        ],
-        "8742": [
-          "Dezena no sétimo prêmio!<br>com o palpite 8742",
-          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 8742"
-        ],
-        "8749": [
-          "GALO 🐓 no quinto prêmio!<br>com o palpite 8749"
-        ],
-        "0749": [
-          "GALO 🐓 no quinto prêmio!<br>com o palpite 0749"
-        ],
-        "0741": [
-          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 0741"
-        ],
-        "0742": [
-          "Dezena no sétimo prêmio!<br>com o palpite 0742",
-          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 0742"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
-        "Grupo": [
-          "🐓",
-          "🐎"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0741, 0742, 0746, 0749, 1741, 1742, 1746, 1749, 8741, 8742, 8746, 8749"
+      "resumo": "Palpites dados para esta extração: 0732, 0772"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
@@ -769,64 +727,14 @@
           "Bicho": "Galo"
         }
       ],
-      "frases": {
-        "1741": [
-          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 1741"
-        ],
-        "1742": [
-          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 1742"
-        ],
-        "1746": [
-          "Dezena no terceiro prêmio!<br>com o palpite 1746",
-          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 1746",
-          "ELEFANTE 🐘 no oitavo prêmio!<br>com o palpite 1746"
-        ],
-        "1749": [
-          "Dezena no décimo prêmio!<br>com o palpite 1749",
-          "GALO 🐓 no décimo prêmio!<br>com o palpite 1749"
-        ],
-        "8741": [
-          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 8741"
-        ],
-        "8742": [
-          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 8742"
-        ],
-        "8746": [
-          "Dezena no terceiro prêmio!<br>com o palpite 8746",
-          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 8746",
-          "ELEFANTE 🐘 no oitavo prêmio!<br>com o palpite 8746"
-        ],
-        "8749": [
-          "Dezena no décimo prêmio!<br>com o palpite 8749",
-          "GALO 🐓 no décimo prêmio!<br>com o palpite 8749"
-        ],
-        "0741": [
-          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 0741"
-        ],
-        "0742": [
-          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 0742"
-        ],
-        "0746": [
-          "Dezena no terceiro prêmio!<br>com o palpite 0746",
-          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 0746",
-          "ELEFANTE 🐘 no oitavo prêmio!<br>com o palpite 0746"
-        ],
-        "0749": [
-          "Dezena no décimo prêmio!<br>com o palpite 0749",
-          "GALO 🐓 no décimo prêmio!<br>com o palpite 0749"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 6,
-        "Grupo": [
-          "🐎",
-          "🐘",
-          "🐓"
-        ]
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0741, 0742, 0746, 0749, 1741, 1742, 1746, 1749, 8741, 8742, 8746, 8749"
+      "resumo": "Palpites dados para esta extração: 0732, 0772"
     },
     "PT-RIO, RJ, 18:20, PTN do 1º ao 10º": {
       "cabecalhos": [
@@ -898,49 +806,106 @@
         }
       ],
       "frases": {
-        "1741": [
-          "Dezena no sexto prêmio!<br>com o palpite 1741",
-          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 1741"
-        ],
-        "1742": [
-          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 1742"
-        ],
-        "1749": [
-          "GALO 🐓 no décimo prêmio!<br>com o palpite 1749"
-        ],
-        "8741": [
-          "Dezena no sexto prêmio!<br>com o palpite 8741",
-          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 8741"
-        ],
-        "8742": [
-          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 8742"
-        ],
-        "8749": [
-          "GALO 🐓 no décimo prêmio!<br>com o palpite 8749"
-        ],
-        "0741": [
-          "Dezena no sexto prêmio!<br>com o palpite 0741",
-          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 0741"
-        ],
-        "0742": [
-          "CAVALO 🐎 no sexto prêmio!<br>com o palpite 0742"
-        ],
-        "0749": [
-          "GALO 🐓 no décimo prêmio!<br>com o palpite 0749"
+        "0772": [
+          "Dezena no quarto prêmio!<br>com o palpite 0772",
+          "PORCO 🐖 no quarto prêmio!<br>com o palpite 0772"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
+        "Dezena": 1,
         "Grupo": [
-          "🐎",
-          "🐓"
+          "🐖"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0741, 0742, 0746, 0749, 1741, 1742, 1746, 1749, 8741, 8742, 8746, 8749"
+      "resumo": "Palpites dados para esta extração: 0732, 0772"
     },
     "PT-RIO, RJ, 21:20, CORUJA do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0610",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5449",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3109",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8030",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4196",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0538",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6410",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1403",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0990",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0735",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        }
+      ],
+      "frases": {
+        "0732": [
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 0732"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐪"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0732, 0772"
+    },
+    "A FEDERAL DO BRASIL - RJ do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
