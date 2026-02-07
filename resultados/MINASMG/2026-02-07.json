@@ -55,11 +55,107 @@
         "6112": [
           "BURRO 🐴 no quarto prêmio!<br>com o palpite 6112"
         ],
+        "6122": [
+          "Dezena no quinto prêmio!<br>com o palpite 6122",
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 6122"
+        ],
+        "6125": [
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 6125"
+        ],
         "6212": [
           "BURRO 🐴 no quarto prêmio!<br>com o palpite 6212"
         ],
+        "6222": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 6222",
+          "Dezena no quinto prêmio!<br>com o palpite 6222",
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 6222"
+        ],
+        "6225": [
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 6225"
+        ],
         "6712": [
           "BURRO 🐴 no quarto prêmio!<br>com o palpite 6712"
+        ],
+        "6722": [
+          "Dezena no quinto prêmio!<br>com o palpite 6722",
+          "CABRA 🐐 no quinto prêmio!<br>com o palpite 6722"
+        ],
+        "6725": [
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 6725"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 3,
+        "Grupo": [
+          "🐑",
+          "🐴",
+          "🐐"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 6112, 6115, 6122, 6125, 6212, 6215, 6222, 6225, 6712, 6715, 6722, 6725"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6066",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2049",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5795",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9527",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4533",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "27970",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "429",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "6125": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 6125"
+        ],
+        "6225": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 6225"
+        ],
+        "6725": [
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 6725"
         ]
       },
       "acertos": {
@@ -67,12 +163,12 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐴"
+          "🐑"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6112, 6115, 6212, 6215, 6712, 6715"
+      "resumo": "Palpites dados para esta extração: 6112, 6115, 6122, 6125, 6212, 6215, 6222, 6225, 6712, 6715, 6722, 6725"
     },
-    "MINAS DIA - MG, 15h": {
+    "MINAS FEDERAL - MG": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
