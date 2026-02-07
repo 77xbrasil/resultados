@@ -52,11 +52,82 @@
         }
       ],
       "frases": {
-        "6456": [
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 6456"
+        "6601": [
+          "Dezena no terceiro prêmio!<br>com o palpite 6601",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 6601",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 6601"
         ],
-        "0456": [
-          "GATO 🐈 no sexto prêmio!<br>com o palpite 0456"
+        "6606": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 6606",
+          "Dezena no quinto prêmio!<br>com o palpite 6606",
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 6606"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🪶",
+          "🦅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 6601, 6606"
+    },
+    "SP, 10hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4622",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5783",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3657",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7795",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2003",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "729",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "6601": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 6601"
         ]
       },
       "acertos": {
@@ -64,12 +135,12 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐈"
+          "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0440, 0441, 0446, 0450, 0451, 0456, 6440, 6441, 6446, 6450, 6451, 6456"
+      "resumo": "Palpites dados para esta extração: 6601, 6606"
     },
-    "SP, 10hs - PTSP": {
+    "SP, 12:00 - PTSP": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -163,6 +234,99 @@
           "Bicho": "Burro"
         }
       ],
+      "frases": {
+        "6601": [
+          "Dezena no terceiro prêmio!<br>com o palpite 6601",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 6601"
+        ],
+        "6606": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 6606",
+          "Dezena no quinto prêmio!<br>com o palpite 6606",
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 6606",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 6606",
+          "ÁGUIA 🦅 no oitavo prêmio!<br>com o palpite 6606"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🪶",
+          "🦅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 6601, 6606"
+    },
+    "SP, 10hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4622",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5783",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3657",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7795",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4537",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6767",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2859",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "2375",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8541",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        }
+      ],
       "frases": {},
       "acertos": {
         "Milhar": 0,
@@ -170,9 +334,9 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0440, 0441, 0446, 0450, 0451, 0456, 6440, 6441, 6446, 6450, 6451, 6456"
+      "resumo": "Palpites dados para esta extração: 6601, 6606"
     },
-    "SP, 10hs - PTSP do 1º ao 10º": {
+    "SP, 12:00 - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
