@@ -52,7 +52,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1833, 3833, 8833"
+      "resumo": "Palpites dados para esta extração: 8433, 8436, 8463, 8466, 8833, 8836, 8863, 8866"
     },
     "Nacional - LN 08:00": {
       "cabecalhos": [
@@ -106,7 +106,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1833, 3833, 8833"
+      "resumo": "Palpites dados para esta extração: 8433, 8436, 8463, 8466, 8833, 8836, 8863, 8866"
     },
     "Nacional - LN 10:00": {
       "cabecalhos": [
@@ -154,25 +154,30 @@
         }
       ],
       "frases": {
-        "1833": [
-          "COBRA 🐍 no sexto prêmio!<br>com o palpite 1833"
+        "8433": [
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 8433"
         ],
-        "3833": [
-          "COBRA 🐍 no sexto prêmio!<br>com o palpite 3833"
+        "8436": [
+          "Dezena no sexto prêmio!<br>com o palpite 8436",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 8436"
         ],
         "8833": [
           "COBRA 🐍 no sexto prêmio!<br>com o palpite 8833"
+        ],
+        "8836": [
+          "Dezena no sexto prêmio!<br>com o palpite 8836",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 8836"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 2,
         "Grupo": [
           "🐍"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1833, 3833, 8833"
+      "resumo": "Palpites dados para esta extração: 8433, 8436, 8463, 8466, 8833, 8836, 8863, 8866"
     },
     "Nacional - LN 12:00": {
       "cabecalhos": [
@@ -219,6 +224,78 @@
           "Bicho": ""
         }
       ],
+      "frases": {
+        "8463": [
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 8463"
+        ],
+        "8466": [
+          "Dezena no quarto prêmio!<br>com o palpite 8466",
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 8466"
+        ],
+        "8863": [
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 8863"
+        ],
+        "8866": [
+          "Dezena no quarto prêmio!<br>com o palpite 8866",
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 8866"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐒",
+          "🦁"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 8433, 8436, 8463, 8466, 8833, 8836, 8863, 8866"
+    },
+    "Nacional - LN 15:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3423",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0256",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3529",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3823",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2841",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "3872",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
       "frases": {},
       "acertos": {
         "Milhar": 0,
@@ -226,9 +303,9 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1833, 3833, 8833"
+      "resumo": "Palpites dados para esta extração: 8433, 8436, 8463, 8466, 8833, 8836, 8863, 8866"
     },
-    "Nacional - LN 15:00": {
+    "Nacional - LN 17:00": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
@@ -322,14 +399,23 @@
           "Bicho": "Cabra"
         }
       ],
-      "frases": {},
+      "frases": {
+        "8463": [
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 8463"
+        ],
+        "8863": [
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 8863"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦁"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1833, 3833, 8833"
+      "resumo": "Palpites dados para esta extração: 8433, 8436, 8463, 8466, 8833, 8836, 8863, 8866"
     },
     "Nacional - LN 08:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -407,7 +493,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1833, 3833, 8833"
+      "resumo": "Palpites dados para esta extração: 8433, 8436, 8463, 8466, 8833, 8836, 8863, 8866"
     },
     "Nacional - LN 10:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -478,14 +564,27 @@
           "Bicho": "Coelho"
         }
       ],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+      "frases": {
+        "8463": [
+          "Dezena no nono prêmio!<br>com o palpite 8463",
+          "LEÃO 🦁 no nono prêmio!<br>com o palpite 8463"
+        ],
+        "8863": [
+          "Milhar e Centena no nono prêmio!<br>com o palpite 8863",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 8863",
+          "Dezena no nono prêmio!<br>com o palpite 8863",
+          "LEÃO 🦁 no nono prêmio!<br>com o palpite 8863"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1833, 3833, 8833"
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 1,
+        "Dezena": 2,
+        "Grupo": [
+          "🦁"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 8433, 8436, 8463, 8466, 8833, 8836, 8863, 8866"
     },
     "Nacional - LN 12:00 do 1º ao 10º": {
       "cabecalhos": [
@@ -557,30 +656,148 @@
         }
       ],
       "frases": {
-        "1833": [
-          "Dezena no décimo prêmio!<br>com o palpite 1833",
-          "COBRA 🐍 no décimo prêmio!<br>com o palpite 1833"
+        "8433": [
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 8433",
+          "Dezena no décimo prêmio!<br>com o palpite 8433",
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 8433"
         ],
-        "3833": [
-          "Dezena no décimo prêmio!<br>com o palpite 3833",
-          "COBRA 🐍 no décimo prêmio!<br>com o palpite 3833"
+        "8436": [
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 8436"
+        ],
+        "8463": [
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 8463"
+        ],
+        "8466": [
+          "Dezena no quarto prêmio!<br>com o palpite 8466",
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 8466",
+          "Dezena no nono prêmio!<br>com o palpite 8466",
+          "MACACO 🐒 no nono prêmio!<br>com o palpite 8466"
         ],
         "8833": [
           "Dezena no décimo prêmio!<br>com o palpite 8833",
           "COBRA 🐍 no décimo prêmio!<br>com o palpite 8833"
+        ],
+        "8836": [
+          "COBRA 🐍 no décimo prêmio!<br>com o palpite 8836"
+        ],
+        "8863": [
+          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 8863"
+        ],
+        "8866": [
+          "Dezena no quarto prêmio!<br>com o palpite 8866",
+          "MACACO 🐒 no quarto prêmio!<br>com o palpite 8866",
+          "Dezena no nono prêmio!<br>com o palpite 8866",
+          "MACACO 🐒 no nono prêmio!<br>com o palpite 8866"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 6,
+        "Grupo": [
+          "🐒",
+          "🦁",
+          "🐍"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 8433, 8436, 8463, 8466, 8833, 8836, 8863, 8866"
+    },
+    "Nacional - LN 15:00 do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3423",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0256",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3529",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3823",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2841",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3033",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4258",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2522",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3693",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7378",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        }
+      ],
+      "frases": {
+        "8433": [
+          "Dezena no sexto prêmio!<br>com o palpite 8433",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 8433"
+        ],
+        "8436": [
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 8436"
+        ],
+        "8833": [
+          "Dezena no sexto prêmio!<br>com o palpite 8833",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 8833"
+        ],
+        "8836": [
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 8836"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
+        "Dezena": 2,
         "Grupo": [
           "🐍"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1833, 3833, 8833"
+      "resumo": "Palpites dados para esta extração: 8433, 8436, 8463, 8466, 8833, 8836, 8863, 8866"
     },
-    "Nacional - LN 15:00 do 1º ao 10º": {
+    "Nacional - LN 17:00 do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
